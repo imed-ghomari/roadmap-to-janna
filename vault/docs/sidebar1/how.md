@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: false
----
 
 - inner workings of the method
 	- talk about the OKR briefly

@@ -11,10 +11,14 @@
             "id": "2b6fa27f467b70db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/sidebar1/testing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "testing"
             }
           }
         ]
@@ -155,12 +159,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidiosaurus:Obsidiosaurus": false
     }
   },
   "active": "2b6fa27f467b70db",
   "lastOpenFiles": [
-    "what is described ?.md",
+    "docs/sidebar1/how.md",
+    "docs/sidebar1/testing.md",
+    "blog",
+    "docs/sidebar1/what is described.md",
+    "docs/sidebar1/why - the goal.md",
+    "docs/sidebar1",
+    "Untitled.md",
+    "docs",
+    "assets",
     "website"
   ]
 }

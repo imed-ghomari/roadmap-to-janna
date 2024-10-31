@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: true
----
 
 - the goal is 
 	- to fill a certain type of excluded or unnoticed gap in knowledge :
