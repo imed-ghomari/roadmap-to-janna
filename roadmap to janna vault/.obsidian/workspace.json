@@ -155,51 +155,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "afe1b36d1d1bf525",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b811f64768dae74e",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c566bd3a728ce79",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "355f4eb43915c776",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "what is described ?.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "what is described ?"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 230,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "355f4eb43915c776",
+  "active": "2b6fa27f467b70db",
   "lastOpenFiles": [
+    "what is described ?.md",
     "website"
   ]
 }
