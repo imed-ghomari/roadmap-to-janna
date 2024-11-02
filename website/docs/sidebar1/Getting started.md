@@ -10,7 +10,7 @@ For goal setting, the system uses the OKR method which comprises of 3 components
 
 Now, let's focus on the initiatives. Put simply, they are the high level actionable items needed to done to reach our objective, here being janna. First we need to document the initiative and prepare what is needed, this is achieved through projects. Then after the preparation, different processes or habits are created and implemented. Once done, we can say that we are actively performing said initiatives.
 
-The processes or habit are implemented/changed/improved/swapped using the tiny habits model, B = MAP, it will be detailed in ==another page==. And these processes belong to multiple initiative at the same time, this is done because of the nature of the objective and because of the principle number 2.
+The processes or habit are implemented/changed/improved/swapped using the tiny habits model, B = MAP, it will be detailed in [process handling](sidebar1/Setting%20up/process%20handling.md). And these processes belong to multiple initiative at the same time, this is done because of the nature of the objective and because of the principle number 2.
 
 To recap, here is a outline of what we talked about for a better visual representation:
 
@@ -40,36 +40,36 @@ Of course the goal is: to get into the highest level in paradise without any typ
 This goal is achieved through 3 key result (per the revival of religious sciences) and their respective initiatives:
 
 - outer actions - worshipping allah
-	- praying
-	- zakat and charity and selflessness
-	- fasting
-	- hajj
-	- reciting the quran
-	- remembrance of allah
-	- seeking the lawful
-	- upholding the right of muslims
-	- commanding good and forbidding evil
-	- following the sunnah
+	- [praying](sidebar1/Initiatives/worship/praying.md)
+	- [zakat and charity and selflessness](sidebar1/Initiatives/worship/zakat%20and%20charity%20and%20selflessness.md)
+	- [fasting](sidebar1/Initiatives/worship/fasting.md)
+	- [hajj](sidebar1/Initiatives/worship/hajj.md)
+	- [reciting the quran](sidebar1/Initiatives/worship/reciting%20the%20quran.md)
+	- [rememberance of allah](sidebar1/Initiatives/worship/rememberance%20of%20allah.md)
+	- [seeking the lawful](sidebar1/Initiatives/worship/seeking%20the%20lawful.md)
+	- [upholding the right of muslims](sidebar1/Initiatives/worship/upholding%20the%20right%20of%20muslims.md)
+	- [commanding good and forbidding evil](sidebar1/Initiatives/worship/commanding%20good%20and%20forbidding%20evil.md)
+	- [following the sunnah](sidebar1/Initiatives/worship/following%20the%20sunnah.md)
 - inner actions - purifying the heart from blameworthy character traits
-	- glutonny and keeping sane
-	- loquaciousness
-	- anger
-	- envy
-	- stinginess
-	- frivolity and ostentation
-	- pride and self admiration and humility
+	- [glutonny](sidebar1/Initiatives/bad%20traits/glutonny.md) and [keeping sane](sidebar1/Initiatives/bad%20traits/keeping%20sane.md)
+	- [loquaciousness](sidebar1/Initiatives/bad%20traits/loquaciousness.md)
+	- [anger](sidebar1/Initiatives/bad%20traits/anger.md)
+	- [envy](sidebar1/Initiatives/bad%20traits/envy.md)
+	- [stinginess](sidebar1/Initiatives/bad%20traits/stinginess.md)
+	- [frivolity and ostentation](sidebar1/Initiatives/bad%20traits/frivolity%20and%20ostentation.md)
+	- [pride and self admiration and humility](sidebar1/Initiatives/bad%20traits/pride%20and%20self%20admiration%20and%20humility.md)
 - inner actions - developing praiseworthy character traits
-	- repentance
-	- fear and hope
-	- asceticism
-	- patience
-	- gratitude
-	- sincerity
-	- reliance
-	- love
-	- contentment with divine decree
-	- remembering death
-	- self scrutiny
+	- [repentance](sidebar1/Initiatives/good%20traits/repentance.md)
+	- [fear and hope](sidebar1/Initiatives/good%20traits/fear%20and%20hope.md)
+	- [asceticism](sidebar1/Initiatives/good%20traits/asceticism.md)
+	- [patience](sidebar1/Initiatives/good%20traits/patience.md)
+	- [gratitude](sidebar1/Initiatives/good%20traits/gratitude.md)
+	- [sincerity](sidebar1/Initiatives/good%20traits/sincerity.md)
+	- [reliance](sidebar1/Initiatives/good%20traits/reliance.md)
+	- [love](sidebar1/Initiatives/good%20traits/love.md)
+	- [contentment with divine decree](sidebar1/Initiatives/good%20traits/contentment%20with%20divine%20decree.md)
+	- [remembering death](sidebar1/Initiatives/good%20traits/remembering%20death.md)
+	- [self scrutiny](sidebar1/Initiatives/good%20traits/self%20scrutiny.md)
 
 ## The Principles
 

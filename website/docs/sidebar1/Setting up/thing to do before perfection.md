@@ -1,4 +1,4 @@
-- [ ] fix markdown links problem with docusaurus docs
+- [x] fix markdown links problem with docusaurus docs
 - [ ] see utility of docusaurus plugin otherwise, just edit the files in the website/docs folder
 - [ ] change headings toc min 1 max 6 in docusaurus config
 - [ ] use git plugin instead of vscode to add/commit/push
