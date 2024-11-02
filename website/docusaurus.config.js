@@ -72,10 +72,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      tableOfContents: {
-        minHeadingLevel: 1,
-        maxHeadingLevel: 6,
-      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'My Site',
