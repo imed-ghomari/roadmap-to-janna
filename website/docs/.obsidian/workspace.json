@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "236e65de06b1f922",
+        "id": "a65a412b4af6f201",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sidebar1/Get started.md",
+                "file": "sidebar1/Setting up/thing to do before perfection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get started"
+              "title": "thing to do before perfection"
             }
           }
         ]
@@ -164,20 +164,41 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "2b6fa27f467b70db",
+  "active": "ed6dba8eb86734bb",
   "lastOpenFiles": [
-    "docs/sidebar1/somethng.md",
-    "docs/sidebar1/Get started.md",
-    "docs/sidebar1/Obsidian implementation.md",
-    "docs/sidebar1/how.md",
-    "docs/sidebar1/why bother.md",
-    "docs/sidebar1/yasidi.md",
-    "docs/sidebar1/new.md",
-    "docs/intro.md",
-    "docs/sidebar1/testing.md",
+    "sidebar1/Initiatives/good traits",
+    "sidebar1/Initiatives/bad traits",
+    "sidebar1/Initiatives/worship",
+    "sidebar1/Initiatives/worship/praying.md",
+    "sidebar1/Setting up/thing to do before perfection.md",
+    "sidebar1/Initiatives/worship/zakat and charity and selflessness.md",
+    "sidebar1/Initiatives/worship/fasting.md",
+    "sidebar1/Initiatives/worship/hajj.md",
+    "sidebar1/Initiatives/worship/reciting the quran.md",
+    "sidebar1/Initiatives/worship/rememberance of allah.md",
+    "sidebar1/Initiatives/worship/seeking the lawful.md",
+    "sidebar1/Initiatives/worship/upholding the right of muslims.md",
+    "sidebar1/Initiatives/worship/commanding good and forbidding evil.md",
+    "sidebar1/Initiatives/worship/following the sunnah.md",
+    "sidebar1/Initiatives/bad traits/keeping sane.md",
+    "sidebar1/Initiatives/bad traits/glutonny.md",
+    "sidebar1/Initiatives/bad traits/loquaciousness.md",
+    "sidebar1/Initiatives/bad traits/anger.md",
+    "sidebar1/Initiatives/bad traits/envy.md",
+    "sidebar1/Initiatives/bad traits/stinginess.md",
+    "sidebar1/Initiatives/bad traits/frivolity and ostentation.md",
+    "sidebar1/Initiatives/bad traits/pride and self admiration and humility.md",
+    "sidebar1/Initiatives/good traits/repentance.md",
+    "sidebar1/Initiatives/good traits/fear and hope.md",
+    "sidebar1/Initiatives/good traits/asceticism.md",
+    "sidebar1/Initiatives/good traits/patience.md",
+    "sidebar1/Initiatives/good traits/gratitude.md",
+    "sidebar1/Initiatives/good traits/sincerity.md",
+    "sidebar1/Processes",
+    "sidebar1/Initiatives",
+    "sidebar1/Setting up",
     "blog",
     "docs/sidebar1",
-    "Untitled.md",
     "docs",
     "assets",
     "website"

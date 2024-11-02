@@ -1,0 +1,40 @@
+- [ ] see utility of docusaurus plugin otherwise, just edit the files in the website/docs folder
+- [ ] change headings toc min 1 max 6 in docusaurus config
+- [ ] use git plugin instead of vscode to add/commit/push
+- [ ] change homepage to fit road to janna aesthetic
+- [ ] see if you can link the button in the hompage to get started file
+- [ ] add blog and rename to versions
+- [ ] create script to make it easy to generate versions
+
+
+	- KR - outer actions - worshipping
+		- [[sidebar1/Initiatives/worship/praying]]
+		- [[sidebar1/Initiatives/worship/zakat and charity and selflessness]]
+		- [[sidebar1/Initiatives/worship/fasting]]
+		- [[sidebar1/Initiatives/worship/hajj]]
+		- [[sidebar1/Initiatives/worship/reciting the quran]]
+		- [[sidebar1/Initiatives/worship/rememberance of allah]]
+		- [[sidebar1/Initiatives/worship/seeking the lawful]]
+		- [[sidebar1/Initiatives/worship/upholding the right of muslims]]
+		- [[sidebar1/Initiatives/worship/commanding good and forbidding evil]]
+		- [[sidebar1/Initiatives/worship/following the sunnah]]
+	- KR - inner actions - purifying the heart from blameworthy character traits
+		- [[sidebar1/Initiatives/bad traits/glutonny]] and [[sidebar1/Initiatives/bad traits/keeping sane]]
+		- [[sidebar1/Initiatives/bad traits/loquaciousness]]
+		- [[sidebar1/Initiatives/bad traits/anger]]
+		- [[sidebar1/Initiatives/bad traits/envy]]
+		- [[sidebar1/Initiatives/bad traits/stinginess]]
+		- [[sidebar1/Initiatives/bad traits/frivolity and ostentation]]
+		- [[sidebar1/Initiatives/bad traits/pride and self admiration and humility]]
+	- KR - inner actions - developing praiseworthy character traits
+		- [[sidebar1/Initiatives/good traits/repentance]]
+		- [[sidebar1/Initiatives/good traits/fear and hope]]
+		- [[sidebar1/Initiatives/good traits/asceticism]]
+		- [[sidebar1/Initiatives/good traits/patience]]
+		- [[sidebar1/Initiatives/good traits/gratitude]]
+		- [[sidebar1/Initiatives/good traits/sincerity]]
+		- [[sidebar1/Initiatives/good traits/reliance]]
+		- [[sidebar1/Initiatives/good traits/love]]
+		- [[sidebar1/Initiatives/good traits/contentment with divine decree]]
+		- [[sidebar1/Initiatives/good traits/remembering death]]
+		- [[sidebar1/Initiatives/good traits/self scrutiny]]
