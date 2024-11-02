@@ -2,7 +2,7 @@ The goal of this project was to focus on a certain type of excluded or unnoticed
 
 - the first part is to understand the science around goal setting, habit formation and behavior change
 - the second part is to get a sense of all the practical implications of the abstract concept we know of
-- the third part is to show you can begin taking action
+- the third part is to show you can begin taking action.
 
 # The First part - the System
 

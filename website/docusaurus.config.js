@@ -100,4 +100,13 @@ const config = {
     }),
 };
 
-export default config;
+export default {
+  themeConfig: {
+    tableOfContents: {
+      minHeadingLevel: 1,
+      maxHeadingLevel: 6,
+    },
+  },
+};
+
+
