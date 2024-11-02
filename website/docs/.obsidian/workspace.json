@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sidebar1/Setting up/thing to do before perfection.md",
+                "file": "sidebar1/Setting up/Get started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thing to do before perfection"
+              "title": "Get started"
             }
           }
         ]
@@ -164,13 +164,13 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "ed6dba8eb86734bb",
+  "active": "2b6fa27f467b70db",
   "lastOpenFiles": [
+    "sidebar1/Setting up/thing to do before perfection.md",
     "sidebar1/Initiatives/good traits",
     "sidebar1/Initiatives/bad traits",
     "sidebar1/Initiatives/worship",
     "sidebar1/Initiatives/worship/praying.md",
-    "sidebar1/Setting up/thing to do before perfection.md",
     "sidebar1/Initiatives/worship/zakat and charity and selflessness.md",
     "sidebar1/Initiatives/worship/fasting.md",
     "sidebar1/Initiatives/worship/hajj.md",
@@ -200,7 +200,6 @@
     "blog",
     "docs/sidebar1",
     "docs",
-    "assets",
-    "website"
+    "assets"
   ]
 }

@@ -100,7 +100,7 @@ I didn't include the sources next to each actions in the processes, because of t
 ## How to Use
 
 1. You can either use your own system by extracting the processes documented here
-2. Or you can use the tool endorsed by the author with the file associated with it and follow the tutorial. as bonus you'll get a dynamic visual representation of your performance and a gamification of the system to keep you going. for more detail on how to achieve that see [Obsidian implementation](docs/sidebar1/Obsidian%20implementation.md)
+2. Or you can use the tool endorsed by the author with the file associated with it and follow the tutorial. as bonus you'll get a dynamic visual representation of your performance and a gamification of the system to keep you going. for more detail on how to achieve that see [Obsidian implementation](sidebar1/Setting%20up/Obsidian%20implementation.md)
 
 ## How to Contribute
 
