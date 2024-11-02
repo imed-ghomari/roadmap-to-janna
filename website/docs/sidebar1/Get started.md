@@ -57,9 +57,36 @@ Of course the goal is the same: getting into the highest level in paradise witho
 this goal is achieved by atteined 3 key result (per the revival of religious sciences):
 
 - outer actions - worshipping allah which constitute the outer actions
-- and the inner actions which comprise of 2 types
-	- purifying the heart from blameworthy character traits
-	- developing praiseworthy character traits
+	- praying
+	- zakat and charity and selflessness
+	- fasting
+	- hajj
+	- reciting the quran
+	- remembrance of allah
+	- seeking the lawful
+	- upholding the right of muslims
+	- commanding good and forbidding evil
+	- following the sunnah
+- inner actions - purifying the heart from blameworthy character traits
+	- glutonny and keeping sane
+	- loquaciousness
+	- anger
+	- envy
+	- stinginess
+	- frivolity and ostentation
+	- pride and self admiration and humility
+- inner actions - developing praiseworthy character traits
+	- repentance
+	- fear and hope
+	- asceticism
+	- patience
+	- gratitude
+	- sincerity
+	- reliance
+	- love
+	- contentment with divine decree
+	- remembering death
+	- self scrutiny
 
 under each of these key result, a multitude of initiatives are defined to encompasses all there is to do to achieve said key results. for example: to worship allah we need to:
 
@@ -74,7 +101,6 @@ under each of these key result, a multitude of initiatives are defined to encomp
 - commanding good and forbidding evil
 - following the sunnah
 
-you can get more information on the initiatives in the [how](/docs/sidebar1/how)
 
 ## Sources and Inspirations
 
