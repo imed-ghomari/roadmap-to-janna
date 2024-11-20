@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good-traits/Repentance|Repentance]]"
+  - "[[docs/sidebar1/Initiatives/good traits/Repentance|Repentance]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-link to [Repentance](docs/sidebar1/Initiatives/good-traits/Repentance.md)
+link to [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md)
 
 use special dua: "اَللّٰهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ"

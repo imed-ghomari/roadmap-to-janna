@@ -39,7 +39,7 @@ Knowledge of Allah and His attributes, alongside His creation, deeply delights t
 
 ## Ways to Cultivate Love for Allah
 
-* Recognize his perfection by **learning his names** and [reflecting on his creation](docs/sidebar1/Processes/Seclude%20yourself%20and%20contemplate%20the%20creation.md).
+* Recognize his perfection by **learning his names** and [reflecting on his creation](docs/sidebar1/Processes/Contemplate%20the%20creation.md).
 * Recognize his goodness by [reflecting on the countless daily blessings](docs/sidebar1/Processes/Gratitude%20journalling.md).
 * Affirm love through [daily supplications](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), such as saying, "There is no god but Allah," in which Allah means the one who should be loved above all else.
 * [Avoid overindulgence](docs/sidebar1/Processes/Avoid%20indulging%20on%20the%20lawful.md) in lawful pleasures to focus on Him.
@@ -52,9 +52,9 @@ To get the love of Allah, we need to be among the people who have these good qua
 * Those who are mindful of him
 * The equitable and [just](docs/sidebar1/Processes/Be%20just%20and%20adapt%20to%20each%20person.md)
 * Those who [purify themselves](docs/sidebar1/Processes/Clean%20and%20beautify%20yourself.md)
-* Those who [return to him](docs/sidebar1/Initiatives/good-traits/Repentance.md)
-* Those who put their [trust in him](docs/sidebar1/Initiatives/good-traits/Reliance.md)
-* The steadfast and [patient](docs/sidebar1/Initiatives/good-traits/Patience.md)
+* Those who [return to him](docs/sidebar1/Initiatives/good%20traits/Repentance.md)
+* Those who put their [trust in him](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
+* The steadfast and [patient](docs/sidebar1/Initiatives/good%20traits/Patience.md)
 * Those who [keep relationships for his sake](docs/sidebar1/Processes/Resolve%20disputes%20and%20avoid%20boycotting.md)
 * Those who [help others with food, money, or services](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
 * Those who [love one another only for his sake](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)

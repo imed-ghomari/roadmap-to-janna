@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good-traits/Reliance|Reliance]]"
+  - "[[docs/sidebar1/Initiatives/good traits/Reliance|Reliance]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Reliance](docs/sidebar1/Initiatives/good-traits/Reliance.md)
+Link to [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
 
 ## Gluttony And Lust
 

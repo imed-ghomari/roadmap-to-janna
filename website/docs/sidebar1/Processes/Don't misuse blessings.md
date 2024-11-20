@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good-traits/Gratitude|Gratitude]]"
+  - "[[docs/sidebar1/Initiatives/good traits/Gratitude|Gratitude]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gratitude](docs/sidebar1/Initiatives/good-traits/Gratitude.md): Using material and immaterial blessings for obedience, not disobedience (for example, use your tongue, eyes, ears, and limbs for Allah's pleasure)
+Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md): Using material and immaterial blessings for obedience, not disobedience (for example, use your tongue, eyes, ears, and limbs for Allah's pleasure)

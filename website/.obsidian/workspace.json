@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Processes/Accept accusations or forgive transgressions against you.md",
+                "file": "docs/sidebar1/Initiatives/good traits/Love.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accept accusations or forgive transgressions against you"
+              "title": "Love"
+            }
+          },
+          {
+            "id": "84e3b559e0001e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/sidebar1/Processes/Contemplate the creation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contemplate the creation"
             }
           }
         ]
@@ -178,8 +192,12 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "61aaf84f8f063ac4",
+  "active": "d9584581ec4a0b99",
   "lastOpenFiles": [
+    "docs/sidebar1/Processes/Contemplate the creation.md",
+    "docs/sidebar1/Initiatives/good traits/Love.md",
+    "docs/sidebar1/Processes/Seclude yourself and contemplate the creation.md",
+    "docs/sidebar1/Processes/Accept accusations or forgive transgressions against you.md",
     "node_modules/core-js-pure/stable/array/with.js",
     "node_modules/core-js-pure/stable/array/virtual/with.js",
     "node_modules/core-js-pure/stable/array/values.js",
@@ -190,7 +208,6 @@
     "node_modules/lodash/xorBy.js",
     "node_modules/lodash/wrapperValue.js",
     "node_modules/lodash/wrapperAt.js",
-    "node_modules/lodash/valuesIn.js",
     "node_modules/regenerator-transform/README.md",
     "node_modules/css-loader/README.md",
     "node_modules/agentkeepalive/README.md",
@@ -212,10 +229,7 @@
     "node_modules/callsites/readme.md",
     "node_modules/@paralleldrive/cuid2/README.md",
     "docs/sidebar1/Initiatives/worship/Following the sunnah.md",
-    "docs/sidebar1/Processes/Accept accusations or forgive transgressions against you.md",
-    "docs/sidebar1/Initiatives/bad-traits/Anger.md",
-    "docs/sidebar1/Processes/Have mercy in business dealings.md",
-    "docs/sidebar1/Initiatives/bad-traits/Love of status and ostentation.md",
+    "docs/sidebar1/Initiatives/bad traits/Anger.md",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
     "assets/screenshot.png",
     "assets/Pasted image 20241120154021.png",

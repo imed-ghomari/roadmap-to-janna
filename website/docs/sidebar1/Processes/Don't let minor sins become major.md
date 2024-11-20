@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good-traits/Repentance|Repentance]]"
+  - "[[docs/sidebar1/Initiatives/good traits/Repentance|Repentance]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Repentance](docs/sidebar1/Initiatives/good-traits/Repentance.md)
+Link to [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md)
 
 Don't persist, belittle or publicize minor sins and be attentive about them in public when being followed

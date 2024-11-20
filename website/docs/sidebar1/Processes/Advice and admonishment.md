@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad-traits/Loquaciousness|Loquaciousness]]"
+  - "[[docs/sidebar1/Initiatives/bad traits/Loquaciousness|Loquaciousness]]"
   - "[[docs/sidebar1/Initiatives/worship/Commanding good and forbidding evil|Commanding good and forbidding evil]]"
   - "[[docs/sidebar1/Initiatives/worship/Managing spouse|Managing spouse]]"
   - "[[docs/sidebar1/Initiatives/worship/Parenting|Parenting]]"
@@ -18,7 +18,7 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Loquaciousness](docs/sidebar1/Initiatives/bad-traits/Loquaciousness.md): Only speak for Allah's sake, following the principles of commanding good and forbidding evil.
+* Link to [Loquaciousness](docs/sidebar1/Initiatives/bad%20traits/Loquaciousness.md): Only speak for Allah's sake, following the principles of commanding good and forbidding evil.
 * Link to [Commanding good and forbidding evil](docs/sidebar1/Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md):
 	* Follow this order:
 		* First, explain the offensive nature of the act.

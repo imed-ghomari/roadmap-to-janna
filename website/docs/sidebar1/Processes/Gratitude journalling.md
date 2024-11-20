@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good-traits/Gratitude|Gratitude]]"
-  - "[[docs/sidebar1/Initiatives/good-traits/Love|Love]]"
+  - "[[docs/sidebar1/Initiatives/good traits/Gratitude|Gratitude]]"
+  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gratitude](docs/sidebar1/Initiatives/good-traits/Gratitude.md) and [Love](docs/sidebar1/Initiatives/good-traits/Love.md).
+Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md) and [Love](docs/sidebar1/Initiatives/good%20traits/Love.md).
 
 ## Example of Gratitude Journaling
 

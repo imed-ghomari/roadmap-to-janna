@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad-traits/Anger|Anger]]"
+  - "[[docs/sidebar1/Initiatives/bad traits/Anger|Anger]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Anger](docs/sidebar1/Initiatives/bad-traits/Anger.md):
+Link to [Anger](docs/sidebar1/Initiatives/bad%20traits/Anger.md):
 
 **Recommended:**
 
