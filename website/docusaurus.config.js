@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import { themes as prismThemes } from 'prism-react-renderer';
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -64,7 +64,7 @@ const config = {
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'ignore',
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -72,30 +72,14 @@ const config = {
       }),
     ],
   ],
-
   plugins: [
     [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
+      require.resolve("@easyops-cn/docusaurus-search-local"),
       ({
         hashed: true,
       }),
     ],
-    async function encodeSpaces(context, options) {
-      return {
-        name: 'encode-spaces',
-        configureWebpack() {
-          return {
-            resolve: {
-              alias: {
-                '@encoded-docs': path.resolve(__dirname, 'docs/sidebar1'),
-              },
-            },
-          };
-        },
-      };
-    },
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -124,7 +108,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          { to: '/blog', label: 'Updates', position: 'left' },
+          {to: '/blog', label: 'Updates', position: 'left'},
           {
             href: 'https://github.com/imed-ghomari/roadmap-to-janna',
             label: 'GitHub',
