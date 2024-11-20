@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://imed-ghomari.github.io/roadmap-to-janna/blog</id>
+    <title>Roadmap to Janna Blog</title>
+    <updated>2024-11-20T21:02:35.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://imed-ghomari.github.io/roadmap-to-janna/blog"/>
+    <subtitle>Roadmap to Janna Blog</subtitle>
+    <icon>https://imed-ghomari.github.io/roadmap-to-janna/img/countryside.png</icon>
+    <entry>
+        <title type="html"><![CDATA[First release]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/First release</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/First release"/>
+        <updated>2024-11-20T21:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the first release of Roadmap to Janna. I hope it will be as beneficial for you as it has been for me, or even more.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the first release of <em>Roadmap to Janna</em>. I hope it will be as beneficial for you as it has been for me, or even more.</p>
+<p>I’ll aim to release an update at the beginning of each month or less frequently, depending on changes to the system.</p>
+<p>Each update will include three sections:</p>
+<ul>
+<li>What was added</li>
+<li>What changed</li>
+<li>What was removed</li>
+</ul>]]></content>
+    </entry>
+</feed>
