@@ -39,7 +39,7 @@ Knowledge of Allah and His attributes, alongside His creation, deeply delights t
 
 ## Ways to Cultivate Love for Allah
 
-* Recognize his perfection by **learning his names** and [reflecting on his creation](docs/sideba.r1/Processes/Seclude%20yourself%20and%20contemplate%20the%20creation.md).
+* Recognize his perfection by **learning his names** and [reflecting on his creation](docs/sidebar1/Processes/Seclude%20yourself%20and%20contemplate%20the%20creation.md).
 * Recognize his goodness by [reflecting on the countless daily blessings](docs/sidebar1/Processes/Gratitude%20journalling.md).
 * Affirm love through [daily supplications](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), such as saying, "There is no god but Allah," in which Allah means the one who should be loved above all else.
 * [Avoid overindulgence](docs/sidebar1/Processes/Avoid%20indulging%20on%20the%20lawful.md) in lawful pleasures to focus on Him.
