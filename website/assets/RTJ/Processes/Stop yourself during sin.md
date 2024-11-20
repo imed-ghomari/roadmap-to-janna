@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Repentance|Repentance]]"
-  - "[[Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
+  - "[[assets/RTJ/Initiatives/good traits/Repentance|Repentance]]"
+  - "[[assets/RTJ/Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
 working: false
 due: ""
 duration: 
@@ -16,10 +16,10 @@ dependency: ""
 step: ""
 ---
 
-* **[Repentance](Initiatives/good%20traits/Repentance.md):** This is a critical step of repentance to be taken when you're about to commit a sin or during a sin. It focuses on the present moment and involves:
+* **[Repentance](assets/RTJ/Initiatives/good%20traits/Repentance.md):** This is a critical step of repentance to be taken when you're about to commit a sin or during a sin. It focuses on the present moment and involves:
     * **Stopping the sin** and any associated negative thinking by recognizing the nature of the action and the consequences associated with it.
     * **Hating the sin, not yourself.** Shift focus away from self-criticism and use affirming, encouraging language. Have a growth mindset—believe in your ability to overcome shortcomings and return to the right path.
-* **[Gluttony and Lust](Initiatives/bad%20traits/Gluttony%20and%20lust.md):** When facing desires, counter them with the "two destroyers of pleasures": 
+* **[Gluttony and Lust](assets/RTJ/Initiatives/bad%20traits/Gluttony%20and%20lust.md):** When facing desires, counter them with the "two destroyers of pleasures": 
 	* The recitation of the Quran by reading fear-inducing verses or verses that talk about the specific consequence of such sins
 	* The remembrance of death by visualizing your own or other peoples’ death through the means available to you.
 

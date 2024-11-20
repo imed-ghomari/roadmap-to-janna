@@ -1,10 +1,10 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Repentance|Repentance]]"
+  - "[[assets/RTJ/Initiatives/good traits/Repentance|Repentance]]"
   - "[[Initiatives/worship/Praying|Praying]]"
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[Initiatives/good traits/Fear and hope|Fear and hope]]"
+  - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
+  - "[[assets/RTJ/Initiatives/good traits/Fear and hope|Fear and hope]]"
 working: false
 due: ""
 duration: 
@@ -18,12 +18,12 @@ dependency: ""
 step: ""
 ---
  
-* Link to [Repentance](Initiatives/good%20traits/Repentance.md):
+* Link to [Repentance](assets/RTJ/Initiatives/good%20traits/Repentance.md):
 	* **About the past**: Regret the sin you did and ask for forgiveness within 6 hours of sinning by saying dua outside or inside prayer (in nafl repentance prayer)
 	* **About the future**: Plan for future prevention, commit to never doing it again, do good deeds for every bad deed you did to balance the scale and ask forgiveness if it affected others
 * Link to [Praying](Initiatives/worship/Praying.md): Perform Nafl repentance prayers (2 rakat) anytime, even after Asr, or integrate the intention into other Nafl prayers, like the 12 daily Sunnah prayers.
-* Link to [Remembering Death](Initiatives/good%20traits/Remembering%20death.md): Ask forgiveness and work on reconciliation to ensure smooth passage through the bridge of Qantara, avoiding delays or reduced rank in Paradise.
-* Link to [Fear and Hope](Initiatives/good%20traits/Fear%20and%20hope.md): Maintain hope in Allah's forgiveness to avoid despair and inaction after sinning.
+* Link to [Remembering Death](assets/RTJ/Initiatives/good%20traits/Remembering%20death.md): Ask forgiveness and work on reconciliation to ensure smooth passage through the bridge of Qantara, avoiding delays or reduced rank in Paradise.
+* Link to [Fear and Hope](assets/RTJ/Initiatives/good%20traits/Fear%20and%20hope.md): Maintain hope in Allah's forgiveness to avoid despair and inaction after sinning.
 
 ## ### When to Say _Astaghfirullah_
 

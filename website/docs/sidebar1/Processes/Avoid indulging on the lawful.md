@@ -2,8 +2,8 @@
 type: process
 initiative:
   - "[[docs/sidebar1/Initiatives/worship/Seeking the lawful|Seeking the lawful]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Asceticism|Asceticism]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Love|Love]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Asceticism|Asceticism]]"
 working: false
 due: ""
 duration: 
@@ -18,8 +18,8 @@ step: ""
 ---
 
 * Link to [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md): To avoid sin, relinquish lawful actions (like excessive indulgence) that could lead to unlawful ones. This protective measure keeps you distant from sin by reducing the possibility of falling into it.
-* Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md): Remove other forms of love and attachment displayed mostly in indulgence because only God's love is enduring, while all others will eventually leave you.
-* Link to [Asceticism](docs/sidebar1/Initiatives/good%20traits/Asceticism.md): Practice moderation in all permissible matters. Seek beneficial uses for resources and avoid materialism. Examples of asceticism include:
+* Link to [Love](docs/sidebar1/Initiatives/good-traits/Love.md): Remove other forms of love and attachment displayed mostly in indulgence because only God's love is enduring, while all others will eventually leave you.
+* Link to [Asceticism](docs/sidebar1/Initiatives/good-traits/Asceticism.md): Practice moderation in all permissible matters. Seek beneficial uses for resources and avoid materialism. Examples of asceticism include:
 	* General: Abstaining from excessive sleep, food, sex, or distractions like TV or social media.
 	* Material Goods: Avoiding unnecessary purchases, managing food portions, and conserving resources like water.
 	* Specific: Limit device use to essential tasks and avoid platforms with harmful suggestions.

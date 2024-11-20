@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Processes/Have mercy in business dealings.md",
+                "file": "docs/sidebar1/Initiatives/bad-traits/Anger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Have mercy in business dealings"
+              "title": "Anger"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "61aaf84f8f063ac4",
+  "active": "d9584581ec4a0b99",
   "lastOpenFiles": [
-    "docs/sidebar1/Initiatives/bad traits/Anger.md",
-    "docs/sidebar1/Initiatives/bad traits/Love of status and ostentation.md",
+    "docs/sidebar1/Processes/Have mercy in business dealings.md",
+    "docs/sidebar1/Initiatives/bad-traits/Anger.md",
+    "docs/sidebar1/Initiatives/bad-traits/Love of status and ostentation.md",
     "docs/sidebar1/Resources/Obsidian implementation.md",
     "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
     "assets/RTJ/Initiatives/bad traits/Anger.md",
@@ -207,7 +208,6 @@
     "assets/RTJ/Assets/Add initiative.md",
     "assets/RTJ/Assets",
     "docs/sidebar1/Resources/Process handling.md",
-    "docs/sidebar1/Resources/Bulk editing processes.md",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
     "assets/screenshot.png",
     "assets/Pasted image 20241120154021.png",

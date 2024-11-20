@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good traits/Patience|Patience]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Patience|Patience]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Patience](docs/sidebar1/Initiatives/good%20traits/Patience.md): Respond well when patience is within your control. These include:
+Link to [Patience](docs/sidebar1/Initiatives/good-traits/Patience.md): Respond well when patience is within your control. These include:
 
 * **Responding calmly** to provocations or frustrations.
 * **Choosing honesty and restraint** in ethical dilemmas.

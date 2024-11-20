@@ -52,9 +52,9 @@ To get the love of Allah, we need to be among the people who have these good qua
 * Those who are mindful of him
 * The equitable and [just](Processes/Be%20just%20and%20adapt%20to%20each%20person.md)
 * Those who [purify themselves](Processes/Clean%20and%20beautify%20yourself.md)
-* Those who [return to him](Initiatives/good%20traits/Repentance.md)
-* Those who put their [trust in him](Initiatives/good%20traits/Reliance.md)
-* The steadfast and [patient](Initiatives/good%20traits/Patience.md)
+* Those who [return to him](assets/RTJ/Initiatives/good%20traits/Repentance.md)
+* Those who put their [trust in him](assets/RTJ/Initiatives/good%20traits/Reliance.md)
+* The steadfast and [patient](assets/RTJ/Initiatives/good%20traits/Patience.md)
 * Those who [keep relationships for his sake](Processes/Resolve%20disputes%20and%20avoid%20boycotting.md)
 * Those who [help others with food, money, or services](Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
 * Those who [love one another only for his sake](Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)

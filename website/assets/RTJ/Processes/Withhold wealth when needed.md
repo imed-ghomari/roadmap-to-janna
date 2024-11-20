@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/bad traits/Stinginess|Stinginess]]"
+  - "[[assets/RTJ/Initiatives/bad traits/Stinginess|Stinginess]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Stinginess](Initiatives/bad%20traits/Stinginess.md)
+Link to [Stinginess](assets/RTJ/Initiatives/bad%20traits/Stinginess.md)
 
 For example, for obligatory deeds requiring a lot of money (e.g. Hajj)

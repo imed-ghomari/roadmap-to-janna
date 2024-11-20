@@ -2,7 +2,7 @@
 type: process
 initiative:
   - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Reliance|Reliance]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Reliance|Reliance]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
+Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Reliance](docs/sidebar1/Initiatives/good-traits/Reliance.md)
 
 The steps for istikhara are:
 

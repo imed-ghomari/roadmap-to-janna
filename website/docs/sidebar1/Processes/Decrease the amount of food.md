@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
+  - "[[docs/sidebar1/Initiatives/bad-traits/Gluttony and lust|Gluttony and lust]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gluttony and lust](docs/sidebar1/Initiatives/bad%20traits/Gluttony%20and%20lust.md)
+Link to [Gluttony and lust](docs/sidebar1/Initiatives/bad-traits/Gluttony%20and%20lust.md)
 
 This can be done by eating slowly and stopping before feeling full

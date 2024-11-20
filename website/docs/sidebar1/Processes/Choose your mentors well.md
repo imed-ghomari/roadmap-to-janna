@@ -1,10 +1,10 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad traits/Envy|Envy]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Self scrutiny|Self scrutiny]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Fear and hope|Fear and hope]]"
+  - "[[docs/sidebar1/Initiatives/bad-traits/Envy|Envy]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Love|Love]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Self scrutiny|Self scrutiny]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Fear and hope|Fear and hope]]"
 working: false
 due: ""
 duration: 
@@ -18,10 +18,10 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Envy](docs/sidebar1/Initiatives/bad%20traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.
-* Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md): Read biographies of those close to God and cultivate a love for them based on their virtuous qualities.
-* Link to [Self scrutiny](docs/sidebar1/Initiatives/good%20traits/Self%20scrutiny.md): Find inspiration on how to better yourself through the biographies of pious people.
-* Link to [Fear and hope](docs/sidebar1/Initiatives/good%20traits/Fear%20and%20hope.md): Learn fear through how they display it in their life.
+* Link to [Envy](docs/sidebar1/Initiatives/bad-traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.
+* Link to [Love](docs/sidebar1/Initiatives/good-traits/Love.md): Read biographies of those close to God and cultivate a love for them based on their virtuous qualities.
+* Link to [Self scrutiny](docs/sidebar1/Initiatives/good-traits/Self%20scrutiny.md): Find inspiration on how to better yourself through the biographies of pious people.
+* Link to [Fear and hope](docs/sidebar1/Initiatives/good-traits/Fear%20and%20hope.md): Learn fear through how they display it in their life.
 
 **Examples of Role Models and Their Virtues:**
 

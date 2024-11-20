@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
+  - "[[docs/sidebar1/Initiatives/bad-traits/Gluttony and lust|Gluttony and lust]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gluttony and lust](docs/sidebar1/Initiatives/bad%20traits/Gluttony%20and%20lust.md)
+Link to [Gluttony and lust](docs/sidebar1/Initiatives/bad-traits/Gluttony%20and%20lust.md)
 
 Reduce food time by not eating when you're outside, spacing meals, not eating between meals (snacking), and eating once a day or only when you're hungry, not when you think it's time.

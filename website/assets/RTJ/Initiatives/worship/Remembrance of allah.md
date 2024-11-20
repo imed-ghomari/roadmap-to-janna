@@ -27,7 +27,7 @@ The ultimate goal, or core, is for the focus to shift entirely from the act of r
 > * **Discussing Allah and Religion**
 > * [**Learning about Islam**](Processes/Build%20knowledge%20in%20free%20time.md) through videos or podcasts
 > * [**Contemplating Creation**](Processes/Contemplate%20the%20creation.md)
-> * **Making Dua**–further developed in the [Reliance](Initiatives/good%20traits/Reliance.md) initiative.
+> * **Making Dua**–further developed in the [Reliance](assets/RTJ/Initiatives/good%20traits/Reliance.md) initiative.
 
 
 ## Fruit of Remembrance

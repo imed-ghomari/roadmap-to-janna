@@ -2,7 +2,7 @@
 type: process
 initiative:
   - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Pride and self admiration and humility](docs/sidebar1/Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
+* Link to [Pride and self admiration and humility](docs/sidebar1/Initiatives/good-traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
 * Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md): Here are some ways to stay focused during the prayer:
 	* Remember that you're the only one benefiting from this ritual. With this thinking, you can focus better on the acts, the words, and their significance.
 	* Focus on making different duas in each rak'ah.

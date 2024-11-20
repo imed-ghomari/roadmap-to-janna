@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
+  - "[[assets/RTJ/Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gluttony and lust](Initiatives/bad%20traits/Gluttony%20and%20lust.md):
+Link to [Gluttony and lust](assets/RTJ/Initiatives/bad%20traits/Gluttony%20and%20lust.md):
 
 Avoid being alone with the opposite gender, also avoid unnecessary conversation (small talk)

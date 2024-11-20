@@ -25,7 +25,7 @@ Patience varies based on one's ability to resist desire:
 
 Patience is needed in every aspect of life, as everything a person faces aligns with or opposes their desire.
 
-* **When it aligns with desire**: Patience with blessings is rare, as most are only patient in adversity. [Practicing gratitude helps develop this patience.](Initiatives/good%20traits/Gratitude.md)
+* **When it aligns with desire**: Patience with blessings is rare, as most are only patient in adversity. [Practicing gratitude helps develop this patience.](assets/RTJ/Initiatives/good%20traits/Gratitude.md)
 * **When it opposes desire**: This includes four types:
 	1. **Acts of Obedience**: Patience is needed in three stages of worship:
 		  * [**Beginning of worship**](Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): Ensuring sincerity and avoiding showiness or selfish motives.

@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
+  - "[[docs/sidebar1/Initiatives/good-traits/Love|Love]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md)
+Link to [Love](docs/sidebar1/Initiatives/good-traits/Love.md)
 
 It would be best if you waited for the current worship processes to mature somewhat before attempting to improve them to avoid losing progress by doing too much too soon.
 

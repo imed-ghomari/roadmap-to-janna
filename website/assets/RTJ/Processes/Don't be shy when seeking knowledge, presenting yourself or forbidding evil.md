@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
+  - "[[assets/RTJ/Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Pride and self admiration and humility](Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
+Link to [Pride and self admiration and humility](assets/RTJ/Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
 
 * Do not be shy when seeking knowledge: Ask questions and do what is necessary to acquire knowledge.
 * Do not be shy when presenting yourself for work: Publicize accomplishments with good intentions.

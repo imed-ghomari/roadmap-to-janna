@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
+  - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Remembering death](Initiatives/good%20traits/Remembering%20death.md)
+Link to [Remembering death](assets/RTJ/Initiatives/good%20traits/Remembering%20death.md)
 
 Visit the dead, supplicate for them, and remember the events of death, the grave, the day of judgment, ​hellfire, and paradise
 

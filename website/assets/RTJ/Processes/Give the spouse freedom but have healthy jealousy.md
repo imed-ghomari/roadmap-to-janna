@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/bad traits/Envy|Envy]]"
+  - "[[assets/RTJ/Initiatives/bad traits/Envy|Envy]]"
   - "[[Initiatives/worship/Managing spouse|Managing spouse]]"
 working: false
 due: ""
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Envy](Initiatives/bad%20traits/Envy.md): Good envy or jealousy is to be jealous over your spouse
+* Link to [Envy](assets/RTJ/Initiatives/bad%20traits/Envy.md): Good envy or jealousy is to be jealous over your spouse
 * Link to [Managing spouse](Initiatives/worship/Managing%20spouse.md), in regards to women, give her freedom in:
     1. Her money (spend as she likes)
     2. She can have a job given that she takes care of her side of the obligations

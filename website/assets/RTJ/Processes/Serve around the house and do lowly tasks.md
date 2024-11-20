@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
+  - "[[assets/RTJ/Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
   - "[[Initiatives/worship/Following the sunnah|Following the sunnah]]"
   - "[[Initiatives/worship/Managing spouse|Managing spouse]]"
 working: false
@@ -17,7 +17,7 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Pride and self admiration and humility](Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md): helps you understand your place
+* Link to [Pride and self admiration and humility](assets/RTJ/Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md): helps you understand your place
 * Link to [Following the sunnah](Initiatives/worship/Following%20the%20sunnah.md): the Prophet used to help around the house
 * Link to [Managing spouse](Initiatives/worship/Managing%20spouse.md): subject of delegations could be:
     * Cleaning

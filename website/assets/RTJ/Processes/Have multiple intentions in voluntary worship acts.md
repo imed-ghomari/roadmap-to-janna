@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Sincerity and truthfulness|Sincerity and truthfulness]]"
+  - "[[assets/RTJ/Initiatives/good traits/Sincerity and truthfulness|Sincerity and truthfulness]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-link to [Sincerity and truthfulness](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
+link to [Sincerity and truthfulness](assets/RTJ/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
 
 in nawafil prayers and fasting, have multiple good intentions while doing one supplementary thing to have more rewards

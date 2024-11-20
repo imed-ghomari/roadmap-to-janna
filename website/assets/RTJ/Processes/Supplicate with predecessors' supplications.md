@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Reliance|Reliance]]"
+  - "[[assets/RTJ/Initiatives/good traits/Reliance|Reliance]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Reliance](Initiatives/good%20traits/Reliance.md)
+Link to [Reliance](assets/RTJ/Initiatives/good%20traits/Reliance.md)
 
 Here are some supplications from our predecessor as inspirations:
 

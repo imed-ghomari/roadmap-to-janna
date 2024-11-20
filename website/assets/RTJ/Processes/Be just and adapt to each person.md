@@ -2,7 +2,7 @@
 type: process
 initiative:
   - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
+  - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
   - "[[Initiatives/worship/Parenting|Parenting]]"
 working: false
 due: ""
@@ -20,7 +20,7 @@ step: ""
 * Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md):
 	- As a leader in your family, at work, or in the community, practice justice and treat people equally.
 	- Respect the elderly and be compassionate to children.
-* Link to [Remembering death](Initiatives/good%20traits/Remembering%20death.md): Practice justice, even towards yourself and those you dislike, to be in the shade of God on the day of judgment.
+* Link to [Remembering death](assets/RTJ/Initiatives/good%20traits/Remembering%20death.md): Practice justice, even towards yourself and those you dislike, to be in the shade of God on the day of judgment.
 * Link to [Parenting](Initiatives/worship/Parenting.md):
 	* Avoid comparing children
 	* Avoid favoritism and be just in distributing gifts, attention, discipline, and privileges among your children. For example, spend time with all equally.
