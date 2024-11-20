@@ -1,0 +1,79 @@
+{
+  "apiKey": "AIzaSyCusSn-jIoJMVuvUB2FjfqVCKrgBHB-m2Y",
+  "model": "gemini-pro",
+  "prompts": [
+    {
+      "display": "TLDR",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 1293,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "give me the TLDR (too long to read) short version (one or two sentences) of this process and focus on only on the action, no fluff",
+      "type": "generative"
+    },
+    {
+      "display": "better initiative",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "show where the \"Other things\" section can be introduced by linking each sentence in this section to the corresponding heading in the documentation",
+      "type": "generative"
+    },
+    {
+      "display": "better process",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 1400,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "improve the text for clarity and remove errors but don't modify the markdown links, and remove any private text, make the text ready to be consumed by the public",
+      "type": "generative"
+    },
+    {
+      "display": "Better title",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 1587,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Generating the right text for this process, based on the text, make it short but includes all the points that need to be known",
+      "type": "generative"
+    }
+  ],
+  "chat": {
+    "model": "gemini-pro",
+    "config": {
+      "topK": 1,
+      "topP": 1,
+      "temperature": 0.9,
+      "outputTokenLimit": 2048,
+      "maxOutputTokens": 1293,
+      "inputTokenLimit": 30720
+    },
+    "type": "chat"
+  },
+  "saftyThreshold": "BLOCK_NONE"
+}

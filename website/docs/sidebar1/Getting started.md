@@ -1,109 +1,122 @@
-The goal of this project was to focus on a certain type of excluded or unnoticed gap in the knowledge most people have that results in the a lack of implementation of known practices. As a result the project is divided into three part:
+This project aims to focus on a certain type of excluded or unnoticed gap in religious knowledge that results in a lack of implementation of known practices. As a result, the project is divided into three parts/steps:
 
-- the first part is to understand the science around goal setting, habit formation and behavior change
-- the second part is to get a sense of all the practical implications of the abstract concept we know of
-- the third part is to show you can begin taking action.
+* The first step is understanding the science around goal setting, habit formation, and behavior change.
+* The second step is getting a sense of all the practical implications of the abstract concepts we know of.
+* The third step is showing you how you can begin taking action.
 
-## The First part - the System
+## The First Part - The Basics of the System
 
-For goal setting, the system uses the OKR method which comprises of 3 components (the objective - the key result and the initiatives). To put it simply the only difference between how people set goals and this method is the introduction of key results which are the outcome of the actions (here called initiatives) that we think will reach the objective. so each actions is a hypothesis that may or may not reach the objective. This probability rests on the relevance of the outcome (here called key result) to the objective. Keep this in mind you'll see it again when we talk about the actions further down.
+The system uses the **OKR method** for goal setting, which consists of three main components: **Objective**, **Key Results**, and **Initiatives**. Simply put, the key difference between traditional goal-setting and the OKR method is the introduction of key results—these are the measurable outcomes of the actions (referred to as initiatives) that are intended to achieve the objective. Each action acts as a hypothesis that may or may not achieve the objective, with its probability of success depending on how relevant the outcome (key result) is to the objective. This is important to remember, as it will come up again when we discuss the actions further down.
 
-Now, let's focus on the initiatives. Put simply, they are the high level actionable items needed to done to reach our objective, here being janna. First we need to document the initiative and prepare what is needed, this is achieved through projects. Then after the preparation, different processes or habits are created and implemented. Once done, we can say that we are actively performing said initiatives.
+Now, let's focus on the **initiatives**. These are high-level actionable items that need to be carried out to achieve the objective, which is Janna. Each initiative includes documentation that links to multiple processes or habit files detailing the necessary actions. When all the processes related to an initiative are implemented, the initiative can be considered operational.
 
-The processes or habit are implemented/changed/improved/swapped using the tiny habits model, B = MAP, it will be detailed in [process handling](sidebar1/Setting%20up/process%20handling.md). And these processes belong to multiple initiative at the same time, this is done because of the nature of the objective and because of the principle number 2.
+The **processes or habits** are implemented, changed, improved, or swapped using a specific framework explained further in [Process handling](docs/sidebar1/Resources/Process%20handling.md). Due to the interconnected nature of the objective and **Principle 3** (mentioned below), processes can be part of multiple initiatives simultaneously. Each process file includes a link to the relevant initiatives to facilitate navigation.
 
-To recap, here is a outline of what we talked about for a better visual representation:
+For a clearer understanding, here is an outline of the system:
 
 ```md
-- Ojbective
-	- Key result 1
+- Objective
+	- Key Result 1
 		- Initiative 1
-			- Project
 			- Process 1
-				- Tiny habit model
-			- process 2
-				- ...
-		- Initiative 2
+				- Process handling
+			- Process 2
 			- ...
-	- Key result 2
+		- Initiative 2
 		- ...
+	- Key Result 2
+	- ...
 ```
 
-The last important part of the system is the review, any actions that needs to be done repeatedly long term, needs to be reviewed. Here we need to review the processes periodically to make sure the initiatives are being performed to make sure the key result are accomplished to reach the ultimate goal.
+The final, crucial part of the system is the **review process**. Any action that needs to be sustained long-term should be reviewed periodically. This ensures that the processes are being carried out effectively, that initiatives remain on track, and that key results are being met to achieve the ultimate goal.
 
-## The Second part - what Todo
+## The Second Part - What To Do
 
-### Contextualisation of the OKR Method
+### Contextualization of the OKR Method
 
-Of course the goal is: to get into the highest level in paradise without any type of reckoning or punishement. of if it isn't then it should be per the hadith.
+Of course, the goal is to attain the highest level in paradise without any reckoning or punishment. According to the prophet, If this isn't the goal, it should be.
 
-This goal is achieved through 3 key result (per the revival of religious sciences) and their respective initiatives:
+This goal is achieved through 3 key results and their respective initiatives: (some initiatives are grouped due to their similarity in theme)
 
-- outer actions - worshipping allah
-	- [praying](sidebar1/Initiatives/worship/praying.md)
-	- [zakat and charity and selflessness](sidebar1/Initiatives/worship/zakat%20and%20charity%20and%20selflessness.md)
-	- [fasting](sidebar1/Initiatives/worship/fasting.md)
-	- [hajj](sidebar1/Initiatives/worship/hajj.md)
-	- [reciting the quran](sidebar1/Initiatives/worship/reciting%20the%20quran.md)
-	- [rememberance of allah](sidebar1/Initiatives/worship/rememberance%20of%20allah.md)
-	- [seeking the lawful](sidebar1/Initiatives/worship/seeking%20the%20lawful.md)
-	- [upholding the right of muslims](sidebar1/Initiatives/worship/upholding%20the%20right%20of%20muslims.md)
-	- [commanding good and forbidding evil](sidebar1/Initiatives/worship/commanding%20good%20and%20forbidding%20evil.md)
-	- [following the sunnah](sidebar1/Initiatives/worship/following%20the%20sunnah.md)
-- inner actions - purifying the heart from blameworthy character traits
-	- [glutonny](sidebar1/Initiatives/bad%20traits/glutonny.md) and [keeping sane](sidebar1/Initiatives/bad%20traits/keeping%20sane.md)
-	- [loquaciousness](sidebar1/Initiatives/bad%20traits/loquaciousness.md)
-	- [anger](sidebar1/Initiatives/bad%20traits/anger.md)
-	- [envy](sidebar1/Initiatives/bad%20traits/envy.md)
-	- [stinginess](sidebar1/Initiatives/bad%20traits/stinginess.md)
-	- [frivolity and ostentation](sidebar1/Initiatives/bad%20traits/frivolity%20and%20ostentation.md)
-	- [pride and self admiration and humility](sidebar1/Initiatives/bad%20traits/pride%20and%20self%20admiration%20and%20humility.md)
-- inner actions - developing praiseworthy character traits
-	- [repentance](sidebar1/Initiatives/good%20traits/repentance.md)
-	- [fear and hope](sidebar1/Initiatives/good%20traits/fear%20and%20hope.md)
-	- [asceticism](sidebar1/Initiatives/good%20traits/asceticism.md)
-	- [patience](sidebar1/Initiatives/good%20traits/patience.md)
-	- [gratitude](sidebar1/Initiatives/good%20traits/gratitude.md)
-	- [sincerity](sidebar1/Initiatives/good%20traits/sincerity.md)
-	- [reliance](sidebar1/Initiatives/good%20traits/reliance.md)
-	- [love](sidebar1/Initiatives/good%20traits/love.md)
-	- [contentment with divine decree](sidebar1/Initiatives/good%20traits/contentment%20with%20divine%20decree.md)
-	- [remembering death](sidebar1/Initiatives/good%20traits/remembering%20death.md)
-	- [self scrutiny](sidebar1/Initiatives/good%20traits/self%20scrutiny.md)
+* Outer actions - Worshiping Allah
+	* [Praying](docs/sidebar1/Initiatives/worship/Praying.md)
+	* [Zakat, charity, and selflessness](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
+	* [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)
+	* [Hajj](docs/sidebar1/Initiatives/worship/Hajj.md)
+	* [Reciting the Quran](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md)
+	* [Remembrance of Allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md)
+	* [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md)
+	* [Upholding the rights of Muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md), [Managing the spouse](docs/sidebar1/Initiatives/worship/Managing%20spouse.md) and [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)
+	* [Commanding good and forbidding evil](docs/sidebar1/Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md)
+	* [Following the Sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md)
+* Inner actions - Purifying the heart from blameworthy character traits
+	* [Gluttony and lust](docs/sidebar1/Initiatives/bad%20traits/Gluttony%20and%20lust.md)
+	* [Loquaciousness](docs/sidebar1/Initiatives/bad%20traits/Loquaciousness.md)
+	* [Anger](docs/sidebar1/Initiatives/bad%20traits/Anger.md)
+	* [Envy](docs/sidebar1/Initiatives/bad%20traits/Envy.md)
+	* [Stinginess](docs/sidebar1/Initiatives/bad%20traits/Stinginess.md)
+	* [Love of status and ostentation](docs/sidebar1/Initiatives/bad%20traits/Love%20of%20status%20and%20ostentation.md)
+	* [Pride, self-admiration, and humility](docs/sidebar1/Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
+* Inner actions - Developing praiseworthy character traits
+	* [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md)
+	* [Fear and hope](docs/sidebar1/Initiatives/good%20traits/Fear%20and%20hope.md)
+	* [Asceticism](docs/sidebar1/Initiatives/good%20traits/Asceticism.md)
+	* [Patience](docs/sidebar1/Initiatives/good%20traits/Patience.md)
+	* [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
+	* [Sincerity and truthfulness](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
+	* [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
+	* [Love](docs/sidebar1/Initiatives/good%20traits/Love.md)
+	* [Contentment with divine decree](docs/sidebar1/Initiatives/good%20traits/Contentment%20with%20divine%20decree.md)
+	* [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md)
+	* [Self-scrutiny](docs/sidebar1/Initiatives/good%20traits/Self%20scrutiny.md)
+
+> To make the initiatives more comprehensive, I merged the initiatives of the bad traits with their opposite good traits, as one represents the absence of the other.
 
 ### The Principles
 
-The initiatives/processes follow a set a principles:
+The initiatives/processes follow a set of principles:
 
-- **Simple but inclusive**: to cater to all type of muslim without loosing the important point needed to understand the nuances of the action. different audiences might befenit:
-	- new muslim to get overview of what needs to be done
-	- veteran muslim to perfect current practice
-	- muslim scholar to use better his personal methodology
-- **Only practical knowledge** which means leaving out faith building exercices given their abstract nature. Consequently, this project's goal is not to do da3wa, though if it has that effect it is welcomed (some books from the revival were excluded because of this). if theoratical knowledge to ground your faith is what you seek --> see current link
-- **Built for easy review**: to make it easier to maintain over a long period of time, it is imperative to merge similar concepts under the same actions and keep the number of items to review to a minimum
+1. **Simple yet Comprehensive**: Designed to cater to all types of Muslims while retaining the key points needed to understand the nuances of each action. This benefits different audiences, including:
+    * **New Muslims**: Providing an overview of essential practices.
+    * **Practicing Muslims**: Helping perfect their current practices.
+    * **Muslim Scholars**: Enhancing personal methodologies.
+2. **Practical Knowledge Only**: Focused exclusively on actionable knowledge, excluding abstract or faith-building exercises (some books from the *Revival* were excluded because of this). While the project is not intended to be a da'wah, any positive da'wah effect is welcome. For those seeking theoretical knowledge to ground their faith, seek other resources.
+3. **Built for Easy Review**: Merged similar concepts under unified processes to minimize their number. This ensures easier reviews and supports long-term maintenance.
 
-> notice about tawakul and that this is not a surefire way of getting to janna, we only did our best to help the most we could, but hidaya and evelation will always remain in allah's head, subhanah
+You might encounter some actions in the initiative that don't have any process linked to them. This can be explained by one of three reasons:
+
+* The action demands a project, not a process.
+* The action has already been included in another process.
+* The action is too simple to be included in a process that is due for monthly review.
 
 ### Sources and Inspirations
 
-I didn't include the sources next to each actions in the processes, because of the complexity of the endeavour, however I tried to use trusted sources as much as possible. The project was heavily inspired from the revival of religious sciences by imam abu hamid al'ghazali and was scrutinized by a handful of other books and resources, like:
+I didn't include the sources next to each action in the processes because of the complexity of the task; however, I tried to use trusted sources as much as possible. The project was heavily inspired by *The Revival of the Religious Sciences* by Imam Abu Hamid al-Ghazali and was scrutinized through other books and resources, such as:
 
-- A Handbook of Spiritual Medicine by Ibn Daud
-- manhaj al-muslim volume 1 by abu bakr jabir al-jaza
-- handbook to god podcast by yaqeen institute and other yaqeen content
-- reflecting on the names of god by jinan yousef
-- productivity principles of umar 2 by ismail kamdar
-- …
+* *Handbook to God* playlist by Yaqeen Institute and other Yaqeen content
+* *The Way of the Muslim* by Abu Bakr Jabir al-Jaza'iri
+* *Ranks of the Divine Seekers* by ibn Qayyim al-Jawziyya
+* *A Handbook of Spiritual Medicine* by Ibn Daud
+* *Reflecting on the Names of God* by Jinan Yousef
+* …
 
-## Third part - Taking Action
+## Third Part - Taking Action
 
 ### How to Use
 
-1. You can either use your own system by extracting the processes documented here
-2. Or you can use the tool endorsed by the author with the file associated with it and follow the tutorial. as bonus you'll get a dynamic visual representation of your performance and a gamification of the system to keep you going. for more detail on how to achieve that see [Obsidian implementation](sidebar1/Setting%20up/Obsidian%20implementation.md)
+1. You can use your own system by extracting the processes documented here.
+2. Or you can use the tool endorsed by the author and the associated file by following [this tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated.
 
 ### How to Contribute
 
-You are encouraged to create a PR, if not then an issue in github. And only contact me if you want to review the entirety of the project.
+You are encouraged to create a PR or, if not, an issue on GitHub. Only contact me directly if you wish to review the entirety of the project.
 
-Make sure to always cite your reason for any change and the reference of said change, i'll of course prioritize a scholar's opinion over a layman, and i'll prioritize someone who wants to get involved in the entirety of the project over someone who wants to change a small part of it. i'll try to get to your request in weekly or monthly basis based on my availability.
+Always cite your reason for any change and the reference for said change. I will prioritize a scholar's opinion over a layperson's and someone who wants to get involved in the entire project over someone who wants to change a small part of it. I will address your request weekly or monthly, depending on my availability.
+
+Otherwise, you can remember us in your dua, asking Allah to guide and support us in our efforts to make this project beneficial and successful for everyone involved (us included insha'Allah).
+
+:::warning reminder about tawakkul
+
+This is not a guaranteed way of attaining paradise; it is only our best effort to help as much as possible. Guidance and success remain in Allah's hands, subhanahu wa ta'ala.
+
+:::

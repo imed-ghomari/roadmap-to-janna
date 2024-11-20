@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Comprehensive actions',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Access ready-made actions designed to cover all aspects of a Muslim's life.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'User-Friendly Guide',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Simple structure for easy navigation and concise descriptions to save time.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Support Obsidian',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Download a pre-built vault that you can tailor to your situation.
       </>
     ),
   },

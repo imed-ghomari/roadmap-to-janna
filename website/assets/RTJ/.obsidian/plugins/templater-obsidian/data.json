@@ -1,0 +1,49 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Admin",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Initiatives",
+      "template": "Admin/initiative template.md"
+    },
+    {
+      "folder": "Processes",
+      "template": "Admin/process template.md"
+    },
+    {
+      "folder": "Projects",
+      "template": "Admin/project template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Admin/Add initiative.md",
+    "Admin/apply recurrence.md",
+    "Admin/defer due date.md",
+    "Admin/defer start date.md",
+    "Admin/review today.md"
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

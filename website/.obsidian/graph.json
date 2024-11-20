@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "path:docs/sidebar1  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:docs/sidebar1/Resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 15204208
+      }
+    },
+    {
+      "query": "path:\"docs/sidebar1/Initiatives/bad traits\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"docs/sidebar1/Initiatives/good traits\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:docs/sidebar1/Initiatives/worship  ",
+      "color": {
+        "a": 1,
+        "rgb": 6184150
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.295125325520833,
+  "repelStrength": 12.5179036458333,
+  "linkStrength": 1,
+  "linkDistance": 86,
+  "scale": 0.31487625515757206,
+  "close": false
+}

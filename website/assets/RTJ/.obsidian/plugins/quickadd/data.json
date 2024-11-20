@@ -1,0 +1,256 @@
+{
+  "choices": [
+    {
+      "id": "00ffe41c-adf3-4392-ae8f-4ac3c2dc4cf9",
+      "name": "note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Admin/note template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Inbox"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "e954b044-9267-4217-93a6-5bcc5f051f53",
+      "name": "initiative",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Admin/initiative template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Initiatives"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "140c3af8-c123-48b3-aef5-b00c3ea03911",
+      "name": "project",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8aa67372-4054-4d9b-bdbc-1500e7bce45e"
+    },
+    {
+      "id": "7653fa42-3bad-4114-9b75-67a456aeeebb",
+      "name": "process",
+      "type": "Macro",
+      "command": true,
+      "macroId": "479a93da-a833-44ac-b203-751989915585"
+    }
+  ],
+  "macros": [
+    {
+      "name": "project",
+      "id": "8aa67372-4054-4d9b-bdbc-1500e7bce45e",
+      "commands": [
+        {
+          "name": "project",
+          "type": "NestedChoice",
+          "id": "2850733f-f8f1-4fe9-9eb3-1a9a68c0364c",
+          "choice": {
+            "id": "420ead67-331d-4746-a35e-6a1067c805f0",
+            "name": "project",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Admin/project template.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "e2dd4e74-6410-435c-b5e7-0a450eebbcc2",
+          "time": 100
+        },
+        {
+          "name": "Templater: Insert Admin/Add initiative.md",
+          "type": "Obsidian",
+          "id": "bbddce2c-f4fb-4e15-bb49-984008abfb4d",
+          "commandId": "templater-obsidian:Admin/Add initiative.md"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "process",
+      "id": "479a93da-a833-44ac-b203-751989915585",
+      "commands": [
+        {
+          "name": "process",
+          "type": "NestedChoice",
+          "id": "f036e660-8ba9-4960-afcc-dc8aa57f1d6f",
+          "choice": {
+            "id": "56f1f4b9-1ded-48ae-a742-1826f613b055",
+            "name": "process",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Admin/process template.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Processes"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "6eb78ba3-f01f-41ab-86d1-e6ed7ec33bca",
+          "time": 100
+        },
+        {
+          "name": "Templater: Insert Admin/Add initiative.md",
+          "type": "Obsidian",
+          "id": "09c4baca-47d3-486c-b606-235cfe0d8814",
+          "commandId": "templater-obsidian:Admin/Add initiative.md"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.11.5",
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": false,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Bulk editing processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bulk editing processes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "489d8fd73ddbeacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fbb3ab528998258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b7ae453dabb9a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6cb8559d5bc7ab47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e43787b7f2694e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "761dca9c02864899",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e5bc49627dc839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c9d7f71cb45214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homepage"
+            }
+          },
+          {
+            "id": "6bab35ee2db0409d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
+            }
+          },
+          {
+            "id": "f5ef6995f7104e14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d63bfd6dbc80e37a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+            }
+          },
+          {
+            "id": "7a7d5869258d7896",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Resources/Process handling.md",
+    "Resources/Obsidian implementation.md",
+    "Resources/Bulk editing processes.md",
+    "Getting started.md",
+    "Homepage.md",
+    "Admin/project template.md",
+    "Admin/processes made easy.md",
+    "Todo.md",
+    "Processes/Accept gift if lawful and pure intentions.md",
+    "Admin/process template.md",
+    "Admin/note template.md",
+    "Admin/initiative template.md",
+    "Admin/apply recurrence.md",
+    "Admin/Add initiative.md",
+    "Initiatives/worship/Zakat and charity and selflessness.md",
+    "Initiatives/worship/Upholding the right of muslims.md",
+    "Initiatives/worship/Seeking the lawful.md",
+    "Initiatives/worship/Remembrance of allah.md",
+    "Initiatives/worship/Reciting the quran.md",
+    "Initiatives/worship/Praying.md",
+    "Initiatives/worship/Parenting.md",
+    "Initiatives/worship/Managing spouse.md",
+    "Initiatives/worship/Hajj.md",
+    "Initiatives/worship/Following the sunnah.md",
+    "Initiatives/worship/Fasting.md",
+    "Initiatives/worship/Commanding good and forbidding evil.md",
+    "Initiatives/worship",
+    "Initiatives/good traits",
+    "Initiatives/bad traits",
+    "Inbox",
+    "Projects",
+    "Admin"
+  ]
+}

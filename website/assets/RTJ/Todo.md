@@ -1,0 +1,31 @@
+
+- [x] create templater files instead quickadd templates, this is to choose the initiative file when creating the "process" and "project" initiative, and putting in the property "initiative" + change button command in homepage
+- [x] change "obsidian implement doc"
+	- [x] projects AND process can be due
+	- [x] no more ADMIN section, instead inbox and problem files
+	- [x] add photos with numbers and arrows in each one and put the photo in assets and put links to each section in the doc
+	- [x] add other properties that are present here, and not present in the doc
+	- [x] talk about note toolbar
+	- [x] problem with how to describe steps in "obsidian intersection" section
+	- [x] talk about NLT in recurrence [processes made easy](Admin/processes%20made%20easy.md)
+	- [x] talk about sets in step 2
+- [ ] poffine "process handling" to be up to par with your method, not some draft, check each category if it includes all the information necessary to handle all the processes
+- [x] bring obsidian to default config : add delete watrning, remove keyboard shortcut
+- [x] finish setting up RTJ vault
+	- [x] templater
+	- [x] quickadd
+	- [x] button of meta-bind with right command
+	- [x] note toolbar sharing and setting
+- [x] finish script, test it in the current folders you're using while backing up both source and destination (don't forget)
+- [x] check properties mentioned in "obsidian implementation" doc, and remove the ones we don't use in the current templates
+- [x] solve problem of performance graph not working -> religious=true filter
+- [x] CREATE SCRIPT THAT : copy files (processes+initiatives+getting started+resources) in their folders + remove "docs/sidebar1" from all links to make them work + change format of callout from docusaurus style to callout style in obsidian (again with search and replace)
+- [x] simplify how the toggle the working of the processes to "working" in the steps -> use sets plugin query below
+- [x] solve problem of review process needing to have a dataview query, or just -> review is in the homepage query
+- [x] check queries in the homepage again to see if everything is working correctly
+- [x] set up note toolbar setting with each note type
+- [x] solve problem with review today, better script and query also
+- [x] add properties in initiative template + website initiative files necessary for performance chart to work -> there is a problem with the process files, they have to have all their #waiting
+	- [x] add properties in process template file to process file in website vault + make sure to toggle working "off" and other properties are set right for beginning use #waiting
+
+

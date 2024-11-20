@@ -1,0 +1,303 @@
+{
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "ribbonAction": "toolbar",
+  "showEditInFabMenu": false,
+  "toolbarProp": "type",
+  "toolbars": [
+    {
+      "uuid": "7b53225e-9d97-485d-83a4-9c9ca1d5b9e0",
+      "defaultStyles": [
+        "even",
+        "border"
+      ],
+      "items": [
+        {
+          "uuid": "b5c6eb74-ca3d-475d-9e2e-352bea4065c4",
+          "label": "repeat",
+          "icon": "lucide-repeat",
+          "link": "Templater: Insert Admin/apply recurrence.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Admin/apply recurrence.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "ae95436e-bd46-4493-b15f-563ad5429f74",
+          "label": "reviewed",
+          "icon": "lucide-user-check-2",
+          "link": "Templater: Insert Admin/review today.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Admin/review today.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "32dbec96-764e-4f68-80b1-633fab722093",
+          "label": "defer due",
+          "icon": "lucide-calendar-x",
+          "link": "Templater: Insert Admin/defer due date.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Admin/defer due date.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "b1c2c8c2-9aec-4462-bf0d-e56c057db266",
+          "label": "defer start",
+          "icon": "lucide-calendar-x2",
+          "link": "Templater: Insert Admin/defer start date.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Admin/defer start date.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "process",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2024-11-20T12:53:49.364Z"
+    },
+    {
+      "uuid": "d743a167-376f-42c1-b062-a3f044b9dd1a",
+      "defaultStyles": [
+        "even",
+        "border"
+      ],
+      "items": [
+        {
+          "uuid": "f8bd4879-21b4-4786-9879-a686af4ea15c",
+          "label": "defer due",
+          "icon": "lucide-calendar-x",
+          "link": "Templater: Insert Admin/defer due date.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Admin/defer due date.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "b19d77d0-5a7c-40fc-a50f-e004f92518e7",
+          "label": "defer start",
+          "icon": "lucide-calendar-x2",
+          "link": "Templater: Insert Admin/defer start date.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Admin/defer start date.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "project",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2024-11-20T12:54:07.617Z"
+    }
+  ],
+  "version": 20240727.1,
+  "whatsnew_version": 1.14
+}

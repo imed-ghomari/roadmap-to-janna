@@ -1,0 +1,29 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "Initiatives",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "Homepage",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Getting started",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Obsidian implementation",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "Process handling",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ]
+}
