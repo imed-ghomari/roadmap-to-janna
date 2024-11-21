@@ -18,7 +18,7 @@ switch(choice) {
 		break;
 }
 // changing the property in the note
-const file = tp.file.find_tfile(tp.file.title);
+const file = tp.file.find_tfile(tp.file.path(true));
 await app.fileManager.processFrontMatter(file, (frontmatter) => {
   frontmatter["due"] = date;
 });

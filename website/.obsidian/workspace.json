@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Resources/Obsidian implementation.md",
+                "file": "docs/sidebar1/Getting started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian implementation"
+              "title": "Getting started"
             }
           }
         ]
@@ -180,6 +180,22 @@
   },
   "active": "8cf7f3049fadfac6",
   "lastOpenFiles": [
+    "assets/RTJ/Projects/new conflict.md",
+    "assets/RTJ/Projects/new.md",
+    "assets/RTJ/Projects/new>.md",
+    "assets/RTJ/Initiatives/worship/neww.md",
+    "assets/RTJ/Initiatives/bad traits/neww.md",
+    "assets/RTJ/Initiatives/bad traits/newt.md",
+    "assets/RTJ/Initiatives/bad traits/new.md",
+    "assets/RTJ/Initiatives/good traits/new.md",
+    "assets/RTJ/Initiatives/new.md",
+    "assets/RTJ/Processes/new.md",
+    "assets/RTJ/Inbox/new.md",
+    "assets/RTJ/Admin/Add KR.md",
+    "assets/RTJ/Admin/Add initiative 1.md",
+    "assets/RTJ/new.md",
+    "docs/sidebar1/Resources/Obsidian implementation.md",
+    "blog/First release.md",
     "docs/sidebar1/Processes/Decrease attachment to a type of food.md",
     "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
     "assets/RTJ/Initiatives/bad traits/Stinginess.md",
@@ -190,17 +206,6 @@
     "docs/sidebar1/Processes/Decrease the amount of food.md",
     "docs/sidebar1/Initiatives/good traits/Gratitude.md",
     "docs/sidebar1/Processes/Repent in last ten days of ramadan.md",
-    "docs/sidebar1/Processes/Say special sayings in special occasions.md",
-    "docs/sidebar1/Processes/Regret and prevent after committing a sin.md",
-    "docs/sidebar1/Processes/Have multiple intentions in voluntary worship acts.md",
-    "assets/RTJ/Processes/Apply for hajj every year.md",
-    "docs/sidebar1/Processes/Accept accusations or forgive transgressions against you.md",
-    "docs/sidebar1/Processes/Attitude in affliction.md",
-    "docs/sidebar1/Processes/Accept invitations.md",
-    "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
-    "docs/sidebar1/Processes/Contemplate the creation.md",
-    "node_modules/webpack-dev-server/README.md",
-    "docs/sidebar1/Initiatives/good traits/Love.md",
     "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/atom.xsl",
@@ -219,11 +224,6 @@
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
     "build/img/countryside.png",
-    "docs/sidebar1/Processes/Seclude yourself and contemplate the creation.md",
-    "node_modules/regenerator-transform/README.md",
-    "node_modules/css-loader/README.md",
-    "node_modules/agentkeepalive/README.md",
-    "node_modules/agentkeepalive/History.md",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
     "assets/screenshot.png",
     "assets/Pasted image 20241120154021.png",

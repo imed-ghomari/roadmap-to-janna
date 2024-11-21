@@ -10,6 +10,7 @@
     "duration": "number",
     "start": "date",
     "review": "date",
-    "initiative": "multitext"
+    "initiative": "multitext",
+    "date": "date"
   }
 }

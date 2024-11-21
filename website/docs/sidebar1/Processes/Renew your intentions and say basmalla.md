@@ -27,7 +27,7 @@ step: ""
 * Link to [Gluttony and Lust](docs/sidebar1/Initiatives/bad%20traits/Gluttony%20and%20lust.md): Practice contentment and gratitude by saying _Basmala_ before eating, recognizing these blessings, and being satisfied with a small amount of food.
 * Link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md): Make an intention (_niyyah_) the day before fasting. You can set reminders in an app to help establish this habit.
 
-Here are some occasions when you should say “basmalla”:
+Here are some occasions when you should say "basmalla":
 
 * When waking up
 * Before eating and drinking
@@ -43,4 +43,3 @@ Here are some occasions when you should say “basmalla”:
 Perform actions with pure intentions, seeking Allah's blessings, by making basmalla before major actions.
 
 :::  
-

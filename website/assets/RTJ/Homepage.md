@@ -54,11 +54,11 @@ actions:
 
 ````tabs
 
-tab: Due
+tab: Due (problem)
 ```dataview
 list rows.file.link
 where 
-	(((due and due<= (date(today)+dur(1 day))) or duration) and recurrence = "") or (due and due<=date(today) and recurrence != "")
+	(((due and due<= (date(today)+dur(1 day))) or duration) and type = "project") or (due and due<=date(today) and type != "project")
 	and (completed = false or working = true)
 	and !contains(file.path,"Admin") 
 	and waiting = false

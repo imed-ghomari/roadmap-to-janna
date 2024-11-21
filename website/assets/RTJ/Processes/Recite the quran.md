@@ -20,5 +20,3 @@ step: ""
 	* Recite with Tajweed, read translation and Tafsir, and apply Tadabur (be on the lookout for how the Quran speaks to you, especially in difficult times).
 	* Remember to say Maw3ida before reciting and recognize the power of Allah over him.
 * Link to [Remembering death](Initiatives/good%20traits/Remembering%20death.md): Read especially Baqara and Imran Based to have two flocks of birds to protect you on the day of judgment).
-
- 

@@ -78,8 +78,8 @@ Once the initiatives are reviewed according to these guidelines, you'll be able 
 
 To stay updated with changes in the vault:
 
-* **If You've Made Changes**: Check the release notes and incorporate relevant updates.
-* **If You Haven't Made Changes**, Re-download the latest version of the vault.
+* **If You've Made Changes**: Check relevant changes from the "updates" section and add them manually. If you want to update automatically, fork the GitHub repository and use the folder `website/assets/RTJ` as a vault.
+* **If You Still Haven't Made Changes**, Re-download the latest version of the vault.
 
 ### How Can I Use it on My Phone?
 

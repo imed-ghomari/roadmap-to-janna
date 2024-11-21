@@ -2,12 +2,7 @@
   "debounceTimeout": 300,
   "ignoreOpenFiles": false,
   "ignoreForceViewAll": false,
-  "folders": [
-    {
-      "folder": "Initiatives",
-      "viewMode": "obsidianUIMode: preview"
-    }
-  ],
+  "folders": [],
   "files": [
     {
       "filePattern": "Homepage",

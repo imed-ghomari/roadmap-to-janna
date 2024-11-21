@@ -17,4 +17,4 @@ step: ""
 
 Link to [Following the sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md)
 
-Some things to consider : strength training, cardio, stretching, and balancing
+Some things to consider: strength training, cardio, stretching, and balancing

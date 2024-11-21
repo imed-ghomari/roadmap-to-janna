@@ -35,5 +35,3 @@ step: ""
 Evaluate friends based on their actions, associate only with the truthful, prioritizing those who love God, and distance yourself from those who hate Him, which constitutes unsavory company.
 
 :::
-
- 

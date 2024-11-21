@@ -1,6 +1,6 @@
 <%*
-// get current file title 
-const current = tp.file.find_tfile(tp.file.title);
+// get current file tfile 
+const current = tp.file.find_tfile(tp.file.path(true));
 // choose between initiative files
 let file = await tp.system.suggester(f => f.basename, app.vault.getMarkdownFiles().filter(file => file.path.includes('Initiatives/')),true,"Choose an initiative for this file")
 let initiative = "[["+file.basename+"]]"

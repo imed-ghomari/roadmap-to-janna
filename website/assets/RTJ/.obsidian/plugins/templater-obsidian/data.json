@@ -41,7 +41,8 @@
     "Admin/apply recurrence.md",
     "Admin/defer due date.md",
     "Admin/defer start date.md",
-    "Admin/review today.md"
+    "Admin/review today.md",
+    "Admin/Add KR.md"
   ],
   "startup_templates": [
     ""
