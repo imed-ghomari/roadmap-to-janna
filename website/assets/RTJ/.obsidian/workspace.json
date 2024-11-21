@@ -10,13 +10,15 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Homepage"
             }
@@ -180,6 +182,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Initiatives/bad traits/Anger.md",
+    "Initiatives/worship/new.md",
+    "Homepage.md",
+    "Initiatives/good traits/new.md",
+    "Initiatives/bad traits/new.md",
+    "Admin/Add KR.md",
+    "Admin/initiative template.md",
+    "Initiatives/bad traits/something.md",
+    "Admin/Add initiative.md",
     "Initiatives/worship/Zakat and charity and selflessness.md",
     "Initiatives/worship/Upholding the right of muslims.md",
     "Initiatives/worship/Seeking the lawful.md",
@@ -197,15 +208,6 @@
     "Initiatives/good traits/Repentance.md",
     "Initiatives/good traits/Remembering death.md",
     "Initiatives/good traits/Reliance.md",
-    "Initiatives/good traits/Pride and self admiration and humility.md",
-    "Initiatives/good traits/Patience.md",
-    "Initiatives/good traits/Love.md",
-    "Initiatives/good traits/Gratitude.md",
-    "Initiatives/good traits/Fear and hope.md",
-    "Initiatives/good traits/Contentment with divine decree.md",
-    "Initiatives/good traits/Asceticism.md",
-    "Initiatives/bad traits/Stinginess.md",
-    "Initiatives/bad traits/Love of status and ostentation.md",
     "Initiatives/worship",
     "Initiatives/good traits",
     "Initiatives/bad traits",

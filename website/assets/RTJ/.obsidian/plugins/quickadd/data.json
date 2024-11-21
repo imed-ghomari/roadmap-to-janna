@@ -45,11 +45,34 @@
       "macroId": "479a93da-a833-44ac-b203-751989915585"
     },
     {
-      "id": "e014e801-5116-4727-abdf-aaca915dd6ac",
+      "id": "9fb140ea-8cd3-4f17-9b56-40037f0f902e",
       "name": "initiative",
-      "type": "Macro",
+      "type": "Template",
       "command": true,
-      "macroId": "51b0efa7-fdeb-4488-b35a-6d6b7c467a16"
+      "templatePath": "Admin/initiative template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Initiatives"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [
@@ -157,60 +180,6 @@
           "type": "Obsidian",
           "id": "09c4baca-47d3-486c-b606-235cfe0d8814",
           "commandId": "templater-obsidian:Admin/Add initiative.md"
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "initiative",
-      "id": "51b0efa7-fdeb-4488-b35a-6d6b7c467a16",
-      "commands": [
-        {
-          "name": "initiative",
-          "type": "NestedChoice",
-          "id": "63096863-7582-4cea-8567-c6b8be80ee2e",
-          "choice": {
-            "id": "2fb3da26-c8cc-434c-9f8f-94e425eaa71e",
-            "name": "initiative",
-            "type": "Template",
-            "command": false,
-            "templatePath": "Admin/initiative template.md",
-            "fileNameFormat": {
-              "enabled": false,
-              "format": ""
-            },
-            "folder": {
-              "enabled": true,
-              "folders": [
-                "Initiatives"
-              ],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false,
-              "chooseFromSubfolders": true
-            },
-            "appendLink": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": true,
-            "openFileInMode": "default",
-            "fileExistsMode": "Increment the file name",
-            "setFileExistsBehavior": false
-          }
-        },
-        {
-          "name": "Wait",
-          "type": "Wait",
-          "id": "7ca8dc95-88fd-47db-815a-41c4fb3e3612",
-          "time": 100
-        },
-        {
-          "name": "Templater: Insert add kr",
-          "type": "Obsidian",
-          "id": "88c041b2-eab3-4367-9356-94a59f4ea639",
-          "commandId": "templater-obsidian:add kr"
         }
       ],
       "runOnStartup": false

@@ -48,7 +48,7 @@ id: initiative
 style: default
 actions:
   - type: command
-    command: quickadd:choice:e954b044-9267-4217-93a6-5bcc5f051f53
+    command: quickadd:choice:9fb140ea-8cd3-4f17-9b56-40037f0f902e
 
 ```
 

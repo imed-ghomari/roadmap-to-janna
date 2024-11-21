@@ -4,5 +4,5 @@ designed: false
 dependency: ""
 waiting: false
 start: ""
-KR:
+KR: <% tp.file.folder() %>
 ---
