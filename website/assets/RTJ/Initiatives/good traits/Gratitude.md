@@ -46,6 +46,7 @@ Gratitude is expressed through action in three ways:
 
 * Above all, the greatest blessing is closeness to Allah, a gift cherished because it's not subject to judgment on the Day of Judgment, contrary to other gifts.
 * According to the prophet, health, youth, and free time are the most commonly wasted gifts.
+
 :::
 
 ## The Limits of Gratitude
