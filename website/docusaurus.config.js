@@ -94,7 +94,7 @@ const config = {
         },
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: '',
       navbar: {
         title: 'Roadmap to Janna',
         logo: {
