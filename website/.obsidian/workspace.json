@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8bd08b77447f05ce",
+        "id": "32962a43abdf1fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "84e3b559e0001e12",
+            "id": "8cf7f3049fadfac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Processes/Repent in last ten days of ramadan.md",
+                "file": "docs/sidebar1/Processes/Decrease attachment to a type of food.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Repent in last ten days of ramadan"
-            }
-          },
-          {
-            "id": "8acfd19c9a57afd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/sidebar1/Processes/Say special sayings in special occasions.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Say special sayings in special occasions"
+              "title": "Decrease attachment to a type of food"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,14 +178,15 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "8acfd19c9a57afd1",
+  "active": "8cf7f3049fadfac6",
   "lastOpenFiles": [
-    "assets/RTJ/Initiatives/bad traits/Anger.md",
+    "docs/sidebar1/Processes/Decrease the amount of food.md",
+    "docs/sidebar1/Initiatives/good traits/Gratitude.md",
     "docs/sidebar1/Processes/Repent in last ten days of ramadan.md",
     "docs/sidebar1/Processes/Say special sayings in special occasions.md",
+    "assets/RTJ/Initiatives/bad traits/Anger.md",
     "docs/sidebar1/Processes/Regret and prevent after committing a sin.md",
     "docs/sidebar1/Processes/Have multiple intentions in voluntary worship acts.md",
-    "docs/sidebar1/Initiatives/good traits/Gratitude.md",
     "assets/RTJ/Processes/Apply for hajj every year.md",
     "docs/sidebar1/Processes/Accept accusations or forgive transgressions against you.md",
     "docs/sidebar1/Processes/Attitude in affliction.md",
@@ -238,7 +224,6 @@
     "node_modules/tapable/README.md",
     "node_modules/stringify-object/readme.md",
     "node_modules/queue-microtask/README.md",
-    "node_modules/postcss-merge-longhand/README.md",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
     "assets/screenshot.png",
     "assets/Pasted image 20241120154021.png",
