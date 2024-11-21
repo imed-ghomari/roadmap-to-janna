@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Reciting the quran|Reciting the quran]]"
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
+  - "[[docs/sidebar1/Initiatives/worship/reciting the quran|reciting the quran]]"
+  - "[[docs/sidebar1/Initiatives/worship/praying|praying]]"
 working: false
 due: ""
 duration: 
@@ -16,8 +16,8 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Reciting the quran](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md): Read at least 10 ayat so you won't be written with the headless.
-* Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md):
+* Link to [reciting the quran](docs/sidebar1/Initiatives/worship/reciting%20the%20quran.md): Read at least 10 ayat so you won't be written with the headless.
+* Link to [praying](docs/sidebar1/Initiatives/worship/praying.md):
 	* You can pray it right after isha, or you can wake up before fajr time to pray it, but if you do the latter, make sure not to pray "witr" after isha, because you're not allowed to pray any voluntary prayer after this one.
 	* Pray preferably 13 rakat including shaf' and witr (2x6+1).
 	* You can pray for half the night, a third of the night, or whatever you can spare before Fajr time.

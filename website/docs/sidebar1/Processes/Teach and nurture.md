@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Parenting|Parenting]]"
+  - "[[docs/sidebar1/Initiatives/worship/parenting|parenting]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)
+Link to [parenting](docs/sidebar1/Initiatives/worship/parenting.md)
 
 **Religious Education:**
 

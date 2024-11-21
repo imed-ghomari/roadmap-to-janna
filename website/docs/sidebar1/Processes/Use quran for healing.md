@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Reciting the quran|Reciting the quran]]"
+  - "[[docs/sidebar1/Initiatives/worship/reciting the quran|reciting the quran]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-Link to [Reciting the quran](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md): recite the Quran (Fatiha) when ill by putting the hand on the place of affliction
+Link to [reciting the quran](docs/sidebar1/Initiatives/worship/reciting%20the%20quran.md): recite the Quran (Fatiha) when ill by putting the hand on the place of affliction

@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Zakat and charity and selflessness|Zakat and charity and selflessness]]"
+  - "[[docs/sidebar1/Initiatives/worship/zakat and charity and selflessness|zakat and charity and selflessness]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Zakat and charity and selflessness](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
+Link to [zakat and charity and selflessness](docs/sidebar1/Initiatives/worship/zakat%20and%20charity%20and%20selflessness.md)
 
 * Give in secret, concealing your good deeds just as you would your shortcomings. Let your left hand not know what your right hand gives. This shields you from showing off and protects the recipient from feeling exposed or embarrassed. Furthermore, never remind those you've helped of your generosity.
 * Donate the best of what you have or love, whether it's your time, possessions, or knowledge. Remember to be generous, for Allah is the most generous. And put the needs of others before your own when they conflict.

@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Praying|Praying]]"
+  - "[[assets/RTJ/Initiatives/worship/Praying|Praying]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Praying](Initiatives/worship/Praying.md)
+Link to [Praying](assets/RTJ/Initiatives/worship/Praying.md)
 
 Complete Friday prayer by:
 

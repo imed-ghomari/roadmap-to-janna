@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Hajj|Hajj]]"
+  - "[[docs/sidebar1/Initiatives/worship/hajj|hajj]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-Link to [Hajj](docs/sidebar1/Initiatives/worship/Hajj.md)
+Link to [hajj](docs/sidebar1/Initiatives/worship/hajj.md)

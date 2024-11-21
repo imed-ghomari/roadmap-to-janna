@@ -3,9 +3,9 @@ type: process
 initiative:
   - "[[assets/RTJ/Initiatives/bad traits/Loquaciousness|Loquaciousness]]"
   - "[[assets/RTJ/Initiatives/good traits/Sincerity and truthfulness|Sincerity and truthfulness]]"
-  - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
+  - "[[assets/RTJ/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
   - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[Initiatives/worship/Managing spouse|Managing spouse]]"
+  - "[[assets/RTJ/Initiatives/worship/Managing spouse|Managing spouse]]"
 working: false
 due: ""
 duration: 
@@ -23,9 +23,9 @@ step: ""
 * Link to [Sincerity and truthfulness](assets/RTJ/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md):
     * To the people: Be honest with others and avoid using figurative language unless necessary. Be mindful of your words when making supplications. If you are trading, disclose any product defects.
     * To God: Be sincere with God by not lying, betraying Him, or breaking promises. Avoid hypocrisy by not meaning what you say when reciting adkar and by abstaining from sinning when alone.
-* Link to [Upholding the rights of Muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md): Respect Muslims' right to confidentiality, fulfill promises made to them and safeguard their property, even in their absence.
+* Link to [Upholding the rights of Muslims](assets/RTJ/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md): Respect Muslims' right to confidentiality, fulfill promises made to them and safeguard their property, even in their absence.
 * Link to [Remembering death](assets/RTJ/Initiatives/good%20traits/Remembering%20death.md): Fulfilling your responsibilities (general amana) in life will help you get back up on the sirat.
-* Link to [Managing spouse](Initiatives/worship/Managing%20spouse.md):
+* Link to [Managing spouse](assets/RTJ/Initiatives/worship/Managing%20spouse.md):
     * Avoid hypocrisy by treating your family better than outsiders. Show love and attention in private. Treat your children and spouse with respect behind closed doors.
     * Be discreet with information. Categorize facts as secret, neutral, or public and act accordingly (see table below).
 

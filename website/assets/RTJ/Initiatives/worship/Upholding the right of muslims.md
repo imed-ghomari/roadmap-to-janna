@@ -94,5 +94,5 @@ Remember the mirror analogy: "A Muslim to a Muslim is like a mirror":
 [Maintain family ties](Processes/Keeping%20family%20ties.md), even if relations are strained:
 
 * **Respect for Parents:** Show [excellence](Processes/Excellence%20with%20parents.md), especially to mothers.
-* **Guidance for Children:** Discipline with love, more in [Parenting](Initiatives/worship/Parenting.md).
-* [Manage the spouse](Initiatives/worship/Managing%20spouse.md) if you are married.
+* **Guidance for Children:** Discipline with love, more in [Parenting](assets/RTJ/Initiatives/worship/Parenting.md).
+* [Manage the spouse](assets/RTJ/Initiatives/worship/Managing%20spouse.md) if you are married.

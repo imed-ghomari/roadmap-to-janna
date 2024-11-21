@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
+  - "[[assets/RTJ/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md)
+Link to [Upholding the right of muslims](assets/RTJ/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md)
 
 * **Fulfilling their needs:** Helping and fulfilling their requests, whenever possible.
 * **Verbal support:** Expressing gratitude, consolation, and encouragement during difficult times.

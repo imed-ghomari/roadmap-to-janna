@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
+  - "[[docs/sidebar1/Initiatives/worship/praying|praying]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md)
+Link to [praying](docs/sidebar1/Initiatives/worship/praying.md)
 
 Respond to the call of prayer and say dua at the end to get the intercession of Muhammad on the day of judgment.

@@ -2,10 +2,10 @@
 type: process
 initiative:
   - "[[docs/sidebar1/Initiatives/good traits/Gratitude|Gratitude]]"
-  - "[[docs/sidebar1/Initiatives/worship/Following the sunnah|Following the sunnah]]"
+  - "[[docs/sidebar1/Initiatives/worship/following the sunnah|following the sunnah]]"
   - "[[docs/sidebar1/Initiatives/bad traits/Envy|Envy]]"
   - "[[docs/sidebar1/Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[docs/sidebar1/Initiatives/worship/Parenting|Parenting]]"
+  - "[[docs/sidebar1/Initiatives/worship/parenting|parenting]]"
 working: false
 due: ""
 duration: 
@@ -20,10 +20,10 @@ step: ""
 ---
 
 * Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md): This is the gratitude of the heart through wishing good to all people (close or far).
-* Link to [Following the sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md): Supplicate for others (their individual needs), an angel supplicate the same for you.
+* Link to [following the sunnah](docs/sidebar1/Initiatives/worship/following%20the%20sunnah.md): Supplicate for others (their individual needs), an angel supplicate the same for you.
 * Link to [Envy](docs/sidebar1/Initiatives/bad%20traits/Envy.md): Through wishing good to all humans, not being envious of anyone, and not wishing their blessings to be removed.
 * Link to [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md): Supplicating for the dead helps you remember the death of your family members and helps you contemplate their unfulfilled hopes and the inevitable decay of the body.
-* Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md): Make dua for your children daily, asking Allah to guide them, protect them, and make them righteous.
+* Link to [parenting](docs/sidebar1/Initiatives/worship/parenting.md): Make dua for your children daily, asking Allah to guide them, protect them, and make them righteous.
 	* Dua zakariya - Quran 3:38
 	* Dua ibrahim - Quran 37:100
 	* Dua ibrahim - Quran 14:40

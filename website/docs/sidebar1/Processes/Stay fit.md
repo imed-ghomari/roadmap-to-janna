@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Following the sunnah|Following the sunnah]]"
+  - "[[docs/sidebar1/Initiatives/worship/following the sunnah|following the sunnah]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-Link to [Following the sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md)
+Link to [following the sunnah](docs/sidebar1/Initiatives/worship/following%20the%20sunnah.md)
 
 Some things to consider : strength training, cardio, stretching, and balancing

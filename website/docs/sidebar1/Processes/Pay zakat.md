@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Zakat and charity and selflessness|Zakat and charity and selflessness]]"
+  - "[[docs/sidebar1/Initiatives/worship/zakat and charity and selflessness|zakat and charity and selflessness]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Zakat and charity and selflessness](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
+Link to [zakat and charity and selflessness](docs/sidebar1/Initiatives/worship/zakat%20and%20charity%20and%20selflessness.md)
 
 If your savings have reached 85 grams of gold or 595 grams of silver (calculate the equivalent in your currency) and one lunar year (354 days) has passed since the savings reached this threshold, you are required to pay 2.5% of your savings as Zakat.
 

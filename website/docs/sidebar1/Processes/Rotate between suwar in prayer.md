@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
+  - "[[docs/sidebar1/Initiatives/worship/praying|praying]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md): Changing the surah you pray with during and between the prayers is recommended. For each prayer, there is a sunnah of what surah you should read :
+Link to [praying](docs/sidebar1/Initiatives/worship/praying.md): Changing the surah you pray with during and between the prayers is recommended. For each prayer, there is a sunnah of what surah you should read :
 
 * Short suwar: read from "A-Sharh" to the last for "maghrib" and "assr"
 * Medium suwar: read from "Al-a'la" to "Ad-Duha" for "duhr" and "icha"

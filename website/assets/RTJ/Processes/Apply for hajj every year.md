@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Hajj|Hajj]]"
+  - "[[assets/RTJ/Initiatives/worship/Hajj|Hajj]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-Link to [Hajj](Initiatives/worship/Hajj.md)
+Link to [Hajj](assets/RTJ/Initiatives/worship/Hajj.md)

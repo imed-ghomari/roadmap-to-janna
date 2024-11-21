@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Fasting|Fasting]]"
+  - "[[docs/sidebar1/Initiatives/worship/fasting|fasting]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)
+link to [fasting](docs/sidebar1/Initiatives/worship/fasting.md)
 
 * tasu'a
 * 3achura

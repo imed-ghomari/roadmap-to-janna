@@ -5,7 +5,7 @@ initiative:
   - "[[assets/RTJ/Initiatives/good traits/Gratitude|Gratitude]]"
   - "[[assets/RTJ/Initiatives/good traits/Contentment with divine decree|Contentment with divine decree]]"
   - "[[assets/RTJ/Initiatives/bad traits/Anger|Anger]]"
-  - "[[Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
+  - "[[assets/RTJ/Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
   - "[[assets/RTJ/Initiatives/good traits/Asceticism|Asceticism]]"
   - "[[assets/RTJ/Initiatives/good traits/Repentance|Repentance]]"
 working: false
@@ -27,7 +27,7 @@ step: ""
 	* Do not complain about what you cannot control. Instead, embrace contentment and trust that Allah's creation and decree always contain more good than harm.
 	* Avoid excessive love for anything outside of Allah's decrees and avoid attachments to specific lifestyles.
 * Link to [Anger](assets/RTJ/Initiatives/bad%20traits/Anger.md): When things don't go as you wish, say *"La hawla wa la quwwata illa billah"* (There is no power nor strength except with Allah), seek refuge (isti3atha) in Allah, and avoid letting anger control you.
-* Link to [Remembrance of Allah](Initiatives/worship/Remembrance%20of%20allah.md): When you need to complain, direct your complaints to Allah. Speak to Him about your worries and ask for relief and comfort.
+* Link to [Remembrance of Allah](assets/RTJ/Initiatives/worship/Remembrance%20of%20allah.md): When you need to complain, direct your complaints to Allah. Speak to Him about your worries and ask for relief and comfort.
 * Link to [Asceticism](assets/RTJ/Initiatives/good%20traits/Asceticism.md): Stay detached from states of poverty or richness, as both can distract you from Allah. Maintain a focus on spiritual connection rather than material circumstances.
 * Link to [Repentance](assets/RTJ/Initiatives/good%20traits/Repentance.md): Consider the possibility that afflictions may stem from your own sins and seek repentance from Allah for guidance and forgiveness.
 

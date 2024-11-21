@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Reciting the quran|Reciting the quran]]"
+  - "[[assets/RTJ/Initiatives/worship/Reciting the quran|Reciting the quran]]"
   - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
 working: false
 due: ""
@@ -15,7 +15,7 @@ context: ""
 dependency: ""
 step: ""
 ---
-* Link to [Reciting the Quran](Initiatives/worship/Reciting%20the%20quran.md):
+* Link to [Reciting the Quran](assets/RTJ/Initiatives/worship/Reciting%20the%20quran.md):
     * **Learning**: The easiest way to learn is to listen to the portion you want to memorize daily until you can recite 90% of it. Then, focus on learning the first part of each verse (ayah) to fill in the gaps.
     * **Understanding**: There are various types of tafsirs, such as verse-by-verse, page-by-page, or thematic introductions to each surah. Choose the one that suits you best, or combine multiple types to enhance your understanding.
     * **Reviewing**: Use this [Anki deck](https://github.com/Nasr-905/Qurankie) to review the verses you have memorized daily. If you are unfamiliar with Anki, visit their [website](https://apps.ankiweb.net/) to learn more.

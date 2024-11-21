@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
+  - "[[docs/sidebar1/Initiatives/worship/praying|praying]]"
   - "[[docs/sidebar1/Initiatives/good traits/Gratitude|Gratitude]]"
 working: false
 due: ""
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
+Link to [praying](docs/sidebar1/Initiatives/worship/praying.md) and [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
 
 :::tip
 

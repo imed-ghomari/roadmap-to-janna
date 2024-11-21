@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[Initiatives/worship/Following the sunnah|Following the sunnah]]"
+  - "[[assets/RTJ/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
+  - "[[assets/RTJ/Initiatives/worship/Following the sunnah|Following the sunnah]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md) and [Following the sunnah](Initiatives/worship/Following%20the%20sunnah.md)
+Link to [Upholding the right of muslims](assets/RTJ/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md) and [Following the sunnah](assets/RTJ/Initiatives/worship/Following%20the%20sunnah.md)
 
 * If a family member with whom you have a close relationship (silat Rahim) has recently become sick, call them. If they live nearby, visit them.
 * Donate blood every 3 months.

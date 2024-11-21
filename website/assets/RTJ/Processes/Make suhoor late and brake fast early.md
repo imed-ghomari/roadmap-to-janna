@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Fasting|Fasting]]"
+  - "[[assets/RTJ/Initiatives/worship/Fasting|Fasting]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-Link to [Fasting](Initiatives/worship/Fasting.md): break with light food so you can wake up easily to pray tahajjud
+Link to [Fasting](assets/RTJ/Initiatives/worship/Fasting.md): break with light food so you can wake up easily to pray tahajjud

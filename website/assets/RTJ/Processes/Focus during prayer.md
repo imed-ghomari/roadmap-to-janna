@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Praying|Praying]]"
+  - "[[assets/RTJ/Initiatives/worship/Praying|Praying]]"
   - "[[assets/RTJ/Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
 working: false
 due: ""
@@ -17,7 +17,7 @@ step: ""
 ---
 
 * Link to [Pride and self admiration and humility](assets/RTJ/Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
-* Link to [Praying](Initiatives/worship/Praying.md): Here are some ways to stay focused during the prayer:
+* Link to [Praying](assets/RTJ/Initiatives/worship/Praying.md): Here are some ways to stay focused during the prayer:
 	* Remember that you're the only one benefiting from this ritual. With this thinking, you can focus better on the acts, the words, and their significance.
 	* Focus on making different duas in each rak'ah.
 	* Understand the meaning of the words recited, which results in glorifying Allah with fear, hope, and humility.

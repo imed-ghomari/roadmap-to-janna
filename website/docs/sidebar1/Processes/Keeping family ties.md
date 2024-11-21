@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
+  - "[[docs/sidebar1/Initiatives/worship/upholding the right of muslims|upholding the right of muslims]]"
   - "[[docs/sidebar1/Initiatives/good traits/Remembering death|Remembering death]]"
 working: false
 due: ""
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-* Link to [Upholding the right of muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md):
+* Link to [upholding the right of muslims](docs/sidebar1/Initiatives/worship/upholding%20the%20right%20of%20muslims.md):
 	* Who? It can stop at uncles and aunt from the mother and the father, though you can extend it as you see fit.
 	* What to do? Ask about their news, be aware of their situation by calling or meeting, and try to give them your time.
 	* Exception? This should be done **especially** if they don't treat you well or severed contact with you.

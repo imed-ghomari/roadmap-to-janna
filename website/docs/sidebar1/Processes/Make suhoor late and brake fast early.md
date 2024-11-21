@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Fasting|Fasting]]"
+  - "[[docs/sidebar1/Initiatives/worship/fasting|fasting]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-Link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md): break with light food so you can wake up easily to pray tahajjud
+Link to [fasting](docs/sidebar1/Initiatives/worship/fasting.md): break with light food so you can wake up easily to pray tahajjud

@@ -2,10 +2,10 @@
 type: process
 initiative:
   - "[[assets/RTJ/Initiatives/good traits/Gratitude|Gratitude]]"
-  - "[[Initiatives/worship/Following the sunnah|Following the sunnah]]"
+  - "[[assets/RTJ/Initiatives/worship/Following the sunnah|Following the sunnah]]"
   - "[[assets/RTJ/Initiatives/bad traits/Envy|Envy]]"
   - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[Initiatives/worship/Parenting|Parenting]]"
+  - "[[assets/RTJ/Initiatives/worship/Parenting|Parenting]]"
 working: false
 due: ""
 duration: 
@@ -20,10 +20,10 @@ step: ""
 ---
 
 * Link to [Gratitude](assets/RTJ/Initiatives/good%20traits/Gratitude.md): This is the gratitude of the heart through wishing good to all people (close or far).
-* Link to [Following the sunnah](Initiatives/worship/Following%20the%20sunnah.md): Supplicate for others (their individual needs), an angel supplicate the same for you.
+* Link to [Following the sunnah](assets/RTJ/Initiatives/worship/Following%20the%20sunnah.md): Supplicate for others (their individual needs), an angel supplicate the same for you.
 * Link to [Envy](assets/RTJ/Initiatives/bad%20traits/Envy.md): Through wishing good to all humans, not being envious of anyone, and not wishing their blessings to be removed.
 * Link to [Remembering death](assets/RTJ/Initiatives/good%20traits/Remembering%20death.md): Supplicating for the dead helps you remember the death of your family members and helps you contemplate their unfulfilled hopes and the inevitable decay of the body.
-* Link to [Parenting](Initiatives/worship/Parenting.md): Make dua for your children daily, asking Allah to guide them, protect them, and make them righteous.
+* Link to [Parenting](assets/RTJ/Initiatives/worship/Parenting.md): Make dua for your children daily, asking Allah to guide them, protect them, and make them righteous.
 	* Dua zakariya - Quran 3:38
 	* Dua ibrahim - Quran 37:100
 	* Dua ibrahim - Quran 14:40

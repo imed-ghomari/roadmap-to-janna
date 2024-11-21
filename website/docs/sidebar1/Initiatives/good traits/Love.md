@@ -56,7 +56,7 @@ To get the love of Allah, we need to be among the people who have these good qua
 * Those who put their [trust in him](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
 * The steadfast and [patient](docs/sidebar1/Initiatives/good%20traits/Patience.md)
 * Those who [keep relationships for his sake](docs/sidebar1/Processes/Resolve%20disputes%20and%20avoid%20boycotting.md)
-* Those who [help others with food, money, or services](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
+* Those who [help others with food, money, or services](docs/sidebar1/Initiatives/worship/zakat%20and%20charity%20and%20selflessness.md)
 * Those who [love one another only for his sake](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)
 * Those who perform [voluntary deeds](docs/sidebar1/Processes/Level%20up%20worship.md) after completing the obligatory ones
 
@@ -68,5 +68,5 @@ Signs of genuine love for Allah include:
 * **Accepting His decree** even when it opposes personal desires.
 * **Absence of aversion towards death**.
 * [**Preferring the company of the obedient and distancing from disobedient people**](docs/sidebar1/Processes/Hate%20the%20disobedient%20and%20love%20the%20obedient.md).
-* **Longing for closeness to Allah**, [finding solace in His words](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md), [engaging in remembrance](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md), and performing [extra worship](docs/sidebar1/Processes/Level%20up%20worship.md).
-* [**Following the Prophet (ﷺ)**](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md): Learning about his life, striving to follow his example, and holding him in high regard as the final messenger of Allah.
+* **Longing for closeness to Allah**, [finding solace in His words](docs/sidebar1/Initiatives/worship/reciting%20the%20quran.md), [engaging in remembrance](docs/sidebar1/Initiatives/worship/remembrance%20of%20allah.md), and performing [extra worship](docs/sidebar1/Processes/Level%20up%20worship.md).
+* [**Following the Prophet (ﷺ)**](docs/sidebar1/Initiatives/worship/following%20the%20sunnah.md): Learning about his life, striving to follow his example, and holding him in high regard as the final messenger of Allah.

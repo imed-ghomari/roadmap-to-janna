@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
+  - "[[assets/RTJ/Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Remembrance of Allah](Initiatives/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:
+Link to [Remembrance of Allah](assets/RTJ/Initiatives/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:
 
 * **Make specific dua in sajda** _اللّٰهُمَّ اغْفِرْ لِيْ ذَنْبِيْ كُلَّهُ، دِقَّهُ وَجِلَّهُ، أَوَّلَهُ وَآخِرَهُ، عَلَانِيَتَهُ وَسِرَّهُ._
 * **Make specific dua during Dhu al-Hijjah** _اللّٰهُمَّ اجْعَلْنَا مِنَ الْمَقْبُوْلِيْنَ وَاغْفِرْ لَنَا فِيْ هٰذِهِ الأَيَّامِ الْمُبَارَكَةِ._

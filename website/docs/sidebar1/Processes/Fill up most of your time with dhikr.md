@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
+  - "[[docs/sidebar1/Initiatives/worship/remembrance of allah|remembrance of allah]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Remembrance of allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md)
+Link to [remembrance of allah](docs/sidebar1/Initiatives/worship/remembrance%20of%20allah.md)
 
 Strive to maintain a state of gratitude or repentance at all times, as you may be using Allah's blessings in beneficial or detrimental ways. Engage in both to encompass all possibilities. When your lips are dry, perform silent dhikr by reciting "La ilaha illallah" silently in your mouth.
 

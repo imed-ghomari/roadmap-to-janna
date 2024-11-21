@@ -2,9 +2,9 @@
 type: process
 initiative:
   - "[[assets/RTJ/Initiatives/bad traits/Loquaciousness|Loquaciousness]]"
-  - "[[Initiatives/worship/Commanding good and forbidding evil|Commanding good and forbidding evil]]"
-  - "[[Initiatives/worship/Managing spouse|Managing spouse]]"
-  - "[[Initiatives/worship/Parenting|Parenting]]"
+  - "[[assets/RTJ/Initiatives/worship/Commanding good and forbidding evil|Commanding good and forbidding evil]]"
+  - "[[assets/RTJ/Initiatives/worship/Managing spouse|Managing spouse]]"
+  - "[[assets/RTJ/Initiatives/worship/Parenting|Parenting]]"
 working: false
 due: ""
 duration: 
@@ -19,7 +19,7 @@ step: ""
 ---
 
 * Link to [Loquaciousness](assets/RTJ/Initiatives/bad%20traits/Loquaciousness.md): Only speak for Allah's sake, following the principles of commanding good and forbidding evil.
-* Link to [Commanding good and forbidding evil](Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md):
+* Link to [Commanding good and forbidding evil](assets/RTJ/Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md):
 	* Follow this order:
 		* First, explain the offensive nature of the act.
 		* Second, admonish the person politely in a gentle manner (motivation).
@@ -29,11 +29,11 @@ step: ""
 	* Only address clearly forbidden/obligatory acts that you are knowledgeable about.
 	* Stop at the second level for rulers and the fourth level for the spouse and family members.
 	* Encourage good behavior through da'wah, even by sharing a single verse of the Quran.
-* Link to [Managing spouse](Initiatives/worship/Managing%20spouse.md):
+* Link to [Managing spouse](assets/RTJ/Initiatives/worship/Managing%20spouse.md):
 	* For the wife specifically, discipline her if she's rebellious through the first four levels. Then don't bed her, then be rough (but not in the face and don't leave a mark), then diplomacy through another person, then divorce.
 	* Do not taunt or bring up the past when your spouse becomes obedient.
 	* Ensure they understand their own religious obligations.
-* Link to [Parenting](Initiatives/worship/Parenting.md): play (0-7), discipline (7-14), befriend (14+)
+* Link to [Parenting](assets/RTJ/Initiatives/worship/Parenting.md): play (0-7), discipline (7-14), befriend (14+)
 	* When your child deliberately misbehaves, talk to him privately without labeling him (focus on the actions), by following the levels and use consequences instead of punishments (ex. spilling means cleaning)
 	* If the misbehavior is religious in nature, encourage them to seek forgiveness from Allah.
 

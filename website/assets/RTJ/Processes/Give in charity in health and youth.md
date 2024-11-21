@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Zakat and charity and selflessness|Zakat and charity and selflessness]]"
+  - "[[assets/RTJ/Initiatives/worship/Zakat and charity and selflessness|Zakat and charity and selflessness]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Zakat and charity and selflessness](Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
+Link to [Zakat and charity and selflessness](assets/RTJ/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
 
 Give in charity while you are in a state of health and greed, hoping to be rich and afraid of being poor. This is the best time for charity in terms of reward.
 
