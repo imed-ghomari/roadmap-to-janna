@@ -2,7 +2,7 @@
 type: process
 initiative:
   - "[[docs/sidebar1/Initiatives/good traits/Repentance|Repentance]]"
-  - "[[docs/sidebar1/Initiatives/worship/praying|praying]]"
+  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
   - "[[docs/sidebar1/Initiatives/good traits/Remembering death|Remembering death]]"
   - "[[docs/sidebar1/Initiatives/good traits/Fear and hope|Fear and hope]]"
 working: false
@@ -21,7 +21,7 @@ step: ""
 * Link to [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md):
 	* **About the past**: Regret the sin you did and ask for forgiveness within 6 hours of sinning by saying dua outside or inside prayer (in nafl repentance prayer)
 	* **About the future**: Plan for future prevention, commit to never doing it again, do good deeds for every bad deed you did to balance the scale and ask forgiveness if it affected others
-* Link to [praying](docs/sidebar1/Initiatives/worship/praying.md): Perform Nafl repentance prayers (2 rakat) anytime, even after Asr, or integrate the intention into other Nafl prayers, like the 12 daily Sunnah prayers.
+* Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md): Perform Nafl repentance prayers (2 rakat) anytime, even after Asr, or integrate the intention into other Nafl prayers, like the 12 daily Sunnah prayers.
 * Link to [Remembering Death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md): Ask forgiveness and work on reconciliation to ensure smooth passage through the bridge of Qantara, avoiding delays or reduced rank in Paradise.
 * Link to [Fear and Hope](docs/sidebar1/Initiatives/good%20traits/Fear%20and%20hope.md): Maintain hope in Allah's forgiveness to avoid despair and inaction after sinning.
 

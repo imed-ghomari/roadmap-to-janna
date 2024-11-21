@@ -1,9 +1,9 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/upholding the right of muslims|upholding the right of muslims]]"
-  - "[[docs/sidebar1/Initiatives/worship/managing spouse|managing spouse]]"
-  - "[[docs/sidebar1/Initiatives/worship/parenting|parenting]]"
+  - "[[docs/sidebar1/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
+  - "[[docs/sidebar1/Initiatives/worship/Managing spouse|Managing spouse]]"
+  - "[[docs/sidebar1/Initiatives/worship/Parenting|Parenting]]"
 working: false
 due: ""
 duration: 
@@ -17,9 +17,9 @@ dependency: ""
 step: ""
 ---
 
-* Link to [upholding the right of muslims](docs/sidebar1/Initiatives/worship/upholding%20the%20right%20of%20muslims.md): As a guardian, it is your responsibility to ensure the well-being of your family and the Muslims in your care. This includes denouncing backbiting, actively addressing their concerns, and supporting those in need.
-* Link to [managing spouse](docs/sidebar1/Initiatives/worship/managing%20spouse.md): It is essential to safeguard your spouse from both physical and emotional harm, including slander, criticism, and ridicule. As the Quran states, spouses are garments that protect their wearers, and it is our duty to maintain their integrity.
-* Link to [parenting](docs/sidebar1/Initiatives/worship/parenting.md): In today's digital landscape, it is crucial to monitor your children's internet content consumption, including movies, games, and social media. Additionally, it is important to encourage friendships with positive role models and good families. Finally, it is important to protect them from negative influences, such as peer pressure and bullying.
+* Link to [Upholding the right of muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md): As a guardian, it is your responsibility to ensure the well-being of your family and the Muslims in your care. This includes denouncing backbiting, actively addressing their concerns, and supporting those in need.
+* Link to [Managing spouse](docs/sidebar1/Initiatives/worship/Managing%20spouse.md): It is essential to safeguard your spouse from both physical and emotional harm, including slander, criticism, and ridicule. As the Quran states, spouses are garments that protect their wearers, and it is our duty to maintain their integrity.
+* Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md): In today's digital landscape, it is crucial to monitor your children's internet content consumption, including movies, games, and social media. Additionally, it is important to encourage friendships with positive role models and good families. Finally, it is important to protect them from negative influences, such as peer pressure and bullying.
 
 :::tip summary
 

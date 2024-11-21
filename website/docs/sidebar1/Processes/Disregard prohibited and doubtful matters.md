@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/seeking the lawful|seeking the lawful]]"
+  - "[[docs/sidebar1/Initiatives/worship/Seeking the lawful|Seeking the lawful]]"
   - "[[docs/sidebar1/Initiatives/good traits/Reliance|Reliance]]"
 working: false
 due: ""
@@ -16,5 +16,5 @@ dependency: ""
 step: ""
 ---
 
-* Link to [seeking the lawful](docs/sidebar1/Initiatives/worship/seeking%20the%20lawful.md): can be applied to music.. etc. Only seek when absolutely necessary, and leave them whenever you can.
+* Link to [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md): can be applied to music.. etc. Only seek when absolutely necessary, and leave them whenever you can.
 * Link to [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md): make sure to stop at the lawful means, even if the unlawful ones seem more reliable at getting results.

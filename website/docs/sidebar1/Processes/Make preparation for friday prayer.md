@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/praying|praying]]"
+  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [praying](docs/sidebar1/Initiatives/worship/praying.md)
+Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md)
 
 Complete Friday prayer by:
 
