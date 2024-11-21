@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/worship/Praying|Praying]]"
+  - "[[Initiatives/worship/Praying|Praying]]"
 working: false
 due: ""
 duration: 
@@ -15,4 +15,4 @@ dependency: ""
 step: ""
 ---
 
-link to [Praying](assets/RTJ/Initiatives/worship/Praying.md)
+link to [Praying](Initiatives/worship/Praying.md)

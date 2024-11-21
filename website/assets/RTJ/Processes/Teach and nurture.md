@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/worship/Parenting|Parenting]]"
+  - "[[Initiatives/worship/Parenting|Parenting]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Parenting](assets/RTJ/Initiatives/worship/Parenting.md)
+Link to [Parenting](Initiatives/worship/Parenting.md)
 
 **Religious Education:**
 

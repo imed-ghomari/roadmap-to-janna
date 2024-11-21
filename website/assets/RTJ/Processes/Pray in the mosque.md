@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/worship/Praying|Praying]]"
-  - "[[assets/RTJ/Initiatives/good traits/Remembering death|Remembering death]]"
+  - "[[Initiatives/worship/Praying|Praying]]"
+  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Praying](assets/RTJ/Initiatives/worship/Praying.md) and [Remembering death](assets/RTJ/Initiatives/good%20traits/Remembering%20death.md)
+Link to [Praying](Initiatives/worship/Praying.md) and [Remembering death](Initiatives/good%20traits/Remembering%20death.md)
 
 It depends on the Islamic schools of thought, but the [most common view](https://seekersguidance.org/answers/prayer/what-is-the-majority-opinion-on-congregational-prayer/) is that congregational prayer is recommended, not mandatory. Nonetheless, it is highly recommended to engage in congregational prayer whenever possible.
 

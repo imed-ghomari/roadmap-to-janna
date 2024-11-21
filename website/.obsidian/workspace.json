@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Initiatives/good traits/Love.md",
+                "file": "node_modules/webpack-dev-server/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Love"
+              "title": "README"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "getting started",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,6 +194,7 @@
   },
   "active": "d9584581ec4a0b99",
   "lastOpenFiles": [
+    "docs/sidebar1/Initiatives/good traits/Love.md",
     "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/atom.xsl",
@@ -204,7 +205,6 @@
     "build/sitemap.xml",
     "build/index.html",
     "build/docs/sidebar1/Resources/Process handling/index.html",
-    "build/docs/sidebar1/Resources/Obsidian implementation/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -214,7 +214,6 @@
     "build/img/docusaurus-social-card.jpg",
     "build/img/countryside.png",
     "docs/sidebar1/Processes/Contemplate the creation.md",
-    "docs/sidebar1/Initiatives/good traits/Love.md",
     "docs/sidebar1/Processes/Seclude yourself and contemplate the creation.md",
     "docs/sidebar1/Processes/Accept accusations or forgive transgressions against you.md",
     "node_modules/regenerator-transform/README.md",

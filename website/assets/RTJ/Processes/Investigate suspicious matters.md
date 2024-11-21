@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/worship/Seeking the lawful|Seeking the lawful]]"
-  - "[[assets/RTJ/Initiatives/worship/Parenting|Parenting]]"
+  - "[[Initiatives/worship/Seeking the lawful|Seeking the lawful]]"
+  - "[[Initiatives/worship/Parenting|Parenting]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Seeking the lawful](assets/RTJ/Initiatives/worship/Seeking%20the%20lawful.md) and [Parenting](assets/RTJ/Initiatives/worship/Parenting.md) check again
+Link to [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md) and [Parenting](Initiatives/worship/Parenting.md) check again
 
 Whenever there's suspicion, investigate the lawfulness of the matter before judging. For example, research food before consuming it or asking your local imam.
 

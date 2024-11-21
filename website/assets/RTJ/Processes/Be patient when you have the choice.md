@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Patience|Patience]]"
+  - "[[Initiatives/good traits/Patience|Patience]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Patience](assets/RTJ/Initiatives/good%20traits/Patience.md): Respond well when patience is within your control. These include:
+Link to [Patience](Initiatives/good%20traits/Patience.md): Respond well when patience is within your control. These include:
 
 * **Responding calmly** to provocations or frustrations.
 * **Choosing honesty and restraint** in ethical dilemmas.

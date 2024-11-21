@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Gratitude|Gratitude]]"
+  - "[[Initiatives/good traits/Gratitude|Gratitude]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-link to [Gratitude](assets/RTJ/Initiatives/good%20traits/Gratitude.md)
+link to [Gratitude](Initiatives/good%20traits/Gratitude.md)
 
 Gratitude of the tongue is publicly acknowledging and thanking God for all blessings, recognizing that all good comes from Him and not from oneself. There are different categories of blessings we should be thankful for:
 

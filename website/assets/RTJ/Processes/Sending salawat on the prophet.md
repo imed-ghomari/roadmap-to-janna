@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Gratitude|Gratitude]]"
+  - "[[Initiatives/good traits/Gratitude|Gratitude]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gratitude](assets/RTJ/Initiatives/good%20traits/Gratitude.md)
+Link to [Gratitude](Initiatives/good%20traits/Gratitude.md)
 
 Being grateful for the prophet by saying salawat. Here are the multiple occasions where you should send salawat:
 

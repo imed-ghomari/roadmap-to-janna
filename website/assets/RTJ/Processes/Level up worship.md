@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Love|Love]]"
+  - "[[Initiatives/good traits/Love|Love]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Love](assets/RTJ/Initiatives/good%20traits/Love.md)
+Link to [Love](Initiatives/good%20traits/Love.md)
 
 It would be best if you waited for the current worship processes to mature somewhat before attempting to improve them to avoid losing progress by doing too much too soon.
 

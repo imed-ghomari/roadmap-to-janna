@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Repentance|Repentance]]"
+  - "[[Initiatives/good traits/Repentance|Repentance]]"
 working: false
 due: ""
 duration: 
@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-link to [Repentance](assets/RTJ/Initiatives/good%20traits/Repentance.md)
+link to [Repentance](Initiatives/good%20traits/Repentance.md)
 
 use special dua: "اَللّٰهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ"

@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Reliance|Reliance]]"
+  - "[[Initiatives/good traits/Reliance|Reliance]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Reliance](assets/RTJ/Initiatives/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.
+Link to [Reliance](Initiatives/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.
 
 ## Seeking Guidance and Clarity
 

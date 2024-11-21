@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
+  - "[[Initiatives/good traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Pride and self admiration and humility](assets/RTJ/Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
+Link to [Pride and self admiration and humility](Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
 
 * Don't think of yourself as pious because of your past sins, deeds that might not be accepted, and the bad end that you might have.
 * Don't think you're more pious than anyone because you'll never know their intentions and hearts.

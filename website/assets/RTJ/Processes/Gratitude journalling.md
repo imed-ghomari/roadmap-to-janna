@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/good traits/Gratitude|Gratitude]]"
-  - "[[assets/RTJ/Initiatives/good traits/Love|Love]]"
+  - "[[Initiatives/good traits/Gratitude|Gratitude]]"
+  - "[[Initiatives/good traits/Love|Love]]"
 working: false
 due: ""
 duration: 
@@ -16,7 +16,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Gratitude](assets/RTJ/Initiatives/good%20traits/Gratitude.md) and [Love](assets/RTJ/Initiatives/good%20traits/Love.md).
+Link to [Gratitude](Initiatives/good%20traits/Gratitude.md) and [Love](Initiatives/good%20traits/Love.md).
 
 ## Example of Gratitude Journaling
 

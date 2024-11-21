@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-  - "[[assets/RTJ/Initiatives/bad traits/Anger|Anger]]"
+  - "[[Initiatives/bad traits/Anger|Anger]]"
 working: false
 due: ""
 duration: 
@@ -15,7 +15,7 @@ dependency: ""
 step: ""
 ---
 
-Link to [Anger](assets/RTJ/Initiatives/bad%20traits/Anger.md):
+Link to [Anger](Initiatives/bad%20traits/Anger.md):
 
 **Recommended:**
 
