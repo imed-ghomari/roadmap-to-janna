@@ -5,5 +5,6 @@
   "attachmentFolderPath": "assets",
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "livePreview": false
 }

@@ -15,6 +15,6 @@ dependency: ""
 step: ""
 ---
 
-link to [Sincerity and truthfulness](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
+Link to [Sincerity and truthfulness](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
 
-in nawafil prayers and fasting, have multiple good intentions while doing one supplementary thing to have more rewards
+In voluntary prayers and fasting, have multiple good intentions while doing one supplementary thing to have more rewards

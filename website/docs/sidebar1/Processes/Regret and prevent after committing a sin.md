@@ -25,7 +25,7 @@ step: ""
 * Link to [Remembering Death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md): Ask forgiveness and work on reconciliation to ensure smooth passage through the bridge of Qantara, avoiding delays or reduced rank in Paradise.
 * Link to [Fear and Hope](docs/sidebar1/Initiatives/good%20traits/Fear%20and%20hope.md): Maintain hope in Allah's forgiveness to avoid despair and inaction after sinning.
 
-## ### When to Say _Astaghfirullah_
+Here are some occasions when you should say _Astaghfirullah_:
 
 1. **After Salah:** Recite the _Master of Forgiveness Dua_ to address any deficiencies in prayer.
 2. **Repentance:** Seek forgiveness after committing a sin or entertaining sinful thoughts.
