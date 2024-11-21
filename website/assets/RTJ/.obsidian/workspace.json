@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Homepage"
             }
@@ -180,17 +178,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f3b7ae453dabb9a3",
   "lastOpenFiles": [
+    "Admin/Add initiative.md",
+    "Homepage.md",
     "Initiatives/bad traits/Anger.md",
     "Initiatives/worship/new.md",
-    "Homepage.md",
     "Initiatives/good traits/new.md",
     "Initiatives/bad traits/new.md",
     "Admin/Add KR.md",
     "Admin/initiative template.md",
     "Initiatives/bad traits/something.md",
-    "Admin/Add initiative.md",
     "Initiatives/worship/Zakat and charity and selflessness.md",
     "Initiatives/worship/Upholding the right of muslims.md",
     "Initiatives/worship/Seeking the lawful.md",
