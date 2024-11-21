@@ -54,7 +54,7 @@ actions:
 
 ````tabs
 
-tab: Due (problem)
+tab: Due
 ```dataview
 list rows.file.link
 where 
