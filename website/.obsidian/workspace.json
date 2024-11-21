@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Processes/Decrease attachment to a type of food.md",
+                "file": "docs/sidebar1/Resources/Obsidian implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decrease attachment to a type of food"
+              "title": "Obsidian implementation"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "8cf7f3049fadfac6",
   "lastOpenFiles": [
+    "docs/sidebar1/Processes/Decrease attachment to a type of food.md",
     "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
     "assets/RTJ/Initiatives/bad traits/Stinginess.md",
     "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",
@@ -223,7 +224,6 @@
     "node_modules/css-loader/README.md",
     "node_modules/agentkeepalive/README.md",
     "node_modules/agentkeepalive/History.md",
-    "node_modules/recma-jsx/readme.md",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
     "assets/screenshot.png",
     "assets/Pasted image 20241120154021.png",

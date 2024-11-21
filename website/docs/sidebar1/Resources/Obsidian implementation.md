@@ -83,7 +83,7 @@ To stay updated with changes in the vault:
 
 ### How Can I Use it on My Phone?
 
-You can use Syncthing to sync your Obsidian vault with your phone. Follow this guide to set up Syncthing. Just make sure not to rename the vault or to use any special characters in the file titles to avoid syncing problems. (The problematic file titles will appear on the homepage for you to deal with).
+You can use [Syncthing](https://syncthing.net/) to sync your Obsidian vault with your phone. Just make sure not to rename the vault or to use any special characters in the file titles to avoid syncing problems. (The problematic file titles will appear on the homepage for you to deal with).
 
 ## What You Need to Do
 
