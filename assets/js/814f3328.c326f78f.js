@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First release","permalink":"/roadmap-to-janna/blog/First release","unlisted":false,"date":"2024-11-21T05:19:34.000Z"}]}')}}]);
