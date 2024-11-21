@@ -94,7 +94,6 @@ const config = {
         },
       },
       // Replace with your project's social card
-      image: '',
       navbar: {
         title: 'Roadmap to Janna',
         logo: {
