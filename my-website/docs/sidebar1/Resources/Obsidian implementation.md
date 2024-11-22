@@ -16,7 +16,7 @@ A **vault** is a folder of text files in markdown format that can be opened with
 
 First, you need to understand the key file type used in this vault to understand the following headings:
 
-* **Project**: One-off task contributing to the initiatives in various ways (e.g., creating processes, changing the documentation of the initiative, improving the system itself). When completed, they can archived or deleted.
+* **Project**: One-off task contributing to the initiatives in various ways (e.g., creating processes, changing the documentation of the initiative, improving the system itself). When completed, they can be archived or deleted.
 * **Processes**: Regular habits linked to specific initiatives (more on this in [Process Handling](docs/sidebar1/Resources/Process%20handling.md)).
 * **Initiatives**: Contain relevant documentation and link to all the relevant processes
 * **Note**: Quick, unstructured captures (often for inbox items).
@@ -39,7 +39,9 @@ This is the homepage. It contains **Dynamic Queries** or views that bring out th
 7. **Review**: This section contains processes that need to be reviewed. When you open the note, you can use the toolbar button "reviewed" to postpone the review date to next month.
 8. **Performance**: This section displays views that help you track progress (see below for more on performance tracking). It is discussed below under the heading "Checking your progress".
 9. **Waiting**: This category includes projects, processes, and initiatives that are waiting and have start dates that are not yet due.
-10. **Context**: This includes projects with contexts; read the associate property explanation to understand its use.
+10. **Context**: This includes projects with contexts; read the associated property explanation to understand its use.
+
+> The homepage is divided into 3 sections because the first section is urgent, the second is important but not urgent, and the third is optional but useful.
 
 ### Properties and Task Management
 
@@ -78,7 +80,7 @@ Once the initiatives are reviewed according to these guidelines, you'll be able 
 
 To stay updated with changes in the vault:
 
-* **If You've Made Changes**: Check relevant changes from the "updates" section and add them manually. If you want to update automatically, fork the GitHub repository and use the folder `website/assets/RTJ` as a vault.
+* **If You've Made Changes**: Check relevant changes from the "updates" section and add them manually. If you want to update automatically, fork the GitHub repository and use the folder `my-website/assets/RTJ` as a vault.
 * **If You Still Haven't Made Changes**, Re-download the latest version of the vault.
 
 ### How Can I Use it on My Phone?
