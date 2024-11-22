@@ -64,10 +64,10 @@ def compress_folder(folder_path, output_zip):
 
 # Main function
 def main():
-    source_folder = "/Users/imedgh/Documents/roadmap-to-janna/website/docs/sidebar1"  # Replace with the source folder path
-    destination_folder = "/Users/imedgh/Documents/roadmap-to-janna/website/assets/RTJ"  # Replace with the destination folder path
+    source_folder = "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1"  # Replace with the source folder path
+    destination_folder = "/Users/imedgh/Documents/roadmap-to-janna/my-website/assets/RTJ"  # Replace with the destination folder path
     folders_to_delete = ["Initiatives", "Processes", "Resources"]  # Replace with folders to delete
-    output_zip = "/Users/imedgh/Documents/roadmap-to-janna/website/assets/RTJ"  # Replace with the desired output zip path (without extension)
+    output_zip = "/Users/imedgh/Documents/roadmap-to-janna/my-website/assets/RTJ"  # Replace with the desired output zip path (without extension)
 
     # Step 1: Delete specified folders in the destination folder
     delete_folders(destination_folder, folders_to_delete)

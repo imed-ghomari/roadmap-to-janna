@@ -23,7 +23,7 @@ step: ""
 	* Understand the meaning of the words recited, which results in glorifying Allah with fear, hope, and humility.
 	* Pray like it's your last: Picture that you're going to die right after because it's a possibility, and this prayer might be your last attempt at salvation.
 	* Don't make too many sujud ba3di or 9abli.
-	* Use the technique of one of the predecessors: Picture that the angel of death is above you, hell on the left, Janna on the right; you are on the bridge; you can see the ka3ba en face, and picture the greatness of the one you are praying to.
+	* Use the technique of one of the predecessors: Picture that the angel of death is above you, hell on the left, Janna on the right; you are on the bridge; you can see the Kaaba in front of you, and picture the greatness of the one you are praying to.
 
 > [!tip] summary
 > 
