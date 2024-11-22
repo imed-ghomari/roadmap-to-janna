@@ -31,8 +31,8 @@ If you want to reduce reliance on context prompts but can't find an action to an
 There are different types of processes based on the prompt type:
 
 * **Context processes**
-    * Processes are initiated after seeing a reminder in Obsidian. These processes need a recurrence and should be postponed when completed (make sure to use the toolbar button "repeat" to postpone easily). Check [Obsidian implementation](docs/sidebar1/Resources/Obsidian%20implementation.md) for more details.
-    * Processes triggered by real-life context cues (reminders, locations, etc.). This sub-type doesn't need recurrence in Obsidian; it just needs documentation.
+    * Processes are initiated only after seeing them in Obsidian. These processes need a recurrence and should be postponed when completed (make sure to use the toolbar button "repeat" to postpone easily). Check [Obsidian implementation](docs/sidebar1/Resources/Obsidian%20implementation.md) for more details.
+    * Processes triggered by real-life context cues (notifications, locations, etc.). This sub-type doesn't need recurrence in Obsidian; it just needs documentation.
 * **Anchor processes** are initiated in real life after anchor actions. These don't require recurrence in Obsidian; they only require documentation.
 
 ### Actions and Ease
