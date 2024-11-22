@@ -74,6 +74,18 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '1ITO5F2Y2Y',
+
+        // Public API key: it is safe to commit it
+        apiKey: '7e959852aab4ad5c4a6f7fb8fb85df42',
+
+        indexName: 'imed-ghomariio',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+      },
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 6,
