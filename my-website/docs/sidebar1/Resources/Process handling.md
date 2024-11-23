@@ -74,7 +74,7 @@ Try each method independently or combine them if that works better for you.
 
 ## Intersection with Obsidian
 
-When maintaining processes inside Obsidian, you should use the [`step` property](docs/sidebar1/Resources/Obsidian%20implementation.md) to describe what you will do with each process. This helps you manage multiple processes that require the same type of solution simultaneously. This is done by grouping them based on the `step` property under the "review" tab on the Homepage. Based on the framework described above, here are the main situations you may encounter within Obsidian:
+When maintaining processes inside Obsidian, you should use the [`step` property](docs/sidebar1/Resources/Obsidian%20implementation.md) to describe what you will do with each process. This helps you manage multiple processes that require the same type of solution simultaneously. This is done by grouping them based on the `step` property under the "process" tab on the Homepage. Based on the framework described above, here are the main situations you may encounter within Obsidian:
 
 1. **Making the action easier**: When a process doesn't work the first time you set it up or when you find ways to improve its ease of execution.
 2. **Finding the right behavior**: You need to identify a new behavior for non-working processes or processes that weren't implemented due to poor action choices.
