@@ -54,7 +54,7 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 * Knowledge shared that benefits others.
 * [Learn as much of the Quran as you can](docs/sidebar1/Processes/Learn%20and%20review%20the%20quran.md).
 
-### Preparing for the Antichrist (Masih ad-Dajjal)
+### Preparing for the Masih ad-Dajjal
 
 * **Flee from him** and recite the first or last ten verses of Surah Al-Kahf.
 * **If confronted by him, choose his "fire"** (as it is Paradise in disguise). Close your eyes if you are afraid.
