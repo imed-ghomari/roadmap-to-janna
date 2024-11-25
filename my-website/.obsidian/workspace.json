@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
+                "file": "docs/sidebar1/Initiatives/good traits/Sincerity and truthfulness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gluttony and lust"
+              "title": "Sincerity and truthfulness"
             }
           }
         ]
@@ -179,15 +179,17 @@
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
-    "docs/sidebar1/Getting started.md",
+    "assets/RTJ/Initiatives/bad traits/Stinginess.md",
+    "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",
+    "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
+    "assets/RTJ/Initiatives/bad traits/Anger.md",
+    "assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
     "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
+    "docs/sidebar1/Getting started.md",
     "assets/RTJ/Initiatives/worship/new.md",
     "assets/RTJ/Initiatives/good traits/new.md",
     "assets/RTJ/Initiatives/bad traits/new.md",
     "assets/RTJ/Initiatives/bad traits/something.md",
-    "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",
-    "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
-    "assets/RTJ/Initiatives/bad traits/Anger.md",
     "assets/RTJ/Projects/new conflict.md",
     "assets/RTJ/Projects/new.md",
     "assets/RTJ/Projects/new>.md",
@@ -203,8 +205,6 @@
     "docs/sidebar1/Resources/Obsidian implementation.md",
     "blog/First release.md",
     "docs/sidebar1/Processes/Decrease attachment to a type of food.md",
-    "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
-    "assets/RTJ/Initiatives/bad traits/Stinginess.md",
     "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/atom.xsl",

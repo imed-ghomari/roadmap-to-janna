@@ -56,7 +56,7 @@ This goal is achieved through 3 key results and their respective initiatives: (s
 	* [Envy](Initiatives/bad%20traits/Envy.md)
 	* [Stinginess](Initiatives/bad%20traits/Stinginess.md)
 	* [Love of status and ostentation](Initiatives/bad%20traits/Love%20of%20status%20and%20ostentation.md)
-	* [Pride, self-admiration, and humility](Initiatives/good%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
+	* [Pride, self-admiration, and humility](Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
 * Inner actions - Developing praiseworthy character traits
 	* [Repentance](Initiatives/good%20traits/Repentance.md)
 	* [Fear and hope](Initiatives/good%20traits/Fear%20and%20hope.md)
