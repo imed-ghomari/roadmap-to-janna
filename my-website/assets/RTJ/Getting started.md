@@ -87,7 +87,7 @@ You might encounter some actions in the initiative that don't have any process l
 
 * The action demands a project, not a process.
 * The action has already been included in another process.
-* The action is too simple to be included in a process that is due for monthly review.
+* The action is too simple or too vague to be included in a process that is due for monthly review.
 
 ### Sources and Inspirations
 

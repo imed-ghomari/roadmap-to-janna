@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Initiatives/worship/Zakat and charity and selflessness.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Zakat and charity and selflessness"
             }
           }
         ]
@@ -178,11 +178,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3b7ae453dabb9a3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Admin/Add initiative.md",
-    "Homepage.md",
+    "Initiatives/worship/Upholding the right of muslims.md",
+    "Initiatives/worship/Seeking the lawful.md",
+    "Initiatives/worship/Remembrance of allah.md",
+    "Initiatives/worship/Reciting the quran.md",
+    "Initiatives/worship/Praying.md",
+    "Initiatives/worship/Following the sunnah.md",
+    "Initiatives/worship/Commanding good and forbidding evil.md",
+    "Initiatives/good traits/Sincerity and truthfulness.md",
+    "Initiatives/worship/Fasting.md",
+    "Initiatives/good traits/Repentance.md",
+    "Initiatives/good traits/Reliance.md",
+    "Initiatives/good traits/Patience.md",
+    "Initiatives/good traits/Remembering death.md",
+    "Initiatives/good traits/Love.md",
+    "Initiatives/worship/Hajj.md",
     "Initiatives/bad traits/Anger.md",
+    "Homepage.md",
+    "Getting started.md",
+    "Admin/Add initiative.md",
     "Initiatives/worship/new.md",
     "Initiatives/good traits/new.md",
     "Initiatives/bad traits/new.md",
@@ -190,22 +206,6 @@
     "Admin/initiative template.md",
     "Initiatives/bad traits/something.md",
     "Initiatives/worship/Zakat and charity and selflessness.md",
-    "Initiatives/worship/Upholding the right of muslims.md",
-    "Initiatives/worship/Seeking the lawful.md",
-    "Initiatives/worship/Remembrance of allah.md",
-    "Initiatives/worship/Reciting the quran.md",
-    "Initiatives/worship/Praying.md",
-    "Initiatives/worship/Parenting.md",
-    "Initiatives/worship/Managing spouse.md",
-    "Initiatives/worship/Hajj.md",
-    "Initiatives/worship/Following the sunnah.md",
-    "Initiatives/worship/Fasting.md",
-    "Initiatives/worship/Commanding good and forbidding evil.md",
-    "Initiatives/good traits/Sincerity and truthfulness.md",
-    "Initiatives/good traits/Self scrutiny.md",
-    "Initiatives/good traits/Repentance.md",
-    "Initiatives/good traits/Remembering death.md",
-    "Initiatives/good traits/Reliance.md",
     "Initiatives/worship",
     "Initiatives/good traits",
     "Initiatives/bad traits",

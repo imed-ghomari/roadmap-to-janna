@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cf7f3049fadfac6",
+            "id": "a99b0c05ee1340a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Getting started.md",
+                "file": "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting started"
+              "title": "Gluttony and lust"
             }
           }
         ]
@@ -174,12 +174,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "gemini-assistant:New Gemini chat": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8cf7f3049fadfac6",
+  "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "docs/sidebar1/Getting started.md",
+    "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
     "assets/RTJ/Initiatives/worship/new.md",
     "assets/RTJ/Initiatives/good traits/new.md",
     "assets/RTJ/Initiatives/bad traits/new.md",
@@ -204,8 +205,6 @@
     "docs/sidebar1/Processes/Decrease attachment to a type of food.md",
     "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
     "assets/RTJ/Initiatives/bad traits/Stinginess.md",
-    "assets/RTJ/Initiatives/worship/Upholding the right of muslims.md",
-    "docs/sidebar1/Processes/Decrease the amount of food.md",
     "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/atom.xsl",
