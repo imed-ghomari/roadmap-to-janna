@@ -12,6 +12,7 @@ date: 2024-11-26
 ## What Changed
 
 * Removed some errors and improved writing
+* Moved "Pride and self admiration and humility" to bad traits folder, which was wrongfully placed elsewhere
 
 ## What Was Removed
 
