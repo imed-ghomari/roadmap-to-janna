@@ -11,26 +11,14 @@
             "id": "a99b0c05ee1340a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "my-website/docs/sidebar1/Getting started.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "877de4133f98768c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46dae4e0a8b6e190",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Getting started"
             }
           }
         ]
@@ -186,10 +174,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "d9584581ec4a0b99",
+  "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
     "docs/sidebar1/Resources/Obsidian implementation.md",
     "docs/sidebar1/Getting started.md",
