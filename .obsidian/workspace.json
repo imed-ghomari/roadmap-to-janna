@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "37ec4dddebe74270",
+    "type": "split",
+    "children": [
+      {
+        "id": "32962a43abdf1fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a99b0c05ee1340a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "877de4133f98768c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46dae4e0a8b6e190",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3fb1d2b61aaeca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "568dc65d3e907d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9584581ec4a0b99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8336830867c4038a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"[[\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "72f3686e6a949549",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "3c4fd9b65218bca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "62703d5a8440a9ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b4167dfda9918b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/sidebar1/Resources/thing to do before publishing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for thing to do before publishing"
+            }
+          },
+          {
+            "id": "fd9cf4c83678f6d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/sidebar1/Initiatives/worship/Praying.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Praying"
+            }
+          },
+          {
+            "id": "cc660f1b634f27cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "049d3ffdfd92ecb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/sidebar1/Processes/Give away unused items.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Give away unused items"
+            }
+          },
+          {
+            "id": "23e872b5c9d04d5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9584581ec4a0b99",
+  "lastOpenFiles": [
+    "docs/sidebar1/Resources/Obsidian implementation.md",
+    "docs/sidebar1/Getting started.md",
+    "blog/November update.md",
+    "assets/RTJ/Initiatives/bad traits/Envy.md",
+    "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
+    "blog/First releases.md",
+    "docs/sidebar1/Processes/Avoiding Harmful Speech.md",
+    "docs/sidebar1/Processes/Lower your gaze.md",
+    "assets/screenshot2.png",
+    "docs/sidebar1/Initiatives/good traits/Sincerity and truthfulness.md",
+    "assets/RTJ/Initiatives/bad traits/Stinginess.md",
+    "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",
+    "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
+    "assets/RTJ/Initiatives/bad traits/Anger.md",
+    "assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
+    "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
+    "assets/RTJ/Initiatives/worship/new.md",
+    "assets/RTJ/Initiatives/good traits/new.md",
+    "assets/RTJ/Initiatives/bad traits/new.md",
+    "assets/RTJ/Initiatives/bad traits/something.md",
+    "assets/RTJ/Projects/new conflict.md",
+    "assets/RTJ/Projects/new.md",
+    "assets/RTJ/Projects/new>.md",
+    "assets/RTJ/Initiatives/worship/neww.md",
+    "assets/RTJ/Initiatives/bad traits/neww.md",
+    "assets/RTJ/Initiatives/bad traits/newt.md",
+    "assets/RTJ/Initiatives/new.md",
+    "build/blog/atom.xml",
+    "build/blog/atom.css",
+    "build/blog/atom.xsl",
+    "build/blog/rss.xml",
+    "build/blog/rss.css",
+    "build/blog/rss.xsl",
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/index.html",
+    "build/docs/sidebar1/Resources/Process handling/index.html",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/paradise banner.jpg",
+    "build/img/logo.svg",
+    "build/img/docusaurus.png",
+    "build/img/docusaurus-social-card.jpg",
+    "build/img/countryside.png",
+    "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
+    "assets/screenshot.png",
+    "assets/RTJ/Resources/testing canvas ini good traits based on action.canvas",
+    "initiatives/develop strategy/revival habits connections.canvas",
+    "initiatives/develop strategy/new canvas.canvas"
+  ]
+}
