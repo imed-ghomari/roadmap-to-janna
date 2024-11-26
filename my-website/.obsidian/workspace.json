@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "3c4fd9b65218bca3",
@@ -198,17 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dae4e0a8b6e190",
+  "active": "d9584581ec4a0b99",
   "lastOpenFiles": [
     "docs/sidebar1/Resources/Obsidian implementation.md",
-    "blog/November update.md",
     "docs/sidebar1/Getting started.md",
+    "blog/November update.md",
     "assets/RTJ/Initiatives/bad traits/Envy.md",
     "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
     "blog/First releases.md",
     "docs/sidebar1/Processes/Avoiding Harmful Speech.md",
     "docs/sidebar1/Processes/Lower your gaze.md",
-    "assets/performance.png",
+    "assets/screenshot2.png",
     "docs/sidebar1/Initiatives/good traits/Sincerity and truthfulness.md",
     "assets/RTJ/Initiatives/bad traits/Stinginess.md",
     "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",

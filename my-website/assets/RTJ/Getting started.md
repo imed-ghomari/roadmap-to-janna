@@ -107,7 +107,7 @@ I didn't include the sources next to each action in the processes because of the
 1. You can use your own system by extracting the processes documented here.
 2. Or you can use the tool endorsed by the author and the associated file by following [this tutorial](Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated. You can see an example below:
 
-![](assets/performance.png)
+![](../../assets/screenshot2.png)
 
 ### How to Contribute
 
