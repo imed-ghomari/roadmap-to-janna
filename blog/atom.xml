@@ -2,15 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imed-ghomari.github.io/roadmap-to-janna/blog</id>
     <title>Roadmap to Janna Blog</title>
-    <updated>2024-11-20T00:00:00.000Z</updated>
+    <updated>2024-11-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imed-ghomari.github.io/roadmap-to-janna/blog"/>
     <subtitle>Roadmap to Janna Blog</subtitle>
     <icon>https://imed-ghomari.github.io/roadmap-to-janna/img/countryside.png</icon>
     <entry>
-        <title type="html"><![CDATA[First release]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/First release</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/First release"/>
+        <title type="html"><![CDATA[November update]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/November update</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November update"/>
+        <updated>2024-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Was Added]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-was-added">What Was Added<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November%20update#what-was-added" class="hash-link" aria-label="Direct link to What Was Added" title="Direct link to What Was Added">​</a></h2>
+<ul>
+<li>Added action details to "lower the gaze" process</li>
+<li>Added performance image example to getting started</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-changed">What Changed<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November%20update#what-changed" class="hash-link" aria-label="Direct link to What Changed" title="Direct link to What Changed">​</a></h2>
+<ul>
+<li>Removed some errors and improved writing</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-was-removed">What Was Removed<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November%20update#what-was-removed" class="hash-link" aria-label="Direct link to What Was Removed" title="Direct link to What Was Removed">​</a></h2>
+<ul>
+<li>Removed mention of baseless assumptions in "avoiding harmful speech" process documentation because it already has its own process</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First releases]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/First releases</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/First releases"/>
         <updated>2024-11-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the first release of Roadmap to Janna. I hope it will be as beneficial for you as it has been for me, or even more.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to the first release of <em>Roadmap to Janna</em>. I hope it will be as beneficial for you as it has been for me, or even more.</p>
