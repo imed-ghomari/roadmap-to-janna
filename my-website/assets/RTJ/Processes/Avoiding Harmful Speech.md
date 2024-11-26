@@ -17,4 +17,4 @@ step: ""
 
 link to [Loquaciousness](Initiatives/bad%20traits/Loquaciousness.md)
 
-Refrain from making ornamentations or exaggerations in speech. Do not use curse words, vulgar language, or obscenities. Avoid songs, poetry, or excessive joking/laughing that contain bad words or ridicule others. and avoid having suspicion of others (except for marriage or business contracts or when there are clear signs for the assumptions)
+Refrain from making ornamentations or exaggerations in speech. Do not use curse words, vulgar language, or obscenities. Avoid songs, poetry, or excessive joking/laughing that contain bad words or ridicule others.
