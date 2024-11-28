@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-website/docs/sidebar1/Initiatives/bad traits/Pride and self admiration and humility.md",
+                "file": "my-website/docs/sidebar1/Getting started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pride and self admiration and humility"
+              "title": "Getting started"
             }
           }
         ]
@@ -180,6 +180,9 @@
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "my-website/docs/sidebar1/Initiatives/bad traits/Pride and self admiration and humility.md",
+    "my-website/assets/screenshot2.png",
+    "my-website/assets/performance.png",
     "my-website/blog/November update.md",
     "my-website/docs/sidebar1/Getting started.md",
     "docs/sidebar1/Resources/Obsidian implementation.md",
@@ -205,8 +208,6 @@
     "assets/RTJ/Projects/new conflict.md",
     "assets/RTJ/Projects/new.md",
     "assets/RTJ/Projects/new>.md",
-    "assets/RTJ/Initiatives/worship/neww.md",
-    "assets/RTJ/Initiatives/bad traits/neww.md",
     "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/atom.xsl",
@@ -224,9 +225,7 @@
     "build/img/logo.svg",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
-    "build/img/countryside.png",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
-    "assets/screenshot.png",
     "assets/RTJ/Resources/testing canvas ini good traits based on action.canvas",
     "initiatives/develop strategy/revival habits connections.canvas",
     "initiatives/develop strategy/new canvas.canvas"
