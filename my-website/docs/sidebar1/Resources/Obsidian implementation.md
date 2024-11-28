@@ -101,7 +101,7 @@ Check the `working` property for all processes you're already doing. This flags 
 
 ### Step 3: Start Working on the New Processes
 
-* **Use the Tiny Habits Model**: Begin implementing the non-working processes based on the needed action, following the framework described in [Process handling](docs/sidebar1/Resources/Process%20handling.md).
+* **Use the [Process handling](docs/sidebar1/Resources/Process%20handling.md) framework**: Begin implementing the non-working processes based on the needed action.
 * **Identify Necessary Modifications**: If a process needs to be adjusted to fit your situation, create a project to outline the required changes.
 
 ### Step 4: Manage Your Vault

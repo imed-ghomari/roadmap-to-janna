@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-website/docs/sidebar1/Getting started.md",
+                "file": "my-website/docs/sidebar1/Resources/Obsidian implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting started"
+              "title": "Obsidian implementation"
             }
           }
         ]
@@ -180,11 +180,11 @@
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "my-website/docs/sidebar1/Getting started.md",
     "my-website/docs/sidebar1/Initiatives/bad traits/Pride and self admiration and humility.md",
     "my-website/assets/screenshot2.png",
     "my-website/assets/performance.png",
     "my-website/blog/November update.md",
-    "my-website/docs/sidebar1/Getting started.md",
     "docs/sidebar1/Resources/Obsidian implementation.md",
     "docs/sidebar1/Getting started.md",
     "blog/November update.md",
