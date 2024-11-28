@@ -242,7 +242,7 @@ const calculateStats = (data, category) => {
     let currentLevel = levels[category].findIndex(level => avg < level.threshold);
     if (avg == 100) {
         // Explicitly handle the case where avg is 100%
-        currentLevel = levels[category].length - 1; // Last level
+        currentLevel = levels[category].length ; // Last level
     } else if (currentLevel === -1) {
         currentLevel = levels[category].length - 1; // Default to maximum level if none match
     }
