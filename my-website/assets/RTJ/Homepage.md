@@ -110,8 +110,7 @@ where
 	and waiting = false 
 	and (!start or start<=date(today))
 	and !contains(file.path,"Admin")
-	and (context = null or context != "old")
-	and !contains(initiative.waiting,true)
+	and any(initiative.waiting,false)
 	and !contains(initiative.designed,false)
 sort rows.initiative
 group by step
@@ -279,7 +278,7 @@ dv.paragraph(`==Bad Traits Score:== ${badTraitsStats.avg}%, Level: ${badTraitsSt
 dv.paragraph(`Next Level: ${badTraitsStats.nextLevelName} (**${badTraitsStats.processesNeeded}** processes needed)`);
 dv.paragraph(`==Good Traits Score:== ${goodTraitsStats.avg}%, Level: ${goodTraitsStats.currentLevel}/${goodTraitsStats.totalLevels} **(${goodTraitsStats.currentLevelName})**`);
 dv.paragraph(`Next Level: ${goodTraitsStats.nextLevelName} (**${goodTraitsStats.processesNeeded}** processes needed)`);
-dv.paragraph(`==Worship Actions Score:== ${worshipActionsStats.avg}%, Level: ${worshipActionsStats.currentLevel}/${worshipActionsStats.totalLevels} **(${worshipActionsStats.currentLevelName})**)`);
+dv.paragraph(`==Worship Actions Score:== ${worshipActionsStats.avg}%, Level: ${worshipActionsStats.currentLevel}/${worshipActionsStats.totalLevels} **(${worshipActionsStats.currentLevelName})**`);
 dv.paragraph(`Next Level: ${worshipActionsStats.nextLevelName} (**${worshipActionsStats.processesNeeded}** processes needed)`);
 
 

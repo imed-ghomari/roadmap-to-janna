@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Homepage"
@@ -178,10 +178,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3b7ae453dabb9a3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Processes/Accept gift if lawful and pure intentions.md",
     "Homepage.md",
+    "Processes/Accept gift if lawful and pure intentions.md",
     "Processes/Accept accusations or forgive transgressions against you.md",
     "Initiatives/bad traits/Pride and self admiration and humility.md",
     "Initiatives/bad traits/Anger.md",
