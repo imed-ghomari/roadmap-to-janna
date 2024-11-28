@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-website/docs/sidebar1/Resources/Obsidian implementation.md",
+                "file": "my-website/docs/sidebar1/Initiatives/worship/Zakat and charity and selflessness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian implementation"
+              "title": "Zakat and charity and selflessness"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "my-website/docs/sidebar1/Resources/Obsidian implementation.md",
     "my-website/docs/sidebar1/Getting started.md",
     "my-website/docs/sidebar1/Initiatives/bad traits/Pride and self admiration and humility.md",
     "my-website/assets/screenshot2.png",

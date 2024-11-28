@@ -17,7 +17,7 @@ Each person gives based on their love for Allah. Most people may not be able to 
 
 ## Conditions for Giving
 
-In giving [zakat](docs/sidebar1/Processes/Pay%20zakat.md), prayer, and [charity](docs/sidebar1/Processes/Give%20happily.md), keep these five principles in mind:
+In giving [zakat](docs/sidebar1/Processes/Pay%20zakat.md) and [charity](docs/sidebar1/Processes/Give%20happily.md), keep these five principles in mind:
 
 1. **Secrecy:** Give in private to avoid showing off.
 2. **Humility:** Recognize that the recipient is helping you by accepting Allah's due, which purifies you from greed.
