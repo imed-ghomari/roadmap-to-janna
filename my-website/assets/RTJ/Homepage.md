@@ -189,6 +189,13 @@ const levels = {
     ]
 };
 
+// Use a Set to track unique processes for each category
+const seenFiles = {
+    badTraits: new Set(),
+    goodTraits: new Set(),
+    worshipActions: new Set()
+};
+
 // Gather data for initiatives
 dv.pages()
     .filter(t => t.type === "initiative")
@@ -201,17 +208,20 @@ dv.pages()
             const process = dv.page(link.path);
             if (process && process.working !== undefined) {
                 // Count total processes and working processes for each category
-                if (initiativeKR === "bad traits") {
+                if (initiativeKR === "bad traits" && !seenFiles.badTraits.has(link.path)) {
+                    seenFiles.badTraits.add(link.path);
                     categoryData.badTraits.totalProcesses++;
                     if (process.working) {
                         categoryData.badTraits.workingProcesses++;
                     }
-                } else if (initiativeKR === "good traits") {
+                } else if (initiativeKR === "good traits" && !seenFiles.goodTraits.has(link.path)) {
+                    seenFiles.goodTraits.add(link.path);
                     categoryData.goodTraits.totalProcesses++;
                     if (process.working) {
                         categoryData.goodTraits.workingProcesses++;
                     }
-                } else if (initiativeKR === "worship actions") {
+                } else if (initiativeKR === "worship actions" && !seenFiles.worshipActions.has(link.path)) {
+                    seenFiles.worshipActions.add(link.path);
                     categoryData.worshipActions.totalProcesses++;
                     if (process.working) {
                         categoryData.worshipActions.workingProcesses++;
@@ -225,26 +235,37 @@ dv.pages()
 const calculateStats = (data, category) => {
     const totalProcesses = data.totalProcesses; // Total processes
     const workingProcesses = data.workingProcesses; // Total working processes
-    
+
+    // Calculate the percentage score
     const avg = totalProcesses > 0 ? (workingProcesses / totalProcesses * 100).toFixed(2) : 0;
-    
-    // Determine current and next levels
+
+    // Determine current level
     let currentLevel = levels[category].findIndex(level => avg < level.threshold);
-    if (currentLevel === -1) currentLevel = levels[category].length - 1; // Maximum level if above highest threshold
+    if (avg == 100) {
+        // Explicitly handle the case where avg is 100%
+        currentLevel = levels[category].length - 1; // Last level
+    } else if (currentLevel === -1) {
+        currentLevel = levels[category].length - 1; // Default to maximum level if none match
+    }
 
     // Adjust for zero-based indexing in levels
     currentLevel = currentLevel > 0 ? currentLevel - 1 : currentLevel;
 
-    const nextLevel = Math.min(currentLevel + 1, levels[category].length - 1);
-    const processesNeeded = Math.ceil((levels[category][nextLevel].threshold - avg) / 100 * totalProcesses);
+    const isLastLevel = avg == 100; // Check if it's the last level
+    const nextLevel = isLastLevel ? currentLevel : Math.min(currentLevel + 1, levels[category].length - 1);
+
+    // Processes needed for the next level
+    const processesNeeded = isLastLevel
+        ? 0 // No more processes needed for the last level
+        : Math.ceil((levels[category][nextLevel].threshold - avg) / 100 * totalProcesses);
 
     return {
         avg,
         currentLevel: currentLevel + 1, // 1-indexed
         totalLevels: levels[category].length,
         currentLevelName: levels[category][currentLevel].name,
-        nextLevelName: levels[category][nextLevel].name,
-        processesNeeded: Math.max(0, processesNeeded) // Avoid negative numbers
+        nextLevelName: isLastLevel ? "None" : levels[category][nextLevel].name,
+        processesNeeded: isLastLevel ? 0 : Math.max(0, processesNeeded) // Avoid negative numbers
     };
 };
 

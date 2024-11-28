@@ -4,7 +4,7 @@ designed: true
 dependency: ""
 waiting: false
 start: ""
-KR: good traits
+KR: bad traits
 ---
 
 ## Pride
