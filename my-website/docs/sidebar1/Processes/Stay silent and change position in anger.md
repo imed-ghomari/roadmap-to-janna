@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad traits/Anger|Anger]]"
+- '[[Anger]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Anger](docs/sidebar1/Initiatives/bad%20traits/Anger.md):

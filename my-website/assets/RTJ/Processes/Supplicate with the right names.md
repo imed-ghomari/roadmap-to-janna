@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Reliance|Reliance]]"
+- '[[Reliance]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Reliance](Initiatives/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.

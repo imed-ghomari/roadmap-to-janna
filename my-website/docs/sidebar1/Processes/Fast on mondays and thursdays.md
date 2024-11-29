@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Fasting|Fasting]]"
+- '[[Fasting]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)

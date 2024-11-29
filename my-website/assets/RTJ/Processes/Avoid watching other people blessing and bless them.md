@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/bad traits/Envy|Envy]]"
+- '[[Envy]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Envy](Initiatives/bad%20traits/Envy.md): say Tabaraka Lah or macha'alah when witnessing a blessing.

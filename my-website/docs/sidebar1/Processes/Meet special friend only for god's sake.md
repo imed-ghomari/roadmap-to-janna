@@ -1,19 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Remembering death|Remembering death]]"
+- '[[Love]]'
+- '[[Remembering death]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md): Because you love him more, so you love the ones who love him

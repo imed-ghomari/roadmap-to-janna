@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -93,7 +93,7 @@ The proper way to make dua includes:
 2. **Make your request**: Supplicate for what you need or wish for.
 3. **Conclude with praise**: End by praising Allah, sending salawat, and seeking forgiveness again.
 
-#### Times When Dua is Accepted
+#### [Times When Dua is Accepted](Processes/Supplicate%20in%20the%20blessed%20times.md)
 
 There are certain times when supplications are more likely to be accepted:
 

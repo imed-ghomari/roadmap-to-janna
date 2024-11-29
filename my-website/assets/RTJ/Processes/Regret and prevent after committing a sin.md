@@ -1,23 +1,23 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Repentance|Repentance]]"
-  - "[[Initiatives/worship/Praying|Praying]]"
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[Initiatives/good traits/Fear and hope|Fear and hope]]"
+- '[[Repentance]]'
+- '[[Praying]]'
+- '[[Remembering death]]'
+- '[[Fear and hope]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
- 
+
 * Link to [Repentance](Initiatives/good%20traits/Repentance.md):
 	* **About the past**: Regret the sin you did and ask for forgiveness within 6 hours of sinning by saying dua outside or inside prayer (in nafl repentance prayer)
 	* **About the future**: Plan for future prevention, commit to never doing it again, do good deeds for every bad deed you did to balance the scale and ask forgiveness if it affected others

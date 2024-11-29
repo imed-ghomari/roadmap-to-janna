@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
@@ -17,7 +17,7 @@ Each person gives based on their love for Allah. Most people may not be able to 
 
 ## Conditions for Giving
 
-In giving [zakat](Processes/Pay%20zakat.md), prayer, and [charity](Processes/Give%20happily.md), keep these five principles in mind:
+In giving [zakat](Processes/Pay%20zakat.md) and [charity](Processes/Give%20happily.md), keep these five principles in mind:
 
 1. **Secrecy:** Give in private to avoid showing off.
 2. **Humility:** Recognize that the recipient is helping you by accepting Allah's due, which purifies you from greed.
@@ -38,5 +38,4 @@ Consider giving in these situations:
 	* [Share useful knowledge](Processes/Leave%20useful%20knowledge.md)
 * [To remove grudges](Processes/Give%20gifts.md)
 * [When you have unused items](Processes/Give%20away%20unused%20items.md)
-* [While in good health and youth](Processes/Give%20in%20charity%20in%20health%20and%20youth.md)
 * Be flexible with loans, especially if your debtor is facing hardships.

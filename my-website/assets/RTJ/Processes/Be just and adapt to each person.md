@@ -1,20 +1,20 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[Initiatives/worship/Parenting|Parenting]]"
+- '[[Upholding the right of muslims]]'
+- '[[Remembering death]]'
+- '[[Parenting]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md):
@@ -40,4 +40,4 @@ Major injustices include:
 > 
 > Practice justice and equality in your roles as leader, spouse, and parent. Recognize individual differences and treat others fairly.
 > 
-  
+

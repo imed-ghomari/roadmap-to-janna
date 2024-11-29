@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -49,7 +49,7 @@ Knowledge of Allah and His attributes, alongside His creation, deeply delights t
 To get the love of Allah, we need to be among the people who have these good qualities :
 
 * The doers of good
-* Those who are mindful of him
+* Those who are [mindful of him](Initiatives/good%20traits/Fear%20and%20hope.md)
 * The equitable and [just](Processes/Be%20just%20and%20adapt%20to%20each%20person.md)
 * Those who [purify themselves](Processes/Clean%20and%20beautify%20yourself.md)
 * Those who [return to him](Initiatives/good%20traits/Repentance.md)

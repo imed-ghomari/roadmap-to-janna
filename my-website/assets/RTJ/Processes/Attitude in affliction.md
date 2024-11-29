@@ -1,24 +1,24 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Patience|Patience]]"
-  - "[[Initiatives/good traits/Gratitude|Gratitude]]"
-  - "[[Initiatives/good traits/Contentment with divine decree|Contentment with divine decree]]"
-  - "[[Initiatives/bad traits/Anger|Anger]]"
-  - "[[Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
-  - "[[Initiatives/good traits/Asceticism|Asceticism]]"
-  - "[[Initiatives/good traits/Repentance|Repentance]]"
+- '[[Patience]]'
+- '[[Gratitude]]'
+- '[[Contentment with divine decree]]'
+- '[[Anger]]'
+- '[[Remembrance of allah]]'
+- '[[Asceticism]]'
+- '[[Repentance]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Patience](Initiatives/good%20traits/Patience.md): Be patient with adversities outside your control (e.g., death, injury, illness, or property loss). Whether it's punishment or a trial (bala'), we can cry and feel sadness, but we should remain silent or say, *"To Allah we belong, and to Him we shall return."* Avoid complaining to others about your adversities and ensure your first reaction to calamity aligns with faith and acceptance.
@@ -39,5 +39,4 @@ step: ""
 > * **A**nger: Control anger and stay calm through faith and trust in Allah.
 > * **D**on't Complain: Avoid complaining to others; direct your concerns and worries to Allah.
 > * **S**adness: Accept sadness as a natural part of life while remaining steadfast.
-> 
 

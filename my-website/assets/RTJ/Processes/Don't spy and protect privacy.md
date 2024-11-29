@@ -1,20 +1,20 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Commanding good and forbidding evil|Commanding good and forbidding evil]]"
-  - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[Initiatives/worship/Parenting|Parenting]]"
+- '[[Commanding good and forbidding evil]]'
+- '[[Upholding the right of muslims]]'
+- '[[Parenting]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Commanding good and forbidding evil](Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md): Avoid spying on others to identify and prevent wrongdoing.
@@ -22,4 +22,3 @@ step: ""
 	* Respect people's privacy. If you overhear a conversation unintentionally, consider covering your ear with headphones.
 	* don't enter the house without permission, and stop at three times.
 * Link to [Parenting](Initiatives/worship/Parenting.md): Protect children's privacy. Even within the same household, avoid entering their room without permission and give them space to be alone.
- 

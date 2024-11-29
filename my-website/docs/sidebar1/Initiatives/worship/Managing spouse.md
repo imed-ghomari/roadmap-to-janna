@@ -1,31 +1,31 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
 ## Criteria for Choosing a Spouse
 
 * **General Conditions** (from Umar ibn Abdul Aziz)
-    * Kindness
-    * Commitment
-    * Forgiveness
-    * Compatibility
-    * Shared goals
+	* Kindness
+	* Commitment
+	* Forgiveness
+	* Compatibility
+	* Shared goals
 * **Conditions Specific to Women**
-    * As per the famous hadith, it is advised to choose a woman for her religiosity; other desirable characteristics, like beauty, wealth, and status, are also favorable but secondary.
-    * Characteristics for a good marriage (from Al-Ghazali):
-        * Religiosity
-        * Good character
-        * Beauty
-        * Reasonable dowry
-        * Virginity
-        * Fertility
-        * Good lineage (from a pious Muslim family)
-        * Absence of close kinship
+	* As per the famous hadith, it is advised to choose a woman for her religiosity; other desirable characteristics, like beauty, wealth, and status, are also favorable but secondary.
+	* Characteristics for a good marriage (from Al-Ghazali):
+		* Religiosity
+		* Good character
+		* Beauty
+		* Reasonable dowry
+		* Virginity
+		* Fertility
+		* Good lineage (from a pious Muslim family)
+		* Absence of close kinship
 
 ## Obligations towards the Spouse
 
@@ -50,9 +50,9 @@ KR: worship actions
 ## Additional Considerations for a Good Relationship
 
 * The Quran describes the spouse as a garment for the other, highlighting three qualities:
-    * **Beautification** by [avoiding baseless assumptions](docs/sidebar1/Processes/Avoid%20baseless%20assumptions.md)
-    * **Concealment** by [overlooking what is disliked](docs/sidebar1/Processes/Overlook%20what%20is%20disliked.md)
-    * **Protection** by [guarding honor, wealth, and life](docs/sidebar1/Processes/Protect%20and%20don't%20harm%20honor,%20wealth%20and%20life.md)
+	* **Beautification** by [avoiding baseless assumptions](docs/sidebar1/Processes/Avoid%20baseless%20assumptions.md)
+	* **Concealment** by [overlooking what is disliked](docs/sidebar1/Processes/Overlook%20what%20is%20disliked.md)
+	* **Protection** by [guarding honor, wealth, and life](docs/sidebar1/Processes/Protect%20and%20don't%20harm%20honor,%20wealth%20and%20life.md)
 * Treat each other well, enduring harm by showing patience (hilm) through [forgiving transgressions](docs/sidebar1/Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md).
 * Resolve conflicts by [maintaining healthy interactions and arguments](docs/sidebar1/Processes/Managing%20difference%20of%20opinion.md).
 * [Engage in playfulness and lightheartedness](docs/sidebar1/Processes/Love%20playfully%20and%20support.md) with each other without excessive jesting, which could reduce the husband's authority.

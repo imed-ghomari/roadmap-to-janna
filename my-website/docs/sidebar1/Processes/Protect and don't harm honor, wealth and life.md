@@ -1,20 +1,20 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[docs/sidebar1/Initiatives/worship/Managing spouse|Managing spouse]]"
-  - "[[docs/sidebar1/Initiatives/worship/Parenting|Parenting]]"
+- '[[Upholding the right of muslims]]'
+- '[[Managing spouse]]'
+- '[[Parenting]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Upholding the right of muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md): As a guardian, it is your responsibility to ensure the well-being of your family and the Muslims in your care. This includes denouncing backbiting, actively addressing their concerns, and supporting those in need.

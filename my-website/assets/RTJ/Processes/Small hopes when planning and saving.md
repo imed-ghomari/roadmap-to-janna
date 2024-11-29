@@ -1,19 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
-  - "[[Initiatives/good traits/Reliance|Reliance]]"
+- '[[Remembering death]]'
+- '[[Reliance]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Remembering death](Initiatives/good%20traits/Remembering%20death.md): Maintain short-term hopes by planning only the immediate morning or evening, and remember death twice a day on these occasions

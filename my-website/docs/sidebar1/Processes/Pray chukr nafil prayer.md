@@ -1,19 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Gratitude|Gratitude]]"
+- '[[Praying]]'
+- '[[Gratitude]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)

@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Reliance|Reliance]]"
+- '[[Reliance]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Reliance](Initiatives/good%20traits/Reliance.md)

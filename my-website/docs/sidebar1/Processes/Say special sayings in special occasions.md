@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
+- '[[Remembrance of allah]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Remembrance of Allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:
@@ -22,8 +22,8 @@ Link to [Remembrance of Allah](docs/sidebar1/Initiatives/worship/Remembrance%20o
 * **Make specific dua of light (nour) when going to Jumu'ah** _اللّٰهُمَّ اجْعَلْ لِيْ نُوْرًا فِيْ قَلْبِيْ، وَنُوْرًا فِيْ بَصَرِيْ، وَنُوْرًا فِيْ سَمْعِيْ، وَنُوْرًا فِيْ يَمِيْنِيْ، وَنُوْرًا فِيْ شِمَالِيْ، وَنُوْرًا فِيْ فَوْقِيْ، وَنُوْرًا تَحْتِيْ، وَنُوْرًا فِيْ أَمَامِيْ، وَنُوْرًا خَلْفِيْ._
 * **Make specific dua when going out** _بِسْمِ اللّٰهِ تَوَكَّلْتُ عَلَى اللّٰهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ._
 * **Make specific duas entering and leaving the mosque**
-    * **Entering**: _اللّٰهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ._
-    * **Leaving**: _اللّٰهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ._
+	* **Entering**: _اللّٰهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ._
+	* **Leaving**: _اللّٰهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ._
 * **Make specific dua when encountering a recitation sajda** _اللّٰهُمَّ اكْتُبْ لِيْ بِهَا عِنْدَكَ أَجْرًا، وَضَعْ عَنِّيْ بِهَا وِزْرًا، وَاجْعَلْهَا لِيْ عِنْدَكَ ذُخْرًا، وَتَقَبَّلْهَا مِنِّيْ كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ._
 * **Make specific dua when shopping** _لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ، يُحْيِيْ وَيُمِيْتُ ، وَهُوَ حَيٌّ لَا يَمُوْتُ ، بِيَدِهِ الْخَيْرُ ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ._
 * **Make specific dua when traveling (when entering transportation)** _سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هٰذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ ، وَإِنَّا إِلَىٰ رَبِّنَا لَمُنْقَلِبُوْنَ._

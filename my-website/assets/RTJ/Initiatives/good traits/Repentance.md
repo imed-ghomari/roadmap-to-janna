@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -35,7 +35,7 @@ Repentance varies according to the individual's level:
 **Common times for repentance include:**
   * During [daily supplications](Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md).
   * During [times of affliction](Processes/Attitude%20in%20affliction.md), as hardship may result from sin.
-  * In the [last ten days of Ramadan](Processes/Repent%20in%20last%20ten%20days%20of%20ramadan.md), blessings and acceptance are increased.
+  * In the last ten days of Ramadan, blessings and acceptance are increased. Make sure to use the special dua: "اَللّٰهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ" (You can set an automatic notification for this)
 
 ## Conditions for True Repentance
 
@@ -57,7 +57,7 @@ Repentance requires giving up persistent sin. Five common barriers to this inclu
 
 ## The Nature of Minor Sins
 
-[Minor sins](Processes/Don't%20let%20minor%20sins%20become%20major.md) can accumulate for various reasons, requiring constant awareness and repentance driven by fear, which stems from wisdom and insight.
+[Minor sins](Processes/Conceal%20your%20sins.md) can accumulate for various reasons, requiring constant awareness and repentance driven by fear, which stems from wisdom and insight.
 
   * Belittling minor sins can cause disregard.
   * Feeling joy or pride in minor sins, thinking they are a blessing.
@@ -72,9 +72,9 @@ For protection and prevention, here are the sources that you need to be aware of
   * **Internal**: The ego and lower self, often leading to habitual sins.
   * **External**: The temptations of the world.
   * **Satan**: Which leads to opportunistic sins. He attacks in stages, starting with:
-    * Shirk (associating partners with Allah)
-    * Bid'ah (religious innovation)
-    * Major sins
-    * Minor sins
-    * Overindulgence in permissible activities (leading to wasted time)
-    * Lowering one's efforts in good deeds
+	* Shirk (associating partners with Allah)
+	* Bid'ah (religious innovation)
+	* Major sins
+	* Minor sins
+	* Overindulgence in permissible activities (leading to wasted time)
+	* Lowering one's efforts in good deeds

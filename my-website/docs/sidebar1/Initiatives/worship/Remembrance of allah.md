@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
@@ -23,7 +23,7 @@ The ultimate goal, or core, is for the focus to shift entirely from the act of r
 
 * [**Praying**](docs/sidebar1/Initiatives/worship/Praying.md)
 * [**Reading the Quran**](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md)
-* **Discussing Allah and Religion**
+* **[Discussing Allah and Religion](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)**
 * [**Learning about Islam**](docs/sidebar1/Processes/Build%20knowledge%20in%20free%20time.md) through videos or podcasts
 * [**Contemplating Creation**](docs/sidebar1/Processes/Contemplate%20the%20creation.md)
 * **Making Dua**–further developed in the [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md) initiative.
@@ -45,4 +45,4 @@ The fruits of remembrance emerge progressively: first, verbal dhikr, then forced
 * [**Waiting Periods**](docs/sidebar1/Processes/Fill%20up%20most%20of%20your%20time%20with%20dhikr.md): Fill time with dhikr
 * [**Morning, Evening, and Before Sleep supplications**](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md)
 * [**Special Occasions**](docs/sidebar1/Processes/Say%20special%20sayings%20in%20special%20occasions.md): Say specific dua and dhikr when entering the home or mosque…
-* **First Ten Days of Dhul Hijjah**: Recite tahlil, takbir, and tahmid aloud and frequently.
+* **First Ten Days of Dhul Hijjah**: Recite tahlil, takbir, and tahmid aloud and frequently. (You can set an automatic notification for this)

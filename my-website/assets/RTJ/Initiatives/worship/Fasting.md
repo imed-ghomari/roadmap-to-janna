@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
@@ -31,10 +31,10 @@ Fasting holds a special place as Allah directly rewards it for two main reasons:
 ## Conditions of Fasting
 
 * Intend and purify your purpose before fasting in Ramadan or even optional fasts. [Set and purify intentions before fasting](Processes/Make%20suhoor%20late%20and%20brake%20fast%20early.md).
-* Take a pre-dawn meal called Sahur. Delaying it close to fajr time is preferable.
-* Fasting should end with undoubtedly permissible food in moderation, without overeating (combining two meals at once). Overeating disrupts the spiritual benefits of fasting, causing laziness in night prayers and possibly missing the morning prayer. [Make suhoor late and break the fast early](Processes/Make%20suhoor%20late%20and%20brake%20fast%20early.md).
+* Take a pre-dawn meal called Sahur. [Delaying it close to fajr time is preferable; however, the earliest is best when it comes to breaking the fast](Processes/Make%20suhoor%20late%20and%20brake%20fast%20early.md).
+* Fasting should end with undoubtedly permissible food in moderation, without overeating (combining two meals at once). Overeating disrupts the spiritual benefits of fasting, causing laziness in night prayers and possibly missing the morning prayer.
 
 ## Supplementary Fasting
 
-* [Special fasting days](Processes/Fast%20special%20days.md) include the six days of Shawwal after Ramadan, the day of 'Arafah, 'Ashura, and the first ten days of Dhu al-Hijjah..
-* During the sacred months (Dhul-Qa'dah, Dhul-Hijjah, Muharram, Rajab), it is recommended to fast more and avoid bad deeds, honoring the significance of these months. One practical way of doing this is by [fasting the "white days"](Processes/Fast%20bid%20days.md) (13th, 14th, and 15th of each month).
+* [Special fasting days](Processes/Fast%20special%20days.md) include the six days of Shawwal after Ramadan, the day of 'Arafah, 'Ashura, and the first ten days of Dhu al-Hijjah.
+* During the sacred months (Dhul-Qa'dah, Dhul-Hijjah, Muharram, Rajab), it is recommended to fast more and avoid bad deeds, honoring their significance. One practical way of doing this is [fasting the "white days"](Processes/Fast%20bid%20days.md) (the 13th, 14th, and 15th of each of these month).

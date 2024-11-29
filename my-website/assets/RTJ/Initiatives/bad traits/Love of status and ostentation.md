@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: bad traits
 ---
 
@@ -23,8 +23,8 @@ KR: bad traits
 
 ### Managing the Desire for Praise
 
-* Seeking status often stems from a love of praise, which brings pleasure by enhancing self-image, affirming influence over others, or elevating social status.  
-* [Praise should be received cautiously](Processes/Avoid%20being%20praised%20and%20praising.md). Joy in praise based on wealth or status is misplaced since these are not true virtues. If one is praised for genuine knowledge or piety, gratitude should be directed to Allah, not the person praising. Without true virtue, rejoicing in praise is misguided.
+* Seeking status often stems from a love of praise, which brings pleasure by enhancing self-image, affirming influence over others, or elevating social status.
+* [Praise should be received cautiously](Processes/Moderation%20in%20Praise%20and%20Questioning.md). Joy in praise based on wealth or status is misplaced since these are not true virtues. If one is praised for genuine knowledge or piety, gratitude should be directed to Allah, not the person praising. Without true virtue, rejoicing in praise is misguided.
 
 Different attitudes towards praise and blame reveal four levels:
 
@@ -73,12 +73,12 @@ Blatant ostentation voids the deed, while hidden ostentation may reduce its rewa
 ### Treating Ostentation by Examining Its Causes
 
 * **Treatment addresses three main causes**: love of praise, fear of criticism, and greed.
-    * **Love of Praise**: Combat this by recognizing that people's praise is superficial. Remind yourself that ostentation is harmful, like "sweet honey with hidden poison."
-    * **Fear of Criticism**: Remember that people's criticism is harmless if your actions are pleasing to Allah. You should try [accepting criticism or forgiving others](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) to help with this.
-    * **Greed**: Realize that greed for praise or reward is illusory, unlike the loss of Allah's pleasure.
+	* **Love of Praise**: Combat this by recognizing that people's praise is superficial. Remind yourself that ostentation is harmful, like "sweet honey with hidden poison."
+	* **[Fear of Criticism](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md)**: Remember that people's criticism is harmless if your actions please Allah.
+	* **Greed**: Realize that greed for praise or reward is illusory, unlike the loss of Allah's pleasure.
 * **Handling sudden feelings of ostentation** can be done by:
-    * [Keeping your good deeds private](Processes/Hide%20your%20good%20deeds.md).
-    * [Combat ostentation during worship](Processes/Combat%20ostentation%20during%20worship.md) by renewing your awareness that Allah's view is what matters, not people's, to avoid falling into ostentation.
+	* [Keeping your good deeds private](Processes/Hide%20your%20good%20deeds.md).
+	* [Combating ostentation during worship](Processes/Combat%20ostentation%20during%20worship.md) by renewing your awareness that Allah's view is what matters, not people's, to avoid falling into ostentation.
 
 ### Showing or Hiding Good Deeds
 

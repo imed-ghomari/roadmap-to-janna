@@ -1,20 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/bad traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
-  - "[[docs/sidebar1/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[docs/sidebar1/Initiatives/worship/Following the sunnah|Following the sunnah]]"
+- '[[Upholding the right of muslims]]'
+- '[[Following the sunnah]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Pride and self admiration and humility](docs/sidebar1/Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): Respond to invitations with politeness and humility. Call upon others with gentleness and do not avoid them out of shame.

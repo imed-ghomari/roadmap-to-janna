@@ -1,20 +1,20 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Seeking the lawful|Seeking the lawful]]"
-  - "[[Initiatives/good traits/Love|Love]]"
-  - "[[Initiatives/good traits/Asceticism|Asceticism]]"
+- '[[Seeking the lawful]]'
+- '[[Love]]'
+- '[[Asceticism]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md): To avoid sin, relinquish lawful actions (like excessive indulgence) that could lead to unlawful ones. This protective measure keeps you distant from sin by reducing the possibility of falling into it.
@@ -29,4 +29,4 @@ step: ""
 > 
 > Give up lawful indulgences that may lead to unlawful ones; Remove other loves and attachments, as they compete with the love of God and can lead to sin.
 > 
-  
+

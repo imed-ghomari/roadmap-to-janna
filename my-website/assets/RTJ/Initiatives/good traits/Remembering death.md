@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -13,10 +13,10 @@ The Prophet said: "I have left two guides among you: one is silent, and one spea
 
 1. **Benefits**: Reflecting on death encourages detachment from worldly things and longing for the hereafter. Those who truly love God will yearn to meet Him.
 2. **Method**: To reflect on death:
-    * Set aside time alone, empty your mind of other thoughts, and deeply contemplate.
-    * Remember those who have passed—friends and peers who once held ambitions, wealth, and status. Reflect on their last moments, regrets, and physical decay.
-    * Remind yourself that, like them, your body will weaken, and your life will end similarly.
-    * [Visit graveyards](Processes/Visit%20the%20dead.md) and [make prayers for the deceased](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md)
+	* Set aside time alone, empty your mind of other thoughts, and deeply contemplate.
+	* Remember those who have passed—friends and peers who once held ambitions, wealth, and status. Reflect on their last moments, regrets, and physical decay.
+	* Remind yourself that, like them, your body will weaken, and your life will end similarly.
+	* [Visit graveyards](Processes/Visit%20the%20dead.md) and [make prayers for the deceased](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md)
 
 > [!tip] Mindset
 > 

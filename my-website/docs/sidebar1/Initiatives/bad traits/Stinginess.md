@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: bad traits
 ---
 
@@ -40,11 +40,11 @@ Stinginess leads to ruin in the afterlife and earns criticism in this life. Weal
 
 ### Practicing Generosity
 
-To overcome stinginess, train yourself to spend until it becomes a natural habit. Begin by spending with the intention of earning reward and a good reputation, and gradually cultivate genuine generosity. Here are some meaningful ways to use wealth:  
+To overcome stinginess, train yourself to spend until it becomes a natural habit. Begin by spending with the intention of earning reward and a good reputation, and gradually cultivate genuine generosity. Here are some meaningful ways to use wealth:
 
-* **Worship and Its Necessities**: Spend on acts of worship (e.g., Hajj) or necessities that support worship.  
-* **Charity**: Direct wealth to [charitable acts](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md) and selflessness.  
-* **Hospitality**: Host guests, give gifts, and assist others.  
-* **Defending Honour**: Spend to protect your reputation or avert slander; this is considered a form of charity as it prevents backbiting and promotes social harmony.  
-* **Services**: Pay for services that benefit yourself and others, such as hiring employees for essential tasks.  
-* **Public Projects**: Contribute to community projects like building masjids, bridges, or endowments that provide long-term benefits.  
+* **Worship and Its Necessities**: Spend on acts of worship (e.g., [Hajj](docs/sidebar1/Initiatives/worship/Hajj.md)) or necessities that support worship.
+* **Charity**: Direct wealth to [charitable acts](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md) and selflessness.
+* **Hospitality**: Host guests, give gifts, and assist others.
+* **Defending Honour**: Spend to protect your reputation or avert slander; this is considered a form of charity as it prevents backbiting and promotes social harmony.
+* **Services**: Pay for services that benefit yourself and others, such as hiring employees for essential tasks.
+* **[Public Projects](docs/sidebar1/Processes/Create%20source%20of%20continuous%20charity.md)**: Contribute to community projects like building masjids, bridges, or endowments that provide long-term benefits.

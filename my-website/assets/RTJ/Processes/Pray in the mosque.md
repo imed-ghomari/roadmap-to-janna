@@ -1,19 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Praying|Praying]]"
-  - "[[Initiatives/good traits/Remembering death|Remembering death]]"
+- '[[Praying]]'
+- '[[Remembering death]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Praying](Initiatives/worship/Praying.md) and [Remembering death](Initiatives/good%20traits/Remembering%20death.md)

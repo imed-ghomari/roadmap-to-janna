@@ -1,19 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/worship/Praying|Praying]]"
-  - "[[Initiatives/bad traits/Pride and self admiration and humility|Pride and self admiration and humility]]"
+- '[[Praying]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Pride and self admiration and humility](Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
@@ -23,7 +22,7 @@ step: ""
 	* Understand the meaning of the words recited, which results in glorifying Allah with fear, hope, and humility.
 	* Pray like it's your last: Picture that you're going to die right after because it's a possibility, and this prayer might be your last attempt at salvation.
 	* Don't make too many sujud ba3di or 9abli.
-	* Use the technique of one of the predecessors: Picture that the angel of death is above you, hell on the left, Janna on the right; you are on the bridge; you can see the Kaaba in front of you, and picture the greatness of the one you are praying to.
+	* Use the technique of one of the predecessors: Picture that the angel of death is above you, hell on the left, Janna on the right; you are on the bridge; you can see the ka3ba en face, and picture the greatness of the one you are praying to.
 
 > [!tip] summary
 > 
@@ -31,5 +30,3 @@ step: ""
 > Remember your humble origins and pray attentively, focusing on different supplications in each portion of your prayers and envisioning each prayer as if it were your last.
 > 
 
-
- 

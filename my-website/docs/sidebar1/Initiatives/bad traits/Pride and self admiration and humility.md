@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: bad traits
 ---
 
@@ -61,6 +61,6 @@ Self-admiration stems from ignorance, and its treatment lies in knowledge. If so
 
 :::info
 
-It's important to keep in mind that Haya is nuanced and complex, encompassing shyness, shame, and modesty simultaneously, so it cannot be condensed to just one concept. However, humility is its most common interpretation and the opposite of this initiative's trait, so it has been introduced here.
+It's important to keep in mind that Haya is nuanced and complex, encompassing shyness, shame, and modesty simultaneously, so it cannot be condensed to just one concept. However, humility is its most common interpretation and the opposite of this trait's excess, so it has been introduced here.
 
 :::

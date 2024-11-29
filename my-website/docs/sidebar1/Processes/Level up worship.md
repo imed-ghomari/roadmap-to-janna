@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
+- '[[Love]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md)
@@ -30,4 +30,3 @@ It would be best if you waited for the current worship processes to mature somew
 * Fast more, such as on designated bid days or observing Siyam Dawud.
 * Reach out to others more.
 * Avoid questionable permissible activities.
- 

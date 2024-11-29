@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/bad traits/Gluttony and lust|Gluttony and lust]]"
+- '[[Gluttony and lust]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Gluttony and lust](Initiatives/bad%20traits/Gluttony%20and%20lust.md):

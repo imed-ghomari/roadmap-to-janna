@@ -1,19 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Reciting the quran|Reciting the quran]]"
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
+- '[[Reciting the quran]]'
+- '[[Praying]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Reciting the quran](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md): Read at least 10 ayat so you won't be written with the headless.

@@ -1,23 +1,23 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good traits/Contentment with divine decree|Contentment with divine decree]]"
-  - "[[docs/sidebar1/Initiatives/worship/Commanding good and forbidding evil|Commanding good and forbidding evil]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Love|Love]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Sincerity and truthfulness|Sincerity and truthfulness]]"
-  - "[[docs/sidebar1/Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-  - "[[docs/sidebar1/Initiatives/bad traits/Anger|Anger]]"
+- '[[Contentment with divine decree]]'
+- '[[Commanding good and forbidding evil]]'
+- '[[Love]]'
+- '[[Sincerity and truthfulness]]'
+- '[[Upholding the right of muslims]]'
+- '[[Anger]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Contentment with divine decree](docs/sidebar1/Initiatives/good%20traits/Contentment%20with%20divine%20decree.md): While we must accept Allah's plan, it doesn't mean we condone the actions of disobedient people.

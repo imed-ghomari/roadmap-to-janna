@@ -1,21 +1,20 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Asceticism|Asceticism]]"
-  - "[[Initiatives/worship/Following the sunnah|Following the sunnah]]"
+- '[[Asceticism]]'
+- '[[Following the sunnah]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * [Asceticism](Initiatives/good%20traits/Asceticism.md): don't forget to take care of yourself even beyond the minimum to make yourself presentable and clean, for god is beautiful, and He loves beauty
 * [Following the sunnah](Initiatives/worship/Following%20the%20sunnah.md): he used to clip nails in a certain order and try to shower using his method (right side then left side)
- 

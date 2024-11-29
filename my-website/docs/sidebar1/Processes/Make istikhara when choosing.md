@@ -1,19 +1,19 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
-  - "[[docs/sidebar1/Initiatives/good traits/Reliance|Reliance]]"
+- '[[Praying]]'
+- '[[Reliance]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)

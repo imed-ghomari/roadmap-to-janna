@@ -113,7 +113,7 @@ I didn't include the sources next to each action in the processes because of the
 
 You are encouraged to create a PR or, if not, an issue on GitHub. Only contact me directly if you wish to review the entirety of the project.
 
-Always cite your reason for any change and the reference for said change. I will prioritize a scholar's opinion over a layperson's; the bigger the change, the more arguments you’ll have to provide. I will address your request weekly or monthly, depending on my availability.
+Always cite your reason for any change and the reference for said change. I will prioritize a scholar's opinion over a layperson's; the bigger the change, the more arguments you'll have to provide. I will address your request weekly or monthly, depending on my availability.
 
 Otherwise, you can remember us in your dua, asking Allah to guide and support us in our efforts to make this project beneficial and successful for everyone involved (us included insha'Allah).
 

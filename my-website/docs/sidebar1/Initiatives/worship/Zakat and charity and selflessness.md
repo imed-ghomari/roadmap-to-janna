@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
@@ -38,5 +38,4 @@ Consider giving in these situations:
 	* [Share useful knowledge](docs/sidebar1/Processes/Leave%20useful%20knowledge.md)
 * [To remove grudges](docs/sidebar1/Processes/Give%20gifts.md)
 * [When you have unused items](docs/sidebar1/Processes/Give%20away%20unused%20items.md)
-* [While in good health and youth](docs/sidebar1/Processes/Give%20in%20charity%20in%20health%20and%20youth.md)
 * Be flexible with loans, especially if your debtor is facing hardships.

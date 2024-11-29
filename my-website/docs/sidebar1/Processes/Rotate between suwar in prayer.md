@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Praying|Praying]]"
+- '[[Praying]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md): Changing the surah you pray with during and between the prayers is recommended. For each prayer, there is a sunnah of what surah you should read:

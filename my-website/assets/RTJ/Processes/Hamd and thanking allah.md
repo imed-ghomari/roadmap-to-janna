@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Gratitude|Gratitude]]"
+- '[[Gratitude]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 link to [Gratitude](Initiatives/good%20traits/Gratitude.md)
@@ -32,4 +32,4 @@ We can express gratitude or say tasbih in salat, in the morning and evening supp
 > 
 > Gratitude (tasbih) involves publicly acknowledging and thanking God for all material and immaterial blessings. Regularly recite "Hamdulilah" to express gratitude, especially after prayers, meals, and recognizing blessings.
 > 
-  
+

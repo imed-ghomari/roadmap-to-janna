@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: bad traits
 ---
 
@@ -21,5 +21,5 @@ Envy is a serious heart ailment; knowledge and practice are needed to heal it.
 
 * Knowledge-based treatment involves understanding that envy harms the envier more than the one envied. It nullifies the envier's good deeds, incurs Allah's displeasure, and reflects dissatisfaction with His wisdom. The blessing won't vanish due to envy, and in fact, it increases the good deeds of the envied by transferring the envier's good deeds to them. You should [avoid watching others' blessings](Processes/Avoid%20watching%20other%20people%20blessing%20and%20bless%20them.md) or bless them sincerely to prevent envy.
 * Practicing the opposite of envy involves respecting the envied person, celebrating their blessings, and humbling oneself. This approach fosters friendship, reduces envy, and alleviates envy-related pain and sin. If controlling envy proves difficult, protect yourself from sin with these two actions:
-    1. Avoid displaying envy in speech, actions, or gestures, and instead [pray for the well-being of others](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md).
-    2. Dislike your ego's desire for Allah's blessings to be removed from anyone. A true sign of this dislike is resisting any opportunity to harm their blessings, even if the ego wishes it. Additionally, if given the chance to help maintain or increase that person's blessings, do so—even if you find it challenging. [Assist those you envy](Processes/Help%20people%20who%20you%20envy.md) as a positive practice.
+	1. Avoid displaying envy in speech, actions, or gestures, and instead [pray for the well-being of others](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md).
+	2. Dislike your ego's desire for Allah's blessings to be removed from anyone. A true sign of this dislike is resisting any opportunity to harm their blessings, even if the ego wishes it. Additionally, if given the chance to help maintain or increase that person's blessings, do so—even if you find it challenging. [Assist those you envy](Processes/Help%20people%20who%20you%20envy.md) as a positive practice.

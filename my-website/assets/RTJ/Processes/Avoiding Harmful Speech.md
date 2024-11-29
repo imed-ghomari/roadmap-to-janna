@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/bad traits/Loquaciousness|Loquaciousness]]"
+- '[[Loquaciousness]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 link to [Loquaciousness](Initiatives/bad%20traits/Loquaciousness.md)

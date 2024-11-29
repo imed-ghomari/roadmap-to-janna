@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -40,14 +40,13 @@ Gratitude is expressed through action in three ways:
 		* [Gratitude journalling](Processes/Gratitude%20journalling.md)
 	* Gratitude to the Prophet: [Sending salawat on the prophet](Processes/Sending%20salawat%20on%20the%20prophet.md)
 	* Gratitude to people: [Thank others](Processes/Thank%20people.md)
-* **Gratitude of the Limbs**: [Avoiding misuse of blessings](Processes/Don't%20misuse%20blessings.md): Using blessings, like the eyes, ears, and heart, to honor Allah, such as by reading His Book, reflecting on creation, and covering others' faults. For example, we can be grateful for the blessing of the [time of ease](Processes/Build%20knowledge%20in%20free%20time.md) by preparing for future tests.
+* **Gratitude of the Limbs**: Avoiding misuse of blessings: Using blessings, like the eyes, ears, and heart, to honor Allah, such as by reading His Book, reflecting on creation, and covering others' faults. For example, we can be grateful for the blessing of the [time of ease](Processes/Build%20knowledge%20in%20free%20time.md) by preparing for future tests.
 
 > [!info] Greatest and Underrated gifts
 > 
 > 
 > * Above all, the greatest blessing is closeness to Allah, a gift cherished because it's not subject to judgment on the Day of Judgment, contrary to other gifts.
 > * According to the prophet, health, youth, and free time are the most commonly wasted gifts.
-> 
 
 
 ## The Limits of Gratitude

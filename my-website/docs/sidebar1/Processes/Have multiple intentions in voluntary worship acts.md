@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/good traits/Sincerity and truthfulness|Sincerity and truthfulness]]"
+- '[[Sincerity and truthfulness]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Sincerity and truthfulness](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)

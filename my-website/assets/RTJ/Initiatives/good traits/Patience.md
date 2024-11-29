@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -32,7 +32,7 @@ Patience is needed in every aspect of life, as everything a person faces aligns 
 		  * **During worship**: Performing it correctly, with proper etiquette and focus. (Applied through the processes of good traits and worship actions described in the system.)
 		  * [**After worship**](Processes/Hide%20your%20good%20deeds.md): Practicing humility, avoiding showing off.
 	2. **Acts of Disobedience**: This involves resisting temptation by implementing the processes related to the bad traits.
-	3. [**Situational Reactions**](Processes/Be%20patient%20when%20you%20have%20the%20choice.md): When events are beyond one's control but allow for choice in response. So you can choose to be patient or not, for example, when someone wrongs you.
+	3. **Situational Reactions**: When events are beyond one's control but allow for choice in response. So you can choose to be patient or not, for example, [when someone wrongs you](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md).
 	4. [**Uncontrollable Trials**](Processes/Attitude%20in%20affliction.md): Events beyond control, like losing loved ones or health. Patience here is among the highest forms. Ibn 'Abbās noted that patience in the Qur'ān has three levels:
 		  * Patience in fulfilling obligations (300 degrees),
 		  * Patience in avoiding prohibitions (600 degrees),

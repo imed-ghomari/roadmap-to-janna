@@ -15,7 +15,7 @@
               "state": {
                 "file": "Homepage.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Homepage"
@@ -180,8 +180,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Processes/Accept gift if lawful and pure intentions.md",
     "Homepage.md",
+    "Processes/Accept gift if lawful and pure intentions.md",
     "Processes/Accept invitations.md",
     "Processes/Accept accusations or forgive transgressions against you.md",
     "Resources/Bulk editing processes.md",

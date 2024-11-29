@@ -1,21 +1,21 @@
 ---
 type: process
 initiative:
-  - "[[Initiatives/good traits/Gratitude|Gratitude]]"
-  - "[[Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
-  - "[[Initiatives/good traits/Love|Love]]"
-  - "[[Initiatives/worship/Fasting|Fasting]]"
+- '[[Gratitude]]'
+- '[[Remembrance of allah]]'
+- '[[Love]]'
+- '[[Fasting]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 * Link to [Gratitude](Initiatives/good%20traits/Gratitude.md): Use free time to build knowledge, habits, and good deeds in preparation for future hardships.

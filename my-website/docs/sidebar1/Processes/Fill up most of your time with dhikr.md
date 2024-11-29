@@ -1,18 +1,18 @@
 ---
 type: process
 initiative:
-  - "[[docs/sidebar1/Initiatives/worship/Remembrance of allah|Remembrance of allah]]"
+- '[[Remembrance of allah]]'
 working: false
-due: ""
-duration: 
-recurrence: ""
-start: ""
+due: ''
+duration: null
+recurrence: ''
+start: ''
 waiting: false
-review: ""
-file: ""
-context: ""
-dependency: ""
-step: ""
+review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Link to [Remembrance of allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md)
@@ -25,4 +25,3 @@ Strive to maintain a state of gratitude or repentance at all times, as you may b
 * When performing routine tasks (such as driving, cleaning, cooking, exercising, or minor maintenance)
 * During moments of rest (when taking breaks)
 * While going out or walking
- 

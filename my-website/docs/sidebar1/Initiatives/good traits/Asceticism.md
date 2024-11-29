@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: good traits
 ---
 
@@ -43,20 +43,20 @@ Asceticism leads to contentment with what is necessary for life's journey—shel
 
 ### General Levels
 
-* The first level is abstinence, though the ego still desires the world, requiring effort to resist it.  
-* The second level is when the ego naturally turns away from the world, recognizing the impossibility of combining worldly pleasures with the afterlife.  
+* The first level is abstinence, though the ego still desires the world, requiring effort to resist it.
+* The second level is when the ego naturally turns away from the world, recognizing the impossibility of combining worldly pleasures with the afterlife.
 * The third level is when the ego is indifferent to the world's existence or absence.
 
 ### Levels Based on Motivation
 
-* The first level is asceticism driven by fear of Hell, the "asceticism of the fearful."  
-* The second level is motivated by longing for the pleasures of the afterlife, which is higher than fear.  
+* The first level is asceticism driven by fear of Hell, the "asceticism of the fearful."
+* The second level is motivated by longing for the pleasures of the afterlife, which is higher than fear.
 * The highest level is motivated by a desire to transcend attachment to anything other than Allah, purifying the self and looking down on anything besides Him.
 
 ### Levels Based on What is Abstained From
 
-* The highest form of asceticism is renouncing all things, both worldly and spiritual, that distract from Allah.  
-* A lower form of asceticism involves focusing on abstaining from worldly pleasures, such as wealth, [status](docs/sidebar1/Processes/Hide%20your%20good%20deeds.md), and comfort.  
+* The highest form of asceticism is renouncing all things, both worldly and spiritual, that distract from Allah.
+* A lower form of asceticism involves focusing on abstaining from worldly pleasures, such as wealth, [status](docs/sidebar1/Processes/Hide%20your%20good%20deeds.md), and comfort.
 * An even lower level is abstaining from wealth but still clinging to status or other worldly desires. This is a weaker form of asceticism, as status is often more desirable than wealth.
 
 ## Poverty vs. Abundance
@@ -91,4 +91,4 @@ True balance means engaging with the world without losing sight of your ultimate
 
 * **[Clean and beautify yourself](docs/sidebar1/Processes/Clean%20and%20beautify%20yourself.md):** Take care of your body with respect and gratitude, but avoid vanity or attachment to superficial beauty.
 * **[Take breaks to recharge](docs/sidebar1/Processes/Take%20breaks%20to%20recharge.md):** Rest when needed, but ensure your breaks don't become distractions. Use them to reflect and reconnect with your purpose.
-* **Worldly happiness as a means:** A good spouse, neighbor, home, and transportation are blessings, but they should be used to support your journey to Allah, not as ends in themselves.
+* **Worldly happiness as a means:** A good spouse, neighbor, home, and transportation are blessings that provide happiness, but they should be used to support your journey to Allah, not as ends in themselves.

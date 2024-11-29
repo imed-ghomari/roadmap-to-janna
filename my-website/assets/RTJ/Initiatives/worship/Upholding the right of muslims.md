@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
@@ -40,7 +40,6 @@ It is keeping good company with the generality of creation.
 * Behave justly toward everyone and [adapt to each person](Processes/Be%20just%20and%20adapt%20to%20each%20person.md):
 	* Respect elders and show kindness to the young. Be fair, smile, and be gentle with all.
 	* Show additional respect to people of status.
-* Do good deeds consistently, [regardless of the behavior of the receiver](Processes/Being%20consistent%20in%20doing%20good%20deeds.md).
 * Avoid suspicious situations to protect others from negative assumptions, and [avoid suspecting other people without evidence](Processes/Avoid%20baseless%20assumptions.md).
 * [Safeguard and do not harm others' honor, wealth, or life](Processes/Protect%20and%20don't%20harm%20honor,%20wealth%20and%20life.md) by defending fellow Muslims from oppression and interceding on their behalf. Also, avoid harming them with your tongue or by other means.
 * [Practice honesty and trust](Processes/Honesty,%20Trust%20and%20figurative%20language.md) by fulfilling promises, safeguarding honor when they are absent, concealing faults, and keeping secrets.

@@ -1,9 +1,9 @@
 ---
 type: initiative
 designed: true
-dependency: ""
+dependency: ''
 waiting: false
-start: ""
+start: ''
 KR: worship actions
 ---
 
@@ -12,7 +12,7 @@ KR: worship actions
 The levels of pious caution (warʿ) are four:
 
 1. **The First Level—Caution of the Just**: This initial level involves [adhering strictly to what is prohibited or unlawful](Processes/Disregard%20prohibited%20and%20doubtful%20matters.md) according to legal rulings (fatawa). The focus is on avoiding any clear prohibitions.
-2. **The Second Level—Caution of the Righteous**: This level includes avoiding anything dubious, even if not explicitly forbidden. Dubious matters are those that are neither clearly lawful nor clearly unlawful. The Prophet Muhammad (ﷺ) advised, "Leave what makes you doubtful for what does not make you doubtful."
+2. **The Second Level—Caution of the Righteous**: This level includes [avoiding anything dubious](Processes/Disregard%20prohibited%20and%20doubtful%20matters.md), even if not explicitly forbidden. Dubious matters are those that are neither clearly lawful nor clearly unlawful. The Prophet Muhammad (ﷺ) advised, "Leave what makes you doubtful for what does not make you doubtful."
 3. **The Third Level—Caution of the God-Fearing (Al-Muttaqūn)**: Here, the individual [avoids some lawful things](Processes/Avoid%20indulging%20on%20the%20lawful.md) out of fear they might lead to the unlawful. This level involves a higher degree of self-restraint.
 4. **The Fourth Level—Caution of the Truthful Ones (As-Ṣiddīqūn)**: This final degree is marked by avoiding anything that does not serve or relate to Allah, focusing entirely on what pleases Him.
 
