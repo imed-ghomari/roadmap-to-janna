@@ -197,7 +197,7 @@ const seenFiles = {
 
 // Gather data for initiatives
 dv.pages()
-    .filter(t => t.type === "initiative")
+    .filter(t => t.type === "initiative" && t.waiting == false)
     .forEach(initiative => {
         // Get inlinked processes
         const linkedFiles = initiative.file.inlinks;
@@ -205,7 +205,7 @@ dv.pages()
 
         linkedFiles.forEach(link => {
             const process = dv.page(link.path);
-            if (process && process.working !== undefined) {
+            if (process && process.working !== undefined && process.waiting == false) {
                 // Count total processes and working processes for each category
                 if (initiativeKR === "bad traits" && !seenFiles.badTraits.has(link.path)) {
                     seenFiles.badTraits.add(link.path);
@@ -241,30 +241,26 @@ const calculateStats = (data, category) => {
     // Determine current level
     let currentLevel = levels[category].findIndex(level => avg < level.threshold);
     if (avg == 100) {
-        // Explicitly handle the case where avg is 100%
-        currentLevel = levels[category].length ; // Last level
+        currentLevel = levels[category].length; // Last level
     } else if (currentLevel === -1) {
-        currentLevel = levels[category].length - 1; // Default to maximum level if none match
+        currentLevel = levels[category].length - 1;
     }
-
-    // Adjust for zero-based indexing in levels
     currentLevel = currentLevel > 0 ? currentLevel - 1 : currentLevel;
 
-    const isLastLevel = avg == 100; // Check if it's the last level
+    const isLastLevel = avg == 100;
     const nextLevel = isLastLevel ? currentLevel : Math.min(currentLevel + 1, levels[category].length - 1);
 
-    // Processes needed for the next level
     const processesNeeded = isLastLevel
-        ? 0 // No more processes needed for the last level
-        : Math.ceil((levels[category][nextLevel].threshold - avg) / 100 * totalProcesses);
+        ? 0
+        : Math.ceil((levels[category][nextLevel].threshold / 100 * totalProcesses) - workingProcesses);
 
     return {
         avg,
-        currentLevel: currentLevel + 1, // 1-indexed
+        currentLevel: currentLevel + 1,
         totalLevels: levels[category].length,
         currentLevelName: levels[category][currentLevel].name,
         nextLevelName: isLastLevel ? "None" : levels[category][nextLevel].name,
-        processesNeeded: isLastLevel ? 0 : Math.max(0, processesNeeded) // Avoid negative numbers
+        processesNeeded: Math.max(0, processesNeeded)
     };
 };
 
@@ -295,7 +291,7 @@ let worshipActionsPercentages = [];
 
 // Gather initiatives and percentages
 dv.pages()
-    .filter(t => t.type == "initiative")
+    .filter(t => t.type == "initiative" && t.waiting == false)
     .forEach(initiative => {
         // Get the inlinks for the initiative file
         let linkedFiles = initiative.file.inlinks;
@@ -404,7 +400,7 @@ window.renderChart(chartData, this.container);
 tab: Waiting
 ```dataview
 list rows.file.link
-where waiting = true
+where waiting = true or (start and start>date(today))
 sort start
 group by type
 ```

@@ -16,5 +16,3 @@ step: ''
 ---
 
 Link to [Zakat and charity and selflessness](Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
-
-This is practiced through updating the site every month.

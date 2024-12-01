@@ -17,4 +17,4 @@ step: ''
 
 Link to [Remembering death](Initiatives/good%20traits/Remembering%20death.md)
 
-Strive to be a muathin (if you can) and live close to a mosque, to be from the ones who have a long neck on the day of qiyama.
+Strive to be a muathin (if you can), to be from the ones who have a long neck on the day of qiyama.
