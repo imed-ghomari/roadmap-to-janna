@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imed-ghomari.github.io/roadmap-to-janna/blog</id>
     <title>Roadmap to Janna Blog</title>
-    <updated>2024-11-26T00:00:00.000Z</updated>
+    <updated>2024-12-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imed-ghomari.github.io/roadmap-to-janna/blog"/>
     <subtitle>Roadmap to Janna Blog</subtitle>
     <icon>https://imed-ghomari.github.io/roadmap-to-janna/img/countryside.png</icon>
+    <entry>
+        <title type="html"><![CDATA[December update]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/December update</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December update"/>
+        <updated>2024-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What Was Added]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-was-added">What Was Added<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December%20update#what-was-added" class="hash-link" aria-label="Direct link to What Was Added" title="Direct link to What Was Added">​</a></h2>
+<ul>
+<li>Added a new process for supplicating during blessed times.</li>
+<li>Added the Arabic version of the dhikr that we should recite at the end of the gathering to the process "Speak Purposefully or Maintain Silence."</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-was-changed">What Was Changed<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December%20update#what-was-changed" class="hash-link" aria-label="Direct link to What Was Changed" title="Direct link to What Was Changed">​</a></h2>
+<ul>
+<li>Merged two processes that discussed praise into one.</li>
+<li>Added mention of the review tab in the "review initiatives and processes" process.</li>
+<li>Changed processes tab query to view processes with some initiatives in the waiting stage, hiding them only if all their linked initiatives are waiting.</li>
+<li>Updated the performance script to include the edge case of implementing all processes.</li>
+<li>Adjusted the performance section's first query to correctly count the number of processes needed to reach the next level.</li>
+<li>Added more links from initiatives to existing processes to enhance understanding.</li>
+<li>Merged "minor sins" and "concealment of sins" processes due to their similar themes.</li>
+<li>Added more details to the "disregard prohibited and doubtful matters" process.</li>
+<li>Merged "being consistent with good deeds" with "reviewing initiatives and processes" as the latter acts as the actionable step for the former.</li>
+<li>Linked the last action of truthfulness in "sincerity and truthfulness" to "avoid baseless assumption," as it involves steering clear of questionable situations.</li>
+<li>Files with future start dates will appear in the waiting section, even if the waiting property is unchecked.</li>
+<li>Performance scripts have been updated to exclude waiting processes and initiatives effectively.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-was-removed">What Was Removed<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December%20update#what-was-removed" class="hash-link" aria-label="Direct link to What Was Removed" title="Direct link to What Was Removed">​</a></h2>
+<ul>
+<li>Removed the "charity in health and youth" process and added it to the "give happily" process as a note.</li>
+<li>Removed the "situational reactions" process as it was too vague; most of its content is included in the "accepting accusations" process.</li>
+<li>Removed the "don't misuse blessings" process because it was too vague. There is already an example of its application linked to the gratitude of the limbs, which is "build knowledge in free time."</li>
+<li>Removed the process for "repenting in the last ten days of Ramadan" since it occurs only once a year; an automatic notification is sufficient. A similar action is tahlil in the first ten days of Dhul Hijjah, which also doesn't require a process that is due for monthly review.</li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[November update]]></title>
         <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/November update</id>
