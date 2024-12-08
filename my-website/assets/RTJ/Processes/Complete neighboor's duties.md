@@ -28,4 +28,7 @@ To uphold the rights of Muslim neighbors, it is essential to:
 
 > [!tip] summary
 > 
+> 
 > To uphold the rights of Muslim neighbors, refrain from harm, be friendly, visit during times of need, and respect their privacy.
+> 
+

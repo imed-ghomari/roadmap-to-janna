@@ -27,4 +27,7 @@ step: ''
 
 > [!tip] Summary
 > 
+> 
 > Focus on each of your daily _adhkar_ to nurture and sustain good traits throughout the day.
+> 
+

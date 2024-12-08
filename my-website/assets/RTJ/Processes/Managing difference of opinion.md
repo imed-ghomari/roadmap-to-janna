@@ -33,9 +33,11 @@ step: ''
 
 > [!tip] Summary
 > 
+> 
 > Categorize discussions to determine the appropriate communication method. And during the conversation, remember to:
 > 
 > * Avoid anger.
 > * Refrain from argumentation.
 > * Listen without interrupting.
 > * Speak the truth, even if it means admitting you are wrong.
+

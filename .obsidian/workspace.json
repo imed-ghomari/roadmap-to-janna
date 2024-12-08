@@ -175,8 +175,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "templater-obsidian:Templater": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "a99b0c05ee1340a5",

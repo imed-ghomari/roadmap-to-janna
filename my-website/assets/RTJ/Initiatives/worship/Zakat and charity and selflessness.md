@@ -7,7 +7,7 @@ start: ''
 KR: worship actions
 ---
 
-# Degrees of Giving
+## Degrees of Giving
 
 Each person gives based on their love for Allah. Most people may not be able to give at the highest levels immediately, but they can gradually progress. Aim to move beyond the minimum required, as giving only the required amount can be seen as stingy:
 
@@ -15,7 +15,7 @@ Each person gives based on their love for Allah. Most people may not be able to 
 * **Second Level:** The moderate—those who don't give everything at once but keep some in case others are in need, not for luxury.
 * **Third Level:** The weak—those who only give the obligatory zakat, no more, no less.
 
-# Conditions for Giving
+## Conditions for Giving
 
 In giving [zakat](Processes/Pay%20zakat.md) and [charity](Processes/Give%20happily.md), keep these five principles in mind:
 
@@ -25,11 +25,11 @@ In giving [zakat](Processes/Pay%20zakat.md) and [charity](Processes/Give%20happi
 4. **Joyful Spirit:** Give with a happy, sincere attitude.
 5. **Purpose:** Direct your charity to where it will have the most impact, such as helping a devout person, supporting a needy family member, assisting a traveler, or anyone who will use it responsibly.
 
-# Types of Charity
+## Types of Charity
 
 Charity can generally be of two types: material resources (like money or items) and acts of service (like sharing knowledge or kindness).
 
-# Opportunities to Give
+## Opportunities to Give
 
 Consider giving in these situations:
 

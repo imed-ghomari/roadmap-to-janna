@@ -39,4 +39,7 @@ step: ''
 
 > [!tip] summary
 > 
+> 
 > Instruct only for Allah's sake, using appropriate levels of persuasion and force, and discipline family members according to their rebellion level.
+> 
+

@@ -7,7 +7,7 @@ start: ''
 KR: worship actions
 ---
 
-# Layers of Remembrance
+## Layers of Remembrance
 
 The Prophet (peace be upon him) said, "The remembrance of Allah in the morning and evening is better than breaking swords in Allah's path and giving wealth abundantly."
 
@@ -21,6 +21,7 @@ The ultimate goal, or core, is for the focus to shift entirely from the act of r
 
 > [!info] All actions that remind one of Allah can be considered remembrance:
 > 
+> 
 > * [**Praying**](Initiatives/worship/Praying.md)
 > * [**Reading the Quran**](Initiatives/worship/Engaging%20with%20the%20quran.md)
 > * **[Discussing Allah and Religion](Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)**
@@ -29,7 +30,7 @@ The ultimate goal, or core, is for the focus to shift entirely from the act of r
 > * **Making Dua**–further developed in the [Reliance](Initiatives/good%20traits/Reliance.md) initiative.
 
 
-# Fruit of Remembrance
+## Fruit of Remembrance
 
 The fruits of remembrance emerge progressively: first, verbal dhikr, then forced focus, followed by natural heart-centered dhikr, and finally, immersion in the presence of Allah, which transcends active remembrance.
 
@@ -38,7 +39,7 @@ The fruits of remembrance emerge progressively: first, verbal dhikr, then forced
 
 > The best remembrance is one that fully absorbs the heart. At the highest level, there is no distinction, as all remembrance merges into unity. While remembrance by the tongue or heart can vary, the best among these depends on attributes mentioned within each act of dhikr.
 
-# Occasions for Verbal Remembrance
+## Occasions for Verbal Remembrance
 
 * [**In Times of Affliction**](Processes/Attitude%20in%20affliction.md): Turn to Allah
 * [**During Gatherings**](Processes/Speak%20purposefully%20or%20maintain%20silence.md): When being silent and when concluding, Conclude with dhikr

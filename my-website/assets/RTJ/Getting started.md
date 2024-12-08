@@ -43,7 +43,7 @@ This goal is achieved through 3 key results and their respective initiatives: (s
 	* [Zakat, charity, and selflessness](Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
 	* [Fasting](Initiatives/worship/Fasting.md)
 	* [Hajj](Initiatives/worship/Hajj.md)
-	* [Engaging with the Quran](my-website/Initiatives/worship/Engaging%20with%20the%20quran.md)
+	* [Engaging with the Quran](Initiatives/worship/Engaging%20with%20the%20quran.md)
 	* [Remembrance of Allah](Initiatives/worship/Remembrance%20of%20allah.md)
 	* [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md)
 	* [Upholding the rights of Muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md), [Managing the spouse](Initiatives/worship/Managing%20spouse.md) and [Parenting](Initiatives/worship/Parenting.md)
@@ -106,7 +106,7 @@ I didn't include the sources next to each action in the processes because of the
 
 The system can be implemented using two methods. The first method is simpler to execute but requires a longer review process. The second method is more challenging to implement but benefits from a more streamlined review process.
 
-1. Conduct a [Weekly Review](my-website/Resources/Weekly%20review.md) once you are familiar with the initiatives and their associated processes.
+1. Conduct a [weekly review](Resources/Weekly%20review.md) once you are familiar with the initiatives and their associated processes.
 2. Use the tool endorsed by the author and the associated file by following [this tutorial](Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated. You can see an example below:
 
 ![](../../assets/performance.png)
