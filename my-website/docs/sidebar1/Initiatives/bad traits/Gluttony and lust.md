@@ -29,8 +29,14 @@ If you wish to eat less, consider focusing on three factors: **amount, time, and
 
 ## How to Combat the Desires of the Private Parts
 
-* First, you should lower the gaze (from looking at forbidden things and other women); this can be practiced by avoiding any content with a high probability of filth in it. Also, you should not talk to non-mahram (marriageable) women unless necessary (avoiding small talk), and you should steer clear of any step that could get you closer to Zina.
-* The second thing is to marry as early as possible, provided you can be financially independent early in your life or your condition allows you to. If you cannot, make sure to [fast](docs/sidebar1/Initiatives/worship/Fasting.md) regularly and to perfect it. And if you cannot, reduce your food consumption as much as possible.
-* The third thing is that if desire strikes and you find your nafs wanting to partake in pleasure, don't let it evolve into an intention to sin, and don't fantasize. Instead, [utilize the two destroyers of pleasure](docs/sidebar1/Processes/Stop%20yourself%20during%20sin.md): (the silent one, 'death,' and the one that speaks, 'the Quran'). This final action can be challenging as it requires awareness of your thinking. If you persist on sin, refer to the section 'Overcoming the Habit of Sin' in the [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md) initiative.
+* First, you should [lower the gaze](docs/sidebar1/Processes/Guarding%20your%20eyes%20and%20ears.md) (from looking at forbidden things and other women); this can be practiced by avoiding any content with a high probability of filth and by not fantasizing. Also, you should not talk to non-mahram (marriageable) women unless necessary (avoiding small talk), and you should steer clear of any step that could get you closer to Zina.
+* Second, you must marry as early as possible, provided you can be financially independent early in your life or your condition allows you to. If you cannot, make sure to [fast](docs/sidebar1/Initiatives/worship/Fasting.md) regularly and to perfect it. And if you cannot, reduce your food consumption as much as possible.
+* Third, you need to concentrate on what preoccupies the heart. The only way appetite can leave the heart is through unsettling [fear](docs/sidebar1/Processes/fear%20and%20hope.md) or restless [yearning](docs/sidebar1/Initiatives/good%20traits/Love.md). As a result, you need to ensure you're applying their processes.
 
-> Techniques that only alter the external environment or make sins harder to access address only the surface of the problem. However, they may be beneficial if used in conjunction with the approach mentioned above.
+> If you persist on sin, refer to the section 'Overcoming the Habit of Sin' in the [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md) initiative.
+
+:::note
+
+Techniques that only alter the external environment or make sins harder to access address only the surface of the problem. However, they may be beneficial if used with the abovementioned approach.
+
+:::

@@ -22,7 +22,7 @@ The ultimate goal, or core, is for the focus to shift entirely from the act of r
 :::info All actions that remind one of Allah can be considered remembrance:
 
 * [**Praying**](docs/sidebar1/Initiatives/worship/Praying.md)
-* [**Reading the Quran**](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md)
+* [**Reading the Quran**](docs/sidebar1/Initiatives/worship/Engaging%20with%20the%20quran.md)
 * **[Discussing Allah and Religion](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)**
 * [**Learning about Islam**](docs/sidebar1/Processes/Build%20knowledge%20in%20free%20time.md) through videos or podcasts
 * [**Contemplating Creation**](docs/sidebar1/Processes/Contemplate%20the%20creation.md)

@@ -68,5 +68,5 @@ Signs of genuine love for Allah include:
 * **Accepting His decree** even when it opposes personal desires.
 * **Absence of aversion towards death**.
 * [**Preferring the company of the obedient and distancing from disobedient people**](docs/sidebar1/Processes/Hate%20the%20disobedient%20and%20love%20the%20obedient.md).
-* **Longing for closeness to Allah**, [finding solace in His words](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md), [engaging in remembrance](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md), and performing [extra worship](docs/sidebar1/Processes/Level%20up%20worship.md).
+* **Longing for closeness to Allah**, [finding solace in His words](docs/sidebar1/Initiatives/worship/Engaging%20with%20the%20quran.md), [engaging in remembrance](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md), and performing [extra worship](docs/sidebar1/Processes/Level%20up%20worship.md).
 * [**Following the Prophet (ﷺ)**](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md): Learning about his life, striving to follow his example, and holding him in high regard as the final messenger of Allah.

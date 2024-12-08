@@ -94,4 +94,5 @@ Remember the mirror analogy: "A Muslim to a Muslim is like a mirror":
 
 * **Respect for Parents:** Show [excellence](docs/sidebar1/Processes/Excellence%20with%20parents.md), especially to mothers.
 * **Guidance for Children:** Discipline with love, more in [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md).
+* [Serve your family and help them](docs/sidebar1/Processes/Serve%20around%20the%20house%20and%20do%20lowly%20tasks.md).
 * [Manage the spouse](docs/sidebar1/Initiatives/worship/Managing%20spouse.md) if you are married.

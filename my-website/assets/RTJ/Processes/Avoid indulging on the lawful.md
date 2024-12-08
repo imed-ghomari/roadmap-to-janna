@@ -26,7 +26,4 @@ step: ''
 
 > [!tip] summary
 > 
-> 
 > Give up lawful indulgences that may lead to unlawful ones; Remove other loves and attachments, as they compete with the love of God and can lead to sin.
-> 
-

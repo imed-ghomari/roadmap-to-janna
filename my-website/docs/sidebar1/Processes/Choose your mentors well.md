@@ -36,4 +36,4 @@ step: ''
 | **Rabia al-Adawiyya**   | Devotion and Love for Allah | In moments of spiritual doubt or when seeking closeness to Allah. |
 | **Current Scholars**    | Knowledge and Guidance      | When needing clarity on religious matters.                        |
 
-> You can also use this to motivate yourself when you're feeling lazy or unproductive.
+> You can also use this to motivate yourself when you're feeling lazy or unproductive. Remember that you're not the first to struggle with your situation; others before you faced similar challenges, and Allah granted them victory in the end.

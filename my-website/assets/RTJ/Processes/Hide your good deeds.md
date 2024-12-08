@@ -27,7 +27,4 @@ step: ''
 
 > [!tip] summary
 > 
-> 
 > Keep your good deeds private to avoid becoming arrogant, and share them only to set an example, nothing else.
-> 
-

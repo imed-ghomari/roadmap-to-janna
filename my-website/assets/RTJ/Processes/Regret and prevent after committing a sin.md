@@ -23,7 +23,7 @@ step: ''
 	* **About the future**: Plan for future prevention, commit to never doing it again, do good deeds for every bad deed you did to balance the scale and ask forgiveness if it affected others
 * Link to [Praying](Initiatives/worship/Praying.md): Perform Nafl repentance prayers (2 rakat) anytime, even after Asr, or integrate the intention into other Nafl prayers, like the 12 daily Sunnah prayers.
 * Link to [Remembering Death](Initiatives/good%20traits/Remembering%20death.md): Ask forgiveness and work on reconciliation to ensure smooth passage through the bridge of Qantara, avoiding delays or reduced rank in Paradise.
-* Link to [Fear and Hope](Initiatives/good%20traits/Fear%20and%20hope.md): Maintain hope in Allah's forgiveness to avoid despair and inaction after sinning.
+* Link to [Fear and Hope](Initiatives/good%20traits/Fear%20and%20hope.md): Maintain hope in Allah's forgiveness for your past sins to avoid despair and inaction after sinning.
 
 Here are some occasions when you should say _Astaghfirullah_:
 
@@ -35,7 +35,4 @@ Here are some occasions when you should say _Astaghfirullah_:
 
 > [!tip] summary
 > 
-> 
 > Repent sins by expressing regret (dua), committing to prevention, and doing good deeds.
-> 
-

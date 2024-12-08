@@ -75,7 +75,12 @@ Once the initiatives are reviewed according to these guidelines, you'll be able 
 * **Level System**: A numeric level system that estimates the number of processes needed to reach your desired level.
 * **Radar Chart**: This chart displays initiatives grouped by key results. The more rounded the chart, the better your performance across categories, helping you identify areas needing improvement.
 
-> This performance section also serves a motivational purpose, incorporating gamification elements.
+> [!note]
+> 
+> 
+> The initiatives and processes that are in the `waiting` stage are ignored in the performance section.
+> 
+
 
 ### Updating the System
 

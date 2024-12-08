@@ -22,7 +22,4 @@ step: ''
 
 > [!tip] summary
 > 
-> 
 > Respond to all invitations with kindness and respect the rights of Muslims to attend ceremonies.
-> 
-

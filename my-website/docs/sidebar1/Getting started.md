@@ -43,7 +43,7 @@ This goal is achieved through 3 key results and their respective initiatives: (s
 	* [Zakat, charity, and selflessness](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
 	* [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)
 	* [Hajj](docs/sidebar1/Initiatives/worship/Hajj.md)
-	* [Reciting the Quran](docs/sidebar1/Initiatives/worship/Reciting%20the%20quran.md)
+	* [Engaging with the Quran](my-website/docs/sidebar1/Initiatives/worship/Engaging%20with%20the%20quran.md)
 	* [Remembrance of Allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md)
 	* [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md)
 	* [Upholding the rights of Muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md), [Managing the spouse](docs/sidebar1/Initiatives/worship/Managing%20spouse.md) and [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)
@@ -91,7 +91,7 @@ You might encounter some actions in the initiative that don't have any process l
 
 ### Sources and Inspirations
 
-I didn't include the sources next to each action in the processes because of the complexity of the task; however, I tried to use trusted sources as much as possible. The project was heavily inspired by *The Revival of the Religious Sciences* by Imam Abu Hamid al-Ghazali and was scrutinized through other books and resources, such as:
+I didn't include the sources next to each action in the processes because of the complexity of the task; however, I tried to use trusted sources as much as possible. The project was heavily inspired by *The Revival of the Religious Sciences* by Imam Abu Hamid al-Ghazali and was supplemented through other books and resources, such as:
 
 * *Handbook to God* playlist by Yaqeen Institute and other Yaqeen content
 * *The Way of the Muslim* by Abu Bakr Jabir al-Jaza'iri
@@ -104,10 +104,18 @@ I didn't include the sources next to each action in the processes because of the
 
 ### How to Use
 
-1. You can use your own system by extracting the processes documented here.
-2. Or you can use the tool endorsed by the author and the associated file by following [this tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated. You can see an example below:
+The system can be implemented using two methods. The first method is simpler to execute but requires a longer review process. The second method is more challenging to implement but benefits from a more streamlined review process.
+
+1. Conduct a [Weekly Review](my-website/docs/sidebar1/Resources/Weekly%20review.md) once you are familiar with the initiatives and their associated processes.
+2. Use the tool endorsed by the author and the associated file by following [this tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated. You can see an example below:
 
 ![](../../assets/performance.png)
+
+### Limits and Considerations
+
+* In some processes, I have specifically not defined the lower-level actions to be more inclusive. As a result, you will need to identify and include those actions yourself to make the process actionable.
+* The review process can be subjective unless you involve other people. While this can help reduce bias, it will not eliminate it entirely.
+* The processes are not fully gender, age, or condition-agnostic. If you are a woman, young, elderly, or have a specific condition, you will likely need to tweak or remove certain elements.
 
 ### How to Contribute
 

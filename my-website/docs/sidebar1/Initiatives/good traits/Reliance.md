@@ -44,7 +44,7 @@ There are three levels to reliance:
 
 1. **The First Level**: Reliance is confidence in someone trusted with a task, such as a lawyer in a legal case.
 2. **The Second Level**: A deeper reliance, similar to a child running to their mother for comfort, trusting her care without questioning.
-3. **The Third Level**: The highest form of reliance, where a person surrenders entirely to Allah, like a body in the hands of a washer. At this level, the person understands they have no choice, as everything is predestined (qadr), and they await whatever Allah decrees. At this stage, supplication or asking for things is unnecessary, as the person's full trust lies in Allah's will. Supplication is, however, necessary in the other two levels.
+3. **The Third Level**: The highest form of reliance, where a person surrenders entirely to Allah, like a body in the hands of a washer. At this level, the person understands they have no choice, as everything is predestined (qadr), and they await whatever Allah decrees.
 
 ## The Third Pillar: Deeds
 
@@ -70,10 +70,10 @@ Repelling harm is another form of action, such as avoiding danger or seeking med
 
 * **Be effort-driven**: Focus on doing your best without fixating on the outcome. [Rely on lawful means](docs/sidebar1/Processes/Disregard%20prohibited%20and%20doubtful%20matters.md) and avoid shortcuts, leaving the results to Allah.
 * **Excellence (Ihsan)**: Strive to perform actions in the best way possible. This mindset is a key aspect of Islam, which is built on faith (Iman), submission (Islam), and excellence (Ihsan).
-* [**Say "Bismillah"**](docs/sidebar1/Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): Begin each action by saying "Bismillah" to remind yourself that you rely on Allah alone.
+* [**Mention Allah**](docs/sidebar1/Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): Begin each action by saying "Bismillah" to remind yourself that you rely on Allah alone. If you speak about the action to someone else or think aloud about your future plans, add "Inshallah" to acknowledge that its success depends on Allah's will.
 :::
 
-### Supplication (for 1st and 2nd level)
+### Supplication
 
 Dua is essential for all actions, as it helps prevent arrogance and reliance on oneself. To support this, a [comprehensive supplication](docs/sidebar1/Processes/Initiatives%20supplication.md) covers all the initiatives. If your action involves a choice, [perform Istikhara](docs/sidebar1/Processes/Make%20istikhara%20when%20choosing.md) to seek guidance before deciding. For all other supplications, here are some ways to enhance their effectiveness:
 

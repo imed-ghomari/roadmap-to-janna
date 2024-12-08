@@ -10,6 +10,6 @@ I'll aim to release an update at the beginning of each month or less frequently,
 
 Each update will include three sections:
 
-* What was added
-* What changed
-* What was removed
+* Additions
+* Changes
+* Deletions

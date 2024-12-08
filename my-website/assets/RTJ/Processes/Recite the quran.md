@@ -1,7 +1,7 @@
 ---
 type: process
 initiative:
-- '[[Reciting the quran]]'
+- '[[Engaging with the quran]]'
 - '[[Remembering death]]'
 working: false
 due: ''
@@ -16,7 +16,7 @@ dependency: ''
 step: ''
 ---
 
-* Link to [Reciting the quran](Initiatives/worship/Reciting%20the%20quran.md):
+* Link to [Engaging with the quran](Initiatives/worship/Engaging%20with%20the%20quran.md):
 	* Remember that you must read the Quran as much as you can before it is lifted (on the Day of Judgment).
 	* Recite with Tajweed, read translation and Tafsir, and apply Tadabur (be on the lookout for how the Quran speaks to you, especially in difficult times).
 	* Remember to say Maw3ida before reciting and recognize the power of Allah over him.

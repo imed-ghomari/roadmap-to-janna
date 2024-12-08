@@ -31,7 +31,7 @@ Patience is needed in every aspect of life, as everything a person faces aligns 
 		  * [**Beginning of worship**](docs/sidebar1/Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): Ensuring sincerity and avoiding showiness or selfish motives.
 		  * **During worship**: Performing it correctly, with proper etiquette and focus. (Applied through the processes of good traits and worship actions described in the system.)
 		  * [**After worship**](docs/sidebar1/Processes/Hide%20your%20good%20deeds.md): Practicing humility, avoiding showing off.
-	2. **Acts of Disobedience**: This involves resisting temptation by implementing the processes related to the bad traits.
+	2. **Acts of Disobedience**: This involves resisting temptation by implementing the processes related to the bad traits and [seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md).
 	3. **Situational Reactions**: When events are beyond one's control but allow for choice in response. So you can choose to be patient or not, for example, [when someone wrongs you](docs/sidebar1/Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md).
 	4. [**Uncontrollable Trials**](docs/sidebar1/Processes/Attitude%20in%20affliction.md): Events beyond control, like losing loved ones or health. Patience here is among the highest forms. Ibn 'Abbās noted that patience in the Qur'ān has three levels:
 		  * Patience in fulfilling obligations (300 degrees),
