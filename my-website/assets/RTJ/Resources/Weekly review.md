@@ -23,11 +23,10 @@
 
 1. Were you fearful of committing future sins (either new or persistent in old sins) by:
 	* Being patient with the rulings by…
-		* [Seeking only the lawful](Initiatives/worship/Seeking%20the%20lawful.md) by constantly questioning the permissibility of your actions?
+		* Constantly questioning the permissibility of your actions to [remain in lawful](Initiatives/worship/Seeking%20the%20lawful.md)?
 		* Having a [high level of caution](Initiatives/worship/Seeking%20the%20lawful.md) by not indulging?
-	* Practicing haya (humility) by…
-		* Remembering continuously the [things that should be feared](Initiatives/good%20traits/Fear%20and%20hope.md), like mentioning [death](Initiatives/good%20traits/Remembering%20death.md) day and night?
-		* Being [grateful](Initiatives/good%20traits/Gratitude.md) for your blessings and [content](Initiatives/good%20traits/Contentment%20with%20divine%20decree.md) with your situation through [hamd](Processes/Hamd%20and%20thanking%20allah.md)?
+	* Remembering continuously the [things that should be feared](Initiatives/good%20traits/Fear%20and%20hope.md), like mentioning [death](Initiatives/good%20traits/Remembering%20death.md)?
+	* Practicing haya (humility) by being [grateful](Initiatives/good%20traits/Gratitude.md) for your blessings and [content](Initiatives/good%20traits/Contentment%20with%20divine%20decree.md) with your situation while remembering your humble beginnings?
 2. Did you sincerely hope for the forgiveness of your past sins by:
 	* [Crying and making istighfar](Processes/Cry%20and%20fear%20misguidance.md) (seeking forgiveness)?
 	* Doing good deeds [sincerely](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md) for Allah while [relying](Initiatives/good%20traits/Reliance.md) on Him…
