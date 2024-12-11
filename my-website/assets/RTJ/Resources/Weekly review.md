@@ -28,7 +28,7 @@
 	* Remembering continuously the [things that should be feared](Initiatives/good%20traits/Fear%20and%20hope.md), like mentioning [death](Initiatives/good%20traits/Remembering%20death.md)?
 	* Practicing haya (humility) by being [grateful](Initiatives/good%20traits/Gratitude.md) for your blessings and [content](Initiatives/good%20traits/Contentment%20with%20divine%20decree.md) with your situation while remembering your humble beginnings?
 2. Did you sincerely hope for the forgiveness of your past sins by:
-	* [Crying and making istighfar](Processes/Cry%20and%20fear%20misguidance.md) (seeking forgiveness)?
+	* [Making istighfar](Initiatives/good%20traits/Repentance.md) (seeking forgiveness) constantly?
 	* Doing good deeds [sincerely](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md) for Allah while [relying](Initiatives/good%20traits/Reliance.md) on Him…
 		* By saying Bismillah (In Allah's name) and Insha'Allah (If Allah wills)?
 		* And by performing them with an excellence mindset?
