@@ -25,5 +25,7 @@ step: ''
 	* Use the technique of one of the predecessors: Picture that the angel of death is above you, hell on the left, Janna on the right; you are on the bridge; you can see the ka3ba en face, and picture the greatness of the one you are praying to.
 
 :::tip summary
+
 Remember your humble origins and pray attentively, focusing on different supplications in each portion of your prayers and envisioning each prayer as if it were your last.
+
 :::

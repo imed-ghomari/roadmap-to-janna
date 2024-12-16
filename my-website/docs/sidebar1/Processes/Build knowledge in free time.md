@@ -3,7 +3,7 @@ type: process
 initiative:
 - '[[Gratitude]]'
 - '[[Remembrance of allah]]'
-- '[[Love]]'
+- '[[Love and contentment]]'
 - '[[Fasting]]'
 working: false
 due: ''

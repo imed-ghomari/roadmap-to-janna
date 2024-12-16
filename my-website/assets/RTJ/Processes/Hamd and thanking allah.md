@@ -29,4 +29,7 @@ We can express gratitude or say tasbih in salat, in the morning and evening supp
 
 > [!tip] summary
 > 
+> 
 > Gratitude (tasbih) involves publicly acknowledging and thanking God for all material and immaterial blessings. Regularly recite "Hamdulilah" to express gratitude, especially after prayers, meals, and recognizing blessings.
+> 
+

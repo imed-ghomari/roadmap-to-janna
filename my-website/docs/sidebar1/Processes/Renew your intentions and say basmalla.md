@@ -39,5 +39,7 @@ Here are some occasions when you should say "basmalla":
 * Before engaging in a discussion
 
 :::tip summary
+
 Perform actions with pure intentions, seeking Allah's blessings, by making basmalla before major actions.
+
 :::

@@ -7,7 +7,7 @@ start: ''
 KR: bad traits
 ---
 
-# The Benefits of Hunger
+## The Benefits of Hunger
 
 Hunger has many benefits, which can be summarized in seven key points:
 
@@ -19,7 +19,7 @@ Hunger has many benefits, which can be summarized in seven key points:
 6. **Energy for Worship**: Hunger reduces the body's heaviness, making staying awake for night prayers and other worship easier.
 7. **Simplicity and Financial Ease**: Hunger reduces dependence on material wealth, fostering contentment with less and helping one to embrace simplicity.
 
-# How to Reduce Eating
+## How to Reduce Eating
 
 If you wish to eat less, consider focusing on three factors: **amount, time, and type of food**.
 
@@ -27,11 +27,11 @@ If you wish to eat less, consider focusing on three factors: **amount, time, and
 * **Time**: [Reduce the frequency of eating](docs/sidebar1/Processes/Reduce%20time%20spend%20eating.md).
 * **Type**: Choose simpler foods when possible. For instance, wheat bread with condiments is the highest form of simplicity, while barley bread without condiments is the most basic and highly preferred choice. To apply this, try to [select simpler food options](docs/sidebar1/Processes/Decrease%20attachment%20to%20a%20type%20of%20food.md) when available.
 
-# How to Combat the Desires of the Private Parts
+## How to Combat the Desires of the Private Parts
 
 * First, you should [lower the gaze](docs/sidebar1/Processes/Guarding%20your%20eyes%20and%20ears.md) (from looking at forbidden things and other women); this can be practiced by avoiding any content with a high probability of filth and by not fantasizing. Also, you should not talk to non-mahram (marriageable) women unless necessary (avoiding small talk), and you should steer clear of any step that could get you closer to Zina.
 * Second, you must marry as early as possible, provided you can be financially independent early in your life or your condition allows you to. If you cannot, make sure to [fast](docs/sidebar1/Initiatives/worship/Fasting.md) regularly and to perfect it. And if you cannot, reduce your food consumption as much as possible.
-* Third, you need to concentrate on what preoccupies the heart. The only way appetite can leave the heart is through unsettling [fear](docs/sidebar1/Processes/try%20to%20incorporate%20these%20into%20fear.md) or restless [yearning](docs/sidebar1/Initiatives/good%20traits/Love.md). As a result, you need to ensure you're applying their processes.
+* Third, you need to concentrate on what preoccupies the heart. The only way appetite can leave the heart is through unsettling [fear](docs/sidebar1/Processes/try%20to%20incorporate%20these%20into%20fear.md) or restless [yearning](docs/sidebar1/Initiatives/good%20traits/Love%20and%20contentment.md). As a result, you need to ensure you're applying their processes.
 
 > If you persist on sin, refer to the section 'Overcoming the Habit of Sin' in the [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md) initiative.
 

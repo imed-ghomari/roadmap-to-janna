@@ -36,5 +36,7 @@ Major injustices include:
 * Inaccurate inheritance divisions
 
 :::tip summary
+
 Practice justice and equality in your roles as leader, spouse, and parent. Recognize individual differences and treat others fairly.
+
 :::

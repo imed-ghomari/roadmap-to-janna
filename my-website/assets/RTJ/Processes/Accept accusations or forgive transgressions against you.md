@@ -31,4 +31,7 @@ step: ''
 
 > [!tip] summary
 > 
+> 
 > In times of adversity, practice forgiveness and forbearance to seek Allah's mercy and avoid retaliation. When wronged, endure harm and forgive to purify one's own sins and earn Allah's reward on the Day of Judgment.
+> 
+

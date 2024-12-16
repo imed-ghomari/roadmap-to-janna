@@ -22,5 +22,7 @@ step: ''
 * Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md): In today's digital landscape, it is crucial to monitor your children's internet content consumption, including movies, games, and social media. Additionally, it is important to encourage friendships with positive role models and good families. Finally, it is important to protect them from negative influences, such as peer pressure and bullying.
 
 :::tip summary
+
 Protect the rights of Muslims by condemning criticism and providing support, safeguard your spouse from harm, and guide your children's activities to prevent negative influences.
+
 :::

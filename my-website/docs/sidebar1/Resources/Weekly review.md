@@ -25,10 +25,10 @@ You can respond directly if you are familiar with the linked initiatives and pro
 		* Constantly questioning the permissibility of your actions to [remain in lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md)?
 		* Having a [high level of caution](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md) by not indulging?
 	* Remembering continuously the [things that should be feared](docs/sidebar1/Initiatives/good%20traits/Fear%20and%20hope.md), like mentioning [death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md)?
-	* Practicing haya (humility) by being [grateful](docs/sidebar1/Initiatives/good%20traits/Gratitude.md) for your blessings and [content](docs/sidebar1/Initiatives/good%20traits/Contentment%20with%20divine%20decree.md) with your situation while remembering your humble beginnings?
 2. Did you sincerely hope for the forgiveness of your past sins by:
 	* [Making istighfar](docs/sidebar1/Initiatives/good%20traits/Repentance.md) (seeking forgiveness) constantly?
 	* Doing good deeds [sincerely](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md) for Allah while [relying](docs/sidebar1/Initiatives/good%20traits/Reliance.md) on Him…
 		* By saying Bismillah (In Allah's name) and Insha'Allah (If Allah wills)?
 		* And by performing them with an excellence mindset?
 		* And by making dua (supplication) and focusing on the effort rather than the results?
+3. Were you [content](docs/sidebar1/Initiatives/good%20traits/Love%20and%20contentment.md) with your decree, and did you renew your love for him by realizing his perfection and being continuously [grateful](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)?

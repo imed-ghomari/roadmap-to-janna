@@ -23,4 +23,7 @@ step: ''
 
 > [!tip] summary
 > 
+> 
 > Protect the rights of Muslims by condemning criticism and providing support, safeguard your spouse from harm, and guide your children's activities to prevent negative influences.
+> 
+

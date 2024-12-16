@@ -174,15 +174,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "assets/RTJ/Initiatives/good traits/Love and contentment.md",
+    "assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
+    "docs/sidebar1/Initiatives/good traits/Love and contentment.md",
+    "docs/sidebar1/Resources/Weekly review.md",
+    "docs/sidebar1/Initiatives/good traits/Love.md",
     "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
     "assets/RTJ/Initiatives/bad traits/Anger.md",
-    "assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
     "my-website/assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
     "my-website/docs/sidebar1/Resources/Weekly review.md",
     "my-website/assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
@@ -205,10 +208,6 @@
     "my-website/blog/Untitled.md",
     "my-website/blog/test.md",
     "my-website/blog/November update.md",
-    "my-website/blog/First releases.md",
-    "my-website/blog/December update.md",
-    "my-website/docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
-    "my-website/docs/sidebar1/Initiatives/bad traits/Anger.md",
     "my-website/assets/RTJ/Initiatives/good traits",
     "my-website/assets/RTJ/Initiatives/bad traits",
     "my-website/assets/screenshot2.png",

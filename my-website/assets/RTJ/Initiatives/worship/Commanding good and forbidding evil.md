@@ -7,7 +7,7 @@ start: ''
 KR: worship actions
 ---
 
-# Guidelines for Responding to Evil
+## Guidelines for Responding to Evil
 
 * When someone witnesses wrongdoing and stays silent, they are complicit in that behavior. However, they shouldn't actively search out others' sins but instead [respect others' privacy](Processes/Don't%20spy%20and%20protect%20privacy.md).
 * Even if a person is God-fearing, associating too closely with others can lead to an increase in their own sins. This risk can only be avoided by focusing solely on admonishing and correcting misbehavior without fearing criticism.
@@ -15,14 +15,14 @@ KR: worship actions
 	1. There is a genuine fear of physical harm, property damage, or severe harm to one's reputation. It's best to remain composed and avoid confrontation. However, fear of social rejection, gossip, or potential missed opportunities are not valid reasons for avoiding this duty.
 	2. If it's clear that advising will be ignored or met with ridicule, a gentle verbal reminder is still encouraged.
 
-# Qualities Essential for Guiding Others
+## Qualities Essential for Guiding Others
 
 Offering [Advice and admonishment](Processes/Advice%20and%20admonishment.md) should be grounded in two main qualities:
 
 * **Gentleness and Kindness**: When a person forbids evil and is insulted in return, a lack of good character may cause them to react with anger for personal reasons rather than for the sake of Allah. Instead, they should hope for the change of others, even if that change does not come through their own efforts, and [feel pity for the transgressor, supplicating for them](Processes/Hate%20the%20disobedient%20and%20love%20the%20obedient.md). Seeking personal credit for admonishment can be a sign of pride or ego.
 * **Self-discipline**: The person advising others should begin by correcting their own behavior and striving to avoid actions they themselves forbid.
 
-# What to Advise About
+## What to Advise About
 
 Here are some examples of behaviors to address, either by offering advice or by discouraging these actions in line with the system's objectives:
 

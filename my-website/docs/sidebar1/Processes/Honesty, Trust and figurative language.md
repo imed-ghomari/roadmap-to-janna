@@ -36,5 +36,7 @@ step: ''
 | Negative  | Confidential | Unshareable | Shareable |
 
 :::tip Summary
+
 Be honest, trustworthy, and keep secrets confidential. Remember your responsibilities and treat those close to you well.
+
 :::

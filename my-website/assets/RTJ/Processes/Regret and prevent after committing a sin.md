@@ -35,4 +35,7 @@ Here are some occasions when you should say _Astaghfirullah_:
 
 > [!tip] summary
 > 
+> 
 > Repent sins by expressing regret (dua), committing to prevention, and doing good deeds.
+> 
+

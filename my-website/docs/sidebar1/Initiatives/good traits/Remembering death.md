@@ -9,7 +9,7 @@ KR: good traits
 
 The Prophet said: "I have left two guides among you: one is silent, and one speaks. The silent one is death, and the one that speaks is the Qur'an." Once, a man asked, "O Messenger of Allah! Who is the smartest and noblest among people?" He replied, "The one who remembers death the most and prepares earnestly for it. These are the wisest; they achieve both worldly honor and eternal nobility."
 
-# Benefits and Approach to Remembering Death
+## Benefits and Approach to Remembering Death
 
 1. **Benefits**: Reflecting on death encourages detachment from worldly things and longing for the hereafter. Those who truly love God will yearn to meet Him.
 2. **Method**: To reflect on death:
@@ -19,17 +19,19 @@ The Prophet said: "I have left two guides among you: one is silent, and one spea
 	* [Visit graveyards](docs/sidebar1/Processes/Visit%20the%20dead.md) and [make prayers for the deceased](docs/sidebar1/Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md)
 
 :::tip Mindset
+
 Don't hate death. If you fear it, let it be because of a desire for preparedness and repentance.
+
 :::
 
-# Vain Hopes and Heedlessness of Death
+## Vain Hopes and Heedlessness of Death
 
 Heedlessness stems from vain hopes, which breed laziness and procrastination. The Prophet warned, "The most frightening traits I fear for my community are following desires and vain hopes." To combat this:
 
 * Focus on short-term goals, remembering death each morning and evening when reciting [daily supplications](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md).
 * Avoid [excessive planning and saving](docs/sidebar1/Processes/Small%20hopes%20when%20planning%20and%20saving.md) without purpose.
 
-# The Reality of Death
+## The Reality of Death
 
 The "perfect gnostic" is someone so immersed in the remembrance of Allah that they have no fear or need to dwell on death. To them, death is simply a transition to further clarity, not an end.
 
@@ -41,29 +43,29 @@ Death is the complete cessation of bodily functions, leading to absolute physica
 2. **Humiliation**: Actions once perceived as good may be revealed as shameful.
 3. **Regret for Lost Opportunities**: Like being in darkness, realizing the true nature of one's actions too late.
 
-# Prepare for the Day of Judgement
+## Prepare for the Day of Judgement
 
 Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sacred Masjid, a stone with an inscription was brought to him. He sought someone to read it, and upon it was written: 'O son of Adam! If you were to see how close you are to the end of your life, you would renounce your long hopes, seek to increase your good deeds and shorten your ambitions. Regret comes only when you slip (through sin) and are separated from your family. Then, it becomes clear that you will not return to the world nor increase your good deeds. So, act for the Day of Judgement, the day of grief and regret.'"*
 
-## Ways to Increase Your Status in Paradise
+### Ways to Increase Your Status in Paradise
 
 * Continuous charity.
 * A pious child who supplicates for you.
 * Knowledge shared that benefits others.
 * [Learn as much of the Quran as you can](docs/sidebar1/Processes/Learn%20and%20review%20the%20quran.md).
 
-## Preparing for the Masih ad-Dajjal
+### Preparing for the Masih ad-Dajjal
 
 * **Flee from him** and recite the first or last ten verses of Surah Al-Kahf.
 * **If confronted by him, choose his "fire"** (as it is Paradise in disguise). Close your eyes if you are afraid.
 
-## Die a Certain Way
+### Die a Certain Way
 
 * **Make your last action righteous**, as you will be resurrected upon that action.
 * **Die during Hajj**, and you will be resurrected in the state of *talbiyah* (the Hajj chant).
 * **Die as a martyr**, and on the Day of Judgement, you'll be raised with blood smelling of musk, and death will feel like a pinch.
 
-## Traits to Avoid (Consequences on the Day of Judgement)
+### Traits to Avoid (Consequences on the Day of Judgement)
 
 * **Pride**: You will be resurrected as tiny as ants.
 * **Hypocrisy**: Resurrected with two tongues of fire.
@@ -76,7 +78,7 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 * **Worship with ostentation**: Unable to prostrate when Allah appears.
 * **Foul language**: Lose the ability to intercede for others.
 
-## Making the Day of Judgement Easier for Yourself
+### Making the Day of Judgement Easier for Yourself
 
 * [**Be a Mu’athin**](docs/sidebar1/Processes/Be%20a%20muathin.md): You will have a beautiful, long neck.
 * **[Recite the Quran](docs/sidebar1/Processes/Recite%20the%20quran.md) (especially Al-Baqarah and Al-Imran)**: Two flocks of birds will shade you.
@@ -95,13 +97,13 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 	* Resisting temptation from the opposite gender.
 	* Giving charity secretly.
 
-## Passing the Bridges
+### Passing the Bridges
 
 * **Attend night prayers** (Isha or Fajr): Light will guide you across the Sirat.
 * **Maintain [general trust](docs/sidebar1/Processes/Honesty,%20Trust%20and%20figurative%20language.md) and [family ties](docs/sidebar1/Processes/Keeping%20family%20ties.md)**: This will help you rise if you stumble in the Sirat.
 * **[Habitually seek forgiveness](docs/sidebar1/Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md)**: Helps pass the bridge of Qantara (to not lose ranks in paradise).
 
-## Entering Paradise Without Account
+### Entering Paradise Without Account
 
 * **Avoid belief in bad omens**.
 * **Refrain from requesting others to cure you by Quran recitation**.
@@ -109,5 +111,7 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 * **Have true reliance on Allah**
 
 :::tip Balance Between Worldly and Hereafter Affairs
+
 Engage in worldly work, but direct your intentions so that your efforts in this world do not detract from your focus on the hereafter.
+
 :::

@@ -2,7 +2,7 @@
 type: process
 initiative:
 - '[[Envy]]'
-- '[[Love]]'
+- '[[Love and contentment]]'
 - '[[Self scrutiny]]'
 - '[[Fear and hope]]'
 working: false
@@ -19,7 +19,7 @@ step: ''
 ---
 
 * Link to [Envy](docs/sidebar1/Initiatives/bad%20traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.
-* Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md): Read biographies of those close to God and cultivate a love for them based on their virtuous qualities.
+* Link to [Love and contentment](docs/sidebar1/Initiatives/good%20traits/Love%20and%20contentment.md): Read biographies of those close to God and cultivate a love for them based on their virtuous qualities.
 * Link to [Self scrutiny](docs/sidebar1/Initiatives/good%20traits/Self%20scrutiny.md): Find inspiration on how to better yourself through the biographies of pious people.
 * Link to [Fear and hope](docs/sidebar1/Initiatives/good%20traits/Fear%20and%20hope.md): Learn fear through how they display it in their life.
 

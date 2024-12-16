@@ -28,5 +28,7 @@ Gratitude of the tongue is publicly acknowledging and thanking God for all bless
 We can express gratitude or say tasbih in salat, in the morning and evening supplications, when seeing someone below you (specific dua), when sneezing, in hardship (specific dua), in prosperity (specific dua) and outside of that, as there are constantly new blessings and individuals below you.
 
 :::tip summary
+
 Gratitude (tasbih) involves publicly acknowledging and thanking God for all material and immaterial blessings. Regularly recite "Hamdulilah" to express gratitude, especially after prayers, meals, and recognizing blessings.
+
 :::

@@ -9,7 +9,7 @@ KR: worship actions
 
 There are three States of Companionship:
 
-# First State: Being Alone
+## First State: Being Alone
 
 When alone, within each person exists three forces:
 
@@ -19,17 +19,17 @@ When alone, within each person exists three forces:
 
 Control harmful desires with anger and curb excessive anger with moderation. Align both with reason and Revealed Law to achieve balance, using each force where it benefits.
 
-# Second State: Companionship with Society
+## Second State: Companionship with Society
 
 It is keeping good company with the generality of creation.
 
-## General Levels
+### General Levels
 
 * **Basic level**: Avoid causing harm.
 * **Higher level**: Actively do good for others.
 * **Highest level**: Be patient and continue doing good, even to those who may have wronged you. This is the level of the most virtuous.Messenger said to 'Alī  : "If you want to surpass the truthful ones, then reach out to the one who has cut you off, give to the one who withholds from you, and forgive the one who does you wrong."
 
-## Rights
+### Rights
 
 * When you meet someone, start by [greeting them with salam](docs/sidebar1/Processes/Greet%20people%20first%20with%20salam.md); it is Sunnah to shake hands.
 * [Respond to invitations](docs/sidebar1/Processes/Accept%20invitations.md).
@@ -49,11 +49,11 @@ It is keeping good company with the generality of creation.
 * [Show care to the sick](docs/sidebar1/Processes/Call,%20visit%20and%20care%20for%20the%20sick.md).
 * [Participate in the funeral rites](docs/sidebar1/Processes/Pray%20additional%20voluntary%20prayers.md) of Muslims and visit their graves.
 
-# Third State: Special Companionship
+## Third State: Special Companionship
 
 It is good companionship with someone (aside from the generality of Islām) who relates to you especially.
 
-## Friends
+### Friends
 
 True friendship is rooted in faith in Allah and the Last Day, with love for the sake of Allah. This love has two levels:
 
@@ -78,7 +78,7 @@ Remember the mirror analogy: "A Muslim to a Muslim is like a mirror":
 * A mirror keeps what it sees private; similarly, a friend should protect their friend's faults from others.
 * The closer you get to a mirror, the more details are visible. Likewise, a closer friendship allows for deeper honesty and understanding.
 
-## Neighbor
+### Neighbor
 
 **The Rights of the Neighbor _(haquq al-jar)_**: A neighbor is entitled to greater rights than those typically due to a fellow Muslim. This elevated right emphasizes the importance of neighborly kindness and consideration.
 [The right of neighborliness](docs/sidebar1/Processes/Complete%20neighboor's%20duties.md) extends beyond simply avoiding harm. It includes:
@@ -88,7 +88,7 @@ Remember the mirror analogy: "A Muslim to a Muslim is like a mirror":
 * Overlooking their faults, avoiding peering into their home, refraining from causing disturbances (such as hammering nails into a shared wall), and respecting shared spaces by not directing water or dust into their property.
 * Avoiding curiosity about what they bring home, concealing their shortcomings, refraining from eavesdropping, lowering one's gaze when near their household, and providing for their family's needs in their absence.
 
-## Relatives
+### Relatives
 
 [Maintain family ties](docs/sidebar1/Processes/Keeping%20family%20ties.md), even if relations are strained:
 

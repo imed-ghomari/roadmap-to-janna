@@ -32,6 +32,7 @@ step: ''
 | Beneficial / Important (religious or significant matters) | **Collaborating** (preferred) or **Compromising** conflict resolution | [Accept accusations](docs/sidebar1/Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) | [Advice and admonishment](docs/sidebar1/Processes/Advice%20and%20admonishment.md)             | /                                                                                  |
 
 :::tip Summary
+
 Categorize discussions to determine the appropriate communication method. And during the conversation, remember to:
 
 * Avoid anger.

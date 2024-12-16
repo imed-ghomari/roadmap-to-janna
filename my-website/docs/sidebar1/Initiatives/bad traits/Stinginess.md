@@ -7,7 +7,7 @@ start: ''
 KR: bad traits
 ---
 
-# The Foundation of Stinginess and the Reality of Wealth
+## The Foundation of Stinginess and the Reality of Wealth
 
 Stinginess is rooted in a love of wealth, which is problematic. Someone without wealth may still display stinginess through an intense desire for it. A person may even give generously to be recognized, which is also blameworthy, as attachment to wealth can distract from the remembrance of Allah, leading to a preoccupation with worldly matters and making the eventual meeting with Allah more challenging.
 
@@ -17,7 +17,7 @@ Wealth itself is not inherently negative. The Prophet Muhammad (peace be upon hi
 * **It encourages indulgence**, making it difficult to live without luxuries, often leading to hypocrisy, envy, and hostility.
 * **It distracts from Allah's remembrance**, crowding the heart with worldly concerns.
 
-# The Sufficient Amount
+## The Sufficient Amount
 
 * True necessity only calls for basic food and clothing.
 * Consider wealth merely as a means to fulfill needs, just as food is consumed to nourish the body. Any surplus should ideally support those in need, like the poor and widows.
@@ -26,19 +26,19 @@ Wealth itself is not inherently negative. The Prophet Muhammad (peace be upon hi
 
 **Wealth is Like Medicine**: Wealth should be handled carefully, like medicine. The right amount benefits, an overdose harms, and nearing an overdose can still make one ill. Take only what is necessary, [save when needed](docs/sidebar1/Processes/Withhold%20wealth%20when%20needed.md), and avoid the danger of luxury.
 
-# The Definition of Stinginess
+## The Definition of Stinginess
 
 A stingy person finds spending hard, indicating a love of wealth beyond its true purpose. Wealth should serve clear benefits, such as preserving public respectability over personal indulgence. True stinginess arises from an inability to prioritize spending on what is most beneficial. To avoid this, spending should be directed toward necessary, rational, and legally appropriate purposes. Generosity begins when spending feels natural and unburdened by reluctance.
 
-# The Treatment of Stinginess
+## The Treatment of Stinginess
 
 Overcoming stinginess requires both understanding and practical action.
 
-## Understanding Stinginess
+### Understanding Stinginess
 
 Stinginess leads to ruin in the afterlife and earns criticism in this life. Wealth is a temporary gift from Allah, meant to be used wisely. Using it for meaningful purposes brings lasting rewards and ensures a good reputation, which is far more valuable than hoarding wealth for personal desires.
 
-## Practicing Generosity
+### Practicing Generosity
 
 To overcome stinginess, train yourself to spend until it becomes a natural habit. Begin by spending with the intention of earning reward and a good reputation, and gradually cultivate genuine generosity. Here are some meaningful ways to use wealth:
 
