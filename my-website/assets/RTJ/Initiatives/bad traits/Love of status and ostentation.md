@@ -7,21 +7,21 @@ start: ''
 KR: bad traits
 ---
 
-## Love of Status
+# Love of Status
 
-### The Reality of High Status in Praise and Blame
+## The Reality of High Status in Praise and Blame
 
 * Status is the power to influence people's hearts and actions according to one's desires, much like wealth gives control over resources. Unlike wealth, status can't be stolen or damaged, making it highly valued.
 * Status is especially appealing as it aligns with qualities of loftiness and might, which resemble divine attributes humans naturally desire.
 * Seeking true status, such as closeness to Allah, is praiseworthy and brings lasting benefits, unlike worldly status or wealth, which are fleeting and imperfect. True perfection comes from [knowledge](Processes/Build%20knowledge%20in%20free%20time.md), freedom, and independence from others. These lead to real wealth through virtues that endure beyond life.
 * Real freedom involves [detaching from all worldly things](Processes/Pride%20and%20lesser%20blessings%20-%20accept%20but%20disregard%20them.md) that won't stay with you beyond death and focusing on what endures—namely, Allah. Wealth and status are temporary, while knowledge and freedom are lasting virtues.
 
-### Reducing Love of Status
+## Reducing Love of Status
 
 * Recognizing that status is an illusion can help reduce attachment to it. Seeking some influence may be permissible for protection and support for religious pursuits, as long as it's within modest bounds. Practicing control over conversations by [speaking purposefully or staying silent](Processes/Speak%20purposefully%20or%20maintain%20silence.md) is one way to avoid the dangers of status-seeking.
 * Even small amounts of status may increase the desire for more, making it a risky pursuit. Those who remain safe in faith often live quietly and avoid fame. When unavoidable, humility can be maintained by [doing simple, humble acts](Processes/Reduce%20fame%20by%20performing%20unsavory%20acts.md).
 
-### Managing the Desire for Praise
+## Managing the Desire for Praise
 
 * Seeking status often stems from a love of praise, which brings pleasure by enhancing self-image, affirming influence over others, or elevating social status.
 * [Praise should be received cautiously](Processes/Moderation%20in%20Praise%20and%20Questioning.md). Joy in praise based on wealth or status is misplaced since these are not true virtues. If one is praised for genuine knowledge or piety, gratitude should be directed to Allah, not the person praising. Without true virtue, rejoicing in praise is misguided.
@@ -35,9 +35,9 @@ Different attitudes towards praise and blame reveal four levels:
 
 > Seeking recognition through non-religious actions is generally acceptable if it doesn't involve deception.
 
-## Ostentation
+# Ostentation
 
-### Forms of Ostentation
+## Forms of Ostentation
 
 Ostentation can appear in various actions:
 
@@ -48,17 +48,17 @@ Ostentation can appear in various actions:
 5. **Practice** - Publicly engaging in longer prayers or rituals that wouldn't be done privately.
 6. **Influence** - Mentioning associations with teachers or scholars to boost reputation.
 
-### Levels of Ostentation
+## Levels of Ostentation
 
 Ostentation is worse when rooted in deceptive intent to appear more righteous than one truly is. Such behavior shows a disregard for sincere worship and is seen as associating partners with Allah, placing others' opinions above His approval.
 
-### Subjects of Ostentation
+## Subjects of Ostentation
 
 1. **Worst** - Pretending to faith itself.
 2. **Severe** - Ostentation in fundamental acts of worship.
 3. **Lesser** - In non-obligatory (supererogatory) actions.
 
-### Impact of Ostentation Based on Intent
+## Impact of Ostentation Based on Intent
 
 Ostentation ranges from blatant to nearly imperceptible:
 
@@ -70,7 +70,7 @@ It's natural to feel joy if good deeds are visible, as they can lead to rewards 
 
 Blatant ostentation voids the deed, while hidden ostentation may reduce its reward. Post-worship boasting is sinful, exposing underlying pride.
 
-### Treating Ostentation by Examining Its Causes
+## Treating Ostentation by Examining Its Causes
 
 * **Treatment addresses three main causes**: love of praise, fear of criticism, and greed.
 	* **Love of Praise**: Combat this by recognizing that people's praise is superficial. Remind yourself that ostentation is harmful, like "sweet honey with hidden poison."
@@ -80,7 +80,7 @@ Blatant ostentation voids the deed, while hidden ostentation may reduce its rewa
 	* [Keeping your good deeds private](Processes/Hide%20your%20good%20deeds.md).
 	* [Combating ostentation during worship](Processes/Combat%20ostentation%20during%20worship.md) by renewing your awareness that Allah's view is what matters, not people's, to avoid falling into ostentation.
 
-### Showing or Hiding Good Deeds
+## Showing or Hiding Good Deeds
 
 * **Showing good deeds to inspire others** is allowed when you sincerely intend to encourage rather than seek praise. A sign of sincerity is being glad when others follow good examples, even if it's not you.
 * [**Hiding sins**](Processes/Conceal%20your%20sins.md) is also permissible to avoid giving a bad example, as long as it's not to pretend to be pious. Feeling relieved by hiding sins is natural.

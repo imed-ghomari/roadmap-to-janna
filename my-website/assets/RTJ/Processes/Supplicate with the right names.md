@@ -17,7 +17,7 @@ step: ''
 
 Link to [Reliance](Initiatives/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.
 
-## Seeking Guidance and Clarity
+# Seeking Guidance and Clarity
 
 * **Questions**:
   * Am I making important life decisions?
@@ -31,7 +31,7 @@ Link to [Reliance](Initiatives/good%20traits/Reliance.md). This is an attempt to
 
 ---
 
-## Need for Emotional Support and Forgiveness
+# Need for Emotional Support and Forgiveness
 
 * **Questions**:
   * Am I dealing with feelings of guilt or shame?
@@ -55,7 +55,7 @@ Link to [Reliance](Initiatives/good%20traits/Reliance.md). This is an attempt to
 
 ---
 
-## Facing Challenges and Seeking Strength
+# Facing Challenges and Seeking Strength
 
 * **Questions**:
   * Am I encountering personal or professional obstacles?
@@ -75,7 +75,7 @@ Link to [Reliance](Initiatives/good%20traits/Reliance.md). This is an attempt to
 
 ---
 
-## Desire for Well-being and Abundance
+# Desire for Well-being and Abundance
 
 * **Questions**:
   * Am I struggling with financial issues?

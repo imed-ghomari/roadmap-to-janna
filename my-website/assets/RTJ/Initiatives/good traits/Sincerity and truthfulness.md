@@ -9,18 +9,18 @@ KR: good traits
 
 Sincerity consists of three essential elements: reality, foundation, and perfection.
 
-## Foundation - Intention
+# Foundation - Intention
 
 * [**Multiple Intentions in One Act**](Processes/Have%20multiple%20intentions%20in%20voluntary%20worship%20acts.md): In voluntary worship, multiple intentions can be combined within a single act, maximizing its value.
 * **Intention as an Inner Motivation**: Intention isn't simply a verbal or mental declaration; it's the genuine drive behind actions, making the action itself conceivable.
 * [**Intention's Weight over Action**](Processes/Review%20initiatives%20and%20processes.md): Actions done sincerely, even small ones, hold greater reward from Allah than seemingly larger insincere acts.
 
-## Sincerity of Intention
+# Sincerity of Intention
 
 * **Purity of Motivation**: True sincerity involves pure motivation without any personal or external influence. When actions mix with personal gains, sincerity is compromised. Achieving complete sincerity is challenging, yet a moment of true sincerity can bring eternal rewards.
 * **Levels of Adulteration in Sincerity**: Adulteration of sincerity varies—it might overwhelm, subtly influence, or merely coexist with the intent for Allah's sake. Actions with minor, secondary motives may retain some reward if Allah's pleasure is sought, but major adulterations render worship insincere and, sometimes, invalid.
 
-## Perfection - Truthfulness
+# Perfection - Truthfulness
 
 1. [**Truthful Speech**](Processes/Honesty,%20Trust%20and%20figurative%20language.md): A Muslim speaks honestly and avoids falsehood, as lying is a trait of hypocrisy: "Three characteristics define a hypocrite: when he speaks, he lies; when he promises, he breaks it; when entrusted, he betrays."
 2. **Honesty in Dealings**: A Muslim acts truthfully in all transactions, avoiding deceit. He [associates with people of integrity](Processes/Hate%20the%20disobedient%20and%20love%20the%20obedient.md) and verifies their claims.

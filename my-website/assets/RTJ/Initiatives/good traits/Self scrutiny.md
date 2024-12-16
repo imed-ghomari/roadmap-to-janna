@@ -7,19 +7,19 @@ start: ''
 KR: good traits
 ---
 
-## The Importance of Self-Awareness
+# The Importance of Self-Awareness
 
 * **Awareness of One's Faults**: Recognizing personal flaws is a favor from Allah, as it is the first step toward self-improvement. Awareness of one's shortcomings allows for their remedy, while ignorance of them sustains negative behaviors and hinders spiritual growth.
 * **Self-Scrutiny Before Correcting Others**: Attempting to guide others without addressing one's flaws is ineffective. To help others, one must cleanse oneself of negative traits like greed, jealousy, ostentation, and vanity.
 
-## Steps to Discover Personal Faults
+# Steps to Discover Personal Faults
 
 * **Learning About Spiritual Diseases**: Understanding spiritual diseases of the heart, such as pride, envy, and hypocrisy, helps one identify and address these traits within oneself. You can deepen this understanding by [reviewing processes that address these challenges](Processes/Review%20initiatives%20and%20processes.md).
 * **Reflecting on Others' Actions**: Observing others' behaviors can reveal similar tendencies in oneself. Noting negative traits in others serves as a mirror to examine one's conduct.
 * **Seeking Feedback from a Sincere Friend**: Feedback from a truthful friend provides an external perspective on one's character, helping identify areas for improvement that may be hard to see alone.
 * **Inspiration from Pious Lives**: Reading the [biographies of spiritually accomplished individuals](Processes/Choose%20your%20mentors%20well.md) can provide motivation and guidance. Their journeys reveal the paths they followed and the obstacles they overcame on their way to excellence.
 
-## Accountability After Worship
+# Accountability After Worship
 
 When falling short in sincerity, devotion, or adherence to principles, it is helpful to hold oneself accountable, similar to how one might correct a child. In this context, accountability could mean increasing voluntary worship, like additional fasting or charity.
 

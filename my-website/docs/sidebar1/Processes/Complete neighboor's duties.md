@@ -27,7 +27,5 @@ To uphold the rights of Muslim neighbors, it is essential to:
 * Respect their privacy by not disturbing shared walls, drains, or courtyards. Avoid prying into their affairs, eavesdropping on conversations, and lowering your gaze towards their women.
 
 :::tip summary
-
 To uphold the rights of Muslim neighbors, refrain from harm, be friendly, visit during times of need, and respect their privacy.
-
 :::

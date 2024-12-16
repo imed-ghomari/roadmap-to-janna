@@ -39,7 +39,4 @@ Link to [Parenting](Initiatives/worship/Parenting.md)
 
 > [!tip] summary
 > 
-> 
 > Teach children both religious knowledge (faith, worship, beliefs) and life skills (productivity, self-sufficiency, decision-making).
-> 
-

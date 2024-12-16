@@ -26,7 +26,5 @@ step: ''
 * Link to [Love of Status and Ostentation](docs/sidebar1/Initiatives/bad%20traits/Love%20of%20status%20and%20ostentation.md): Avoid discussing your opinion unnecessarily to prevent showing off knowledge or seeking fame.
 
 :::tip Summary
-
 Engage in dhikr to avoid harmful conversations. If the conversation is neutral, avoid talking about others or yourself. Instead, make your point succinctly, maintain silence, avoid excessive small talk, and redirect the discussion to something more meaningful.
-
 :::

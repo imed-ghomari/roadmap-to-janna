@@ -7,11 +7,11 @@ start: ''
 KR: good traits
 ---
 
-## Patience is Unique to Humans
+# Patience is Unique to Humans
 
 When religious motivation overcomes desire, the station of patience is attained; this requires certainty.
 
-## Levels of Patience
+# Levels of Patience
 
 Patience varies based on one's ability to resist desire:
 
@@ -21,7 +21,7 @@ Patience varies based on one's ability to resist desire:
 	* The person feels no urge to repent, with their mind trapped by desire, using reason only to justify indulgence.
 3. **Intermediate Level**: The person struggles with desire, sometimes succeeding, sometimes failing.
 
-## The Need for Patience in All Situations
+# The Need for Patience in All Situations
 
 Patience is needed in every aspect of life, as everything a person faces aligns with or opposes their desire.
 

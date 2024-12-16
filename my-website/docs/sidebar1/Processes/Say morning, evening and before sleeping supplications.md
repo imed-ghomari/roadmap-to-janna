@@ -26,7 +26,5 @@ step: ''
 * Link to [Love](docs/sidebar1/Initiatives/good%20traits/Love.md): When declaring Allah's perfection by saying *Tasbih*, renew your love for Him.
 
 :::tip Summary
-
 Focus on each of your daily _adhkar_ to nurture and sustain good traits throughout the day.
-
 :::

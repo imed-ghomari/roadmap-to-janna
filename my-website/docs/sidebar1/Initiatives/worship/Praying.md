@@ -7,7 +7,7 @@ start: ''
 KR: worship actions
 ---
 
-## Obligatory Prayer Requirements
+# Obligatory Prayer Requirements
 
 * **The first matter** is being vigilant about ritual purification by [performing ablution](docs/sidebar1/Processes/Make%20ablution%20with%20both%20intentions.md) before the prayer. The objective of purifying clothes and the body is to purify the heart. Remember to consider each body member and its connection to the acts you are washing out.
 * **The second matter** is to be vigilant about the prayer's recommended acts, outer practices, remembrances, and glorifications.
@@ -26,14 +26,14 @@ KR: worship actions
 	* Cultivate hope (_raja_) and fear (_kawf_) during prayer.
 	* Feel shame, which arises out of service and knowledge of neglect.
 
-## Supplementary Prayers
+# Supplementary Prayers
 
-### Conditions Of Voluntary Prayers
+## Conditions Of Voluntary Prayers
 
 * You can pray seated in voluntary prayers but won't get the full reward.
 * Try to pray voluntary prayers in [seclusion](docs/sidebar1/Processes/Hide%20your%20good%20deeds.md) to get the full reward (hide your good deeds like you hide your evil deeds).
 
-### Types Of Voluntary Prayers
+## Types Of Voluntary Prayers
 
 * [Pray 12 daily voluntary prayers](docs/sidebar1/Processes/Pray%2012%20daily%20nawafil%20prayers.md).
 * [Pray the dua prayer](docs/sidebar1/Processes/Pray%20the%20dua%20prayer.md) (2 rakat between sunrise and Duhr prayer).

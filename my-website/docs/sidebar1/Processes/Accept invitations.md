@@ -21,7 +21,5 @@ step: ''
 * Link to [Following the sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md): The Prophet Muhammad (ﷺ) accepted invitations from all people, even those of humble status.
 
 :::tip summary
-
 Respond to all invitations with kindness and respect the rights of Muslims to attend ceremonies.
-
 :::

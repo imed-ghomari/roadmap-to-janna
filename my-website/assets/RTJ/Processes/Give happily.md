@@ -35,7 +35,4 @@ Link to [Zakat and charity and selflessness](Initiatives/worship/Zakat%20and%20c
 
 > [!tip] summary
 > 
-> 
 > Give secretly from your best possessions to those in need, prioritizing family, the pious, and the needy. Find joy in giving, knowing it's a true investment in the Hereafter.
-> 
-

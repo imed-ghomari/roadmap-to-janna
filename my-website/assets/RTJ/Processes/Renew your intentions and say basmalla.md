@@ -40,7 +40,4 @@ Here are some occasions when you should say "basmalla":
 
 > [!tip] summary
 > 
-> 
 > Perform actions with pure intentions, seeking Allah's blessings, by making basmalla before major actions.
-> 
-

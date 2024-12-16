@@ -25,7 +25,5 @@ step: ''
 	* Specific: Limit device use to essential tasks and avoid platforms with harmful suggestions.
 
 :::tip summary
-
 Give up lawful indulgences that may lead to unlawful ones; Remove other loves and attachments, as they compete with the love of God and can lead to sin.
-
 :::

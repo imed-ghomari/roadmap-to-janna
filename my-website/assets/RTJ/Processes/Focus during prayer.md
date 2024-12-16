@@ -26,7 +26,4 @@ step: ''
 
 > [!tip] summary
 > 
-> 
 > Remember your humble origins and pray attentively, focusing on different supplications in each portion of your prayers and envisioning each prayer as if it were your last.
-> 
-

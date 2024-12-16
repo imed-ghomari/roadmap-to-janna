@@ -38,7 +38,5 @@ step: ''
 	* If the misbehavior is religious in nature, encourage them to seek forgiveness from Allah.
 
 :::tip summary
-
 Instruct only for Allah's sake, using appropriate levels of persuasion and force, and discipline family members according to their rebellion level.
-
 :::

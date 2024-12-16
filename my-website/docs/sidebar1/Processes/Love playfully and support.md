@@ -26,7 +26,5 @@ step: ''
 	* **Discipline:** Provide balanced discipline, balancing affection (80%) and strictness (20%).
 
 :::tip summary
-
 Nurture your family relationships by expressing love and kindness. Offer support and comfort to your spouse and children. Engage in activities and provide balanced discipline with your children.
-
 :::

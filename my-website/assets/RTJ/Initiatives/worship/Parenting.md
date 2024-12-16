@@ -7,7 +7,7 @@ start: ''
 KR: worship actions
 ---
 
-## Etiquette When Child is Born
+# Etiquette When Child is Born
 
 * **Perform Adhan in the Newborn's Ear:** Recite the call to prayer (Adhan) in the baby's ear right after birth.
 * **Choose a Good Name:** Give a meaningful name that does not describe attributes excessively.
@@ -15,16 +15,16 @@ KR: worship actions
 * **Tahniq Practice:** Rub a small amount of date or something sweet on the child's palate.
 * **Circumcision:** Arrange for the child's circumcision.
 
-## Keys to Good Parenting
+# Keys to Good Parenting
 
-### [Compassion and Love](Processes/Love%20playfully%20and%20support.md)
+## [Compassion and Love](Processes/Love%20playfully%20and%20support.md)
 
 * **Show love openly:** Tell your children you love them, and express affection with hugs and kisses throughout their lives.
 * **Encourage and compliment:** Focus on your children's strengths, praising their efforts to build self-confidence and strengthen your bond.
 * **Share laughter and joy:** Bond through play and laughter, avoiding jokes or nicknames that might hurt their feelings.
 * **Spend quality time:** Engage in activities everyone enjoys, aiming to be loving 80% of the time and only strict when necessary (20%). This balance helps kindness become the norm and strictness the exception.
 
-### [Setting Boundaries and Discipline](Processes/Advice%20and%20admonishment.md)
+## [Setting Boundaries and Discipline](Processes/Advice%20and%20admonishment.md)
 
 * **Set clear boundaries:** Ensure children understand expectations and consequences before enforcing discipline.
 * **Maintain affection in discipline:** Show affection even during discipline, like a comforting touch or hug afterward.
@@ -35,7 +35,7 @@ KR: worship actions
 * **Avoid public shaming:** Discuss issues privately unless using an example for others.
 * **Separate action from identity:** Address the behavior as wrong, not the child, to reinforce your love for them.
 
-### Building Faith, [Teaching, and Nurturing](Processes/Teach%20and%20nurture.md) Talents
+## Building Faith, [Teaching, and Nurturing](Processes/Teach%20and%20nurture.md) Talents
 
 * **Teach about Allah's love and mercy:** Emphasize worship out of love, not fear. Help children connect with Allah through stories from the Quran.
 * **Explain Islamic principles:** Teach the meaning behind practices, not just rules, so children understand why some actions are halal or haram.
@@ -47,7 +47,7 @@ KR: worship actions
 * **Be a role model:** Show honesty, kindness, and respect for elders, including your own parents. Avoid showing faults and correct mistakes openly.
 * **Communicate respectfully:** Use polite language and full sentences, as children mimic how you speak.
 
-### [Protecting from Negative Influences](Processes/Protect%20and%20don't%20harm%20honor,%20wealth%20and%20life.md)
+## [Protecting from Negative Influences](Processes/Protect%20and%20don't%20harm%20honor,%20wealth%20and%20life.md)
 
 * **Encourage positive friendships:** Cultivate relationships with families who share your values.
 * **Discuss peer pressure:** Role-play responses to peer pressure, promoting individuality.
@@ -56,14 +56,14 @@ KR: worship actions
 * **Engage with their education:** Involve yourself in their schooling or consider homeschooling for alignment with Islamic values.
 * [**Protect their privacy**](Processes/Don't%20spy%20and%20protect%20privacy.md) in the home.
 
-### [Promoting Justice and Fairness](Processes/Be%20just%20and%20adapt%20to%20each%20person.md)
+## [Promoting Justice and Fairness](Processes/Be%20just%20and%20adapt%20to%20each%20person.md)
 
 * **Ensure fairness:** Avoid favoritism in discipline, attention, or privileges.
 * **Don't compare siblings:** Refrain from comparisons to prevent jealousy and resentment.
 * **Spend individual time:** Show each child they are valued through one-on-one time.
 * **Respect individuality:** Recognize each child's unique personality and needs.
 
-### [Dua and Supplication](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md)
+## [Dua and Supplication](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md)
 
 * **Pray for guidance and protection:** Make dua for your children daily, asking Allah to keep them righteous. Dua examples: Quran 3:38, 37:100, 14:40, 25:74, 46:15
 * **Align dua with parenting goals:** Use your supplications to shape and reflect on your parenting goals, striving to match your actions with these aspirations.

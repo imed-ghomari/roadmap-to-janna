@@ -11,31 +11,31 @@ The tongue has twenty ailments. We will address them all briefly, though remembe
 
 Remember that the most predominant ailments of the tongue are five: lying, backbiting, arguing, praising, and joking. Now, for ease of understanding, we have grouped the twenty ailments into six categories:
 
-## [Judging and Harsh Admonishing](Processes/Advice%20and%20admonishment.md)
+# [Judging and Harsh Admonishing](Processes/Advice%20and%20admonishment.md)
 
 * Avoid harshly criticizing minor flaws. Show leniency in matters that aren't explicitly sinful, using gentle speech when advising others on clear wrongdoings.
 * Avoid labeling people by associating actions with their character or hoping for their failure. Instead, show compassion, provide constructive feedback, and pray for their guidance.
 
-## [Harmful Speech](Processes/Avoiding%20Harmful%20Speech.md)
+# [Harmful Speech](Processes/Avoiding%20Harmful%20Speech.md)
 
 * Avoid cursing, vulgar language, and discussing obscene topics.
 * Avoid boasting, exaggerating, using ornate speech, or adding false details to impress others.
 * Avoid bad lyrics or poetry, ridicule, and excessive joking. Joking too much erodes dignity and stirs malice, although a little light-heartedness is acceptable. Make sure to say the truth when joking.
 
-## [Disputing and Arguing](Processes/Managing%20difference%20of%20opinion.md)
+# [Disputing and Arguing](Processes/Managing%20difference%20of%20opinion.md)
 
 The Prophet said, "A believer does not perfect his faith until he stops disputing, even when he's right." Disputing involves pointing out others' mistakes. Instead, affirm the truth in what others say and overlook errors unless gentle correction would be genuinely helpful.
 
 > It is true that you sometimes need to get your rights, for example, when disputing about wealth or properties, but try to use sweet words instead of harsh ones.
 
-## [Loquaciousness](Processes/Speak%20purposefully%20or%20maintain%20silence.md)
+# [Loquaciousness](Processes/Speak%20purposefully%20or%20maintain%20silence.md)
 
 * Avoid excessive small talk or knowledge that doesn't benefit you. Aim to engage in conversation that promotes good, charity, or reconciliation.
 * Speaking too much increases the chance of sin, so use minimal words when conveying your message.
 
-## [Dishonesty and Betrayal](Processes/Honesty,%20Trust%20and%20figurative%20language.md)
+# [Dishonesty and Betrayal](Processes/Honesty,%20Trust%20and%20figurative%20language.md)
 
-### Dishonesty
+## Dishonesty
 
 Refrain from speaking falsehood (**lying**) for personal gain, wealth, status, or out of politeness, such as pretending not to want food when one is hungry. There are some exceptions to the rule:
 
@@ -52,13 +52,13 @@ Ailments related to lying include:
 * Lying about doing something: Making a **false promise** in haste, as it creates an unfulfilled obligation similar to a debt.
 * Lying to some people: Engaging in two-faced speech (**hypocrisy**), such as holding contradictory views to win favor with different people.
 
-### Betrayal
+## Betrayal
 
 Betrayal breaches trust when it involves **cheating** or revealing secrets, private matters, or faults (**slander**). Sharing something a person prefers to keep private is also considered **backbiting**. To avoid partaking in this, one should neither listen to, believe, nor relay it and distance themselves from the person engaging in it.
 
 Backbiting can occur beyond speech—it can include gestures, symbols, or sarcasm, such as vaguely referring to "some people" with the intent of criticism. Even advising against backbiting with the wrong intention (e.g., to appear pious) can be sinful unless one sincerely detests it in their heart.
 
-#### Situations Where Backbiting is Permissible
+### Situations Where Backbiting is Permissible
 
 Backbiting is only allowed in six cases:
 
@@ -69,11 +69,11 @@ Backbiting is only allowed in six cases:
 5. Referring to someone by a descriptive name (e.g., "blear-eyed") if that's the name they are known by.
 6. If a person is openly sinful, mentioning the fault they are public about.
 
-#### Methods for Avoiding Backbiting
+### Methods for Avoiding Backbiting
 
 If one realizes they have backbitten, they should seek forgiveness, ask the wronged person for pardon, or increase their praise, pray for them, and perform good deeds on their behalf if they cannot reach them.
 
-## [Moderation in Praise and Questioning](Processes/Moderation%20in%20Praise%20and%20Questioning.md)
+# [Moderation in Praise and Questioning](Processes/Moderation%20in%20Praise%20and%20Questioning.md)
 
 * Avoid excessive questioning about Allah's attributes, which is driven by doubt rather than genuine curiosity. Instead, replace this with wholehearted submission and engagement in acts of worship.
 * Avoid errors in speaking about the religion, especially regarding Allah. Saying something about an important matter (like using slave or using incha'llah, not in its context) out of innovation or excessive talking.

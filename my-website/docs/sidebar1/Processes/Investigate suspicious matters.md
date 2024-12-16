@@ -16,7 +16,7 @@ dependency: ''
 step: ''
 ---
 
-Link to [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md) and [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)
+Link to [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md) and [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md) 
 
 Whenever there's suspicion, investigate the lawfulness of the matter before judging. For example, research food before consuming it or asking your local imam.
 
