@@ -65,8 +65,7 @@ This goal is achieved through 3 key results and their respective initiatives: (s
 	* [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
 	* [Sincerity and truthfulness](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
 	* [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
-	* [Love](docs/sidebar1/Initiatives/good%20traits/Love.md)
-	* [Contentment with divine decree](docs/sidebar1/Initiatives/good%20traits/Contentment%20with%20divine%20decree.md)
+	* [Love and contentment](docs/sidebar1/Initiatives/good%20traits/Love%20and%20contentment.md)
 	* [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md)
 	* [Self-scrutiny](docs/sidebar1/Initiatives/good%20traits/Self%20scrutiny.md)
 
