@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imed-ghomari.github.io/roadmap-to-janna/blog</id>
     <title>Roadmap to Janna Blog</title>
-    <updated>2024-12-01T00:00:00.000Z</updated>
+    <updated>2025-01-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imed-ghomari.github.io/roadmap-to-janna/blog"/>
     <subtitle>Roadmap to Janna Blog</subtitle>
     <icon>https://imed-ghomari.github.io/roadmap-to-janna/img/countryside.png</icon>
+    <entry>
+        <title type="html"><![CDATA[January update]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/January update</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January update"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Additions]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January%20update#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+<ul>
+<li>A new, more straightforward method for applying the system was added.</li>
+<li>Included the system's limitations and how to overcome them in "Getting Started."</li>
+<li>Another essential process related to properly using blessings was added: "Guarding Your Eyes and Ears."</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January%20update#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<ul>
+<li>Added more details on how to learn the Quran based on personal experience.</li>
+<li>Changed the vault links to include a "repeat icon" for recurring processes, enhancing visualization.</li>
+<li>I added a mention of "waiting" initiatives and processes, which were overlooked in both scripts in the performance section.</li>
+<li>The last section of "Choose Your Mentors Well" provides additional ways to benefit from predecessors' stories.</li>
+<li>Revised "How to Manage Desires of the Private Parts" to reflect Ghazali's opinion on this topic better.</li>
+<li>Renamed the "Reciting the Quran" initiative to "Engaging with the Quran" to eliminate confusion with a similarly titled process.</li>
+<li>Added links to the Family Support process within the "Upholding the Rights of Muslims" initiative.</li>
+<li>Included a link to the Seeking the Lawful initiative in the Patience initiative regarding acts of disobedience.</li>
+<li>Mentioned "Inshallah" in the Reliance initiative.</li>
+<li>Added more details on balancing fear and hope in the "Cry and Fear Misguidance" process.</li>
+<li>Included a link to the "Speak Purposefully" process through the "Managing Differences of Opinion" table.</li>
+<li>Merged "Love" and "Contentment with Divine Decree" into the "Love and Contentment" initiative since contentment is a sign of love, and they are too closely related to remain separate.</li>
+<li>The weekly review section "Actions Done All the Time" was changed to follow the "Hope-Fear-Love" Taqwa model.</li>
+<li>Updated specific properties in the downloadable vault to align with the merged initiatives and improve the accuracy of the performance graphs.</li>
+<li>Highlighted the need to take precautions in the “fear of misguidance” process, as it constitutes the resulting action of fear.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January%20update#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<ul>
+<li>Removed the segment regarding excluding supplication in the "reliance" initiative to eliminate confusion.</li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[December update]]></title>
         <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/December update</id>
