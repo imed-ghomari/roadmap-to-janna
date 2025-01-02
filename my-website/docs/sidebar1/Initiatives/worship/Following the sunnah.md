@@ -9,7 +9,7 @@ KR: worship actions
 
 :::note
 
-This initiative differs from the others, as most previously discussed processes can be linked to it. I've dedicated this initiative to processes that don't fit into any specific worship actions category. This ensures that if a new **worship** process cannot be placed in an existing category, it can be included here, resulting in a more complete worship actions category.
+This initiative differs from the others, as most previously discussed processes can be linked to it. I've dedicated this initiative to processes that don't fit into any specific worship actions category. This ensures that if a new **worship** process cannot be placed in an existing initiative, it can be included here, resulting in a more complete worship actions category.
 
 :::
 

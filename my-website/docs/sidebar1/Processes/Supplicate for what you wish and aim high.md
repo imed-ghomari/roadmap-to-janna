@@ -1,8 +1,8 @@
 ---
 type: process
 initiative:
-- '[[Contentment with divine decree]]'
 - '[[Reliance]]'
+- '[[Love and contentment]]'
 working: false
 due: ''
 duration: null

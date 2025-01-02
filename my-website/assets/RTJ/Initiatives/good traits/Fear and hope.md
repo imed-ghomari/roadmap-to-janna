@@ -38,7 +38,7 @@ As for its benefits, fear helps to combat two detrimental states: complacency an
 
 For someone engaged in sin, [fear](Processes/Cry%20and%20fear%20misguidance.md) (_khawf_) should drive them to repent and turn away from disobedience. This fear should awaken the sinner to the gravity of their actions and bring awareness of the consequences of sin, such as divine punishment and separation from Allah. However, excessive fear leading to despair is harmful, as it extinguishes the desire for repentance and paralyzes spiritual growth.
 
-> True fear goes beyond an emotional reaction; it should inspire real change. Avoid superficial expressions of fear, like tears shed during Quranic recitations without any practical change.
+> True fear goes beyond an emotional reaction; it should inspire real change and encourage you to take precautions. Avoid superficial expressions of fear, like tears shed during Quranic recitations without any practical change.
 
 Once a sin has been committed, [hope](Processes/Regret%20and%20prevent%20after%20committing%20a%20sin.md) (_raja_) becomes essential, encouraging the sinner to seek Allah's mercy sincerely. This shift reflects the vastness of Allah's forgiveness, allowing even severe sinners to find redemption through genuine repentance and change.
 

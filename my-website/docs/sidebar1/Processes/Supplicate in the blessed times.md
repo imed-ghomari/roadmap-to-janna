@@ -1,17 +1,17 @@
 ---
 type: process
+initiative: []
+working: false
 due: ''
 duration: null
-file: ''
-context: ''
-waiting: false
-dependency: ''
-initiative: []
 recurrence: ''
 start: ''
-step: ''
-working: false
+waiting: false
 review: ''
+file: ''
+context: ''
+dependency: ''
+step: ''
 ---
 
 Be sure to supplicate during the times that occur most often, as this will help you not miss valuable opportunities.

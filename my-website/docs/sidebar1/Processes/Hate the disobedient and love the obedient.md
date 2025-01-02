@@ -1,7 +1,6 @@
 ---
 type: process
 initiative:
-- '[[Contentment with divine decree]]'
 - '[[Commanding good and forbidding evil]]'
 - '[[Love and contentment]]'
 - '[[Sincerity and truthfulness]]'
