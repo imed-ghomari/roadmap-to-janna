@@ -17,10 +17,12 @@ KR: worship actions
 
 ## Qualities Essential for Guiding Others
 
-Offering [Advice and admonishment](Processes/Advice%20and%20admonishment.md) should be grounded in two main qualities:
+Offering [Advice and admonishment](Processes/Advice%20and%20admonishment.md) should be grounded in these two qualities:
 
 * **Gentleness and Kindness**: When a person forbids evil and is insulted in return, a lack of good character may cause them to react with anger for personal reasons rather than for the sake of Allah. Instead, they should hope for the change of others, even if that change does not come through their own efforts, and [feel pity for the transgressor, supplicating for them](Processes/Hate%20the%20disobedient%20and%20love%20the%20obedient.md). Seeking personal credit for admonishment can be a sign of pride or ego.
-* **Self-discipline**: The person advising others should begin by correcting their own behavior and striving to avoid actions they themselves forbid.
+* **Self-discipline**: The person advising others should begin by correcting their own behaviour and striving to avoid actions they themselves forbid.
+
+> Keep in mind that concealment and private admonishment should always come first. However, reporting the behaviour to the authorities may become necessary when harm is likely to affect others. When in doubt, advice should be sought regarding the appropriate behaviour to adopt.
 
 ## What to Advise About
 

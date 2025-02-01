@@ -72,7 +72,7 @@ Because I created processes only for men's obligations—to balance things out�
 :::
 
 1. Emotional stability: Maintain a balanced temperament to foster a supportive environment.
-2. Security: Develop self-confidence and self-assurance.
+2. Security: Develop reliance on Allah and a growth mindset.
 3. Intellectual growth: Learn to stay intellectually connected with your spouse.
 4. Avoiding problematic behaviors.
 5. Practicing gratitude: The Prophet (ﷺ) warned against ingratitude in wives; strive to appreciate good actions and the efforts of your husband.

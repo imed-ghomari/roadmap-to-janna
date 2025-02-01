@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
+                "file": "blog/februrary update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gluttony and lust"
+              "title": "februrary update"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,9 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a99b0c05ee1340a5",
+  "active": "d9584581ec4a0b99",
   "lastOpenFiles": [
+    "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",
+    "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
+    "assets/RTJ/Initiatives/bad traits/Anger.md",
+    "assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
     "blog/January update.md",
+    "blog/februrary update.md",
+    "docs/sidebar1/Initiatives/bad traits/Gluttony and lust.md",
     "blog/November update.md",
     "blog/December update.md",
     "blog/First releases.md",
@@ -187,10 +194,6 @@
     "docs/sidebar1/Getting started.md",
     "assets/RTJ/Initiatives/bad traits/Gluttony and lust.md",
     "assets/RTJ/Initiatives/bad traits/Stinginess.md",
-    "assets/RTJ/Initiatives/bad traits/Loquaciousness.md",
-    "assets/RTJ/Initiatives/bad traits/Love of status and ostentation.md",
-    "assets/RTJ/Initiatives/bad traits/Anger.md",
-    "assets/RTJ/Initiatives/bad traits/Pride and self admiration and humility.md",
     "assets/RTJ/Initiatives/good traits/Love and contentment.md",
     "docs/sidebar1/Initiatives/good traits/Love and contentment.md",
     "docs/sidebar1/Initiatives/good traits/Love.md",
@@ -206,8 +209,6 @@
     "my-website/assets/RTJ/my-website",
     "my-website/assets/RTJ/Initiatives/worship/Engaging with the quran.md",
     "my-website/assets/RTJ/Resources/Weekly review.md",
-    "my-website/assets/RTJ/Processes/Guarding your eyes and ears.md",
-    "my-website/docs/sidebar1/Initiatives/worship/Engaging with the quran.md",
     "my-website/assets/RTJ/Initiatives/good traits",
     "my-website/assets/RTJ/Initiatives/bad traits",
     "my-website/assets/screenshot2.png",

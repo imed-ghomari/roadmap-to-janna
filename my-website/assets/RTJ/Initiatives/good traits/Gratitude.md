@@ -40,7 +40,9 @@ Gratitude is expressed through action in three ways:
 		* [Gratitude journalling](Processes/Gratitude%20journalling.md)
 	* Gratitude to the Prophet: [Sending salawat on the prophet](Processes/Sending%20salawat%20on%20the%20prophet.md)
 	* Gratitude to people: [Thank others](Processes/Thank%20people.md)
-* **Gratitude of the Limbs**: Avoiding misuse of blessings, for example, [managing what your eyes and ears are subjected to](Processes/Guarding%20your%20eyes%20and%20ears.md), purifying your heart, and using them for worship, such as by reading His Book, reflecting on creation, and covering others' faults. Another example is being grateful for the blessing of the [time of ease](Processes/Build%20knowledge%20in%20free%20time.md) by preparing for future tests.
+* **Gratitude of the Limbs**: Avoiding misuse of blessings by:
+	* avoiding waste
+	* Using them for good, like being grateful for the blessing of the [time of ease](Processes/Build%20knowledge%20in%20free%20time.md) by preparing for future tests. Another example would be [managing what your eyes and ears are exposed to](Processes/Guarding%20your%20eyes%20and%20ears.md), purifying your heart, and using them for worship, such as reading His Book, reflecting on creation, and covering others' faults.
 
 > [!info] Greatest and Underrated gifts
 > 

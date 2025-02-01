@@ -69,9 +69,9 @@ Repelling harm is another form of action, such as avoiding danger or seeking med
 > [!tip] When taking action, focus on these principles:
 > 
 > 
-> * **Be effort-driven**: Focus on doing your best without fixating on the outcome. [Rely on lawful means](Processes/Disregard%20prohibited%20and%20doubtful%20matters.md) and avoid shortcuts, leaving the results to Allah.
+> * **Be effort-driven**: Focus on doing your best without fixating on the outcome. [Rely on lawful means](Processes/Disregard%20prohibited%20and%20doubtful%20matters.md) and avoid shortcuts, leaving the results to Allah, without worrying about the future.
 > * **Excellence (Ihsan)**: Strive to perform actions in the best way possible. This mindset is a key aspect of Islam, which is built on faith (Iman), submission (Islam), and excellence (Ihsan).
-> * [**Mention Allah**](Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): Begin each action by saying "Bismillah" to remind yourself that you rely on Allah alone. If you speak about the action to someone else or think aloud about your future plans, add "Inshallah" to acknowledge that its success depends on Allah's will.
+> * [**Mention Allah**](Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): Begin each action by saying "Bismillah" and supplicate to remind yourself that you rely on Allah alone. And if you speak about the action to someone else or think aloud about your future plans, add "Inshallah" to acknowledge that its success depends on Allah's will.
 
 
 ### Supplication

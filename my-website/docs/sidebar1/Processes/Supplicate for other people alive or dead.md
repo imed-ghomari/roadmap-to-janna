@@ -17,6 +17,7 @@ file: ''
 context: ''
 dependency: ''
 step: ''
+grouping: null
 ---
 
 * Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md): This is the gratitude of the heart through wishing good to all people (close or far).

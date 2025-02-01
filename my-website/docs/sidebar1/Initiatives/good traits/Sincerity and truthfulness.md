@@ -27,3 +27,14 @@ Sincerity consists of three essential elements: reality, foundation, and perfect
 3. [**Truthfulness in Determination**](docs/sidebar1/Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): When a Muslim decides to act, he commits fully without hesitation.
 4. [**Keeping Promises**](docs/sidebar1/Processes/Honesty,%20Trust%20and%20figurative%20language.md): A Muslim honors his promises, avoiding the hypocrisy of breaking promises.
 5. [**Avoiding False Impressions**](docs/sidebar1/Processes/Avoid%20baseless%20assumptions.md): A Muslim is sincere in appearance and behavior, reflecting internal truth without displaying deceit, hypocrisy, or pretense.
+
+## Hypocrisy
+
+The opposite of sincerity is hypocrisy. The Messenger of Allah (peace be upon him) said: **"The sign of a hypocrite is that whenever he speaks, he lies; whenever he makes a promise, he does not fulfil it; and whenever he is entrusted, he betrays that trust."**
+
+This hadith highlights two realms where sincerity is required:
+
+1. **Sincerity toward people:** Being honest and genuine in your interactions.
+2. **Sincerity towards Allah:** Maintaining truthfulness in your relationship with Allah can often be more challenging. It can be divided into two parts.
+	1. **Intentional Hypocrisy**–When a person knowingly contradicts their commitments to Allah. This includes deliberately committing sins while fully aware that they violate divine commands, such as knowingly transgressing prohibitions or neglecting obligations despite understanding their importance.
+	2. **Heedless Hypocrisy**–When a person falls into hypocrisy out of negligence or lack of self-awareness. This happens when someone performs religious acts without reflection or understanding, such as making supplications without comprehending their meaning or reciting Qur'anic verses that their actions contradict.

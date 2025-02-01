@@ -14,6 +14,7 @@ file: ''
 context: ''
 dependency: ''
 step: ''
+grouping: null
 ---
 
 * [Asceticism](docs/sidebar1/Initiatives/good%20traits/Asceticism.md): don't forget to take care of yourself even beyond the minimum to make yourself presentable and clean, for god is beautiful, and He loves beauty

@@ -13,6 +13,7 @@ file: ''
 context: ''
 dependency: ''
 step: ''
+grouping: null
 ---
 
 Link to [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.
