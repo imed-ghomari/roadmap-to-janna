@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Managing spouse]]'
 - '[[Parenting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 * Link to [Managing spouse](docs/sidebar1/Initiatives/worship/Managing%20spouse.md):

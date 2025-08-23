@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Seeking the lawful]]'
 - '[[Reliance]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 * Link to [Seeking the lawful](docs/sidebar1/Initiatives/worship/Seeking%20the%20lawful.md):

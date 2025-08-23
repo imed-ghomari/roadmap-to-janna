@@ -7,6 +7,7 @@
     "due": "date",
     "duration": "number",
     "review": "date",
-    "initiative": "multitext"
+    "initiative": "multitext",
+    "delay": "checkbox"
   }
 }

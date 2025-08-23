@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Stinginess]]'
 - '[[Managing spouse]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Stinginess](docs/sidebar1/Initiatives/bad%20traits/Stinginess.md): Spend as needed for yourself (necessity), others (charity, hospitality, protecting honor, services), and building good things.

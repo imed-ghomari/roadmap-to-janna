@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Upholding the right of muslims]]'
 - '[[Following the sunnah]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: true
+status: waiting
+private: false
 ---
 
 Link to [Upholding the right of muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md) and [Following the sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md)

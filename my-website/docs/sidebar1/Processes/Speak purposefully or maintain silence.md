@@ -5,17 +5,14 @@ initiative:
 - '[[Following the sunnah]]'
 - '[[Remembrance of allah]]'
 - '[[Love of status and ostentation]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: '1.2'
+private: true
 ---
 
 * Link to [Loquaciousness](docs/sidebar1/Initiatives/bad%20traits/Loquaciousness.md): Avoid unnecessary talk, speaking about what doesn't concern you, and excessive talking. Engage in dhikr (remembrance of Allah through recitation of tasbih, tahlil, and takbir). Maintain silence except when speaking to command good, give charity, or promote reconciliation.

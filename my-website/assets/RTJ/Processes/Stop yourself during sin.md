@@ -1,19 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Repentance]]'
-- '[[Gluttony and lust]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Repentance]]"
+  - "[[Gluttony and lust]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 Linked to **[Repentance](Initiatives/good%20traits/Repentance.md):**

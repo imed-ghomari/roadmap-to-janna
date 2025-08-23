@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Gratitude]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)

@@ -1,21 +1,17 @@
 ---
 type: process
 initiative:
-- '[[Loquaciousness]]'
-- '[[Commanding good and forbidding evil]]'
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Loquaciousness]]"
+  - "[[Commanding good and forbidding evil]]"
+  - "[[Managing spouse]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 * Link to [Loquaciousness](Initiatives/bad%20traits/Loquaciousness.md): Only speak for Allah's sake, following the principles of commanding good and forbidding evil.

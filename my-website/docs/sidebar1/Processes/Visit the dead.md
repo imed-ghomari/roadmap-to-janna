@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Remembering death]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 Link to [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md)

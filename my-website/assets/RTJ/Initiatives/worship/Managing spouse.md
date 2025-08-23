@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: worship actions
+status: designed
 ---
 
 ## Criteria for Choosing a Spouse
@@ -32,7 +31,7 @@ KR: worship actions
 ### Obligations of the Man towards the Woman
 
 * Fulfill her marriage conditions.
-* Allow her to have a job and pursue education.
+* Allow her to have a job and pursue education if possible.
 * Permit her to use her money as she wishes.
 * Provide for her ([nafaqa](Processes/Spend%20as%20needed%20when%20needed.md)) by supplying clothes, food, and shelter with excellence; she should have her own independent property (e.g., her own room if a separate house is unavailable).
 * Take care of your hygiene and appearance for her.

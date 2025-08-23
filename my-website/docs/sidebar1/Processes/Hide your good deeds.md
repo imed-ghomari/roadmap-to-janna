@@ -5,17 +5,14 @@ initiative:
 - '[[Love of status and ostentation]]'
 - '[[Asceticism]]'
 - '[[Praying]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Patience](docs/sidebar1/Initiatives/good%20traits/Patience.md): This refers to practicing patience after worship.

@@ -3,18 +3,14 @@ type: process
 initiative:
 - '[[Engaging with the quran]]'
 - '[[Remembering death]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
-grouping: null
+delay: false
+status: waiting
+private: false
 ---
 
 * Link to [Reciting the Quran](docs/sidebar1/Initiatives/worship/Engaging%20with%20the%20quran.md):

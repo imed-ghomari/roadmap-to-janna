@@ -5,17 +5,14 @@ initiative:
 - '[[Remembrance of allah]]'
 - '[[Love and contentment]]'
 - '[[Fasting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 * Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md): Use free time to build knowledge, habits, and good deeds in preparation for future hardships.

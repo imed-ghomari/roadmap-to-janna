@@ -1,17 +1,16 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: bad traits
+status: designed
 ---
 
 ## Good and Bad Envy
 
 Envy—wanting another person's blessing to be taken away or for harm to come to them—is unlawful. However, competition—feeling happy for another's blessings, not wishing them harm, but desiring similar blessings for yourself—is allowed. It is also acceptable to want a blessing removed from someone using it for oppression, as the focus is on ending harm rather than the blessing itself. The proof of this intention is that if the person stopped the wrongdoing, you would no longer wish their blessing to be removed.
 
-You can channel positive envy by motivating yourself to identify your faults and overcome laziness. This can be achieved by [choosing good mentors](docs/sidebar1/Processes/Choose%20your%20mentors%20well.md). A healthy form of jealousy is also appropriate in [spouse relationships](docs/sidebar1/Processes/Give%20the%20spouse%20freedom%20but%20have%20healthy%20jealousy.md).
+You can channel positive envy by motivating yourself to identify your faults and overcome laziness. This can be achieved by [choosing good mentors](docs/sidebar1/Processes/Choose%20your%20mentors%20and%20remember%20them.md). A healthy form of jealousy is also appropriate in [spouse relationships](docs/sidebar1/Processes/Give%20the%20spouse%20freedom%20but%20have%20healthy%20jealousy.md).
 
 Causes of envy include pride, hostility, or selfishness, which resist seeing Allah's blessings on others. This can lead to depression.
 

@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Love of status and ostentation]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Pride and self admiration and humility](docs/sidebar1/Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): Detach your self-worth from temporary worldly blessings, and don't compare yourself to others, thinking you deserve their blessings. This can be exemplified by not oversharing your good traits or accomplishments.

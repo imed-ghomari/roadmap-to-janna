@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Upholding the right of muslims]]'
 - '[[Managing spouse]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Upholding the right of muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md): Unless you have clear proof that the other person is wrong, keep trying to find excuses for them.

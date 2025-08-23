@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: good traits
+status: designed
 ---
 
 Sincerity consists of three essential elements: reality, foundation, and perfection.
@@ -26,7 +25,7 @@ Sincerity consists of three essential elements: reality, foundation, and perfect
 2. **Honesty in Dealings**: A Muslim acts truthfully in all transactions, avoiding deceit. He [associates with people of integrity](docs/sidebar1/Processes/Hate%20the%20disobedient%20and%20love%20the%20obedient.md) and verifies their claims.
 3. [**Truthfulness in Determination**](docs/sidebar1/Processes/Renew%20your%20intentions%20and%20say%20basmalla.md): When a Muslim decides to act, he commits fully without hesitation.
 4. [**Keeping Promises**](docs/sidebar1/Processes/Honesty,%20Trust%20and%20figurative%20language.md): A Muslim honors his promises, avoiding the hypocrisy of breaking promises.
-5. [**Avoiding False Impressions**](docs/sidebar1/Processes/Avoid%20baseless%20assumptions.md): A Muslim is sincere in appearance and behavior, reflecting internal truth without displaying deceit, hypocrisy, or pretense.
+5. [**Avoiding False Impressions**](docs/sidebar1/Processes/Avoid%20baseless%20assumptions.md): A Muslim is sincere in appearance and behavior, reflecting internal truth without displaying deceit, hypocrisy, or pretense. An exemple of this would be to not use words that could be interpreted wrongly or to not frequent sketchy places.
 
 ## Hypocrisy
 

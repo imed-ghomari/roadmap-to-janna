@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: good traits
+status: designed
 ---
 
 ## The Reality of Gratitude
@@ -32,12 +31,7 @@ Gratitude is expressed through action in three ways:
 
 * **Gratitude of the Heart**: Wishing well for others by [supplicating for them](Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md).
 * **Gratitude of the Tongue**:
-	* Gratitude to Allah:
-		* [Hamd and thanking Allah](Processes/Hamd%20and%20thanking%20allah.md)
-		* [Daily supplications](Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md)
-		* [Chukr prayer](Processes/Pray%20chukr%20nafil%20prayer.md)
-		* [Proper attitude in hardship](Processes/Attitude%20in%20affliction.md)
-		* [Gratitude journalling](Processes/Gratitude%20journalling.md)
+	* Gratitude to Allah: one must always [strive to recognize the various types of blessings](Processes/Gratitude%20journalling.md) and compare oneself to those who are lower in worldly status to foster gratitude. This gratitude should then be expressed through [daily Hamd](Processes/Hamd%20and%20thanking%20allah.md), [Daily supplications](Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), [Chukr prayer](Processes/Pray%20chukr%20nafil%20prayer.md) and through having [Proper attitude in hardship](Processes/Attitude%20in%20affliction.md)
 	* Gratitude to the Prophet: [Sending salawat on the prophet](Processes/Sending%20salawat%20on%20the%20prophet.md)
 	* Gratitude to people: [Thank others](Processes/Thank%20people.md)
 * **Gratitude of the Limbs**: Avoiding misuse of blessings by:

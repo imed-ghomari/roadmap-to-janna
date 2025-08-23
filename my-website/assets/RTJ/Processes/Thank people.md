@@ -1,18 +1,14 @@
 ---
 type: process
 initiative:
-- '[[Gratitude]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Gratitude]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 Link to [Gratitude](Initiatives/good%20traits/Gratitude.md)

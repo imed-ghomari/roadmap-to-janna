@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: worship actions
+status: designed
 ---
 
 :::note

@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: good traits
+status: designed
 ---
 
 ## The Meaning of Love for Allah

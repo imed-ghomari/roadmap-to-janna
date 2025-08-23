@@ -1,18 +1,14 @@
 ---
 type: process
 initiative:
-- '[[Following the sunnah]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 Link to [Following the sunnah](Initiatives/worship/Following%20the%20sunnah.md)

@@ -1,22 +1,18 @@
 ---
 type: process
 initiative:
-- '[[Commanding good and forbidding evil]]'
-- '[[Love and contentment]]'
-- '[[Sincerity and truthfulness]]'
-- '[[Upholding the right of muslims]]'
-- '[[Anger]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Commanding good and forbidding evil]]"
+  - "[[Love and contentment]]"
+  - "[[Sincerity and truthfulness]]"
+  - "[[Upholding the right of muslims]]"
+  - "[[Anger]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Commanding good and forbidding evil](Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md): Distinguish between the action and the person. Pray for the person's guidance out of compassion.

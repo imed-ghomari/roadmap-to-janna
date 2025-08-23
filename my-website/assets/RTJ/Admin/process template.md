@@ -1,15 +1,11 @@
 ---
 type: process
-initiative: 
-working: false
-due: 
-duration: 
-recurrence: 
+due: ""
+context:
+dependency:
+initiative:
+recurrence: ""
 start: ""
-waiting: false
-review: ""
-file: 
-context: 
-dependency: ""
-step:
+status: not working
+detail: false
 ---

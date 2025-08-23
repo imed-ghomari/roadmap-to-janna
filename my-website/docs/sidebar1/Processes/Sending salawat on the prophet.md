@@ -2,22 +2,19 @@
 type: process
 initiative:
 - '[[Gratitude]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
 
-Being grateful for the prophet by saying salawat. Here are the multiple occasions where you should send salawat:
+Express gratitude for the prophet by sending salawat. The more you do this, the closer you will be to him on the Day of Judgment. Here are several occasions when you should send salawat:
 
 * When the prophet is mentioned (at least the first time, which is obligatory)
 * In morning and evening supplications

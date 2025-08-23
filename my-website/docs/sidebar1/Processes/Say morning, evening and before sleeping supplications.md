@@ -6,17 +6,14 @@ initiative:
 - '[[Remembering death]]'
 - '[[Gratitude]]'
 - '[[Love and contentment]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: ongoing
+private: false
 ---
 
 * Link to [Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md): When saying *Astaghfirullah*, repent for outward sins, blameworthy inner traits, occasions of doubt, and heedlessness that leads to forgetting remembrance or delaying progress from one spiritual station to another.

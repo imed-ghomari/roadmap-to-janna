@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Loquaciousness]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Loquaciousness](docs/sidebar1/Initiatives/bad%20traits/Loquaciousness.md): Avoid carelessness in speaking about religion and excessive questioning about Allah's attributes out of doubt.

@@ -1,19 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Asceticism]]'
-- '[[Remembering death]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Asceticism]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Asceticism](Initiatives/good%20traits/Asceticism.md): Ask Allah for all your needs, and view seeking help as a means to an end, only when truly necessary. Strive for independence whenever possible. Exceptions include the destitute, the person in debt, and those who have suffered a financial calamity and lost all their wealth.

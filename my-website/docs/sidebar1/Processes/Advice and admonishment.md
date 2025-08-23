@@ -5,17 +5,14 @@ initiative:
 - '[[Commanding good and forbidding evil]]'
 - '[[Managing spouse]]'
 - '[[Parenting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 * Link to [Loquaciousness](docs/sidebar1/Initiatives/bad%20traits/Loquaciousness.md): Only speak for Allah's sake, following the principles of commanding good and forbidding evil.

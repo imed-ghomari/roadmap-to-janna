@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Following the sunnah]]'
 - '[[Managing spouse]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Pride and self admiration and humility](docs/sidebar1/Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): helps you understand your place

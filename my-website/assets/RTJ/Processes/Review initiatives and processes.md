@@ -1,20 +1,16 @@
 ---
 type: process
 initiative:
-- '[[Fear and hope]]'
-- '[[Love of status and ostentation]]'
-- '[[Self scrutiny]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Fear and hope]]"
+  - "[[Love of status and ostentation]]"
+  - "[[Self scrutiny]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Sincerity and truthfulness](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md): Maintain even the smallest actions for each process because the intention is more important than the size of the deed. God can make it bigger, and we can't know which good deeds Allah likes, so we shouldn't belittle anything.
@@ -30,3 +26,24 @@ step: ''
 > Use the "Review" tab on the homepage to review intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
 > 
 
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "process"
+        - recurrence.isEmpty()
+        - status != "waiting"
+        - '!file.path.contains("Admin")'
+        - status == "working"
+    order:
+      - status
+      - detail
+      - file.name
+    sort:
+      - property: detail
+        direction: ASC
+
+```

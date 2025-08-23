@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: good traits
+status: designed
 ---
 
 The Prophet said, "Allah says: By My Honour and Majesty, I will not combine two fears or two forms of safety for My servant. If he feels secure from Me in this world, I will make him fear Me on the Day of Judgment. If he fears Me in this world, I will grant him safety on the Day of Judgment."
@@ -13,7 +12,7 @@ The Prophet said, "Allah says: By My Honour and Majesty, I will not combine two 
 
 When a person truly fears Allah, they are not distracted by others. Instead, they remain vigilant (muraqaba), take account of themselves (muhasaba), strive against their soul (mujahada), and are careful with every moment, thought, word, and action. This level of self-awareness depends on the depth of one's fear, which depends on one's understanding of Allah, His attributes, and the pitfalls of the soul.
 
-Fear arises from a true knowledge of Allah. However, [observing those who possess it or learning about their lives and actions](Processes/Choose%20your%20mentors%20well.md) can help those who struggle to grasp this knowledge directly.
+Fear arises from a true knowledge of Allah. However, [observing those who possess it or learning about their lives and actions](Processes/Choose%20your%20mentors%20and%20remember%20them.md) can help those who struggle to grasp this knowledge directly.
 
 As for its benefits, fear helps to combat two detrimental states: complacency and self-righteousness.
 

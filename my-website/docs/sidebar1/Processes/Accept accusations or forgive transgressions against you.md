@@ -6,17 +6,14 @@ initiative:
 - '[[Following the sunnah]]'
 - '[[Remembering death]]'
 - '[[Managing spouse]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 * Link to [Anger](docs/sidebar1/Initiatives/bad%20traits/Anger.md):

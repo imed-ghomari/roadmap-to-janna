@@ -1,19 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Praying]]'
-- '[[Upholding the right of muslims]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Praying]]"
+  - "[[Upholding the right of muslims]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Like to [Praying](Initiatives/worship/Praying.md): Whenever the need arises (rain, eclipse, funeral), or the time is right (taraweeh, eid), try your best to go to these voluntary prayers.

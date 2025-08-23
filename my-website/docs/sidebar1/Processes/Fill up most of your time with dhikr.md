@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Remembrance of allah]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 Link to [Remembrance of allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md)

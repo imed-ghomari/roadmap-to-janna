@@ -6,17 +6,14 @@ initiative:
 - '[[Reliance]]'
 - '[[Gluttony and lust]]'
 - '[[Fasting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Sincerity and Truthfulness](docs/sidebar1/Initiatives/good%20traits/Sincerity%20and%20truthfulness.md):

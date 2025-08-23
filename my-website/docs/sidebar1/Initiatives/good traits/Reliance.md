@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: good traits
+status: designed
 ---
 
 The reality of reliance is a state that arises from affirming Divine Oneness (tawḥīd), and its effect is seen in deeds. It has three pillars: knowledge, state, and deeds.

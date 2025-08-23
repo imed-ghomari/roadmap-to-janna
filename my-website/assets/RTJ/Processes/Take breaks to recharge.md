@@ -1,19 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Asceticism]]'
-- '[[Following the sunnah]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Asceticism]]"
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Asceticism](Initiatives/good%20traits/Asceticism.md): allow yourself to have fun to recharge, as the nafs has a right over yourself

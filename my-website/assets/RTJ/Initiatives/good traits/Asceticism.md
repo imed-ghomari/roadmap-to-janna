@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: good traits
+status: designed
 ---
 
 ## The Fruit of Asceticism
@@ -67,7 +66,7 @@ However, wealth can be virtuous if used righteously, as the Prophet (PBUH) said,
 
 The poor must maintain a [righteous character in the face of hardship](Processes/Attitude%20in%20affliction.md). They should avoid resentment, excessive complaints, and [begging](Processes/Don't%20ask%20for%20help%20or%20money.md). Instead, they should cultivate contentment, trust in Allah's provision, and dignity in their circumstances. Whether rich or poor, it is essential to disconnect from the state of wealth—both can become distractions unless combined with contentment and gratitude.
 
-## The Reality of the World
+## The Reality of the World - You Are a Traveler
 
 The world offers various things that humans seek: shelter and agriculture from the Earth; plants for nourishment and medicine; minerals for tools and currency; animals for food and transportation; and people for relationships and work. However, these desires can lead to negative internal traits such as pride, envy, seeking reputation, and love of the world. These feelings, along with external pursuits, can distract people from their true purpose, causing them to forget their origins and ultimate end.
 

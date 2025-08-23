@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Fasting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: waiting
+private: false
 ---
 
 link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)

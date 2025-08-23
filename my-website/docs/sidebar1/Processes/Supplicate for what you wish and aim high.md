@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Reliance]]'
 - '[[Love and contentment]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: true
+status: working
+private: false
 ---
 
 * Link to [Love and contentment](docs/sidebar1/Initiatives/good%20traits/Love%20and%20contentment.md): You can supplicate for what you wish and set your own goals. It does not contradict being content. You can have wants and be content with whatever result you get.

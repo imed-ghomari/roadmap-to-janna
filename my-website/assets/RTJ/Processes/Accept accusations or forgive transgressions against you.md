@@ -1,22 +1,18 @@
 ---
 type: process
 initiative:
-- '[[Anger]]'
-- '[[Love of status and ostentation]]'
-- '[[Following the sunnah]]'
-- '[[Remembering death]]'
-- '[[Managing spouse]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Anger]]"
+  - "[[Love of status and ostentation]]"
+  - "[[Following the sunnah]]"
+  - "[[Remembering death]]"
+  - "[[Managing spouse]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 * Link to [Anger](Initiatives/bad%20traits/Anger.md):

@@ -26,7 +26,7 @@ date: 2025-01-02
 * Merged "Love" and "Contentment with Divine Decree" into the "Love and Contentment" initiative since contentment is a sign of love, and they are too closely related to remain separate.
 * The weekly review section "Actions Done All the Time" was changed to follow the "Hope-Fear-Love" Taqwa model.
 * Updated specific properties in the downloadable vault to align with the merged initiatives and improve the accuracy of the performance graphs.
-* Highlighted the need to take precautions in the “fear of misguidance” process, as it constitutes the resulting action of fear.
+* Highlighted the need to take precautions in the "fear of misguidance" process, as it constitutes the resulting action of fear.
 
 ## Deletions
 

@@ -2,17 +2,13 @@
 type: process
 initiative:
   - "[[Initiatives/good traits/Patience|Patience]]"
-working: false
 due: ""
-duration: 
+duration:
 recurrence: ""
 start: ""
-waiting: false
-review: ""
-file: ""
 context: ""
 dependency: ""
-step: ""
+status: not working
 ---
 
 Link to [Patience](Initiatives/good%20traits/Patience.md): Respond well when patience is within your control. These include:

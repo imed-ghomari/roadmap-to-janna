@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Fear and hope]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Pride and Self Admiration and Humility](docs/sidebar1/Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): It is to understand that your deeds might not get accepted, so don't get pompous because of them

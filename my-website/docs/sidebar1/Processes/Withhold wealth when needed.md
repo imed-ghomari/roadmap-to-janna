@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Stinginess]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 Link to [Stinginess](docs/sidebar1/Initiatives/bad%20traits/Stinginess.md)

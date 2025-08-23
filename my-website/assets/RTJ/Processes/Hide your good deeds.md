@@ -1,21 +1,17 @@
 ---
 type: process
 initiative:
-- '[[Patience]]'
-- '[[Love of status and ostentation]]'
-- '[[Asceticism]]'
-- '[[Praying]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Patience]]"
+  - "[[Love of status and ostentation]]"
+  - "[[Asceticism]]"
+  - "[[Praying]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Patience](Initiatives/good%20traits/Patience.md): This refers to practicing patience after worship.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Weekly review.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly review"
+              "title": "Homepage"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,7 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Homepage"
@@ -152,7 +156,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -160,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,39 +185,39 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Processes/Regret and prevent after committing a sin.md",
-    "Resources/Weekly review.md",
-    "Initiatives/worship/Following the sunnah.md",
-    "Initiatives/worship/Engaging with the quran.md",
-    "Processes/Recite the quran.md",
-    "Initiatives/worship/Praying.md",
-    "Processes/Say morning, evening and before sleeping supplications.md",
     "Homepage.md",
-    "my-website/Initiatives/worship/Seeking the lawful.md",
+    "Getting started.md",
+    "Resources/Weekly review.md",
+    "Resources/Process handling.md",
+    "Resources/Obsidian implementation.md",
+    "Processes/Apply for hajj every year.md",
+    "Processes/Advice and admonishment.md",
+    "Processes/Accept invitations.md",
+    "Processes/Accept gift if lawful and pure intentions.md",
+    "Processes/Accept accusations or forgive transgressions against you.md",
+    "Processes/Avoid watching other people blessing and bless them.md",
+    "Processes/Have mercy in business dealings.md",
+    "Processes/Fast special days.md",
+    "Processes/Love playfully and support.md",
+    "Processes/Stay silent and change position in anger.md",
+    "Processes/Level up worship.md",
+    "Processes/Pray obligatory prayers on time or make them up.md",
+    "Processes/Help orphans or people in need periodically.md",
+    "Processes/Being consistent in doing good deeds.md",
+    "Processes/Don't misuse blessings.md",
+    "Processes/Be patient when you have the choice.md",
+    "Processes/Moderation in Praise and Questioning.md",
+    "Processes/Pray additional voluntary prayers.md",
+    "Processes/Avoid being praised and praising.md",
+    "Processes/Supplicate for other people alive or dead.md",
+    "Processes/Contemplate the creation.md",
+    "Initiatives/good traits",
+    "Initiatives/bad traits",
+    "Initiatives/worship",
+    "Initiatives",
     "my-website/Initiatives/worship",
     "my-website/Initiatives",
     "my-website",
-    "Processes/Accept gift if lawful and pure intentions.md",
-    "Processes/Accept invitations.md",
-    "Processes/Accept accusations or forgive transgressions against you.md",
-    "Resources/Bulk editing processes.md",
-    "Initiatives/bad traits/Pride and self admiration and humility.md",
-    "Initiatives/bad traits/Anger.md",
-    "Initiatives/bad traits/Love of status and ostentation.md",
-    "Admin/review today.md",
-    "Initiatives/good traits/Reliance.md",
-    "Initiatives/good traits/Fear and hope.md",
-    "Initiatives/good traits/Self scrutiny.md",
-    "Initiatives/good traits/Remembering death.md",
-    "Initiatives/good traits/Gratitude.md",
-    "Initiatives/good traits/Sincerity and truthfulness.md",
-    "Initiatives/good traits/Contentment with divine decree.md",
-    "Initiatives/good traits/Patience.md",
-    "Initiatives/good traits/Repentance.md",
-    "Initiatives/bad traits",
-    "Initiatives/worship",
-    "Initiatives/good traits",
-    "Initiatives",
     "Inbox",
     "Projects",
     "Admin"

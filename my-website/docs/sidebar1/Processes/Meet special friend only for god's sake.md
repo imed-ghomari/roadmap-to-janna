@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Love and contentment]]'
 - '[[Remembering death]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: waiting
+private: false
 ---
 
 * Link to [Love and contentment](docs/sidebar1/Initiatives/good%20traits/Love%20and%20contentment.md): Because you love him more, so you love the ones who love him

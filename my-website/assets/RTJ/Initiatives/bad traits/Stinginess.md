@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: bad traits
+status: designed
 ---
 
 ## The Foundation of Stinginess and the Reality of Wealth

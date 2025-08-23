@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: good traits
+status: designed
 ---
 
 ## The Importance of Self-Awareness
@@ -17,7 +16,7 @@ KR: good traits
 * **Learning About Spiritual Diseases**: Understanding spiritual diseases of the heart, such as pride, envy, and hypocrisy, helps one identify and address these traits within oneself. You can deepen this understanding by [reviewing processes that address these challenges](docs/sidebar1/Processes/Review%20initiatives%20and%20processes.md).
 * **Reflecting on Others' Actions**: Observing others' behaviors can reveal similar tendencies in oneself. Noting negative traits in others serves as a mirror to examine one's conduct.
 * **Seeking Feedback from a Sincere Friend**: Feedback from a truthful friend provides an external perspective on one's character, helping identify areas for improvement that may be hard to see alone.
-* **Inspiration from Pious Lives**: Reading the [biographies of spiritually accomplished individuals](docs/sidebar1/Processes/Choose%20your%20mentors%20well.md) can provide motivation and guidance. Their journeys reveal the paths they followed and the obstacles they overcame on their way to excellence.
+* **Inspiration from Pious Lives**: Reading the [biographies of spiritually accomplished individuals](docs/sidebar1/Processes/Choose%20your%20mentors%20and%20remember%20them.md) can provide motivation and guidance. Their journeys reveal the paths they followed and the obstacles they overcame on their way to excellence.
 
 ## Accountability After Worship
 

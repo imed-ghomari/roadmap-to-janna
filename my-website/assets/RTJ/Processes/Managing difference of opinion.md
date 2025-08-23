@@ -1,21 +1,17 @@
 ---
 type: process
 initiative:
-- '[[Loquaciousness]]'
-- '[[Anger]]'
-- '[[Following the sunnah]]'
-- '[[Managing spouse]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Loquaciousness]]"
+  - "[[Anger]]"
+  - "[[Following the sunnah]]"
+  - "[[Managing spouse]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 * Link to [Loquaciousness](Initiatives/bad%20traits/Loquaciousness.md): Avoid arguing, even if you are right. Apply moderation in advising, as only Allah can change hearts. When dealing with disputes over wealth or property, use kind and gentle words instead of harsh ones.
@@ -29,7 +25,7 @@ step: ''
 |                                                           | Impacts Me and Others                                                 | Impacts Only Me                                                                                         | Impacts Others Only                                                             | Impacts no one                                                                     |
 | --------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Neutral / Non-important (small life matters)              | **Accommodating** conflict resolution                                 | The other person should ask for permission to give advice                                               | [Overlook](Processes/Overlook%20what%20is%20disliked.md) or advice if requested | [stop talking or don't indulge](Processes/Speak%20purposefully%20or%20maintain%20silence.md) |
-| Beneficial / Important (religious or significant matters) | **Collaborating** (preferred) or **Compromising** conflict resolution | [Accept accusations](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) | [Advice and admonishment](Processes/Advice%20and%20admonishment.md)             | /                                                                                  |
+| Beneficial / Important (religious or significant matters) | **Collaborating** (preferred) or **Compromising** conflict resolution | [Accept accusations](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) | [Advice and admonishment](Processes/Advice%20and%20admonishment.md)             | debate gently                                                                      |
 
 > [!tip] Summary
 > 

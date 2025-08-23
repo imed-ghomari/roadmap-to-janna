@@ -1,18 +1,14 @@
 ---
 type: process
 initiative:
-- '[[Parenting]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 Link to [Parenting](Initiatives/worship/Parenting.md)

@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Parenting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)

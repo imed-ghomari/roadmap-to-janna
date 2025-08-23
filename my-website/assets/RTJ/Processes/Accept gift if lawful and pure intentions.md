@@ -1,18 +1,14 @@
 ---
 type: process
 initiative:
-- '[[Seeking the lawful]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Seeking the lawful]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 link to [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md)

@@ -1,12 +1,10 @@
 ---
 type: project
-initiative: 
-completed: false
-due: 
+due: ""
 duration: 
-start: ""
-waiting: false
-file: 
 context: 
-dependency: ""
+dependency: 
+initiative:
+start: ""
+status: not done
 ---

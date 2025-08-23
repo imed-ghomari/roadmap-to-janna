@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Zakat and charity and selflessness]]'
 - '[[Upholding the right of muslims]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 Link to [Zakat, Charity, and Selflessness](docs/sidebar1/Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md) and [Upholding the Rights of Muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md).

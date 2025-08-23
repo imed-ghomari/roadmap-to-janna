@@ -2,17 +2,14 @@
 type: process
 initiative:
 - '[[Anger]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: '1.2'
+private: false
 ---
 
 Link to [Anger](docs/sidebar1/Initiatives/bad%20traits/Anger.md):

@@ -3,17 +3,13 @@ type: process
 initiative:
   - "[[Initiatives/good traits/Sincerity and truthfulness|Sincerity and truthfulness]]"
   - "[[Initiatives/worship/Upholding the right of muslims|Upholding the right of muslims]]"
-working: false
 due: ""
-duration: 
+duration:
 recurrence: ""
 start: ""
-waiting: false
-review: ""
-file: ""
 context: ""
 dependency: ""
-step: ""
+status: not working
 ---
 
 * Link to [Sincerity and truthfulness](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md): Because the intention is more important than the size of the deed, god can make it bigger, and we can't know which good deeds Allah likes, so we shouldn't belittle anything

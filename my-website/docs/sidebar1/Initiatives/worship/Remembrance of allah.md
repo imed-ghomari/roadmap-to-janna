@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: worship actions
+status: designed
 ---
 
 ## Layers of Remembrance
@@ -24,7 +23,7 @@ The ultimate goal, or core, is for the focus to shift entirely from the act of r
 * [**Praying**](docs/sidebar1/Initiatives/worship/Praying.md)
 * [**Reading the Quran**](docs/sidebar1/Initiatives/worship/Engaging%20with%20the%20quran.md)
 * **[Discussing Allah and Religion](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md)**
-* [**Learning about Islam**](docs/sidebar1/Processes/Build%20knowledge%20in%20free%20time.md) through videos or podcasts
+* [**Learning about Islam**](docs/sidebar1/Processes/Build%20knowledge%20in%20free%20time.md) through books or videos
 * [**Contemplating Creation**](docs/sidebar1/Processes/Contemplate%20the%20creation.md)
 * **Making Dua**–further developed in the [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md) initiative.
 :::

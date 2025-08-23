@@ -1,18 +1,14 @@
 ---
 type: process
 initiative:
-- '[[Praying]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Praying]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 Link to [Praying](Initiatives/worship/Praying.md)

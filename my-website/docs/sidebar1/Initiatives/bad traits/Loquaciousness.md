@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: bad traits
+status: designed
 ---
 
 The tongue has twenty ailments. We will address them all briefly, though remembering a guiding verse can be sufficient: "There is no good in much of their conversation, except for he who commands charity, good, or reconciliation between people" (Quran 4:114). This means we should avoid unnecessary speech and focus only on beneficial conversation. Avoid speaking about things that don't benefit you or fulfill any need. Instead, speak thoughtfully and account for each word. If you would rather remember Allah than speak, that remembrance becomes a source of happiness.
@@ -20,7 +19,7 @@ Remember that the most predominant ailments of the tongue are five: lying, backb
 
 * Avoid cursing, vulgar language, and discussing obscene topics.
 * Avoid boasting, exaggerating, using ornate speech, or adding false details to impress others.
-* Avoid bad lyrics or poetry, ridicule, and excessive joking. Joking too much erodes dignity and stirs malice, although a little light-heartedness is acceptable. Make sure to say the truth when joking.
+* Avoid bad lyrics or poetry, ridicule, and excessive joking. Joking too much erodes dignity and stirs malice, although a bit of light-heartedness is acceptable. Be sure to speak the truth when joking, and avoid joking about sensitive topics, such as religion.
 
 ## [Disputing and Arguing](docs/sidebar1/Processes/Managing%20difference%20of%20opinion.md)
 

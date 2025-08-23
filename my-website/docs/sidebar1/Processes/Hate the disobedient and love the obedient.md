@@ -6,17 +6,14 @@ initiative:
 - '[[Sincerity and truthfulness]]'
 - '[[Upholding the right of muslims]]'
 - '[[Anger]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: '1.2'
+private: false
 ---
 
 * Link to [Commanding good and forbidding evil](docs/sidebar1/Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md): Distinguish between the action and the person. Pray for the person's guidance out of compassion.

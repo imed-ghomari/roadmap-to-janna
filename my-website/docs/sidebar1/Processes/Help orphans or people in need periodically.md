@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Remembering death]]'
 - '[[Upholding the right of muslims]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: waiting
+private: false
 ---
 
 * Link to [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md): Helping someone in need alongside good intentions and good character are the things that weigh the most.

@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Envy]]'
 - '[[Managing spouse]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Envy](docs/sidebar1/Initiatives/bad%20traits/Envy.md): Good envy or jealousy is to be jealous over your spouse

@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: worship actions
+status: designed
 ---
 
 The Prophet said, "The best among you are those who learn and teach the Quran." He also mentioned, "On the Day of Judgment, it will be said to the people of the Quran, 'Read and ascend in ranks. [Recite](docs/sidebar1/Processes/Recite%20the%20quran.md) as you used to in the world, for your position will be at the last verse you recite.'" Therefore, [learning and reviewing the Quran](docs/sidebar1/Processes/Learn%20and%20review%20the%20quran.md) throughout our lives is important. Additionally, the Quran serves as a source of [healing](docs/sidebar1/Processes/Use%20quran%20for%20healing.md).

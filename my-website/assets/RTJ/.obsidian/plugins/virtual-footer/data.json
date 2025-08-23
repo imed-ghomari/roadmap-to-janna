@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "name": "files blocked",
+      "enabled": true,
+      "type": "property",
+      "contentSource": "text",
+      "footerText": "# blocked files\n\n```base\nviews:\n  - type: table\n    name: Table\n    filters:\n      and:\n        - status == \"blocked\"\n        - dependency == this.file\n    order:\n      - status\n      - file.name\n\n```",
+      "renderLocation": "footer",
+      "renderAboveBacklinks": false,
+      "propertyName": "status",
+      "propertyValue": "blocking"
+    }
+  ],
+  "refreshOnFileOpen": false,
+  "renderInSourceMode": false,
+  "refreshOnMetadataChange": true
+}

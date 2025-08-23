@@ -4,17 +4,14 @@ initiative:
 - '[[Commanding good and forbidding evil]]'
 - '[[Upholding the right of muslims]]'
 - '[[Parenting]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: false
 ---
 
 * Link to [Commanding good and forbidding evil](docs/sidebar1/Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md): Avoid spying on others to identify and prevent wrongdoing.

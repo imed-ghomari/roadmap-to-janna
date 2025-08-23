@@ -1,17 +1,14 @@
 ---
 type: process
 initiative: []
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: working
+private: true
 ---
 
 Be sure to supplicate during the times that occur most often, as this will help you not miss valuable opportunities.

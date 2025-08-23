@@ -1,20 +1,16 @@
 ---
 type: process
 initiative:
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-- '[[Following the sunnah]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Managing spouse]]"
+  - "[[Parenting]]"
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Managing Spouse](Initiatives/worship/Managing%20spouse.md): Avoid criticizing or exposing your partner's flaws. Instead, focus on helping the other improve while covering his flaws. The saying "spouse like garment" emphasizes that garments are meant to conceal, not reveal.

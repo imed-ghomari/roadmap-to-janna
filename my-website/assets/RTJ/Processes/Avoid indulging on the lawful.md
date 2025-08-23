@@ -1,25 +1,21 @@
 ---
 type: process
 initiative:
-- '[[Seeking the lawful]]'
-- '[[Love and contentment]]'
-- '[[Asceticism]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Seeking the lawful]]"
+  - "[[Love and contentment]]"
+  - "[[Asceticism]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 * Link to [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md): To avoid sin, relinquish lawful actions (like excessive indulgence) that could lead to unlawful ones. This protective measure keeps you distant from sin by reducing the possibility of falling into it.
 * Link to [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md): Remove other forms of love and attachment displayed mostly in indulgence because only God's love is enduring, while all others will eventually leave you.
-* Link to [Asceticism](Initiatives/good%20traits/Asceticism.md): Practice moderation in all permissible matters. Seek beneficial uses for resources and avoid materialism. Examples of asceticism include:
+* Link to [Asceticism](Initiatives/good%20traits/Asceticism.md): Practice moderation in all permissible matters. Use resources beneficially and avoid materialism. Remember that you are a traveler. Examples of asceticism include:
 	* General: Abstaining from excessive sleep, food, sex, or distractions like TV or social media.
 	* Material Goods: Avoiding unnecessary purchases, managing food portions, and conserving resources like water.
 	* Specific: Limit device use to essential tasks and avoid platforms with harmful suggestions.

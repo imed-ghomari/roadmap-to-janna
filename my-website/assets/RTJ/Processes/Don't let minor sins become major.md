@@ -2,17 +2,13 @@
 type: process
 initiative:
   - "[[Initiatives/good traits/Repentance|Repentance]]"
-working: false
 due: ""
-duration: 
+duration:
 recurrence: ""
 start: ""
-waiting: false
-review: ""
-file: ""
 context: ""
 dependency: ""
-step: ""
+status: not working
 ---
 
 Link to [Repentance](Initiatives/good%20traits/Repentance.md)

@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Praying]]'
 - '[[Gratitude]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: waiting
+private: false
 ---
 
 Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)

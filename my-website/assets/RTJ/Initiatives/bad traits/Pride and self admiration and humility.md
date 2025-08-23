@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
-dependency: ''
-waiting: false
-start: ''
+dependency: ""
+start: ""
 KR: bad traits
+status: designed
 ---
 
 ## Pride
@@ -28,9 +27,9 @@ A core treatment for pride is self-awareness: understanding that we begin as a m
 ### Treating Pride by Reflecting on Its Causes
 
 1. [**Knowledge**](Processes/Don't%20consider%20yourself%20as%20pious%20or%20more%20pious%20than%20anyone.md): The Prophet said, "The sickness of knowledge is conceit." True knowledge involves humility, realizing the risk of ending life in a poor state and recognizing that even the ignorant may be closer to Allah. Scholars have no guarantee of a good ending, so they should avoid arrogance and stay mindful of their flaws.
-2. [**Piety and Worship**](Processes/Pride%20and%20better%20blessings%20-%20attribute%20them%20to%20god.md): Devout individuals can still harbor pride, sometimes seeing their blessings as signs of divine preference. A truly devout person remains humble, considering that others may possess inner virtues that Allah values more. They [pray for Allah's acceptance](Processes/Make%20dua%20after%20worship%20for%20acceptance.md) of their deeds without assuming entitlement.
-3. [**Lineage**](Processes/Pride%20and%20lesser%20blessings%20-%20accept%20but%20disregard%20them.md): Pride in ancestry can be avoided by recalling that our origins are humble—a mere drop of fluid and, ultimately, earth. Pride in ancestry is baseless in the face of our true beginnings.
-4. [**Wealth, Beauty, and Followers**](Processes/Pride%20and%20lesser%20blessings%20-%20accept%20but%20disregard%20them.md): Pride based on these attributes is misguided since they are temporary and superficial. Wealth and followers are gifts, not inherent virtues, while beauty can quickly fade. Reflecting on one's inner imperfections can diminish such pride.
+2. [**Piety and Worship**](Processes/Don't%20consider%20yourself%20as%20pious%20or%20more%20pious%20than%20anyone.md): Devout individuals can still harbor pride, sometimes seeing their blessings as signs of divine preference. A truly devout person remains humble, considering that others may possess inner virtues that Allah values more. They [pray for Allah's acceptance](Processes/Make%20dua%20after%20worship%20for%20acceptance.md) of their deeds without assuming entitlement.
+3. [**Lineage**](Processes/Don't%20be%20deluded%20by%20fame,%20wealth,%20lineage%20or%20beauty.md): Pride in ancestry can be avoided by recalling that our origins are humble—a mere drop of fluid and, ultimately, earth. Pride in ancestry is baseless in the face of our true beginnings.
+4. [**Wealth, Beauty, and Followers**](Processes/Don't%20be%20deluded%20by%20fame,%20wealth,%20lineage%20or%20beauty.md): Pride based on these attributes is misguided since they are temporary and superficial. Wealth and followers are gifts, not inherent virtues, while beauty can quickly fade. Reflecting on one's inner imperfections can diminish such pride.
 
 ## Self-Admiration
 

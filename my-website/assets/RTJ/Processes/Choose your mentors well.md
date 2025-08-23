@@ -1,21 +1,17 @@
 ---
 type: process
 initiative:
-- '[[Envy]]'
-- '[[Love and contentment]]'
-- '[[Self scrutiny]]'
-- '[[Fear and hope]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Envy]]"
+  - "[[Love and contentment]]"
+  - "[[Self scrutiny]]"
+  - "[[Fear and hope]]"
+due: ""
+duration:
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
 ---
 
 * Link to [Envy](Initiatives/bad%20traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.

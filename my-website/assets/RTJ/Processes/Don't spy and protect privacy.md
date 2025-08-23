@@ -1,20 +1,16 @@
 ---
 type: process
 initiative:
-- '[[Commanding good and forbidding evil]]'
-- '[[Upholding the right of muslims]]'
-- '[[Parenting]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Commanding good and forbidding evil]]"
+  - "[[Upholding the right of muslims]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Commanding good and forbidding evil](Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md): Avoid spying on others to identify and prevent wrongdoing.

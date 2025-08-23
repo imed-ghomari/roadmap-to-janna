@@ -2,22 +2,18 @@
 type: process
 initiative:
 - '[[Remembrance of allah]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: '1.3'
+private: false
 ---
 
 Link to [Remembrance of Allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:
 
-* **Make specific dua in sajda** _اللّٰهُمَّ اغْفِرْ لِيْ ذَنْبِيْ كُلَّهُ، دِقَّهُ وَجِلَّهُ، أَوَّلَهُ وَآخِرَهُ، عَلَانِيَتَهُ وَسِرَّهُ._
 * **Make specific dua during Dhu al-Hijjah** _اللّٰهُمَّ اجْعَلْنَا مِنَ الْمَقْبُوْلِيْنَ وَاغْفِرْ لَنَا فِيْ هٰذِهِ الأَيَّامِ الْمُبَارَكَةِ._
 * **Make specific dua of light (nour) when going to Jumu'ah** _اللّٰهُمَّ اجْعَلْ لِيْ نُوْرًا فِيْ قَلْبِيْ، وَنُوْرًا فِيْ بَصَرِيْ، وَنُوْرًا فِيْ سَمْعِيْ، وَنُوْرًا فِيْ يَمِيْنِيْ، وَنُوْرًا فِيْ شِمَالِيْ، وَنُوْرًا فِيْ فَوْقِيْ، وَنُوْرًا تَحْتِيْ، وَنُوْرًا فِيْ أَمَامِيْ، وَنُوْرًا خَلْفِيْ._
 * **Make specific dua when going out** _بِسْمِ اللّٰهِ تَوَكَّلْتُ عَلَى اللّٰهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ._

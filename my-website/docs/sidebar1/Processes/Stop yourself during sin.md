@@ -3,17 +3,14 @@ type: process
 initiative:
 - '[[Repentance]]'
 - '[[Gluttony and lust]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: '1.1'
+private: false
 ---
 
 Linked to **[Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md):**

@@ -1,20 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Engaging with the quran]]'
-- '[[Remembering death]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
-grouping: null
+  - "[[Engaging with the quran]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Reciting the Quran](Initiatives/worship/Engaging%20with%20the%20quran.md):

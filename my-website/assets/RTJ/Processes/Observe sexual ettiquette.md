@@ -1,18 +1,14 @@
 ---
 type: process
 initiative:
-- '[[Managing spouse]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Managing spouse]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 Link to [Managing spouse](Initiatives/worship/Managing%20spouse.md)

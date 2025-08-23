@@ -1,10 +1,9 @@
 ---
 type: initiative
-designed: true
 dependency: ''
-waiting: false
 start: ''
 KR: bad traits
+status: designed
 ---
 
 ## Love of Status
@@ -14,7 +13,7 @@ KR: bad traits
 * Status is the power to influence people's hearts and actions according to one's desires, much like wealth gives control over resources. Unlike wealth, status can't be stolen or damaged, making it highly valued.
 * Status is especially appealing as it aligns with qualities of loftiness and might, which resemble divine attributes humans naturally desire.
 * Seeking true status, such as closeness to Allah, is praiseworthy and brings lasting benefits, unlike worldly status or wealth, which are fleeting and imperfect. True perfection comes from [knowledge](docs/sidebar1/Processes/Build%20knowledge%20in%20free%20time.md), freedom, and independence from others. These lead to real wealth through virtues that endure beyond life.
-* Real freedom involves [detaching from all worldly things](docs/sidebar1/Processes/Pride%20and%20lesser%20blessings%20-%20accept%20but%20disregard%20them.md) that won't stay with you beyond death and focusing on what endures—namely, Allah. Wealth and status are temporary, while knowledge and freedom are lasting virtues.
+* Real freedom involves [detaching from all worldly things](docs/sidebar1/Processes/Don't%20be%20deluded%20by%20fame,%20wealth,%20lineage%20or%20beauty.md) that won't stay with you beyond death and focusing on what endures—namely, Allah. Wealth and status are temporary, while knowledge and freedom are lasting virtues.
 
 ### Reducing Love of Status
 

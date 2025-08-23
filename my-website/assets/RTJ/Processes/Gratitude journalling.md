@@ -1,19 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Gratitude]]'
-- '[[Love and contentment]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Gratitude]]"
+  - "[[Love and contentment]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: true
 ---
 
 Link to [Gratitude](Initiatives/good%20traits/Gratitude.md) and [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md).

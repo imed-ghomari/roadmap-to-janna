@@ -1,19 +1,15 @@
 ---
 type: process
 initiative:
-- '[[Love and contentment]]'
-- '[[Remembrance of allah]]'
-working: false
-due: ''
-duration: null
-recurrence: ''
-start: ''
-waiting: false
-review: ''
-file: ''
-context: ''
-dependency: ''
-step: ''
+  - "[[Love and contentment]]"
+  - "[[Remembrance of allah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status: not working
+detail: false
 ---
 
 * Link to [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md): Reflect on the world and its attributes, and recognize that Allah possesses the qualities of the people you admire, but on a scale that surpasses humans. He is the source of all goodness and beauty.

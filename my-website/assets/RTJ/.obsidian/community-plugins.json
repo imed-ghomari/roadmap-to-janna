@@ -1,14 +1,13 @@
 [
   "templater-obsidian",
   "dataview",
-  "tabs",
   "obsidian-view-mode-by-frontmatter",
   "obsidian-meta-bind-plugin",
-  "sets",
   "quickadd",
   "note-toolbar",
   "homepage",
   "obsidian-charts",
   "nldates-obsidian",
-  "multi-properties"
+  "multi-properties",
+  "virtual-footer"
 ]

@@ -8,17 +8,14 @@ initiative:
 - '[[Asceticism]]'
 - '[[Repentance]]'
 - '[[Love and contentment]]'
-working: false
 due: ''
-duration: null
 recurrence: ''
 start: ''
-waiting: false
-review: ''
-file: ''
 context: ''
 dependency: ''
-step: ''
+delay: false
+status: '1.3'
+private: true
 ---
 
 * Link to [Patience](docs/sidebar1/Initiatives/good%20traits/Patience.md): Be patient with adversities outside your control (e.g., death, injury, illness, or property loss). Whether it's punishment or a trial (bala'), we can cry and feel sadness, but we should remain silent or say, *"To Allah we belong, and to Him we shall return."* Avoid complaining to others about your adversities and ensure your first reaction to calamity aligns with faith and acceptance.
