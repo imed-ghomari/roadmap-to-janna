@@ -31,7 +31,7 @@ First, you need to understand the key file type used in this vault to understand
 	* The inbox items (notes you have captured but not yet organized) ;
 	* The problem files with titles that may cause syncing issues ;
 	* Active unfinished projects ;
-	* Processes with deadlines today or tomorrow (this period can be extended using the `duration` property) ;
+	* Processes due today or overdue ;
 	* Non-working processes.
 3. **Stuck**: This is a dynamic view that updates itself and contains projects, processes, and initiatives that are blocked or waiting, with start dates that are not yet due.
 4. **Calendar**: This is a dynamic view that updates itself and shows an overview of your schedule. It contains :

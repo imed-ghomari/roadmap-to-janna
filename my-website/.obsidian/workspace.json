@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar1/Resources/Process handling.md",
+                "file": "assets/RTJ/Resources/Obsidian implementation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Process handling"
+              "title": "Obsidian implementation"
             }
           }
         ]
@@ -181,6 +181,8 @@
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "docs/sidebar1/Resources/Obsidian implementation.md",
+    "docs/sidebar1/Resources/Process handling.md",
     "assets/RTJ/Processes/Cry and fear misguidance.md",
     "assets/RTJ/Processes/Pray chukr nafil prayer.md",
     "assets/RTJ/Processes/Give in charity in health and youth.md",
@@ -205,8 +207,6 @@
     "assets/RTJ/Processes/Respond to muslim sneeze.md",
     "assets/RTJ/Processes/Accept gift if lawful and pure intentions.md",
     "assets/RTJ/Processes/Visit the dead.md",
-    "assets/RTJ/Processes/Call, visit and care for the sick.md",
-    "assets/RTJ/Processes/Don't be deluded by fame, wealth, lineage or beauty.md",
     "packages/prism-react-renderer/src/themes",
     "packages/prism-react-renderer/src",
     "packages/prism-react-renderer",
