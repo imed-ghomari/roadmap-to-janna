@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/August update.md",
+                "file": "docs/sidebar1/Getting started.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "August update"
+              "title": "Getting started"
             }
           }
         ]
@@ -181,13 +181,19 @@
   },
   "active": "a99b0c05ee1340a5",
   "lastOpenFiles": [
+    "docs/sidebar1/Resources/Obsidian implementation.md",
+    "docs/sidebar1/Resources/Process handling.md",
+    "assets/screenshot.png",
+    "assets/screenshot.png",
+    "assets/performance.png",
+    "assets/performance.png",
+    "assets/RTJ/Resources/Obsidian implementation.md",
+    "docs/sidebar1/Getting started.md",
+    "blog/August update.md",
     "assets/RTJ/Processes/Guarding your eyes and ears.md",
     "assets/RTJ/Processes/Lower your gaze.md",
     "docs/sidebar1/Processes/Guarding your eyes and ears.md",
-    "assets/RTJ/Resources/Obsidian implementation.md",
     "docs/sidebar1/Processes/Lower your gaze.md",
-    "docs/sidebar1/Resources/Obsidian implementation.md",
-    "docs/sidebar1/Resources/Process handling.md",
     "assets/RTJ/Processes/Cry and fear misguidance.md",
     "assets/RTJ/Processes/Pray chukr nafil prayer.md",
     "assets/RTJ/Processes/Give in charity in health and youth.md",
@@ -204,14 +210,10 @@
     "assets/RTJ/Processes/Supplicate in the blessed times.md",
     "assets/RTJ/Processes/Don't be shy when seeking knowledge, presenting yourself or forbidding evil.md",
     "assets/RTJ/Processes/Hamd and thanking allah.md",
-    "assets/RTJ/Processes/Pay zakat.md",
-    "assets/RTJ/Processes/Create source of continuous charity.md",
-    "assets/RTJ/Processes/Pray tahajud prayer.md",
     "packages/prism-react-renderer/src/themes",
     "packages/prism-react-renderer/src",
     "packages/prism-react-renderer",
     "packages",
-    "assets/screenshot.png",
     "assets/screenshot.JPG",
     "static/img/countryside.png",
     "my-website/assets/RTJ/my-website/Initiatives/worship",
@@ -224,9 +226,6 @@
     "assets/screenshot2.png",
     "build/blog/atom.xml",
     "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/paradise banner.jpg",
     "docs/sidebar1/Resources/testing canvas ini good traits based on action.canvas",
     "assets/RTJ/Resources/testing canvas ini good traits based on action.canvas",
     "initiatives/develop strategy/revival habits connections.canvas",

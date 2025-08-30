@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "761dca9c02864899",
@@ -173,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "virtual-footer:Open virtual content in sidebar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -186,6 +188,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.md",
+    "Initiatives/worship/Engaging with the quran.md",
+    "Initiatives/worship/Reciting the quran.md",
+    "Processes/Recite the quran.md",
+    "Processes/Learn and review the quran.md",
+    "Processes/Use quran for healing.md",
+    "Processes/Pray tahajud prayer.md",
     "Getting started.md",
     "Resources/Weekly review.md",
     "Resources/Process handling.md",
@@ -205,12 +213,6 @@
     "Processes/Help orphans or people in need periodically.md",
     "Processes/Being consistent in doing good deeds.md",
     "Processes/Don't misuse blessings.md",
-    "Processes/Be patient when you have the choice.md",
-    "Processes/Moderation in Praise and Questioning.md",
-    "Processes/Pray additional voluntary prayers.md",
-    "Processes/Avoid being praised and praising.md",
-    "Processes/Supplicate for other people alive or dead.md",
-    "Processes/Contemplate the creation.md",
     "Initiatives/good traits",
     "Initiatives/bad traits",
     "Initiatives/worship",

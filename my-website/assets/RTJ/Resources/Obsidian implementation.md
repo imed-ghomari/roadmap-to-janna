@@ -28,17 +28,18 @@ First, you need to understand the key file type used in this vault to understand
 
 1. **Buttons**: With them, you can create new files for each file type described above. Each file type has a specific template. When it comes to "processes" and "projects," you'll be prompted to choose their respective initiative.
 2. **Open**: This is a dynamic view that updates itself and contains these files:
-	* The inbox items (notes you have captured but not yet organized) ;
-	* The problem files with titles that may cause syncing issues ;
-	* Active unfinished projects ;
-	* Processes due today or overdue ;
-	* Non-working processes.
+	* The inbox items (notes you have captured but not yet organized);
+	* The problem files with titles that may cause syncing issues;
+	* Active unfinished projects;
+	* Processes due today or overdue;
+	* Non-working processes;
+	* Not designed initiatives (this is useful if you're creating your own initiative).
 3. **Stuck**: This is a dynamic view that updates itself and contains projects, processes, and initiatives that are blocked or waiting, with start dates that are not yet due.
-4. **Calendar**: This is a dynamic view that updates itself and shows an overview of your schedule. It contains :
-	* Overdue projects and processes ;
-	* Projects scheduled between today and next month ;
+4. **Calendar**: This is a dynamic view that updates itself and shows an overview of your schedule. It contains:
+	* Overdue projects and processes;
+	* Projects scheduled between today and next month;
 	* Processes due today.
-5. **New Initiatives**: This is a dynamic view that updates itself and includes initiatives that are not yet fully designed. This is useful if you're creating your own initiative; otherwise, it should stay empty.
+5. **Performance**: see the “checking progress” section below for more details.
 
 ### Properties and Task Management
 
@@ -61,17 +62,11 @@ Each file type has properties to support task management and progress tracking. 
 
 ### Checking Progress
 
-To gain an accurate view of your performance, review the processes listed [here](Processes/Review%20initiatives%20and%20processes.md) monthly. Make sure to check the full documentation of the processes that have the property `detail` checked, and set the status of the processes you are not applying to `not working`. Once the initiatives have been reviewed, you will be able to evaluate your performance using the two indicators displayed on the homepage. :
+To gain an accurate view of your performance, review the processes listed [here](Processes/Review%20initiatives%20and%20processes.md) monthly. Make sure to check the full documentation of the processes that have the property `detail` checked, and set the status of the processes you are not applying to `not working`. Once the initiatives have been reviewed, you will be able to check the performance view, and based on each column, you can evaluate different aspects:
 
-* **Level System**: A numeric level system that estimates the number of processes needed to reach your desired level.
-* **Radar Chart**: This chart displays initiatives grouped by key results. The more rounded the chart, the better your performance across categories, helping you identify areas needing improvement.
-
-> [!note]
-> 
-> 
-> The initiatives and processes that are in the `waiting` state are ignored in the performance section.
-> 
-
+* First column: the progress of the initiative's completion, which is the total number of processes excluding those that are "waiting," divided by the number of active processes.
+* Second column: the number of processes needed to complete the initiative.
+* Third column: the number of completed initiatives within each "key result."
 
 ### Updating the System
 
