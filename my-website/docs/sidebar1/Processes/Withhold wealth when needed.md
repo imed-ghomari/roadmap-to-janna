@@ -1,17 +1,17 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Stinginess]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Withhold wealth when needed
 ---
 
-Link to [Stinginess](docs/sidebar1/Initiatives/bad%20traits/Stinginess.md)
+Link to [Stinginess](docs/sidebar1/Objective/bad%20traits/Stinginess.md)
 
 For example, for obligatory deeds requiring a lot of money (e.g. Hajj)

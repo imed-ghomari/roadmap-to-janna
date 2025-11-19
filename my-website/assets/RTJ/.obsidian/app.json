@@ -2,5 +2,6 @@
   "promptDelete": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "livePreview": true
 }

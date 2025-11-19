@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Love and contentment]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Love and contentment]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Level up worship
 ---
 
-Link to [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md)
+Link to [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md)
 
 It would be best if you waited for the current worship processes to mature somewhat before attempting to improve them to avoid losing progress by doing too much too soon.
 

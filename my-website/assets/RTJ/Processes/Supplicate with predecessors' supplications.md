@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Reliance]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Reliance]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Supplicate with predecessors' supplications
 ---
 
-Link to [Reliance](Initiatives/good%20traits/Reliance.md)
+Link to [Reliance](Objective/good%20traits/Reliance.md)
 
 Here are some supplications from our predecessor as inspirations:
 

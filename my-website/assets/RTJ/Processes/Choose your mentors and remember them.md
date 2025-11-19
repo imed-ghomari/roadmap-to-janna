@@ -1,23 +1,24 @@
 ---
 type: process
-initiative:
-  - "[[Envy]]"
-  - "[[Love and contentment]]"
-  - "[[Self scrutiny]]"
-  - "[[Fear and hope]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Envy]]'
+- '[[Love and contentment]]'
+- '[[Self scrutiny]]'
+- '[[Fear and hope]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Choose your mentors and remember them
 ---
 
-* Link to [Envy](Initiatives/bad%20traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.
-* Link to [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md): Read biographies of those close to God and cultivate a love for them based on their virtuous qualities.
-* Link to [Self scrutiny](Initiatives/good%20traits/Self%20scrutiny.md): Find inspiration on how to better yourself through the biographies of pious people.
-* Link to [Fear and hope](Initiatives/good%20traits/Fear%20and%20hope.md): Learn fear through how they display it in their life.
+* Link to [Envy](Objective/bad%20traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.
+* Link to [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md): Read biographies of those close to God and cultivate a love for them based on their virtuous qualities.
+* Link to [Self scrutiny](Objective/good%20traits/Self%20scrutiny.md): Find inspiration on how to better yourself through the biographies of pious people.
+* Link to [Fear and hope](Objective/good%20traits/Fear%20and%20hope.md): Learn fear through how they display it in their life.
 
 **Examples of Role Models and Their Virtues:**
 

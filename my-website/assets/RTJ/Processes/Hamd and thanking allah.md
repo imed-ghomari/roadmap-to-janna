@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Gratitude]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Gratitude]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Hamd and thanking allah
 ---
 
-link to [Gratitude](Initiatives/good%20traits/Gratitude.md)
+link to [Gratitude](Objective/good%20traits/Gratitude.md)
 
 Gratitude of the tongue is publicly acknowledging and thanking God for all blessings, recognizing that all good comes from Him and not from oneself. There are different categories of blessings we should be thankful for:
 
@@ -28,4 +29,3 @@ We can express gratitude or say tasbih in salat, in the morning and evening supp
 > 
 > Gratitude (tasbih) involves publicly acknowledging and thanking God for all material and immaterial blessings. Regularly recite "Hamdulilah" to express gratitude, especially after prayers, meals, and recognizing blessings.
 > 
-

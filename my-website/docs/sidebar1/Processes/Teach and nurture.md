@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Parenting]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: true
+status: ''
+detail: null
+sidebar_label: Teach and nurture
 ---
 
-Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)
+Link to [Parenting](docs/sidebar1/Objective/worship/Parenting.md)
 
 **Religious Education:**
 
@@ -35,6 +35,7 @@ Link to [Parenting](docs/sidebar1/Initiatives/worship/Parenting.md)
 * Encourage decision-making through shared discussions or independent actions (adaptable to different situations).
 
 :::tip summary
+
 
 Teach children both religious knowledge (faith, worship, beliefs) and life skills (productivity, self-sufficiency, decision-making).
 

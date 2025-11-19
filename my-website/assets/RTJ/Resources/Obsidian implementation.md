@@ -2,7 +2,6 @@
 
 > [!info]
 > 
-> 
 > This introductory section will help you understand how the vault is structured. For instructions on how to use it, refer to the "What you need to do" heading.
 > 
 
@@ -17,24 +16,24 @@ A **vault** is a folder of text files in markdown format that can be opened with
 
 First, you need to understand the key file type used in this vault to understand the following headings:
 
-* **Project**: One-off task contributing to the initiatives in various ways (e.g., creating processes, changing the documentation of the initiative, improving the system itself). When completed, they can be archived or deleted.
-* **Processes**: Regular habits linked to specific initiatives (more on this in [Process Handling](Resources/Process%20handling.md)).
-* **Initiatives**: Contain relevant documentation and link to all the relevant processes
+* **Project**: One-off task contributing to the domains in various ways (e.g., creating processes, changing the documentation of the domain, improving the system itself). When completed, they can be archived or deleted.
+* **Processes**: Regular habits linked to specific domains (more on this in [Process Handling](Resources/Process%20handling.md)).
+* **Domains**: Contain relevant documentation and link to all the relevant processes.
 * **Note**: Quick, unstructured captures (often for inbox items).
 
 ### The Homepage
 
 ![image](../../../assets/screenshot.png)
 
-1. **Buttons**: With them, you can create new files for each file type described above. Each file type has a specific template. When it comes to "processes" and "projects," you'll be prompted to choose their respective initiative.
+1. **Buttons**: With them, you can create new files for each file type described above. Each file type has a specific template. When it comes to "processes" and "projects," you'll be prompted to choose their respective domain.
 2. **Open**: This is a dynamic view that updates itself and contains these files:
 	* The inbox items (notes you have captured but not yet organized);
 	* The problem files with titles that may cause syncing issues;
 	* Active unfinished projects;
 	* Processes due today or overdue;
 	* Non-working processes;
-	* Not designed initiatives (this is useful if you're creating your own initiative).
-3. **Stuck**: This is a dynamic view that updates itself and contains projects, processes, and initiatives that are blocked or waiting, with start dates that are not yet due.
+	* Not designed domains (this is useful if you're creating your own domain).
+3. **Stuck**: This is a dynamic view that updates itself and contains projects, processes, and domains that are blocked or waiting, with start dates that are not yet due.
 4. **Calendar**: This is a dynamic view that updates itself and shows an overview of your schedule. It contains:
 	* Overdue projects and processes;
 	* Projects scheduled between today and next month;
@@ -45,11 +44,11 @@ First, you need to understand the key file type used in this vault to understand
 
 Each file type has properties to support task management and progress tracking. Here's a breakdown:
 
-* `status`: The file can go through different states, such as `waiting` for an event to be ready, `blocking` another file from being ready, or `blocked` by another file. These states can also be specific to each file type :
+* `status`: The file can go through different states, such as `waiting` for an event to be ready, `blocking` another file from being ready, or `blocked` by another file. These states can also be specific to each file type:
 	* Processes can be `working/not working`: Check this property to see if you are currently following the process as described in the process file.
 	* Projects can be `done/not done`: Use this to archive completed projects. This removes the projects from view but keeps them in the corresponding folder.
-	* Initiative can be `designed/not designed`: Check this if it has solid documentation linking to all relevant processes. This is recommended only if you plan to restructure or create a new initiative.
-* `detail`: This property helps when reviewing processes. Set it to true if the process’ documentation is lengthy, so you'll know when reviewing that you need to check more than just the title to determine its state.
+	* Domain can be `designed/not designed`: Check this if it has solid documentation linking to all relevant processes. This is recommended only if you plan to restructure or create a new domain.
+* `detail`: This property helps when reviewing processes. Set it to true if the process' documentation is lengthy, so you'll know when reviewing that you need to check more than just the title to determine its state.
 * `context`: This property varies depending on the file type.
 	* If it's a project, it should contain its location to help coordinate projects with similar locations.
 	* If it's a working process, it should contain the time by which the process is completed. This helps avoid over-scheduling.
@@ -62,11 +61,11 @@ Each file type has properties to support task management and progress tracking. 
 
 ### Checking Progress
 
-To gain an accurate view of your performance, review the processes listed [here](Processes/Review%20initiatives%20and%20processes.md) monthly. Make sure to check the full documentation of the processes that have the property `detail` checked, and set the status of the processes you are not applying to `not working`. Once the initiatives have been reviewed, you will be able to check the performance view, and based on each column, you can evaluate different aspects:
+To gain an accurate view of your performance, [review the processes](Processes/Review%20working%20processes.md) on a monthly basis. Make sure to check the full documentation of the processes that have the property `detail` checked, and set the status of the processes you are not applying to `not working`. Once the domains have been reviewed, you will be able to check the performance view, and based on each column, you can evaluate different aspects:
 
-* First column: the progress of the initiative's completion, which is the total number of processes excluding those that are "waiting," divided by the number of active processes.
-* Second column: the number of processes needed to complete the initiative.
-* Third column: the number of completed initiatives within each "key result."
+* First column: the progress of the domain's completion, which is the total number of processes excluding those that are "waiting," divided by the number of active processes.
+* Second column: the number of processes needed to complete the domain.
+* Third column: the number of completed domains within each "Objective."
 
 ### Updating the System
 
@@ -77,14 +76,14 @@ To stay updated with changes in the vault:
 
 ### How Can I Use it on My Phone?
 
-You can use [Syncthing](https://syncthing.net/) to sync your Obsidian vault with your phone. Just make sure not to rename the vault or to use any special characters in the file titles to avoid syncing problems. (The problematic file titles will appear on the homepage for you to deal with).
+You can use [Syncthing](https://syncthing.net/) or [Resilio Sync](https://www.resilio.com/sync/) to sync your Obsidian vault with your phone. Just make sure not to rename the vault or to use any special characters in the file titles to avoid syncing problems. (The problematic file titles will appear on the homepage for you to deal with).
 
 ## What You Need to Do
 
 ### Step 1: [Download and familiarize yourself with the Vault](../../../assets/RTJ.zip)
 
 * **Unzip** the vault and **open** the folder with obsidian.
-* **Review the Documentation**: Read each initiative's main points to understand its purpose and goals.
+* **Review the Documentation**: Read each domain's main points to understand its purpose and goals.
 * **Agree on Actions**: Reflect on whether the listed actions and goals align with your approach. Adjust them if necessary.
 
 ### Step 2: Identify Active Processes

@@ -1,24 +1,25 @@
 ---
 type: process
-initiative:
-  - "[[Gratitude]]"
-  - "[[Love and contentment]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: true
+domain:
+- '[[Gratitude]]'
+- '[[Love and contentment]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Gratitude journalling
 ---
 
-Link to [Gratitude](Initiatives/good%20traits/Gratitude.md) and [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md).
+Link to [Gratitude](Objective/good%20traits/Gratitude.md) and [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md).
 
-## Example of Gratitude Journaling
+# Example of Gratitude Journaling
 
 To enhance your gratitude journaling, it's important to distinguish between **short-term blessings** and **long-term blessings**. **Short-term blessings** are fleeting and can disappear quickly, while **long-term blessings**, like good health or a stable job, are more enduring and can last for weeks or months. This exercise focuses on short-term blessings to keep your reflections fresh and avoid repetition.
 
-### Steps
+## Steps
 
 1. **Write daily blessings**:
    At the end of each day, or the start of the next, write one blessing from the previous day in each of the following categories:

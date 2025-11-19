@@ -1,4 +1,4 @@
-`BUTTON[note, project, process, initiative]`
+`BUTTON[note, project, process, domain]`
 ```meta-bind-button
 label: Process
 icon: ""
@@ -39,12 +39,12 @@ actions:
 
 ```
 ```meta-bind-button
-label: Initiative
+label: Domain
 icon: ""
 hidden: true
 class: ""
 tooltip: ""
-id: initiative
+id: domain
 style: default
 actions:
   - type: command
@@ -69,12 +69,12 @@ formulas:
       if(status == "4", 8, 
       if(status == "5", 9, 
       if(status == "6", 10,    
-    99)))))))))))))aliases
+    99)))))))))))))
   total_process_count: file.backlinks.filter(value.asFile().properties.type == "process" && value.asFile().properties.status != "waiting").length
   working_process_count: file.backlinks.filter(value.asFile().properties.type == "process" && value.asFile().properties.status == "working").length
   progress_fraction: if(formula.total_process_count > 0, formula.working_process_count / formula.total_process_count, 0)
-  Progress: '"███████████████".slice(0, (formula.progress_fraction * 15).floor()) + "░░░░░░░░░░░░░░░".slice(0, 15 - (formula.progress_fraction * 15).floor())'
-  initiative done: if(formula.total_process_count - formula.working_process_count == 0, true, formula.total_process_count - formula.working_process_count)
+  Progress: '"■■■■■■■■■■".slice(0, (formula.progress_fraction * 10).floor()) + "□□□□□□□□□□".slice(0, 10 - (formula.progress_fraction * 10).floor())'
+  initiative done: formula.total_process_count - formula.working_process_count
 properties:
   formula.relative due:
     displayName: r.due
@@ -94,7 +94,7 @@ views:
             - file.name.contains(">")
             - file.name.contains("*")
             - file.name.contains("conflict")
-            - file.path.contains("Initiatives/_inbox")
+            - file.path.contains("Inbox")
             - and:
                 - "!recurrence.isEmpty()"
                 - due.isEmpty()
@@ -113,7 +113,7 @@ views:
                     - type == "process"
                     - status != "working"
                 - and:
-                    - type == "initiative"
+                    - type == "domain"
                     - status == "not designed"
             - and:
                 - '!file.path.contains("Admin")'
@@ -121,8 +121,10 @@ views:
                 - or:
                     - start.isEmpty()
                     - start <= now()
+    groupBy:
+      property: type
+      direction: ASC
     order:
-      - type
       - status
       - context
       - file.name
@@ -133,8 +135,6 @@ views:
       - property: formula.status sorting
         direction: ASC
       - property: due
-        direction: DESC
-      - property: type
         direction: DESC
       - property: context
         direction: ASC
@@ -201,23 +201,22 @@ views:
     name: performance
     filters:
       and:
-        - type == "initiative"
+        - type == "domain"
         - '!file.path.contains("Admin")'
+    groupBy:
+      property: objective
+      direction: ASC
     order:
       - formula.Progress
       - formula.initiative done
-      - KR
       - file.name
     sort:
-      - property: KR
-        direction: ASC
       - property: formula.progress_fraction
         direction: ASC
       - property: formula.initiative done
         direction: ASC
     columnSize:
-      formula.Progress: 200
+      formula.Progress: 147
       file.name: 299
-      note.KR: 124
 
 ```

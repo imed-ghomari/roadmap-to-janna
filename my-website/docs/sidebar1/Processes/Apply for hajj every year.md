@@ -1,15 +1,15 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Hajj]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Apply for hajj every year
 ---
 
-Link to [Hajj](docs/sidebar1/Initiatives/worship/Hajj.md)
+Link to [Hajj](docs/sidebar1/Objective/worship/Hajj.md)

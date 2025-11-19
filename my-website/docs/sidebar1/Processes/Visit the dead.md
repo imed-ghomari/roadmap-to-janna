@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Remembering death]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Visit the dead
 ---
 
-Link to [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md)
+Link to [Remembering death](docs/sidebar1/Objective/good%20traits/Remembering%20death.md)
 
 Visit the dead, supplicate for them, and remember the events of death, the grave, the day of judgment, ​hellfire, and paradise
 

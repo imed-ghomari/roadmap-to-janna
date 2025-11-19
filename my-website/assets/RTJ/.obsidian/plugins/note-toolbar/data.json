@@ -57,44 +57,6 @@
           }
         },
         {
-          "uuid": "ae95436e-bd46-4493-b15f-563ad5429f74",
-          "label": "reviewed",
-          "icon": "lucide-user-check-2",
-          "link": "Templater: Insert Admin/review today.md",
-          "linkAttr": {
-            "commandId": "templater-obsidian:Admin/review today.md",
-            "hasVars": false,
-            "type": "command"
-          },
-          "tooltip": "",
-          "visibility": {
-            "desktop": {
-              "allViews": {
-                "components": [
-                  "icon",
-                  "label"
-                ]
-              }
-            },
-            "mobile": {
-              "allViews": {
-                "components": [
-                  "icon",
-                  "label"
-                ]
-              }
-            },
-            "tablet": {
-              "allViews": {
-                "components": [
-                  "icon",
-                  "label"
-                ]
-              }
-            }
-          }
-        },
-        {
           "uuid": "32dbec96-764e-4f68-80b1-633fab722093",
           "label": "defer due",
           "icon": "lucide-calendar-x",
@@ -190,7 +152,7 @@
           }
         }
       },
-      "updated": "2024-11-20T12:53:49.364Z"
+      "updated": "2025-11-19T07:46:17.916Z"
     },
     {
       "uuid": "d743a167-376f-42c1-b062-a3f044b9dd1a",

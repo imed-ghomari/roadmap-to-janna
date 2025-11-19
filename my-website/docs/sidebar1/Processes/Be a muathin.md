@@ -1,17 +1,17 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Remembering death]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: waiting
-private: false
+status: ''
+detail: null
+sidebar_label: Be a muathin
 ---
 
-Link to [Remembering death](docs/sidebar1/Initiatives/good%20traits/Remembering%20death.md)
+Link to [Remembering death](docs/sidebar1/Objective/good%20traits/Remembering%20death.md)
 
 Strive to be a muathin (if you can), to be from the ones who have a long neck on the day of qiyama.

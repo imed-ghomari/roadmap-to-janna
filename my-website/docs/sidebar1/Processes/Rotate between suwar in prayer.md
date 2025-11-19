@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Praying]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Rotate between suwar in prayer
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md): Changing the surah you pray with during and between the prayers is recommended. For each prayer, there is a sunnah of what surah you should read:
+Link to [Praying](docs/sidebar1/Objective/worship/Praying.md): Changing the surah you pray with during and between the prayers is recommended. For each prayer, there is a sunnah of what surah you should read:
 
 * Short suwar: read from "A-Sharh" to the last for "maghrib" and "assr"
 * Medium suwar: read from "Al-a'la" to "Ad-Duha" for "duhr" and "icha"

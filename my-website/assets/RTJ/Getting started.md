@@ -6,74 +6,78 @@ This project aims to focus on a certain type of excluded or unnoticed gap in rel
 
 ## The First Part - The Basics of the System
 
-The system uses the **OKR method** for goal setting, which consists of three main components: **Objective**, **Key Results**, and **Initiatives**. Simply put, the key difference between traditional goal-setting and the OKR method is the introduction of key results—these are the measurable outcomes of the actions (referred to as initiatives) that are intended to achieve the objective. Each action acts as a hypothesis that may or may not achieve the objective, with its probability of success depending on how relevant the outcome (key result) is to the objective. This is important to remember, as it will come up again when we discuss the actions further down.
+The system uses a **Reverse Goal Setting** method, which consists of three main layers: **Vision**, **Objectives**, and **Domains**.
 
-Now, let's focus on the **initiatives**. These are high-level actionable items that need to be carried out to achieve the objective, which is Janna. Each initiative includes documentation that links to multiple processes or habit files detailing the necessary actions. When all the processes related to an initiative are implemented, the initiative can be considered operational.
+* **Vision**: This is the ultimate destination or the highest aspiration (e.g., Janna).
+* **Objectives**: These are the major milestones or areas of focus required to realize the vision.
+* **Domains**: These are specific areas of responsibility or influence where actionable work happens.
 
-The **processes or habits** are implemented, changed, improved, or swapped using a specific framework explained further in [Process handling](Resources/Process%20handling.md). Due to the interconnected nature of the objective and **Principle 3** (mentioned below), processes can be part of multiple initiatives simultaneously. Each process file includes a link to the relevant initiatives to facilitate navigation.
+Each **Domain** includes documentation that links to multiple **processes** or habit files detailing the necessary actions. When all the processes related to a domain are implemented, the domain is considered well-managed.
+
+The **processes or habits** are implemented, changed, improved, or swapped using a specific framework explained further in [Process handling](Resources/Process%20handling.md). Due to the interconnected nature of the objectives, processes can be part of multiple domains simultaneously. Each process file includes a link to the relevant domains to facilitate navigation.
 
 For a clearer understanding, here is an outline of the system:
 
 ```md
-- Objective
-	- Key Result 1
-		- Initiative 1
+- Vision
+	- Objective 1
+		- Domain 1
 			- Process 1
 				- Process handling
 			- Process 2
 			- ...
-		- Initiative 2
+		- Domain 2
 		- ...
-	- Key Result 2
+	- Objective 2
 	- ...
 ```
 
-The final, crucial part of the system is the **review process**. Any action that needs to be sustained long-term should be reviewed periodically. This ensures that the processes are being carried out effectively, that initiatives remain on track, and that key results are being met to achieve the ultimate goal.
+The final, crucial part of the system is the **review process**. Any action that needs to be sustained long-term should be reviewed periodically. This ensures that the processes are being carried out effectively and that domains remain on track to achieve the objectives and the ultimate vision.
 
 ## The Second Part - What To Do
 
-### Contextualization of the OKR Method
+### Contextualization
 
-Of course, the goal is to attain the highest level in paradise without any reckoning or punishment. According to the prophet, If this isn't the goal, it should be.
+The **Vision** is to attain the highest level in paradise without any reckoning or punishment. According to the prophet, If this isn't the goal, it should be.
 
-This goal is achieved through 3 key results and their respective initiatives: (some initiatives are grouped due to their similarity in theme)
+This Vision is achieved through 3 Objectives and their respective Domains: (some domains are grouped due to their similarity in theme)
 
-* Outer actions - Worshiping Allah
-	* [Praying](Initiatives/worship/Praying.md)
-	* [Zakat, charity, and selflessness](Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
-	* [Fasting](Initiatives/worship/Fasting.md)
-	* [Hajj](Initiatives/worship/Hajj.md)
-	* [Engaging with the Quran](Initiatives/worship/Engaging%20with%20the%20quran.md)
-	* [Remembrance of Allah](Initiatives/worship/Remembrance%20of%20allah.md)
-	* [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md)
-	* [Upholding the rights of Muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md), [Managing the spouse](Initiatives/worship/Managing%20spouse.md) and [Parenting](Initiatives/worship/Parenting.md)
-	* [Commanding good and forbidding evil](Initiatives/worship/Commanding%20good%20and%20forbidding%20evil.md)
-	* [Following the Sunnah](Initiatives/worship/Following%20the%20sunnah.md)
-* Inner actions - Purifying the heart from blameworthy character traits
-	* [Gluttony and lust](Initiatives/bad%20traits/Gluttony%20and%20lust.md)
-	* [Loquaciousness](Initiatives/bad%20traits/Loquaciousness.md)
-	* [Anger](Initiatives/bad%20traits/Anger.md)
-	* [Envy](Initiatives/bad%20traits/Envy.md)
-	* [Stinginess](Initiatives/bad%20traits/Stinginess.md)
-	* [Love of status and ostentation](Initiatives/bad%20traits/Love%20of%20status%20and%20ostentation.md)
-	* [Pride, self-admiration, and humility](Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
-* Inner actions - Developing praiseworthy character traits
-	* [Repentance](Initiatives/good%20traits/Repentance.md)
-	* [Fear and hope](Initiatives/good%20traits/Fear%20and%20hope.md)
-	* [Asceticism](Initiatives/good%20traits/Asceticism.md)
-	* [Patience](Initiatives/good%20traits/Patience.md)
-	* [Gratitude](Initiatives/good%20traits/Gratitude.md)
-	* [Sincerity and truthfulness](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
-	* [Reliance](Initiatives/good%20traits/Reliance.md)
-	* [Love and contentment](Initiatives/good%20traits/Love%20and%20contentment.md)
-	* [Remembering death](Initiatives/good%20traits/Remembering%20death.md)
-	* [Self-scrutiny](Initiatives/good%20traits/Self%20scrutiny.md)
+* Objective: Outer actions - Worshiping Allah
+	* [Praying](Objective/worship/Praying.md)
+	* [Zakat, charity, and selflessness](Objective/worship/Zakat%20and%20charity%20and%20selflessness.md)
+	* [Fasting](Objective/worship/Fasting.md)
+	* [Hajj](Objective/worship/Hajj.md)
+	* [Engaging with the Quran](Objective/worship/Engaging%20with%20the%20quran.md)
+	* [Remembrance of Allah](Objective/worship/Remembrance%20of%20allah.md)
+	* [Seeking the lawful](Objective/worship/Seeking%20the%20lawful.md)
+	* [Upholding the rights of Muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md), [Managing the spouse](Objective/worship/Managing%20spouse.md) and [Parenting](Objective/worship/Parenting.md)
+	* [Commanding good and forbidding evil](Objective/worship/Commanding%20good%20and%20forbidding%20evil.md)
+	* [Following the Sunnah](Objective/worship/Following%20the%20sunnah.md)
+* Objective: Inner actions - Purifying the heart from blameworthy character traits
+	* [Gluttony and lust](Objective/bad%20traits/Gluttony%20and%20lust.md)
+	* [Loquaciousness](Objective/bad%20traits/Loquaciousness.md)
+	* [Anger](Objective/bad%20traits/Anger.md)
+	* [Envy](Objective/bad%20traits/Envy.md)
+	* [Stinginess](Objective/bad%20traits/Stinginess.md)
+	* [Love of status and ostentation](Objective/bad%20traits/Love%20of%20status%20and%20ostentation.md)
+	* [Pride, self-admiration, and humility](Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md)
+* Objective: Inner actions - Developing praiseworthy character traits
+	* [Repentance](Objective/good%20traits/Repentance.md)
+	* [Fear and hope](Objective/good%20traits/Fear%20and%20hope.md)
+	* [Asceticism](Objective/good%20traits/Asceticism.md)
+	* [Patience](Objective/good%20traits/Patience.md)
+	* [Gratitude](Objective/good%20traits/Gratitude.md)
+	* [Sincerity and truthfulness](Objective/good%20traits/Sincerity%20and%20truthfulness.md)
+	* [Reliance](Objective/good%20traits/Reliance.md)
+	* [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md)
+	* [Remembering death](Objective/good%20traits/Remembering%20death.md)
+	* [Self-scrutiny](Objective/good%20traits/Self%20scrutiny.md)
 
-> To make the initiatives more comprehensive, I merged the initiatives of the bad traits with their opposite good traits, as one represents the absence of the other.
+> To make the domains more comprehensive, I merged the domains of the bad traits with their opposite good traits, as one represents the absence of the other.
 
 ### The Principles
 
-The initiatives/processes follow a set of principles:
+The domains/processes follow a set of principles:
 
 1. **Simple yet Comprehensive**: Designed to cater to all types of Muslims while retaining the key points needed to understand the nuances of each action. This benefits different audiences, including:
     * **New Muslims**: Providing an overview of essential practices.
@@ -82,7 +86,7 @@ The initiatives/processes follow a set of principles:
 2. **Practical Knowledge Only**: Focused exclusively on actionable knowledge, excluding abstract or faith-building exercises (some books from the *Revival* were excluded because of this). While the project is not intended to be a da'wah, any positive da'wah effect is welcome. For those seeking theoretical knowledge to ground their faith, seek other resources.
 3. **Built for Easy Review**: Merged similar concepts under unified processes to minimize their number. This ensures easier reviews and supports long-term maintenance.
 
-You might encounter some actions in the initiative that don't have any process linked to them. This can be explained by one of three reasons:
+You might encounter some actions in the domain that don't have any process linked to them. This can be explained by one of three reasons:
 
 * The action demands a project, not a process.
 * The action has already been included in another process.
@@ -105,7 +109,7 @@ I didn't include the sources next to each action in the processes because of the
 
 The system can be implemented using two methods. The first method is simpler to execute but requires a longer review process. The second method is more challenging to implement but benefits from a more streamlined review process.
 
-1. Conduct a [weekly review](Resources/Weekly%20review.md) once you are familiar with the initiatives and their associated processes.
+1. Conduct a [weekly review](Resources/Weekly%20review.md) once you are familiar with the domains and their associated processes.
 2. Use the tool endorsed by the author and the associated file by following [this tutorial](Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated. You can see an example below:
 
 ![](../../assets/performance.png)
@@ -126,7 +130,5 @@ Otherwise, you can remember us in your dua, asking Allah to guide and support us
 
 > [!warning] reminder about tawakkul
 > 
-> 
 > This is not a guaranteed way of attaining paradise; it is only our best effort to help as much as possible. Guidance and success remain in Allah's hands, subhanahu wa ta'ala.
 > 
-

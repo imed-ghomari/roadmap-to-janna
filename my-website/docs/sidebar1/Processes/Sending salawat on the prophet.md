@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Gratitude]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Sending salawat on the prophet
 ---
 
-Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
+Link to [Gratitude](docs/sidebar1/Objective/good%20traits/Gratitude.md)
 
 Express gratitude for the prophet by sending salawat. The more you do this, the closer you will be to him on the Day of Judgment. Here are several occasions when you should send salawat:
 

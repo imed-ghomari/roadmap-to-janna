@@ -4,7 +4,7 @@ due: ""
 duration: 
 context: 
 dependency: 
-initiative:
+domain:
 start: ""
 status: not done
 ---

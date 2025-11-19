@@ -1,15 +1,15 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Praying]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: waiting
-private: false
+status: ''
+detail: null
+sidebar_label: Pray the dua prayer
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md): Dua is an important nafil prayer that begins after sunrise and ends at noon.
+Link to [Praying](docs/sidebar1/Objective/worship/Praying.md): Dua is an important nafil prayer that begins after sunrise and ends at noon.

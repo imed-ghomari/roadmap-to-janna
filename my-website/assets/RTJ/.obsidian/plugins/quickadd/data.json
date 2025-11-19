@@ -46,10 +46,10 @@
     },
     {
       "id": "9fb140ea-8cd3-4f17-9b56-40037f0f902e",
-      "name": "initiative",
+      "name": "domain",
       "type": "Template",
       "command": true,
-      "templatePath": "Admin/initiative template.md",
+      "templatePath": "Admin/domain template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -57,7 +57,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Initiatives"
+          "Objective"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

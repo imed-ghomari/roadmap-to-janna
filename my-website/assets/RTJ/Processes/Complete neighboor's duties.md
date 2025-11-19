@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Upholding the right of muslims]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Upholding the right of muslims]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Complete neighboor's duties
 ---
 
-Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md)
+Link to [Upholding the right of muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md)
 
 To uphold the rights of Muslim neighbors, it is essential to:
 
@@ -27,4 +28,3 @@ To uphold the rights of Muslim neighbors, it is essential to:
 > 
 > To uphold the rights of Muslim neighbors, refrain from harm, be friendly, visit during times of need, and respect their privacy.
 > 
-

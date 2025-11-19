@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Praying]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Praying]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Make preparation for friday prayer
 ---
 
-Link to [Praying](Initiatives/worship/Praying.md)
+Link to [Praying](Objective/worship/Praying.md)
 
 Complete Friday prayer by:
 

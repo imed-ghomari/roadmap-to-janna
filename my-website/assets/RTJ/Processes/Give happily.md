@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Zakat and charity and selflessness]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Zakat and charity and selflessness]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Give happily
 ---
 
-Link to [Zakat and charity and selflessness](Initiatives/worship/Zakat%20and%20charity%20and%20selflessness.md)
+Link to [Zakat and charity and selflessness](Objective/worship/Zakat%20and%20charity%20and%20selflessness.md)
 
 * Give in secret, concealing your good deeds just as you would your shortcomings. Let your left hand not know what your right hand gives. This shields you from showing off and protects the recipient from feeling exposed or embarrassed. Furthermore, never remind those you've helped of your generosity.
 * Donate the best of what you have or love, whether it's your time, possessions, or knowledge. Remember to be generous, for Allah is the most generous. And put the needs of others before your own when they conflict.
@@ -34,4 +35,3 @@ Link to [Zakat and charity and selflessness](Initiatives/worship/Zakat%20and%20c
 > 
 > Give secretly from your best possessions to those in need, prioritizing family, the pious, and the needy. Find joy in giving, knowing it's a true investment in the Hereafter.
 > 
-

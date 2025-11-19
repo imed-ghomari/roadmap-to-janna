@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Anger]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Anger]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Stay silent and change position in anger
 ---
 
-Link to [Anger](Initiatives/bad%20traits/Anger.md):
+Link to [Anger](Objective/bad%20traits/Anger.md):
 
 **Recommended:**
 

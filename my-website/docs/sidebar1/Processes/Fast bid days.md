@@ -1,15 +1,15 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Fasting]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: waiting
-private: false
+status: ''
+detail: null
+sidebar_label: Fast bid days
 ---
 
-link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)
+link to [Fasting](docs/sidebar1/Objective/worship/Fasting.md)

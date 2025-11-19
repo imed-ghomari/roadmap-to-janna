@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Upholding the right of muslims]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Upholding the right of muslims]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Complete friend's duties
 ---
 
-Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md)
+Link to [Upholding the right of muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md)
 
 * **Fulfilling their needs:** Helping and fulfilling their requests, whenever possible.
 * **Verbal support:** Expressing gratitude, consolation, and encouragement during difficult times.

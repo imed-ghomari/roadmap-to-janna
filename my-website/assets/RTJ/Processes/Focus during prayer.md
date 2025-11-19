@@ -1,18 +1,20 @@
 ---
 type: process
-initiative:
-  - "[[Praying]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: true
+domain:
+- '[[Praying]]'
+- '[[Pride and self admiration and humility]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Focus during prayer
 ---
 
-* Link to [Pride and self admiration and humility](Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
-* Link to [Praying](Initiatives/worship/Praying.md): Here are some ways to stay focused during the prayer:
+* Link to [Pride and self admiration and humility](Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
+* Link to [Praying](Objective/worship/Praying.md): Here are some ways to stay focused during the prayer:
 	* Remember that you're the only one benefiting from this ritual. With this thinking, you can focus better on the acts, the words, and their significance.
 	* Focus on making different duas in each rak'ah.
 	* Understand the meaning of the words recited, which results in glorifying Allah with fear, hope, and humility.
@@ -25,4 +27,3 @@ detail: true
 > 
 > Remember your humble origins and pray attentively, focusing on different supplications in each portion of your prayers and envisioning each prayer as if it were your last.
 > 
-

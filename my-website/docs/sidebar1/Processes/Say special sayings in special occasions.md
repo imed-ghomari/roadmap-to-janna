@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Remembrance of allah]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: '1.3'
-private: false
+status: ''
+detail: null
+sidebar_label: Say special sayings in special occasions
 ---
 
-Link to [Remembrance of Allah](docs/sidebar1/Initiatives/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:
+Link to [Remembrance of Allah](docs/sidebar1/Objective/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:
 
 * **Make specific dua during Dhu al-Hijjah** _اللّٰهُمَّ اجْعَلْنَا مِنَ الْمَقْبُوْلِيْنَ وَاغْفِرْ لَنَا فِيْ هٰذِهِ الأَيَّامِ الْمُبَارَكَةِ._
 * **Make specific dua of light (nour) when going to Jumu'ah** _اللّٰهُمَّ اجْعَلْ لِيْ نُوْرًا فِيْ قَلْبِيْ، وَنُوْرًا فِيْ بَصَرِيْ، وَنُوْرًا فِيْ سَمْعِيْ، وَنُوْرًا فِيْ يَمِيْنِيْ، وَنُوْرًا فِيْ شِمَالِيْ، وَنُوْرًا فِيْ فَوْقِيْ، وَنُوْرًا تَحْتِيْ، وَنُوْرًا فِيْ أَمَامِيْ، وَنُوْرًا خَلْفِيْ._

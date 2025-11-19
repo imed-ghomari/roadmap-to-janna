@@ -1,17 +1,17 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Fasting]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Fast during the month of Ramadan
 ---
 
-link to [Fasting](docs/sidebar1/Initiatives/worship/Fasting.md)
+link to [Fasting](docs/sidebar1/Objective/worship/Fasting.md)
 
 And if you have any missed days, make them up before the next Ramadan.

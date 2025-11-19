@@ -1,14 +1,15 @@
 ---
 type: process
-initiative: []
+domain:
+- '[[Reliance]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: true
+status: ''
+detail: null
+sidebar_label: Supplicate in the blessed times
 ---
 
 Be sure to supplicate during the times that occur most often, as this will help you not miss valuable opportunities.

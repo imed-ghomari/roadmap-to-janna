@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Fasting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Fasting]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Fast special days
 ---
 
-link to [Fasting](Initiatives/worship/Fasting.md)
+link to [Fasting](Objective/worship/Fasting.md)
 
 * tasu'a
 * 3achura

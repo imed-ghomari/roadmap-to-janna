@@ -1,18 +1,19 @@
 ---
 type: process
-initiative:
-  - "[[Seeking the lawful]]"
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Seeking the lawful]]'
+- '[[Parenting]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Investigate suspicious matters
 ---
 
-Link to [Seeking the lawful](Initiatives/worship/Seeking%20the%20lawful.md) and [Parenting](Initiatives/worship/Parenting.md)
+Link to [Seeking the lawful](Objective/worship/Seeking%20the%20lawful.md) and [Parenting](Objective/worship/Parenting.md) 
 
 Whenever there's suspicion and only then, investigate the lawfulness of the matter before judging. For example, research food before consuming it or asking your local imam.
 

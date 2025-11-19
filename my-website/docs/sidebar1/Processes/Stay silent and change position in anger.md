@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Anger]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: '1.2'
-private: false
+status: ''
+detail: null
+sidebar_label: Stay silent and change position in anger
 ---
 
-Link to [Anger](docs/sidebar1/Initiatives/bad%20traits/Anger.md):
+Link to [Anger](docs/sidebar1/Objective/bad%20traits/Anger.md):
 
 **Recommended:**
 

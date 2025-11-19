@@ -3,9 +3,9 @@ type: process
 due: ""
 context:
 dependency:
-initiative:
+domain:
 recurrence: ""
 start: ""
-status: not working
+status:
 detail: false
 ---

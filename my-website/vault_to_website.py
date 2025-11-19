@@ -2,255 +2,338 @@ import os
 import shutil
 import yaml
 import re
-from collections import OrderedDict
+import fnmatch
+import hashlib
+import tempfile
+from collections import defaultdict
 
-# Load YAML frontmatter from a file
+# -------------------------
+# Basic helpers
+# -------------------------
 def load_frontmatter(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    if content.startswith("---"):
-        parts = content.split("---", 2)
-        frontmatter = yaml.safe_load(parts[1])
-        body = parts[2].strip()
-        return frontmatter, body
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        if content.startswith("---"):
+            parts = content.split("---", 2)
+            if len(parts) >= 3:
+                try:
+                    frontmatter = yaml.safe_load(parts[1])
+                    if isinstance(frontmatter, dict):
+                        body = parts[2].strip()
+                        return frontmatter, body
+                except yaml.YAMLError as e:
+                    print(f"YAML parse error in {file_path}: {e}")
+                    return None, None
+    except Exception as e:
+        print(f"Error reading {file_path}: {e}")
     return None, None
 
-# Write frontmatter and body back to a file
-def write_frontmatter(file_path, frontmatter, body):
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write("---\n")
-        yaml.dump(frontmatter, f, default_flow_style=False, sort_keys=False)
-        f.write("---\n\n")
-        f.write(body)
+# -------------------------
+# Atomic write + logging
+# -------------------------
+def atomic_write(file_path, content_bytes):
+    dest_dir = os.path.dirname(file_path)
+    os.makedirs(dest_dir, exist_ok=True)
+    fd, tmp_path = tempfile.mkstemp(prefix=".tmp_write_", dir=dest_dir)
+    try:
+        with os.fdopen(fd, 'wb') as tmpf:
+            tmpf.write(content_bytes)
+        os.replace(tmp_path, file_path)
+    except Exception as e:
+        try:
+            if os.path.exists(tmp_path):
+                os.remove(tmp_path)
+        except Exception:
+            pass
+        raise e
 
+def write_if_changed_atomic(file_path, frontmatter, body):
+    text = "---\n" + yaml.dump(frontmatter, default_flow_style=False, sort_keys=False) + "---\n\n" + body
+    content_bytes = text.encode('utf-8')
 
+    if os.path.exists(file_path):
+        try:
+            with open(file_path, 'rb') as f:
+                existing = f.read()
+            if existing == content_bytes:
+                print(f"[skip] identical: {file_path}")
+                return
+        except Exception as e:
+            print(f"[warn] couldn't open existing file {file_path} for compare: {e}")
 
-# Process frontmatter properties
-def process_frontmatter(frontmatter):
-    if "waiting" in frontmatter:
-        frontmatter["waiting"] = False
-    if "start" in frontmatter:
-        frontmatter["start"] = ""
-    if "due" in frontmatter:
-        frontmatter["due"] = ""
-    if "working" in frontmatter:
-        frontmatter["working"] = False
-    if "duration" in frontmatter:
-        frontmatter["duration"] = None
-    if "recurrence" in frontmatter:
-        frontmatter["recurrence"] = ""
-    if "review" in frontmatter:
-        frontmatter["review"] = ""
-    if "file" in frontmatter:
-        frontmatter["file"] = ""
-    if "context" in frontmatter:
-        frontmatter["context"] = ""
-    if "dependency" in frontmatter:
-        frontmatter["dependency"] = ""
-    if "step" in frontmatter:
-        frontmatter["step"] = ""
-    if "religious" in frontmatter:  # Remove the 'religious' property
-        del frontmatter["religious"]
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    atomic_write(file_path, content_bytes)
+    print(f"[write] {file_path}")
 
-    # Modify the 'initiative' property
-    if "initiative" in frontmatter:
-        initiatives = frontmatter["initiative"]
-        updated_initiatives = []
-        for initiative in initiatives:
-            # Use regex to extract the part after the '|' in each link
-            match = re.search(r"\|([^]]+)", initiative)
-            if match:
-                updated_initiatives.append(f"[[{match.group(1)}]]")
-        frontmatter["initiative"] = updated_initiatives
+# -------------------------
+# Transforms & Link Logic (The Fix is Here)
+# -------------------------
+def process_frontmatter(frontmatter, filename):
+    label = filename[:-3] if filename.endswith(".md") else filename
+    # Clean label for sidebar (remove .2, etc)
+    clean_label = re.sub(r'(?:\s*\(\d+\)|\.\d+|\s+\d+)$', '', label)
+    frontmatter["sidebar_label"] = clean_label
+
+    for f in ["start", "due", "recurrence", "context", "dependency"]:
+        if f in frontmatter:
+            frontmatter[f] = ""
+    for f in ["duration", "detail"]:
+        if f in frontmatter:
+            frontmatter[f] = None
+    for f in ["delay", "blocking", "outcome", "driver", "tracking", "religious"]:
+        if f in frontmatter:
+            del frontmatter[f]
+
+    if "status" in frontmatter:
+        if frontmatter.get("type") == "process":
+            frontmatter["status"] = ""
+        if frontmatter.get("type") == "domain":
+            frontmatter["status"] = "designed"
+
+    if "domain" in frontmatter:
+        domains = frontmatter["domain"]
+        if isinstance(domains, str):
+            domains = [domains]
+        cleaned = []
+        for d in domains:
+            m = re.search(r"\|([^]]+)", d)
+            if m:
+                cleaned.append(f"[[{m.group(1)}]]")
+            else:
+                cleaned.append(d)
+        frontmatter["domain"] = cleaned
 
     return frontmatter
 
+def transform_links(body, domain_mapping):
+    # 1. Helper to get the LOOKUP name (spaces, no suffixes)
+    def clean_link_target(fname):
+        # Decode %20 to space so we can find it in our dictionary
+        fname = os.path.basename(fname).replace("%20", " ")
+        if fname.endswith(".md"):
+            fname = fname[:-3]
+        # Normalize (remove .2, (1), etc) to match how we stored keys
+        fname = normalize_basename_for_grouping(fname) 
+        return fname
 
-# Transform links in the body
-def transform_links(body, initiative_mapping):
-    def replace_link_brackets(match):
-        filename = match.group(1)
-        filename = os.path.basename(filename).replace("%20", " ")
+    # 2. Helper to generate the URL path (ensuring %20 is used)
+    def get_new_path(clean_name):
+        # IMPORTANT: Re-encode spaces to %20 for the final URL string
+        url_name = clean_name.replace(" ", "%20")
         
-        if filename.endswith(".md"):
-            filename = filename[:-3]
-
-        if filename in initiative_mapping:
-            initiative_data = initiative_mapping[filename]
-            kr = initiative_data.get("KR", "")
-            if kr == "bad traits":
-                new_link = f"docs/sidebar1/Initiatives/bad%20traits/{filename.replace(' ', '%20')}.md"
-            elif kr == "good traits":
-                new_link = f"docs/sidebar1/Initiatives/good%20traits/{filename.replace(' ', '%20')}.md"
-            elif kr == "worship actions":
-                new_link = f"docs/sidebar1/Initiatives/worship/{filename.replace(' ', '%20')}.md"
+        if clean_name in domain_mapping:
+            obj = domain_mapping[clean_name].get("objective", "")
+            if obj == "remove bad traits":
+                # Note: bad%20traits is hardcoded, and we use url_name for the file
+                return f"docs/sidebar1/Objective/bad%20traits/{url_name}.md"
+            elif obj == "have good traits":
+                return f"docs/sidebar1/Objective/good%20traits/{url_name}.md"
+            elif obj == "worship well":
+                return f"docs/sidebar1/Objective/worship/{url_name}.md"
             else:
-                new_link = f"docs/sidebar1/Initiatives/{filename.replace(' ', '%20')}.md"
+                return f"docs/sidebar1/Objective/{url_name}.md"
         else:
-            new_link = f"docs/sidebar1/Processes/{filename.replace(' ', '%20')}.md"
-        return f"[{filename}]({new_link})"
+            return f"docs/sidebar1/Processes/{url_name}.md"
 
-    def replace_link_markdown(match):
+    def bracket(match):
+        raw_name = match.group(1)
+        clean_name = clean_link_target(raw_name)
+        new_path = get_new_path(clean_name)
+        return f"[{clean_name}]({new_path})"
+
+    def markdown(match):
         text, link = match.groups()
-        filename = os.path.basename(link).replace("%20", " ")
-        
-        if filename.endswith(".md"):
-            filename = filename[:-3]
+        clean_name = clean_link_target(link)
+        new_path = get_new_path(clean_name)
+        return f"[{text}]({new_path})"
 
-        if filename in initiative_mapping:
-            initiative_data = initiative_mapping[filename]
-            kr = initiative_data.get("KR", "")
-            if kr == "bad traits":
-                new_link = f"docs/sidebar1/Initiatives/bad%20traits/{filename.replace(' ', '%20')}.md"
-            elif kr == "good traits":
-                new_link = f"docs/sidebar1/Initiatives/good%20traits/{filename.replace(' ', '%20')}.md"
-            elif kr == "worship actions":
-                new_link = f"docs/sidebar1/Initiatives/worship/{filename.replace(' ', '%20')}.md"
-            else:
-                new_link = f"docs/sidebar1/Initiatives/{filename.replace(' ', '%20')}.md"
-        else:
-            new_link = f"docs/sidebar1/Processes/{filename.replace(' ', '%20')}.md"
-        return f"[{text}]({new_link})"
-
-    # Process Markdown-style links [text](link) but exclude web links
-    body = re.sub(r'\[([^\]]+)\]\((?!http[s]?:)([^)]+)\)', replace_link_markdown, body)
-
-    # Process Obsidian-style links [[filename]] but exclude web links
-    body = re.sub(r'\[\[([^\]]+)\]\](?!http[s]?:)', replace_link_brackets, body)
-
+    # Regex replacers
+    body = re.sub(r"\[([^\]]+)\]\((?!http)([^)]+)\)", markdown, body)
+    body = re.sub(r"\[\[([^\]]+)\]\]", bracket, body)
     return body
 
-# Convert Obsidian-style callouts to Docusaurus-style
-def convert_obsidian_to_docusaurus(content):
-    lines = content.splitlines()
+def convert_obsidian_to_docusaurus(text):
+    lines = text.splitlines()
     result = []
-    in_callout, callout_type, callout_body = False, None, []
+    in_callout = False
+    callout_type = None
+    callout_body = []
 
     for line in lines:
         if line.startswith("> [!"):
             if in_callout:
-                # Join all lines and add the callout properly with formatted body
                 result.append(f":::{callout_type} {callout_body[0]}")
-                result.append("\n".join(callout_body[1:]).strip())  # Preserve line breaks
+                result.append("\n".join(callout_body[1:]))
                 result.append(":::")
             in_callout = True
-            callout_type = line[4:line.find(']')]
-            callout_body = [line[line.find(']')+1:].strip()]
+            callout_type = line[4:line.find("]")]
+            callout_body = [line[line.find("]") + 1:].strip()]
         elif in_callout:
-            if line.startswith(">"):  # Continuation of callout
-                callout_body.append(line[2:].strip())  # Add subsequent lines to body
+            if line.startswith(">"):
+                callout_body.append(line[2:].strip())
             else:
-                # End the current callout and append to the result
                 result.append(f":::{callout_type} {callout_body[0]}")
-                result.append("\n".join(callout_body[1:]).strip())  # Add multi-line content correctly
+                result.append("\n".join(callout_body[1:]))
                 result.append(":::")
                 in_callout = False
-                result.append(line)  # Add non-callout line to result
+                result.append(line)
         else:
             result.append(line)
 
-    if in_callout:  # Handle the case when the last callout doesn't have a non-callout line
+    if in_callout:
         result.append(f":::{callout_type} {callout_body[0]}")
-        result.append("\n".join(callout_body[1:]).strip())
+        result.append("\n".join(callout_body[1:]))
         result.append(":::")
 
     return "\n".join(result)
 
-# Function to remove content after "# private"
 def remove_private_section(content):
-    private_section_index = content.find("# private")
-    if private_section_index != -1:
-        content = content[:private_section_index].strip()
+    idx = content.find("# private")
+    if idx != -1:
+        return content[:idx].strip()
     return content
 
-# Process markdown files in a folder
-def process_files(folder_path):
-    for root, _, files in os.walk(folder_path):
-        for file in files:
-            file_path = os.path.join(root, file)
-            if file.endswith(".md"):
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                content = convert_obsidian_to_docusaurus(content)
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    f.write(content)
+# -------------------------
+# Normalization & Main Logic
+# -------------------------
+_suffix_re = re.compile(r'(?:\s*\(\d+\)|\.\d+|\s+\d+| - Copy(?: \(\d+\))?)$')
 
-# Copy and process files
+def normalize_basename_for_grouping(filename):
+    if filename.lower().endswith(".md"):
+        stem = filename[:-3]
+    else:
+        stem = filename
+    
+    prev = None
+    while prev != stem:
+        prev = stem
+        stem = _suffix_re.sub("", stem)
+    
+    return stem.strip()
+
 def copy_and_process_files(source_folders, destination_folders):
-    initiative_mapping = {}
+    vault = source_folders["vault"]
 
-    for root, _, files in os.walk(source_folders['initiatives']):
-        for file in files:
-            file_path = os.path.join(root, file)
-            if file.endswith(".md"):
-                frontmatter, _ = load_frontmatter(file_path)
-                if not frontmatter:
-                    continue
-                if frontmatter.get("type") == "initiative" and frontmatter.get("religious") == True:
-                    initiative_mapping[file[:-3]] = frontmatter
+    # 1. Build Mapping
+    domain_mapping = {}
+    for root, dirs, files in os.walk(vault):
+        for f in files:
+            if not f.endswith(".md"):
+                continue
+            fp = os.path.join(root, f)
+            fm, _ = load_frontmatter(fp)
+            if fm and fm.get("type") == "domain":
+                norm_name = normalize_basename_for_grouping(f)
+                domain_mapping[norm_name] = fm
 
-    for root, _, files in os.walk(source_folders['initiatives']):
-        for file in files:
-            file_path = os.path.join(root, file)
-            if file.endswith(".md"):
-                frontmatter, body = load_frontmatter(file_path)
-                if not frontmatter:
-                    continue
-                kr = frontmatter.get("KR", "")
-                if kr == "bad traits":
-                    destination = os.path.join(destination_folders['bad_traits'], file)
-                elif kr == "good traits":
-                    destination = os.path.join(destination_folders['good_traits'], file)
-                elif kr == "worship actions":
-                    destination = os.path.join(destination_folders['worship_actions'], file)
-                else:
-                    continue
-                body = transform_links(body, initiative_mapping)
-                body = convert_obsidian_to_docusaurus(body)
-                body = remove_private_section(body)
-                frontmatter = process_frontmatter(frontmatter)
-                write_frontmatter(destination, frontmatter, body)
+    # 2. Collect Candidates
+    domain_candidates = defaultdict(list)
+    process_candidates = defaultdict(list)
 
-    # Process files in the 'processes' folder
-    for root, _, files in os.walk(source_folders['processes']):
-        for file in files:
-            file_path = os.path.join(root, file)
-            if file.endswith(".md"):
-                frontmatter, body = load_frontmatter(file_path)
-                if not frontmatter:
-                    print(f"Skipping file without valid frontmatter: {file}")
-                    continue
+    def has_religious(front):
+        if "domain" not in front: return False
+        ds = front["domain"]
+        if isinstance(ds, str): ds = [ds]
+        for d in ds:
+            m = re.search(r"\|([^]]+)", d)
+            if not m: m = re.search(r"\[\[([^]]+)\]\]", d)
+            name = m.group(1) if m else d.replace("[[", "").replace("]]", "")
+            norm_ref = normalize_basename_for_grouping(name)
+            if norm_ref in domain_mapping and domain_mapping[norm_ref].get("religious"):
+                return True
+        return False
 
-                destination = os.path.join(destination_folders['processes'], file)
-                print(f"Processing process file: {file}")
+    for root, dirs, files in os.walk(vault):
+        for f in files:
+            if not f.endswith(".md"): continue
+            fp = os.path.join(root, f)
+            fm, body = load_frontmatter(fp)
+            if not fm: continue
+            
+            mtime = os.path.getmtime(fp)
+            norm_name = normalize_basename_for_grouping(f)
 
-                # Transformations
-                body = transform_links(body, initiative_mapping)
-                body = remove_private_section(body)
-                body = convert_obsidian_to_docusaurus(body)
-                frontmatter = process_frontmatter(frontmatter)
-                write_frontmatter(destination, frontmatter, body)
+            if fm.get("type") == "domain":
+                obj = fm.get("objective", "")
+                if obj in ("remove bad traits", "have good traits", "worship well"):
+                    domain_candidates[norm_name].append((fp, mtime, f, obj))
+            elif fm.get("type") == "process":
+                if has_religious(fm):
+                    if not any(existing_fp == fp for (existing_fp, _, _, _) in process_candidates[norm_name]):
+                        process_candidates[norm_name].append((fp, mtime, f, None))
 
+    # 3. Select Best Candidates
+    final_domains = {}
+    for norm, lst in domain_candidates.items():
+        final_domains[norm] = max(lst, key=lambda x: x[1])
 
-def main():
-    # Define source and destination folders explicitly
-    source_folders = {
-        'initiatives': "/Users/imedgh/Desktop/vault/Initiatives",
-        'processes': "/Users/imedgh/Desktop/vault/Processes"
-    }
-    destination_folders = {
-        'processes': "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Processes",
-        'bad_traits': "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Initiatives/bad traits",
-        'good_traits': "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Initiatives/good traits",
-        'worship_actions': "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Initiatives/worship"
-    }
+    final_processes = {}
+    for norm, lst in process_candidates.items():
+        final_processes[norm] = max(lst, key=lambda x: x[1])
 
-    # Ensure destination folders exist or create them
+    # 4. Clean Dests
     for folder in destination_folders.values():
-        os.makedirs(folder, exist_ok=True)  # Allow existing directories
+        if os.path.exists(folder): shutil.rmtree(folder)
+        os.makedirs(folder, exist_ok=True)
 
-    # Process files
-    copy_and_process_files(source_folders, destination_folders)
+    written_records = defaultdict(dict)
+
+    # 5. Write
+    for norm_name, (src_path, mtime, orig_name, objective) in final_domains.items():
+        fm, body = load_frontmatter(src_path)
+        if not fm: continue
+
+        if objective == "remove bad traits": dest_folder = destination_folders["bad_traits"]
+        elif objective == "have good traits": dest_folder = destination_folders["good_traits"]
+        elif objective == "worship well": dest_folder = destination_folders["worship_actions"]
+        else: continue
+
+        dest_filename = norm_name + ".md"
+        dest_path = os.path.join(dest_folder, dest_filename)
+
+        body = transform_links(body, domain_mapping)
+        body = convert_obsidian_to_docusaurus(body)
+        body = remove_private_section(body)
+        fm = process_frontmatter(fm, dest_filename)
+
+        write_if_changed_atomic(dest_path, fm, body)
+        written_records[dest_folder][dest_filename] = (src_path, mtime)
+
+    for norm_name, (src_path, mtime, orig_name, _) in final_processes.items():
+        fm, body = load_frontmatter(src_path)
+        if not fm: continue
+
+        dest_folder = destination_folders["processes"]
+        dest_filename = norm_name + ".md"
+        dest_path = os.path.join(dest_folder, dest_filename)
+
+        body = transform_links(body, domain_mapping)
+        body = convert_obsidian_to_docusaurus(body)
+        body = remove_private_section(body)
+        fm = process_frontmatter(fm, dest_filename)
+
+        write_if_changed_atomic(dest_path, fm, body)
+        written_records[dest_folder][dest_filename] = (src_path, mtime)
+
+    print("\n[summary] Processing complete.")
+    print(f"Processed {len(written_records)} folders.")
+
+# -------------------------
+# Config
+# -------------------------
+def main():
+    source = {
+        "vault": "/Users/imedgh/Desktop/vault/"
+    }
+    dest = {
+        "processes": "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Processes",
+        "bad_traits": "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Objective/bad traits",
+        "good_traits": "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Objective/good traits",
+        "worship_actions": "/Users/imedgh/Documents/roadmap-to-janna/my-website/docs/sidebar1/Objective/worship"
+    }
+
+    copy_and_process_files(source, dest)
 
 if __name__ == "__main__":
     main()

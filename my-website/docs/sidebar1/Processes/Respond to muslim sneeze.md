@@ -1,15 +1,15 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Upholding the right of muslims]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Respond to muslim sneeze
 ---
 
-Link to [Upholding the right of muslims](docs/sidebar1/Initiatives/worship/Upholding%20the%20right%20of%20muslims.md)
+Link to [Upholding the right of muslims](docs/sidebar1/Objective/worship/Upholding%20the%20right%20of%20muslims.md)

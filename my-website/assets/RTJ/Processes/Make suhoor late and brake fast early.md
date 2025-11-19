@@ -1,14 +1,15 @@
 ---
 type: process
-initiative:
-  - "[[Fasting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Fasting]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Make suhoor late and brake fast early
 ---
 
-Link to [Fasting](Initiatives/worship/Fasting.md): break with light food so you can wake up easily to pray tahajjud
+Link to [Fasting](Objective/worship/Fasting.md): break with light food so you can wake up easily to pray tahajjud

@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: true
+domain:
+- '[[Parenting]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Teach and nurture
 ---
 
-Link to [Parenting](Initiatives/worship/Parenting.md)
+Link to [Parenting](Objective/worship/Parenting.md)
 
 **Religious Education:**
 
@@ -38,4 +39,3 @@ Link to [Parenting](Initiatives/worship/Parenting.md)
 > 
 > Teach children both religious knowledge (faith, worship, beliefs) and life skills (productivity, self-sufficiency, decision-making).
 > 
-

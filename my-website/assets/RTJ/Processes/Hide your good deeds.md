@@ -1,23 +1,24 @@
 ---
 type: process
-initiative:
-  - "[[Patience]]"
-  - "[[Love of status and ostentation]]"
-  - "[[Asceticism]]"
-  - "[[Praying]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Patience]]'
+- '[[Love of status and ostentation]]'
+- '[[Asceticism]]'
+- '[[Praying]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Hide your good deeds
 ---
 
-* Link to [Patience](Initiatives/good%20traits/Patience.md): This refers to practicing patience after worship.
-* Link to [Love of status and ostentation](Initiatives/bad%20traits/Love%20of%20status%20and%20ostentation.md): Conceal your good deeds and accomplishments from others, just as you would hide your wrongdoings. An example is enhancing your physical appearance to conceal that you have been fasting or worshipping extensively. This helps you stay focused on your worship and avoid seeking recognition. And don't expect others to treat you with respect based on your secret good deeds.
-* Link to [Asceticism](Initiatives/good%20traits/Asceticism.md): Abstain from seeking status, just as you would abstain from wealth.
-* Link to [Praying](Initiatives/worship/Praying.md): For voluntary prayers, pray in seclusion as much as possible, and for obligatory prayers, pray in congregation.
+* Link to [Patience](Objective/good%20traits/Patience.md): This refers to practicing patience after worship.
+* Link to [Love of status and ostentation](Objective/bad%20traits/Love%20of%20status%20and%20ostentation.md): Conceal your good deeds and accomplishments from others, just as you would hide your wrongdoings. An example is enhancing your physical appearance to conceal that you have been fasting or worshipping extensively. This helps you stay focused on your worship and avoid seeking recognition. And don't expect others to treat you with respect based on your secret good deeds.
+* Link to [Asceticism](Objective/good%20traits/Asceticism.md): Abstain from seeking status, just as you would abstain from wealth.
+* Link to [Praying](Objective/worship/Praying.md): For voluntary prayers, pray in seclusion as much as possible, and for obligatory prayers, pray in congregation.
 
 > You can show good deeds to inspire others.
 
@@ -26,4 +27,3 @@ detail: false
 > 
 > Keep your good deeds private to avoid becoming arrogant, and share them only to set an example, nothing else.
 > 
-

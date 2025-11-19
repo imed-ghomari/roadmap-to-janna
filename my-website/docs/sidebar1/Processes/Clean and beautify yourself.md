@@ -1,17 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Asceticism]]'
 - '[[Following the sunnah]]'
+- '[[health management]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: true
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Clean and beautify yourself
 ---
 
-* [Asceticism](docs/sidebar1/Initiatives/good%20traits/Asceticism.md): don't forget to take care of yourself even beyond the minimum to make yourself presentable and clean, for god is beautiful, and He loves beauty
-* [Following the sunnah](docs/sidebar1/Initiatives/worship/Following%20the%20sunnah.md): he used to clip nails in a certain order and try to shower using his method (right side then left side)
+* [Asceticism](docs/sidebar1/Objective/good%20traits/Asceticism.md): don't forget to take care of yourself even beyond the minimum to make yourself presentable and clean, for god is beautiful, and He loves beauty
+* [Following the sunnah](docs/sidebar1/Objective/worship/Following%20the%20sunnah.md): he used to clip nails in a certain order and try to shower using his method (right side then left side)

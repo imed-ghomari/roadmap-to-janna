@@ -1,15 +1,15 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Envy]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Help people who you envy
 ---
 
-Link to [Envy](docs/sidebar1/Initiatives/bad%20traits/Envy.md): Help people who are more blessed, be humble with them, praise them, and feel joy for them (if you can't help them physically, pray for them).
+Link to [Envy](docs/sidebar1/Objective/bad%20traits/Envy.md): Help people who are more blessed, be humble with them, praise them, and feel joy for them (if you can't help them physically, pray for them).

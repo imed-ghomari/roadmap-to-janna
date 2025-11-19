@@ -1,18 +1,18 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Reliance]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: true
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Supplicate with predecessors' supplications
 ---
 
-Link to [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
+Link to [Reliance](docs/sidebar1/Objective/good%20traits/Reliance.md)
 
 Here are some supplications from our predecessor as inspirations:
 

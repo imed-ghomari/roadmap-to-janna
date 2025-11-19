@@ -1,18 +1,19 @@
 ---
 type: process
-initiative:
-  - "[[Upholding the right of muslims]]"
-  - "[[Following the sunnah]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Upholding the right of muslims]]'
+- '[[Following the sunnah]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Call, visit and care for the sick
 ---
 
-Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md) and [Following the sunnah](Initiatives/worship/Following%20the%20sunnah.md)
+Link to [Upholding the right of muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md) and [Following the sunnah](Objective/worship/Following%20the%20sunnah.md)
 
 * If a family member with whom you have a close relationship (silat Rahim) has recently become sick, call them. If they live nearby, visit them.
 * Donate blood every 3 months.

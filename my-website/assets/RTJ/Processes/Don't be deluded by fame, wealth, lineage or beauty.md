@@ -1,15 +1,17 @@
 ---
 type: process
-initiative:
-  - "[[Love of status and ostentation]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Love of status and ostentation]]'
+- '[[Pride and self admiration and humility]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Don't be deluded by fame, wealth, lineage or beauty
 ---
 
-* Link to [Pride and self admiration and humility](Initiatives/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): Detach your self-worth from temporary worldly blessings, and don't compare yourself to others, thinking you deserve their blessings. This can be exemplified by not oversharing your good traits or accomplishments.
-* Link to [Love of status and ostentation](Initiatives/bad%20traits/Love%20of%20status%20and%20ostentation.md): Don't mistake having high status with god as possessing worldly possessions; this status is determined by your closeness to god.
+* Link to [Pride and self admiration and humility](Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): Detach your self-worth from temporary worldly blessings, and don't compare yourself to others, thinking you deserve their blessings. This can be exemplified by not oversharing your good traits or accomplishments.
+* Link to [Love of status and ostentation](Objective/bad%20traits/Love%20of%20status%20and%20ostentation.md): Don'ith god as possessing worldly possessions; this status is determined by your closeness to god.

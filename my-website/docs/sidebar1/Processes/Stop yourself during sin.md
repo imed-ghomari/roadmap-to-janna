@@ -1,6 +1,6 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Repentance]]'
 - '[[Gluttony and lust]]'
 due: ''
@@ -8,12 +8,12 @@ recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: '1.1'
-private: false
+status: ''
+detail: null
+sidebar_label: Stop yourself during sin
 ---
 
-Linked to **[Repentance](docs/sidebar1/Initiatives/good%20traits/Repentance.md):**
+Linked to **[Repentance](docs/sidebar1/Objective/good%20traits/Repentance.md):**
 
 This is a critical step of repentance to be taken when you're about to commit a sin or during a sin. It focuses on the present moment and involves:
 

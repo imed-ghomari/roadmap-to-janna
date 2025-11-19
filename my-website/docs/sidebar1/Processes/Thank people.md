@@ -1,17 +1,17 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Gratitude]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Thank people
 ---
 
-Link to [Gratitude](docs/sidebar1/Initiatives/good%20traits/Gratitude.md)
+Link to [Gratitude](docs/sidebar1/Objective/good%20traits/Gratitude.md)
 
 Gratitude of the tongue through thanking people for material and immaterial blessings directly or just by describing their blessing.

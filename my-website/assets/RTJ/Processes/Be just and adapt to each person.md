@@ -1,23 +1,24 @@
 ---
 type: process
-initiative:
-  - "[[Upholding the right of muslims]]"
-  - "[[Remembering death]]"
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Upholding the right of muslims]]'
+- '[[Remembering death]]'
+- '[[Parenting]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Be just and adapt to each person
 ---
 
-* Link to [Upholding the right of muslims](Initiatives/worship/Upholding%20the%20right%20of%20muslims.md):
+* Link to [Upholding the right of muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md):
 	* As a leader in your family, at work, or in the community, practice justice and treat people equally.
 	* Respect the elderly and be compassionate to children.
-* Link to [Remembering death](Initiatives/good%20traits/Remembering%20death.md): Practice justice, even towards yourself and those you dislike, to be in the shade of God on the day of judgment.
-* Link to [Parenting](Initiatives/worship/Parenting.md):
+* Link to [Remembering death](Objective/good%20traits/Remembering%20death.md): Practice justice, even towards yourself and those you dislike, to be in the shade of God on the day of judgment.
+* Link to [Parenting](Objective/worship/Parenting.md):
 	* Avoid comparing children
 	* Avoid favoritism and be just in distributing gifts, attention, discipline, and privileges among your children. For example, spend time with all equally.
 	* Recognize individual differences: Each child has a unique personality and will respond differently to your parenting style.
@@ -36,4 +37,3 @@ Major injustices include:
 > 
 > Practice justice and equality in your roles as leader, spouse, and parent. Recognize individual differences and treat others fairly.
 > 
-

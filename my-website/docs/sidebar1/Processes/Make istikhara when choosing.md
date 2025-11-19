@@ -1,6 +1,6 @@
 ---
 type: process
-initiative:
+domain:
 - '[[Praying]]'
 - '[[Reliance]]'
 due: ''
@@ -8,12 +8,12 @@ recurrence: ''
 start: ''
 context: ''
 dependency: ''
-delay: false
-status: working
-private: false
+status: ''
+detail: null
+sidebar_label: Make istikhara when choosing
 ---
 
-Link to [Praying](docs/sidebar1/Initiatives/worship/Praying.md) and [Reliance](docs/sidebar1/Initiatives/good%20traits/Reliance.md)
+Link to [Praying](docs/sidebar1/Objective/worship/Praying.md) and [Reliance](docs/sidebar1/Objective/good%20traits/Reliance.md)
 
 The steps for istikhara are:
 

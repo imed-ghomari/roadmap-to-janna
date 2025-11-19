@@ -1,16 +1,17 @@
 ---
 type: process
-initiative:
-  - "[[Sincerity and truthfulness]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status: not working
-detail: false
+domain:
+- '[[Sincerity and truthfulness]]'
+due: ''
+recurrence: ''
+start: ''
+context: ''
+dependency: ''
+status: ''
+detail: null
+sidebar_label: Have multiple intentions in voluntary worship acts
 ---
 
-Link to [Sincerity and truthfulness](Initiatives/good%20traits/Sincerity%20and%20truthfulness.md)
+Link to [Sincerity and truthfulness](Objective/good%20traits/Sincerity%20and%20truthfulness.md)
 
 In voluntary prayers and fasting, have multiple good intentions while doing one supplementary thing to have more rewards

@@ -1,6 +1,5 @@
 > [!info] Considerations
 > 
-> 
 > * The terms **process** and **habit** are used interchangeably here, but they mean the same thing.
 > * The Tiny Habits Model heavily inspired the framework.
 > 
@@ -25,7 +24,6 @@ A prompt reminds you to perform the process, and different prompts serve distinc
 
 > [!tip] third type
 > 
-> 
 > If you want to reduce reliance on context prompts but can't find an action to anchor the habit to, use an intermediary prompt type—a short-term reminder. Most task managers allow you to set repeating reminders based on days or frequency. Use these reminders temporarily to train yourself to remember the habit. After that period, the reminders can be turned off, and you'll have successfully created an anchor-based habit.
 > 
 
@@ -46,7 +44,6 @@ There are different types of processes based on the prompt type:
     3. If you can't, focus on the _starter step_—the smallest, simplest action that sets the behavior in motion. The goal is to take the tiniest possible step that brings you closer to the desired outcome.
 
 > [!tip] Remember this when choosing an action:
-> 
 > 
 > * You aim to make it easy, so choosing a motivating but initially challenging task is acceptable.
 > * The ease of the action changes over time as your brain adapts to the behavior.
@@ -70,7 +67,6 @@ In this context, "behavior change" refers to altering existing negative behavior
     * Adjust until you find a suitable replacement behavior that disrupts the bad habit.
 
 > [!info] OR/AND
-> 
 > 
 > Try each method independently or combine them if that works better for you.
 > 
