@@ -2,18 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imed-ghomari.github.io/roadmap-to-janna/blog</id>
     <title>Roadmap to Janna Blog</title>
-    <updated>2025-08-22T00:00:00.000Z</updated>
+    <updated>2025-11-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imed-ghomari.github.io/roadmap-to-janna/blog"/>
     <subtitle>Roadmap to Janna Blog</subtitle>
     <icon>https://imed-ghomari.github.io/roadmap-to-janna/img/countryside.png</icon>
     <entry>
-        <title type="html"><![CDATA[August update]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/August update</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/August update"/>
+        <title type="html"><![CDATA[Vision Layer and Reverse Goal Setting]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Vision Layer and Reverse Goal Setting</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Vision Layer and Reverse Goal Setting"/>
+        <updated>2025-11-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Additions]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Vision%20Layer%20and%20Reverse%20Goal%20Setting#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+<ul>
+<li>Introduced the "Vision" layer to the top of the hierarchy to explicitly state the ultimate goal (Janna) that drives all subsequent actions.</li>
+<li>Adopted a "Reverse Goal Setting" framework to better align the system with spiritual aspirations rather than corporate productivity metrics.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Vision%20Layer%20and%20Reverse%20Goal%20Setting#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<ul>
+<li><strong>System Overhaul</strong>: Transitioned from the OKR (Objectives, Key Results, Initiatives) framework to a Vision-based structure (Vision, Objectives, Domains).<!-- -->
+<ul>
+<li><strong>Objectives</strong> now refer to the high-level milestones (previously Key Results).</li>
+<li><strong>Domains</strong> now refer to the specific areas of responsibility (previously Initiatives).</li>
+</ul>
+</li>
+<li>Updated the "Getting Started" and "Obsidian Implementation" guides to reflect the new terminology and structure.</li>
+<li>Renamed the <code>Initiatives</code> folder to <code>Objective</code> to match the new hierarchy.</li>
+<li>Added link in stinginess domain to the spending process</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Vision%20Layer%20and%20Reverse%20Goal%20Setting#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<ul>
+<li>Removed OKR-specific terminology (Key Results, Initiatives) to simplify the mental model and reduce corporate jargon.</li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refining Social and Spiritual Conduct]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Refining Social and Spiritual Conduct</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Refining Social and Spiritual Conduct"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Additions]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/August%20update#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Refining%20Social%20and%20Spiritual%20Conduct#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
 <ul>
 <li>Included prohibition of joking about religion.</li>
 <li>Added mention of death in conversation as a way to remind of mortality.</li>
@@ -23,7 +51,7 @@
 <li>Recognized that there can be situations of differing opinions on important topics where no one is directly involved, and added an action to address that.</li>
 <li>Included the prohibition of fantasizing to prevent lusts.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/August%20update#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Refining%20Social%20and%20Spiritual%20Conduct#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
 <ul>
 <li>Better explained the reason behind "false hope of pardon" in the "Overcoming the Habit of Sin" section.</li>
 <li>Clarified how to expiate sins in the "regret and prevent after committing a sin" process.</li>
@@ -35,46 +63,46 @@
 <li>Renamed the process "pride and lesser blessings" to "don't be deluded by fame, wealth, lineage, or beauty" to remove ambiguity.</li>
 <li>Linked the "regret" part of repentance to the fear before the sin to clarify when each state should be practiced.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/August%20update#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Refining%20Social%20and%20Spiritual%20Conduct#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
 <ul>
 <li>Removed the process "pride and better blessings" and combined it with "don't consider yourself pious or more pious than anyone" because they essentially describe the same action.</li>
 <li>Removed the process “lower your gaze” and merged it with “guarding your eyes and ears.”</li>
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[februrary update]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/februrary update</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/februrary update"/>
+        <title type="html"><![CDATA[Nuances of Sincerity and Reliance]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Nuances of Sincerity and Reliance</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Nuances of Sincerity and Reliance"/>
         <updated>2025-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Additions]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/februrary%20update#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Nuances%20of%20Sincerity%20and%20Reliance#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
 <ul>
 <li>Included a section on hypocrisy in the sincerity initiative.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/februrary%20update#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Nuances%20of%20Sincerity%20and%20Reliance#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
 <ul>
 <li>Introduced the concept of minimising waste to the gratitude of limbs section.</li>
 <li>Linked the idea of concealing others' faults to the initiative of commanding good and forbidding evil.</li>
 <li>Incorporated the action of not worrying into the reliance initiative.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/februrary%20update#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Nuances%20of%20Sincerity%20and%20Reliance#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
 <ul>
 <li>Removed the term "self-confidence" from the "advice to women" section in managing the spouse initiative and replaced it with more accurate terminology.</li>
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[January update]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/January update</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January update"/>
+        <title type="html"><![CDATA[Taqwa Model and Waiting Logic]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Taqwa Model and Waiting Logic</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Taqwa Model and Waiting Logic"/>
         <updated>2025-01-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Additions]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January%20update#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Taqwa%20Model%20and%20Waiting%20Logic#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
 <ul>
 <li>A new, more straightforward method for applying the system was added.</li>
 <li>Included the system's limitations and how to overcome them in "Getting Started."</li>
 <li>Another essential process related to properly using blessings was added: "Guarding Your Eyes and Ears."</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January%20update#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Taqwa%20Model%20and%20Waiting%20Logic#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
 <ul>
 <li>Added more details on how to learn the Quran based on personal experience.</li>
 <li>Changed the vault links to include a "repeat icon" for recurring processes, enhancing visualization.</li>
@@ -92,23 +120,23 @@
 <li>Updated specific properties in the downloadable vault to align with the merged initiatives and improve the accuracy of the performance graphs.</li>
 <li>Highlighted the need to take precautions in the "fear of misguidance" process, as it constitutes the resulting action of fear.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/January%20update#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Taqwa%20Model%20and%20Waiting%20Logic#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
 <ul>
 <li>Removed the segment regarding excluding supplication in the "reliance" initiative to eliminate confusion.</li>
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[December update]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/December update</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December update"/>
+        <title type="html"><![CDATA[Performance Logic and Process Consolidation]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Performance Logic and Process Consolidation</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Performance Logic and Process Consolidation"/>
         <updated>2024-12-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Additions]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December%20update#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Performance%20Logic%20and%20Process%20Consolidation#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
 <ul>
 <li>Added a new process for supplicating during blessed times.</li>
 <li>Added the Arabic version of the dhikr that we should recite at the end of the gathering to the process "Speak Purposefully or Maintain Silence."</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December%20update#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Performance%20Logic%20and%20Process%20Consolidation#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
 <ul>
 <li>Merged two processes that discussed praise into one.</li>
 <li>Added mention of the review tab in the "review initiatives and processes" process.</li>
@@ -123,7 +151,7 @@
 <li>Files with future start dates will appear in the waiting section, even if the waiting property is unchecked.</li>
 <li>Performance scripts have been updated to exclude waiting processes and initiatives effectively.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/December%20update#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Performance%20Logic%20and%20Process%20Consolidation#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
 <ul>
 <li>Removed the "charity in health and youth" process and added it to the "give happily" process as a note.</li>
 <li>Removed the "situational reactions" process as it was too vague; most of its content is included in the "accepting accusations" process.</li>
@@ -132,30 +160,30 @@
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[November update]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/November update</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November update"/>
+        <title type="html"><![CDATA[Structural Fixes and Refinements]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Structural Fixes and Refinements</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Structural Fixes and Refinements"/>
         <updated>2024-11-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Additions]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November%20update#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additions">Additions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Structural%20Fixes%20and%20Refinements#additions" class="hash-link" aria-label="Direct link to Additions" title="Direct link to Additions">​</a></h2>
 <ul>
 <li>Added action details to "lower the gaze" process</li>
 <li>Added performance image example to getting started</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November%20update#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Structural%20Fixes%20and%20Refinements#changes" class="hash-link" aria-label="Direct link to Changes" title="Direct link to Changes">​</a></h2>
 <ul>
 <li>Removed some errors and improved writing</li>
 <li>Moved "Pride and self admiration and humility" to bad traits folder, which was wrongfully placed elsewhere</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/November%20update#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="deletions">Deletions<a href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Structural%20Fixes%20and%20Refinements#deletions" class="hash-link" aria-label="Direct link to Deletions" title="Direct link to Deletions">​</a></h2>
 <ul>
 <li>Removed mention of baseless assumptions in "avoiding harmful speech" process documentation because it already has its own process</li>
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First releases]]></title>
-        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/First releases</id>
-        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/First releases"/>
+        <title type="html"><![CDATA[Initial Release]]></title>
+        <id>https://imed-ghomari.github.io/roadmap-to-janna/blog/Initial Release</id>
+        <link href="https://imed-ghomari.github.io/roadmap-to-janna/blog/Initial Release"/>
         <updated>2024-11-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the first release of Roadmap to Janna. I hope it will be as beneficial for you as it has been for me, or even more.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to the first release of <em>Roadmap to Janna</em>. I hope it will be as beneficial for you as it has been for me, or even more.</p>
