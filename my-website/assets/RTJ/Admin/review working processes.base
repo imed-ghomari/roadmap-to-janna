@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "process"
+        - recurrence.isEmpty()
+        - file.path.contains("domains")
+        - status == "working"
+    order:
+      - status
+      - file.name
+      - behavior
+    sort:
+      - property: behavior
+        direction: ASC
+      - property: detail
+        direction: ASC

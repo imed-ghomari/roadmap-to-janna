@@ -24,7 +24,6 @@ sidebar_label: Love playfully and support
 
 :::tip summary
 
-
 Nurture your family relationships by expressing love and kindness. Offer support and comfort to your spouse and children. Engage in activities and provide balanced discipline with your children.
 
 :::

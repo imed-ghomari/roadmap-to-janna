@@ -38,7 +38,7 @@ First, you need to understand the key file type used in this vault to understand
 	* Overdue projects and processes;
 	* Projects scheduled between today and next month;
 	* Processes due today.
-5. **Performance**: see the “checking progress” section below for more details.
+5. **Performance**: see the "checking progress" section below for more details.
 
 ### Properties and Task Management
 

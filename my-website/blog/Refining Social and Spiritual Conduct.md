@@ -29,4 +29,4 @@ date: 2025-08-22
 ## Deletions
 
 * Removed the process "pride and better blessings" and combined it with "don't consider yourself pious or more pious than anyone" because they essentially describe the same action.
-* Removed the process “lower your gaze” and merged it with “guarding your eyes and ears.”
+* Removed the process "lower your gaze" and merged it with "guarding your eyes and ears."

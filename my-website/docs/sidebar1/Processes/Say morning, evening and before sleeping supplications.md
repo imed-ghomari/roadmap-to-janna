@@ -24,7 +24,6 @@ sidebar_label: Say morning, evening and before sleeping supplications
 
 :::tip Summary
 
-
 Focus on each of your daily _adhkar_ to nurture and sustain good traits throughout the day.
 
 :::

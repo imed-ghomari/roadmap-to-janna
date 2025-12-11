@@ -14,13 +14,13 @@ sidebar_label: Supplicate with the right names
 
 Link to [Reliance](docs/sidebar1/Objective/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.
 
-# Seeking Guidance and Clarity
+## Seeking Guidance and Clarity
 
-- **Questions**:
-	- Am I making important life decisions?
-	- Am I navigating confusion in faith or personal matters?
-- **Situations**:
-	- **Knowledge and Wisdom**: Seeking understanding and clarity.
+* **Questions**:
+	* Am I making important life decisions?
+	* Am I navigating confusion in faith or personal matters?
+* **Situations**:
+	* **Knowledge and Wisdom**: Seeking understanding and clarity.
 
 	**يا حَكِيمُ، يا عَلِيمُ، عَلِّمْنِي ما يَنْفَعُنِي، وَانْفَعْنِي بِما عَلَّمتَنِي، وَزِدْنِي عِلْمًا، وَارْزُقْنِي الحِكْمَةَ في القَوْلِ وَالعَمَلِ.**
 
@@ -28,23 +28,23 @@ Link to [Reliance](docs/sidebar1/Objective/good%20traits/Reliance.md). This is a
 
 ---
 
-# Need for Emotional Support and Forgiveness
+## Need for Emotional Support and Forgiveness
 
-- **Questions**:
-	- Am I dealing with feelings of guilt or shame?
-	- Am I seeking connection with Allah after a hardship?
-- **Situations**:
-	- **Love and Respect**: Seeking connection and gratitude.
+* **Questions**:
+	* Am I dealing with feelings of guilt or shame?
+	* Am I seeking connection with Allah after a hardship?
+* **Situations**:
+	* **Love and Respect**: Seeking connection and gratitude.
 
 	**يا وُدُودُ، يا ذَا الجَلالِ وَالإِكرَامِ، اجْعَلْ حُبَّكَ أَحَبَّ إِلَيَّ مِن نَفْسِي وَأَهْلِي وَمِنَ المَاءِ البَارِدِ عَلَى الظّمَأِ، وَاوَفِّقْنِي لِرِضَاكَ، وَاجْعَلْنِي مِنَ الَّذِينَ يُحِبُّونَكَ وَيُحِبُّونَهُمْ.**
 
-	- **Forgiveness and Mercy**: Seeking forgiveness and compassion.
+	* **Forgiveness and Mercy**: Seeking forgiveness and compassion.
 
 		**يا غَفَّارَ الذُّنُوبِ، يا غَفُّورُ، يا رَحِيمُ، اغْفِرْ لِي ما قَدَّمتَ وَما أَخَّرتَ، وَما أَسْرَرتَ وَما أَعْلَنْتَ، وَما أَنْتَ أَعْلَمُ بِهِ مِنِّي، وَتَجَاوَزْ عَنِّي بِرَحْمَتِكَ، يا أَرْحَمَ الرَّاحِمِينَ.**
 
 		**يا تَوَّابُ، يا رَبَّ العَالَمِينَ، تُبْ عَلَيَّ تَوْبَةً نَصُوحًا، وَاهْدِنِي إِلَى الاسْتِغْفَارِ وَالإِنَابَةِ إِلَيْكَ، وَرُدَّنِي إِلَيْكَ رَدًّا جَمِيلًا.**
 
-	- **Healing and Restoration**: Seeking healing for oneself or others.
+	* **Healing and Restoration**: Seeking healing for oneself or others.
 
 		**يا شَافِي، اشْفِنِي شِفَاءً لا يَغَادِرُ سَقَمًا، وَبَارِكْ لِي فِي صِحَّتِي، وَاجْعَلْهَا عَوْنًا لِي عَلَى طَاعَتِكَ، وَاشْفِ كُلَّ مَرِيضٍ بِرَحْمَتِكَ، يا أَرْحَمَ الرَّاحِمِينَ.**
 
@@ -52,19 +52,19 @@ Link to [Reliance](docs/sidebar1/Objective/good%20traits/Reliance.md). This is a
 
 ---
 
-# Facing Challenges and Seeking Strength
+## Facing Challenges and Seeking Strength
 
-- **Questions**:
-	- Am I encountering personal or professional obstacles?
-	- Am I experiencing stress or anxiety in daily life?
-- **Situations**:
-	- **Power and Might**: Seeking strength to overcome challenges.
+* **Questions**:
+	* Am I encountering personal or professional obstacles?
+	* Am I experiencing stress or anxiety in daily life?
+* **Situations**:
+	* **Power and Might**: Seeking strength to overcome challenges.
 
 	**يا عَزِيزُ، يا ذَا القُوَّةِ المُتِينَ، اجْعَلْنِي قَوِيًّا بِحَوْلِكَ وَقُوَّتِكَ، وَامْنَحْنِي الصَّبْرَ وَالثَّبَاتَ لِأَتَغَلَّبَ عَلَى كُلِّ عَقَبَةٍ تُوَاجِهُنِي.**
 
 	**يا قَدِيرُ عَلَى كُلِّ شَيْءٍ، لا يَعْجِزُكَ شَيْءٌ فِي الأَرْضِ وَلَا فِي السَّمَاءِ، حَقِّقْ لِي مَا أَظُنُّهُ مُسْتَحِيلًا بِعَظَمَتِكَ وَقُوَّتِكَ، وَيَسِّرْ لِي كُلَّ عَسِيرٍ.**
 
-	- **Protection and Safety**: Seeking safety from harm.
+	* **Protection and Safety**: Seeking safety from harm.
 
 	**يا رَؤُوفُ، يا سَتِيرُ، يا مَنْ تُحِيطُ بِعِبَادِكَ، احْمِنِي مِنْ كُلِّ سُوءٍ، وَاحْفَظْنِي بِحِفْظِكَ الَّذِي لا يَنْفُدُ، وَاكْفِنِي شَرَّ مَنْ يُرِيدُ بِي سُوءًا.**
 
@@ -72,19 +72,19 @@ Link to [Reliance](docs/sidebar1/Objective/good%20traits/Reliance.md). This is a
 
 ---
 
-# Desire for Well-being and Abundance
+## Desire for Well-being and Abundance
 
-- **Questions**:
-	- Am I struggling with financial issues?
-	- Am I wanting peace and tranquility in my life?
-- **Situations**:
-	- **Abundance and Prosperity**: Seeking financial blessings.
+* **Questions**:
+	* Am I struggling with financial issues?
+	* Am I wanting peace and tranquility in my life?
+* **Situations**:
+	* **Abundance and Prosperity**: Seeking financial blessings.
 
 	**يا مُغَنِّي مِن فَضْلِهِ، يا رازِقُ مَنْ يُشَاءُ بِغَيْرِ حِسَابٍ، ارْزُقْنِي مِنْ حَيْثُ لا أَحْتَسِبُ، وَوَسِّعْ لِي فِي رِزْقِي وَبَارِكْ لِي فِيهِ، وَأَغْنِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَبِفَضْلِكَ عَنْ مَنْ سِوَاكَ.**
 
 	**يا كَرِيمُ، يا مَنْ تَجُودُ عَلَى عِبَادِكَ بِالنِّعَمِ، أَنْعِمْ عَلَيَّ بِكَرَمِكَ، وَاغْدِقْ عَلَيَّ مِن فَضْلِكَ، وَارْزُقْنِي شُكْرَ نِعَمِكَ.**
 
-	- **Peace and Tranquility**: Seeking inner peace and calmness.
+	* **Peace and Tranquility**: Seeking inner peace and calmness.
 
 	**يا سَلاَمُ، يا وَلِيُّ المُؤْمِنِينَ، اجْعَلْ قَلْبِي عَامِرًا بِسَلاَمِكَ، وَامْنَحْنِي طُمَأْنِينَةً لا تَزُولُ، وَارْزُقْنِي الرَّاحَةَ وَالسُّكُونَ فِي حَيَاتِي.**
 

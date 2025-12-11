@@ -81,7 +81,7 @@ def process_frontmatter(frontmatter, filename):
     for f in ["duration", "detail"]:
         if f in frontmatter:
             frontmatter[f] = None
-    for f in ["delay", "blocking", "outcome", "driver", "tracking", "religious"]:
+    for f in ["delay", "blocking", "outcome", "driver", "tracking", "religious", "behavior"]:
         if f in frontmatter:
             del frontmatter[f]
 

@@ -24,7 +24,6 @@ sidebar_label: Review working processes
 
 :::tip summary
 
-
 Use the "Review" tab on the homepage to review intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
 
 :::

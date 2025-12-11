@@ -24,7 +24,6 @@ sidebar_label: Speak purposefully or maintain silence
 
 :::tip Summary
 
-
 Engage in dhikr to avoid harmful conversations. If the conversation is neutral, avoid talking about others or yourself. Instead, make your point succinctly, maintain silence, avoid excessive small talk, and redirect the discussion to something more meaningful.
 
 :::

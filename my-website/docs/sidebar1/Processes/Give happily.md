@@ -32,7 +32,6 @@ Link to [Zakat and charity and selflessness](docs/sidebar1/Objective/worship/Zak
 
 :::tip summary
 
-
 Give secretly from your best possessions to those in need, prioritizing family, the pious, and the needy. Find joy in giving, knowing it's a true investment in the Hereafter.
 
 :::

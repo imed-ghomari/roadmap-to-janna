@@ -7,19 +7,19 @@ objective: remove bad traits
 sidebar_label: Anger
 ---
 
-# The Nature of Anger
+## The Nature of Anger
 
 * Anger is a serious issue because its outward manifestations include violence, cursing, and insulting. At the same time, inwardly, it involves hatred, envy, harboring ill will, profanity, the intention to expose another's secrets, joy at the suffering of others, and sadness when others are happy. Each of these characteristics is destructive on its own!
 * The Prophet Muhammad (peace be upon him) said: "Through forbearance, a person will attain the same level of reward as someone who stands in prayer at night and fasts during the day and will be considered mighty despite having control only over their household." He also said, "The strong person is not the one who overcomes others by strength, but **the one who controls themselves while in anger**." And lastly, "May Allah have mercy upon a person who is [easy-going when they sell](docs/sidebar1/Processes/Have%20mercy%20in%20business%20dealings.md), buy, and ask for payment."
 
-# Classes of Man in Terms of Anger
+## Classes of Man in Terms of Anger
 
 1. Some men get angry suddenly and are quickly appeased.
 2. Some get angry late, lasting a long time.
 3. Some get angry late, and their anger ceases quickly. This is the best.
 4. Some get angry quickly, lasting a long time. This is the worst.
 
-# Breaking Anger and Containing It When Agitated
+## Breaking Anger and Containing It When Agitated
 
 To deal with anger, you must do two things:
 

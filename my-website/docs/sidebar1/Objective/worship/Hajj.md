@@ -7,7 +7,7 @@ objective: worship well
 sidebar_label: Hajj
 ---
 
-# Etiquette of Hajj
+## Etiquette of Hajj
 
 1. **Travel Companions and Spending**: Take a righteous friend and use only lawful, permissible spending money.
 2. **Detach from Commerce**: Step back from business matters to keep your mind focused and heart devoted to the pilgrimage.
@@ -16,7 +16,7 @@ sidebar_label: Hajj
 5. **Humble Appearance**: Travel simply, resembling the poor with dusty, unkempt hair and worn clothes to avoid the appearance of luxury.
 6. **Acceptance and Gratitude**: Spend cheerfully and accept any hardship as a sign of an accepted Hajj, anticipating the reward.
 
-# Secrets of Hajj and Reflections
+## Secrets of Hajj and Reflections
 
 1. **Journey of the Afterlife**: The Hajj symbolizes the journey to the afterlife. The physical challenges, particularly the journey to Makkah's barren valley, remind us of the perseverance required to meet Allah.
 2. **Constant Remembrance**: Begin seeking forgiveness and practicing dhikr at the start of the journey and continue until you return home.
@@ -24,7 +24,7 @@ sidebar_label: Hajj
 4. **Sign of an Accepted Hajj**: One sign that Hajj was accepted is the increased commitment to good deeds after returning.
 5. **Spiritual Visit to Allah's House**: Visiting the Kaaba is like visiting Allah, an experience of peace and joy. Only those beloved to Allah are invited to His house. Saying "Labbayk" expresses the pilgrim's acceptance of this divine invitation.
 
-# Preparation for Hajj
+## Preparation for Hajj
 
 * Make repentance about past sins.
 * Repay debts and return trusts.

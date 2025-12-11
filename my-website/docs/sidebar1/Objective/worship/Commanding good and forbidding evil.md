@@ -7,7 +7,7 @@ objective: worship well
 sidebar_label: Commanding good and forbidding evil
 ---
 
-# Guidelines for Responding to Evil
+## Guidelines for Responding to Evil
 
 * When someone witnesses wrongdoing and stays silent, they are complicit in that behavior. However, they shouldn't actively search out others' sins but instead [respect others' privacy](docs/sidebar1/Processes/Don't%20spy%20and%20protect%20privacy.md).
 * Even if a person is God-fearing, associating too closely with others can lead to an increase in their own sins. This risk can only be avoided by focusing solely on admonishing and correcting misbehavior without fearing criticism. Additionally, we are encouraged to promote good behaviors by guiding and supporting others.
@@ -15,7 +15,7 @@ sidebar_label: Commanding good and forbidding evil
 	1. There is a genuine fear of physical harm, property damage, or severe harm to one's reputation. It's best to remain composed and avoid confrontation. However, fear of social rejection, gossip, or potential missed opportunities are not valid reasons for avoiding this duty.
 	2. If it's clear that advising will be ignored or met with ridicule, a gentle verbal reminder is still encouraged.
 
-# Qualities Essential for Guiding Others
+## Qualities Essential for Guiding Others
 
 Offering [Advice and admonishment](docs/sidebar1/Processes/Advice%20and%20admonishment.md) should be grounded in these two qualities:
 
@@ -24,7 +24,7 @@ Offering [Advice and admonishment](docs/sidebar1/Processes/Advice%20and%20admoni
 
 > Keep in mind that concealment and private admonishment should always come first. However, reporting the behaviour to the authorities may become necessary when harm is likely to affect others. When in doubt, advice should be sought regarding the appropriate behaviour to adopt.
 
-# What to Advise About
+## What to Advise About
 
 Here are some examples of behaviors to address, either by offering advice or by discouraging these actions in line with the system's objectives:
 

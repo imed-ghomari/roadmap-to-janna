@@ -16,13 +16,13 @@ sidebar_label: Regret and prevent after committing a sin
 ---
 
 * Link to [Repentance](docs/sidebar1/Objective/good%20traits/Repentance.md):
-	* **About the past**: ask for forgiveness from allah within 6 hours of sinning by making repentance (inside or outside prayer), asking forgiveness if it affected other people, and doing good to balance the scale. Examples of the deeds that expiate sins are :
+	* **About the past**: ask for forgiveness from allah within 6 hours of sinning by making repentance (inside or outside prayer), asking forgiveness if it affected other people, and doing good to balance the scale. Examples of the deeds that expiate sins are:
 		* walking to the congregation prayer
-		- waiting after prayer for the next one
-		- making wudu in difficult situation
-		- hajj
-		- hijra for his sake
-		- gratitude in trials
+		* waiting after prayer for the next one
+		* making wudu in difficult situation
+		* hajj
+		* hijra for his sake
+		* gratitude in trials
 	* **About the future**: Plan for future prevention, commit to never doing it again.
 * Link to [Praying](docs/sidebar1/Objective/worship/Praying.md): Perform Nafl repentance prayers (2 rakat) anytime, even after Asr, or integrate the intention into other Nafl prayers, like the 12 daily Sunnah prayers.
 * Link to [Remembering Death](docs/sidebar1/Objective/good%20traits/Remembering%20death.md): Ask forgiveness and work on reconciliation to ensure smooth passage through the bridge of Qantara, avoiding delays or reduced rank in Paradise.
@@ -37,7 +37,6 @@ Here are some occasions when you should say _Astaghfirullah_:
 5. **To Relieve Stress:** Reciting _Astaghfirullah_ can help reduce stress and anxiety.
 
 :::tip summary
-
 
 Repent sins by expressing regret (dua), committing to prevention, and doing good deeds.
 

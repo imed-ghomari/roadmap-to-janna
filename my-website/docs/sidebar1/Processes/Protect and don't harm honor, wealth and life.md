@@ -20,7 +20,6 @@ sidebar_label: Protect and don't harm honor, wealth and life
 
 :::tip summary
 
-
 Protect the rights of Muslims by condemning criticism and providing support, safeguard your spouse from harm, and guide your children's activities to prevent negative influences.
 
 :::

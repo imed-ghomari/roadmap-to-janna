@@ -31,7 +31,6 @@ sidebar_label: Managing difference of opinion
 
 :::tip Summary
 
-
 Categorize discussions to determine the appropriate communication method. And during the conversation, remember to:
 
 * Avoid anger.

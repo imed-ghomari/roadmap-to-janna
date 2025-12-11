@@ -30,7 +30,6 @@ sidebar_label: Attitude in affliction
 
 :::tip Remember the Mnemonic: **GRADS**
 
-
 * **G**ratitude: Be grateful even in difficulty, acknowledging wisdom and relief from greater harm.
 * **R**emembrance: say _"To Allah we belong, and to Him we shall return"_, _"There is no power nor strength except with Allah"_, repent and say _isti3atha_.
 * **A**nger: Control anger and stay calm through faith and trust in Allah.
