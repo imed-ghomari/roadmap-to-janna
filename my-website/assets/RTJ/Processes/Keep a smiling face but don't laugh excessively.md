@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Zakat and charity and selflessness]]'
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
-sidebar_label: Keep a smiling face but don't laugh loudly
+  - "[[Zakat and charity and selflessness]]"
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
+sidebar_label: Keep a smiling face but don't laugh excessively
 ---
 
 * Link to [Zakat and charity and selflessness](Objective/worship/Zakat%20and%20charity%20and%20selflessness.md): even a smile can be considered a charity

@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: have good traits
+data: null
 sidebar_label: Asceticism
 ---
 
@@ -65,7 +66,7 @@ Asceticism leads to contentment with what is necessary for life's journey—shel
 
 However, wealth can be virtuous if used righteously, as the Prophet (PBUH) said, "How excellent is the useful wealth of a righteous man!" He also stated, "The strong believer is better than the weak believer."
 
-The poor must maintain a [righteous character in the face of hardship](docs/sidebar1/Processes/Attitude%20in%20affliction.md). They should avoid resentment, excessive complaints, and [begging](docs/sidebar1/Processes/Don't%20ask%20for%20help%20or%20money.md). Instead, they should cultivate contentment, trust in Allah's provision, and dignity in their circumstances. Whether rich or poor, it is essential to disconnect from the state of wealth—both can become distractions unless combined with contentment and gratitude.
+The poor must maintain a [righteous character in the face of hardship](docs/sidebar1/Processes/Attitude%20in%20affliction.md). They should avoid resentment, excessive complaints, and [begging](docs/sidebar1/Processes/Don't%20ask%20for%20help%20or%20money.md). Instead, they should cultivate contentment, trust in Allah's provision, and dignity in their circumstances, for there is no true richness after Hellfire nor poverty after Paradise. Whether rich or poor, it is essential to disconnect from the state of wealth—both can become distractions unless combined with contentment and gratitude.
 
 ## The Reality of the World - You Are a Traveler
 

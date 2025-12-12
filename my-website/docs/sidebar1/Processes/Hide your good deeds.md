@@ -11,7 +11,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Hide your good deeds
 ---
 

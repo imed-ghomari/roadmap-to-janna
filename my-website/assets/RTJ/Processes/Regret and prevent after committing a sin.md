@@ -1,17 +1,16 @@
 ---
 type: process
 domain:
-- '[[Repentance]]'
-- '[[Praying]]'
-- '[[Remembering death]]'
-- '[[Fear and hope]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Repentance]]"
+  - "[[Praying]]"
+  - "[[Remembering death]]"
+  - "[[Fear and hope]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Regret and prevent after committing a sin
 ---
 

@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Anger]]'
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
-success: null
+  - "[[Anger]]"
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
+success:
 sidebar_label: Have mercy in business dealings
 ---
 

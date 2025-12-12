@@ -8,7 +8,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Fill up most of your time with dhikr
 ---
 

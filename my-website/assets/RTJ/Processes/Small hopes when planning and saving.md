@@ -9,7 +9,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Small hopes when planning and saving
 ---
 

@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Upholding the right of muslims]]'
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Upholding the right of muslims]]"
+  - "[[Managing spouse]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Protect and don't harm honor, wealth and life
 ---
 

@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Upholding the right of muslims]]'
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Upholding the right of muslims]]"
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Call, visit and care for the sick
 ---
 

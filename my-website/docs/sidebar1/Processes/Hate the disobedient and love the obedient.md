@@ -12,7 +12,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Hate the disobedient and love the obedient
 ---
 

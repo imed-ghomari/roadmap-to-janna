@@ -9,8 +9,7 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
-sidebar_label: Keep a smiling face but don't laugh loudly
+sidebar_label: Keep a smiling face but don't laugh excessively
 ---
 
 * Link to [Zakat and charity and selflessness](docs/sidebar1/Objective/worship/Zakat%20and%20charity%20and%20selflessness.md): even a smile can be considered a charity

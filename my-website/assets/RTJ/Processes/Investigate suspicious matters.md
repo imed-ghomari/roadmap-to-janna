@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Seeking the lawful]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Seeking the lawful]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Investigate suspicious matters
 ---
 

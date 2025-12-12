@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Managing spouse]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Love playfully and support
 ---
 

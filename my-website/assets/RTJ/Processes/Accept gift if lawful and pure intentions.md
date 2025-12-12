@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Seeking the lawful]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Seeking the lawful]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Accept gift if lawful and pure intentions
 ---
 

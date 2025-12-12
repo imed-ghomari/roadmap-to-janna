@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: have good traits
+data: null
 sidebar_label: Gratitude
 ---
 
@@ -32,7 +33,7 @@ Gratitude is expressed through action in three ways:
 
 * **Gratitude of the Heart**: Wishing well for others by [supplicating for them](docs/sidebar1/Processes/Supplicate%20for%20other%20people%20alive%20or%20dead.md).
 * **Gratitude of the Tongue**:
-	* Gratitude to Allah: one must always [strive to recognize the various types of blessings](docs/sidebar1/Processes/Gratitude%20journalling.md) and compare oneself to those who are lower in worldly status to foster gratitude. This gratitude should then be expressed through [daily Hamd](docs/sidebar1/Processes/Hamd%20and%20thanking%20allah.md), [Daily supplications](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), [Chukr prayer](docs/sidebar1/Processes/Pray%20chukr%20nafil%20prayer.md) and through having [Proper attitude in hardship](docs/sidebar1/Processes/Attitude%20in%20affliction.md)
+	* Gratitude to Allah: one must always [strive to recognize the various types of blessings](docs/sidebar1/Processes/Hamd%20and%20thanking%20allah.md) and compare oneself to those who are lower in worldly status to foster gratitude. This gratitude should then be expressed through [Daily supplications](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), [Chukr prayer](docs/sidebar1/Processes/Pray%20chukr%20nafil%20prayer.md) and through having [Proper attitude in hardship](docs/sidebar1/Processes/Attitude%20in%20affliction.md)
 	* Gratitude to the Prophet: [Sending salawat on the prophet](docs/sidebar1/Processes/Sending%20salawat%20on%20the%20prophet.md)
 	* Gratitude to people: [Thank others](docs/sidebar1/Processes/Thank%20people.md)
 * **Gratitude of the Limbs**: Avoiding misuse of blessings by:

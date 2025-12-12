@@ -1,18 +1,17 @@
 ---
 type: process
 domain:
-- '[[Loquaciousness]]'
-- '[[Sincerity and truthfulness]]'
-- '[[Upholding the right of muslims]]'
-- '[[Remembering death]]'
-- '[[Managing spouse]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Loquaciousness]]"
+  - "[[Sincerity and truthfulness]]"
+  - "[[Upholding the right of muslims]]"
+  - "[[Remembering death]]"
+  - "[[Managing spouse]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Honesty, Trust and figurative language
 ---
 

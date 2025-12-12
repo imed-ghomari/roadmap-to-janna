@@ -2,13 +2,13 @@
 type: process
 domain:
 - '[[Following the sunnah]]'
+- '[[health management]]'
 due: ''
 recurrence: ''
 start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Stay fit
 ---
 

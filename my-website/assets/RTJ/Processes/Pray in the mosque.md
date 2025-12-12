@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Praying]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Praying]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Pray in the mosque
 ---
 

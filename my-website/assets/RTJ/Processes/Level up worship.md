@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Love and contentment]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Love and contentment]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Level up worship
 ---
 

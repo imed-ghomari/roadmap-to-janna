@@ -1,17 +1,16 @@
 ---
 type: process
 domain:
-- '[[Loquaciousness]]'
-- '[[Commanding good and forbidding evil]]'
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Loquaciousness]]"
+  - "[[Commanding good and forbidding evil]]"
+  - "[[Managing spouse]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Advice and admonishment
 ---
 

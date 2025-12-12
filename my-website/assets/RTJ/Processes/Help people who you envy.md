@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Envy]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Envy]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Help people who you envy
 ---
 

@@ -8,7 +8,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Respond to call of prayer
 ---
 

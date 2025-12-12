@@ -8,7 +8,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Avoid watching other people blessing and bless them
 ---
 

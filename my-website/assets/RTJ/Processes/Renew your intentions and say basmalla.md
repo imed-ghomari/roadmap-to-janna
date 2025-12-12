@@ -1,18 +1,17 @@
 ---
 type: process
 domain:
-- '[[Sincerity and truthfulness]]'
-- '[[Patience]]'
-- '[[Reliance]]'
-- '[[Gluttony and lust]]'
-- '[[Fasting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Sincerity and truthfulness]]"
+  - "[[Patience]]"
+  - "[[Reliance]]"
+  - "[[Gluttony and lust]]"
+  - "[[Fasting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Renew your intentions and say basmalla
 ---
 

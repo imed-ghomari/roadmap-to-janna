@@ -5,14 +5,12 @@ views:
       and:
         - type == "process"
         - recurrence.isEmpty()
-        - file.path.contains("domains")
+        - file.path.contains("Processes")
         - status == "working"
     order:
       - status
+      - detail
       - file.name
-      - behavior
     sort:
-      - property: behavior
-        direction: ASC
       - property: detail
         direction: ASC

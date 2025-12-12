@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Apply his drinking and eating habits
 ---
 

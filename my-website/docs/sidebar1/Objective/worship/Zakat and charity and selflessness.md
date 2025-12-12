@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: worship well
+data: null
 sidebar_label: Zakat and charity and selflessness
 ---
 
@@ -37,5 +38,4 @@ Consider giving in these situations:
 	* [Create a source of ongoing charity](docs/sidebar1/Processes/Create%20source%20of%20continuous%20charity.md).
 	* [Share useful knowledge](docs/sidebar1/Processes/Leave%20useful%20knowledge.md)
 * [To remove grudges](docs/sidebar1/Processes/Give%20gifts.md)
-* [When you have unused items](docs/sidebar1/Processes/Give%20away%20unused%20items.md)
 * Be flexible with loans, especially if your debtor is facing hardships.

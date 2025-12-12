@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Seeking the lawful]]'
-- '[[Love and contentment]]'
-- '[[Asceticism]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Seeking the lawful]]"
+  - "[[Love and contentment]]"
+  - "[[Asceticism]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Avoid indulging on the lawful
 ---
 

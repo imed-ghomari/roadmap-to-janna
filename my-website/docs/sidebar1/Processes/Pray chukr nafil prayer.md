@@ -9,7 +9,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Pray chukr nafil prayer
 ---
 

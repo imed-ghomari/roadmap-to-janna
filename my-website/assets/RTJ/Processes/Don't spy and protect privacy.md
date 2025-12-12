@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Commanding good and forbidding evil]]'
-- '[[Upholding the right of muslims]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Commanding good and forbidding evil]]"
+  - "[[Upholding the right of muslims]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Don't spy and protect privacy
 ---
 

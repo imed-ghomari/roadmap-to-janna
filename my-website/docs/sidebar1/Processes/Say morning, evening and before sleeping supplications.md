@@ -12,7 +12,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Say morning, evening and before sleeping supplications
 ---
 

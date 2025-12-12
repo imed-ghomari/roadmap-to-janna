@@ -4,10 +4,13 @@ dependency: ''
 start: ''
 status: designed
 objective: remove bad traits
+data: null
 sidebar_label: Love of status and ostentation
 ---
 
 # Love of Status
+
+In the hadith of Sa'd ibn Abi Waqqas: 'Allah loves the servant who is pious (taqi), self-sufficient (ghaniy), and hidden (khafi)'.
 
 ## The Reality of High Status in Praise and Blame
 

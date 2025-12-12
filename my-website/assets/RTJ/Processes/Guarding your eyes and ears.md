@@ -1,15 +1,14 @@
 ---
 type: process
-due: ''
-context: ''
-dependency: ''
+due: ""
+context: ""
+dependency: ""
 domain:
-- '[[Gratitude]]'
-- '[[Gluttony and lust]]'
-recurrence: ''
-start: ''
-status: ''
-detail: null
+  - "[[Gratitude]]"
+  - "[[Gluttony and lust]]"
+recurrence: ""
+start: ""
+status:
 sidebar_label: Guarding your eyes and ears
 ---
 

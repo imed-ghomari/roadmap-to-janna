@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Praying]]'
-- '[[Gratitude]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Praying]]"
+  - "[[Gratitude]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Pray chukr nafil prayer
 ---
 

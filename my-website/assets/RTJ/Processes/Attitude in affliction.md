@@ -1,24 +1,23 @@
 ---
 type: process
 domain:
-- '[[Patience]]'
-- '[[Gratitude]]'
-- '[[Anger]]'
-- '[[Remembrance of allah]]'
-- '[[Asceticism]]'
-- '[[Repentance]]'
-- '[[Love and contentment]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Patience]]"
+  - "[[Gratitude]]"
+  - "[[Anger]]"
+  - "[[Remembrance of allah]]"
+  - "[[Asceticism]]"
+  - "[[Repentance]]"
+  - "[[Love and contentment]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Attitude in affliction
 ---
 
-* Link to [Patience](Objective/good%20traits/Patience.md): Be patient with adversities outside your control (e.g., death, injury, illness, or property loss). Whether it's punishment or a trial (bala'), we can cry and feel sadness, but we should remain silent or say, *"To Allah we belong, and to Him we shall return."* Avoid complaining to others about your adversities and ensure your first reaction to calamity aligns with faith and acceptance.
+* Link to [Patience](Objective/good%20traits/Patience.md): Be patient with adversities outside your control (e.g., death, injury, illness, or property loss). View afflictions as divine mercy, like a mother administering bitter medicine to save her child—Allah mandates trials to save us, though we may not perceive it fully. Whether it's punishment or a trial (bala'), we can cry and feel sadness, but we should remain silent or say, *"To Allah we belong, and to Him we shall return."* Avoid complaining to others about your adversities and ensure your first reaction to calamity aligns with faith and acceptance.
 * Link to [Gratitude](Objective/good%20traits/Gratitude.md): Be grateful even in affliction. Recognize that it could have been more severe. It is not a test in your religion. It alleviates punishment in the hereafter, and it carries wisdom and goodness for us through Allah's attribute *Al-Latif* (The Subtle and Kind).
 * Link to [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md):
 	* Do not complain about what you cannot control. Instead, embrace contentment and trust that Allah's creation and decree always contain more good than harm. However, if the situation is within your control and you can address the wrongdoing, ensure to admonish against it.

@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Praying]]'
-- '[[Reliance]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Praying]]"
+  - "[[Reliance]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Make istikhara when choosing
 ---
 

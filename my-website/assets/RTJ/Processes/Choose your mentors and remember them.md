@@ -1,17 +1,16 @@
 ---
 type: process
 domain:
-- '[[Envy]]'
-- '[[Love and contentment]]'
-- '[[Self scrutiny]]'
-- '[[Fear and hope]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Envy]]"
+  - "[[Love and contentment]]"
+  - "[[Self scrutiny]]"
+  - "[[Fear and hope]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Choose your mentors and remember them
 ---
 

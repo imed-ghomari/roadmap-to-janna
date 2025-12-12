@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Reliance]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Reliance]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Initiatives supplication
 ---
 

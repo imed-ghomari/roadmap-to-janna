@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Upholding the right of muslims]]'
-- '[[Remembering death]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Upholding the right of muslims]]"
+  - "[[Remembering death]]"
+  - "[[Parenting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Be just and adapt to each person
 ---
 

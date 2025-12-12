@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Praying]]'
-- '[[Upholding the right of muslims]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Praying]]"
+  - "[[Upholding the right of muslims]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Pray additional voluntary prayers
 ---
 

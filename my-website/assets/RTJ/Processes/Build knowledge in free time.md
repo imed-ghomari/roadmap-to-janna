@@ -1,17 +1,16 @@
 ---
 type: process
 domain:
-- '[[Gratitude]]'
-- '[[Remembrance of allah]]'
-- '[[Love and contentment]]'
-- '[[Fasting]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Gratitude]]"
+  - "[[Remembrance of allah]]"
+  - "[[Love and contentment]]"
+  - "[[Fasting]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Build knowledge in free time
 ---
 

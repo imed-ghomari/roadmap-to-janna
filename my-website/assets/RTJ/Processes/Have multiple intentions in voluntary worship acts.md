@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Sincerity and truthfulness]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Sincerity and truthfulness]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Have multiple intentions in voluntary worship acts
 ---
 

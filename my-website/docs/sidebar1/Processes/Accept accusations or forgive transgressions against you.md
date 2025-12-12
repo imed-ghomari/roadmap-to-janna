@@ -12,7 +12,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Accept accusations or forgive transgressions against you
 ---
 

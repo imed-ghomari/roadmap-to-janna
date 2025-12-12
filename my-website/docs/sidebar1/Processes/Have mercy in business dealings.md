@@ -9,7 +9,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 success: null
 sidebar_label: Have mercy in business dealings
 ---

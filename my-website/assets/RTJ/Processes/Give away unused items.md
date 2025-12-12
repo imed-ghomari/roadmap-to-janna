@@ -1,14 +1,14 @@
 ---
 type: process
 domain:
-- '[[Zakat and charity and selflessness]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Zakat and charity and selflessness]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
+detail:
 sidebar_label: Give away unused items
 ---
 

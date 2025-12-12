@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Love and contentment]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Love and contentment]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Meet special friend only for god's sake
 ---
 

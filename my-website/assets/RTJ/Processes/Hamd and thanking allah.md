@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Gratitude]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Gratitude]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Hamd and thanking allah
 ---
 

@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Fear and hope]]'
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Fear and hope]]"
+  - "[[Pride and self admiration and humility]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Make dua after worship for acceptance
 ---
 

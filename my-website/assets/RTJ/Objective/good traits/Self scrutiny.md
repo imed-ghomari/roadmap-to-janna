@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: have good traits
+data: null
 sidebar_label: Self scrutiny
 ---
 

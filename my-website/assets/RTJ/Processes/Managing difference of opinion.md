@@ -1,18 +1,17 @@
 ---
 type: process
 domain:
-- '[[Loquaciousness]]'
-- '[[Anger]]'
-- '[[Following the sunnah]]'
-- '[[Managing spouse]]'
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Loquaciousness]]"
+  - "[[Anger]]"
+  - "[[Following the sunnah]]"
+  - "[[Managing spouse]]"
+  - "[[Pride and self admiration and humility]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Managing difference of opinion
 ---
 
@@ -24,9 +23,9 @@ sidebar_label: Managing difference of opinion
 * Link to [Following the sunnah](Objective/worship/Following%20the%20sunnah.md): Listen without interrupting, even if you disagree or know better.
 * Link to [Managing spouse](Objective/worship/Managing%20spouse.md): In case of a difference of opinion, identify the situation using the table below and choose the appropriate communication tool. The "impact" in the first row reflects the topic's direct relevance to the person, while the "importance" in the first column refers to the matter's connection to religious principles (topics linked to religious initiatives are often significant).
 
-|                                                           | Impacts Me and Others                                                 | Impacts Only Me                                                                                         | Impacts Others Only                                                             | Impacts no one                                                                     |
-| --------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Neutral / Non-important (small life matters)              | **Accommodating** conflict resolution                                 | The other person should ask for permission to give advice                                               | [Overlook](Processes/Overlook%20what%20is%20disliked.md) or advice if requested | [stop talking or don't indulge](Processes/Speak%20purposefully%20or%20maintain%20silence.md) |
+|                                                           | Impacts Me and Others                                                 | Impacts Only Me                                                                               | Impacts Others Only                                                   | Impacts no one                                                                     |
+| --------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Neutral / Non-important (small life matters)              | **Accommodating** conflict resolution                                 | The other person should ask for permission to give advice                                     | [Overlook](Processes/Overlook%20what%20is%20disliked.md) or advice if requested | [stop talking or don't indulge](Processes/Speak%20purposefully%20or%20maintain%20silence.md) |
 | Beneficial / Important (religious or significant matters) | **Collaborating** (preferred) or **Compromising** conflict resolution | [Accept accusations](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) | [Advice and admonishment](Processes/Advice%20and%20admonishment.md)             | debate gently                                                                      |
 
 > [!tip] Summary

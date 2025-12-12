@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Praying]]'
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Praying]]"
+  - "[[Pride and self admiration and humility]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Focus during prayer
 ---
 

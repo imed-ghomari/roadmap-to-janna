@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: worship well
+data: null
 sidebar_label: Upholding the right of muslims
 ---
 

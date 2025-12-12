@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Upholding the right of muslims]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Upholding the right of muslims]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Keeping family ties
 ---
 

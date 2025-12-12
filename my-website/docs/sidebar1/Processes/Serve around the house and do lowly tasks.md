@@ -10,7 +10,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Serve around the house and do lowly tasks
 ---
 

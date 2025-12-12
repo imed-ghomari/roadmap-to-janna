@@ -12,7 +12,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Renew your intentions and say basmalla
 ---
 

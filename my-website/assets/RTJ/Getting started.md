@@ -132,3 +132,4 @@ Otherwise, you can remember us in your dua, asking Allah to guide and support us
 > 
 > This is not a guaranteed way of attaining paradise; it is only our best effort to help as much as possible. Guidance and success remain in Allah's hands, subhanahu wa ta'ala.
 > 
+

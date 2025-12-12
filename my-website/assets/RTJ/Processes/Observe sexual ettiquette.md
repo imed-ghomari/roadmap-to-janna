@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Managing spouse]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Managing spouse]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Observe sexual ettiquette
 ---
 

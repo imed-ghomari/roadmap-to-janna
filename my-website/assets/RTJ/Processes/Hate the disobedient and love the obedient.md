@@ -1,18 +1,17 @@
 ---
 type: process
 domain:
-- '[[Commanding good and forbidding evil]]'
-- '[[Love and contentment]]'
-- '[[Sincerity and truthfulness]]'
-- '[[Upholding the right of muslims]]'
-- '[[Anger]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Commanding good and forbidding evil]]"
+  - "[[Love and contentment]]"
+  - "[[Sincerity and truthfulness]]"
+  - "[[Upholding the right of muslims]]"
+  - "[[Anger]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Hate the disobedient and love the obedient
 ---
 

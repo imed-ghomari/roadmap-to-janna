@@ -9,7 +9,6 @@ domain:
 recurrence: ''
 start: ''
 status: ''
-detail: null
 sidebar_label: Guarding your eyes and ears
 ---
 

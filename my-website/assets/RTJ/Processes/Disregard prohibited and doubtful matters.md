@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Seeking the lawful]]'
-- '[[Reliance]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Seeking the lawful]]"
+  - "[[Reliance]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Disregard prohibited and doubtful matters
 ---
 

@@ -1,18 +1,17 @@
 ---
 type: process
 domain:
-- '[[Anger]]'
-- '[[Love of status and ostentation]]'
-- '[[Following the sunnah]]'
-- '[[Remembering death]]'
-- '[[Managing spouse]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Anger]]"
+  - "[[Love of status and ostentation]]"
+  - "[[Following the sunnah]]"
+  - "[[Remembering death]]"
+  - "[[Managing spouse]]"
+due: ""
+recurrence: ""
+start: ""
+context:
+dependency: ""
+status:
 sidebar_label: Accept accusations or forgive transgressions against you
 ---
 

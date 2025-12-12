@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Pride and self admiration and humility]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Leave indecency physically and spiritually
 ---
 

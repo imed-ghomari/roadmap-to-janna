@@ -10,7 +10,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Be just and adapt to each person
 ---
 

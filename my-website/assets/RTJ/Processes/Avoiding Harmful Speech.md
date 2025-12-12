@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Loquaciousness]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Loquaciousness]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Avoiding Harmful Speech
 ---
 

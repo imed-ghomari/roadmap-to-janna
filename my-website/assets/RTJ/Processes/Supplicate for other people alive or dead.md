@@ -12,7 +12,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Supplicate for other people alive or dead
 ---
 

@@ -11,7 +11,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Regret and prevent after committing a sin
 ---
 

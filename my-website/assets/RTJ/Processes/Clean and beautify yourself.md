@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Asceticism]]'
-- '[[Following the sunnah]]'
-- '[[health management]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Asceticism]]"
+  - "[[Following the sunnah]]"
+  - "[[health management]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Clean and beautify yourself
 ---
 

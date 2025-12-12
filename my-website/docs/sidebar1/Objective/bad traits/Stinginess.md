@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: remove bad traits
+data: null
 sidebar_label: Stinginess
 ---
 

@@ -11,7 +11,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Review working processes
 ---
 
@@ -24,6 +23,8 @@ sidebar_label: Review working processes
 
 :::tip summary
 
-Use the "Review" tab on the homepage to review intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
+Review the processes below to check intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
 
 :::
+
+![review working processes](docs/sidebar1/Processes/review%20working%20processes.base.md)

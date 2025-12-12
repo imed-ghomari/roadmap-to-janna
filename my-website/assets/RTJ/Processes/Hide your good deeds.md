@@ -1,17 +1,16 @@
 ---
 type: process
 domain:
-- '[[Patience]]'
-- '[[Love of status and ostentation]]'
-- '[[Asceticism]]'
-- '[[Praying]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Patience]]"
+  - "[[Love of status and ostentation]]"
+  - "[[Asceticism]]"
+  - "[[Praying]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Hide your good deeds
 ---
 

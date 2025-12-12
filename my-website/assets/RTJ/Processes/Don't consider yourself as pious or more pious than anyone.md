@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Pride and self admiration and humility]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Don't consider yourself as pious or more pious than anyone
 ---
 

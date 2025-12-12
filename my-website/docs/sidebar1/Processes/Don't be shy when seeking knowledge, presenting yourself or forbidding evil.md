@@ -8,7 +8,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Don't be shy when seeking knowledge, presenting yourself or forbidding
   evil
 ---

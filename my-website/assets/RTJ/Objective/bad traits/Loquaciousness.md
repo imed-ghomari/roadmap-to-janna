@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: remove bad traits
+data: null
 sidebar_label: Loquaciousness
 ---
 
@@ -20,7 +21,7 @@ Remember that the most predominant ailments of the tongue are five: lying, backb
 
 * Avoid cursing, vulgar language, and discussing obscene topics.
 * Avoid boasting, exaggerating, using ornate speech, or adding false details to impress others.
-* Avoid bad lyrics or poetry, ridicule, and excessive joking. Joking too much erodes dignity and stirs malice, although a bit of light-heartedness is acceptable. Be sure to speak the truth when joking, and avoid joking about sensitive topics, such as religion.
+* Avoid bad lyrics or poetry, ridicule, and excessive joking. Joking too much erodes dignity and stirs malice, although a bit of light-heartedness is acceptable. Be sure to speak the truth when joking, and avoid joking about religious aspects by belittling or dismissing what is not understood.
 
 # [Disputing and Arguing](Processes/Managing%20difference%20of%20opinion.md)
 

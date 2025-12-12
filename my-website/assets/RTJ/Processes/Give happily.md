@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Zakat and charity and selflessness]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Zakat and charity and selflessness]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Give happily
 ---
 

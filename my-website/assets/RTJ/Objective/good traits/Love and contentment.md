@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: have good traits
+data: null
 sidebar_label: Love and contentment
 ---
 
@@ -40,7 +41,7 @@ Knowledge of Allah and His attributes, alongside His creation, deeply delights t
 # Ways to Cultivate Love for Allah
 
 * Recognize his perfection by **learning his names** and [reflecting on his creation](Processes/Contemplate%20the%20creation.md).
-* Recognize his goodness by [reflecting on the countless daily blessings](Processes/Gratitude%20journalling.md).
+* Recognize his goodness by [reflecting on the countless daily blessings](Processes/Hamd%20and%20thanking%20allah.md).
 * Affirm love through [daily supplications](Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), such as saying, "There is no god but Allah," in which Allah means the one who should be loved above all else.
 * [Avoid overindulgence](Processes/Avoid%20indulging%20on%20the%20lawful.md) in lawful pleasures to focus on Him.
 

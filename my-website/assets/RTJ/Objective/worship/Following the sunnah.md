@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: worship well
+data: null
 sidebar_label: Following the sunnah
 ---
 
@@ -38,7 +39,7 @@ Here are some practical examples of the Prophet's habits to incorporate:
 * [Speak purposefully and clearly, or maintain silence](Processes/Speak%20purposefully%20or%20maintain%20silence.md).
 * [Practice cleanliness as he did](Processes/Clean%20and%20beautify%20yourself.md)
 * [Show mercy in business dealings](Processes/Have%20mercy%20in%20business%20dealings.md).
-* [Keep a smiling face without loud laughter](Processes/Keep%20a%20smiling%20face%20but%20don't%20laugh%20loudly.md).
+* [Keep a smiling face without loud laughter](Processes/Keep%20a%20smiling%20face%20but%20don't%20laugh%20excessively.md).
 * [Overlook things you dislike and refrain from speaking about them](Processes/Overlook%20what%20is%20disliked.md).
 * [Help with household chores and humbly serve](Processes/Serve%20around%20the%20house%20and%20do%20lowly%20tasks.md)
 * [Take breaks to recharge](Processes/Take%20breaks%20to%20recharge.md).

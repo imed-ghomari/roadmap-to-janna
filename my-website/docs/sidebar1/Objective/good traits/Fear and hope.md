@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: have good traits
+data: null
 sidebar_label: Fear and hope
 ---
 
@@ -42,7 +43,7 @@ For someone engaged in sin, [fear](docs/sidebar1/Processes/Cry%20and%20fear%20mi
 
 Once a sin has been committed, [hope](docs/sidebar1/Processes/Regret%20and%20prevent%20after%20committing%20a%20sin.md) (_raja_) becomes essential, encouraging the sinner to seek Allah's mercy sincerely. This shift reflects the vastness of Allah's forgiveness, allowing even severe sinners to find redemption through genuine repentance and change.
 
-> Hope differs from wishful thinking; true hope requires effort. Just as a farmer plants and cares for a seed, expecting a harvest, a hopeful person continually takes steps to improve, regularly [reviewing their actions](docs/sidebar1/Processes/Review%20working%20processes.md) to ensure consistency in their effort.
+> Hope differs from wishful thinking; true hope requires effort. Just as a farmer plants and cares for a seed, expecting a harvest, a hopeful person continually takes steps to improve, regularly [reviewing their actions](docs/sidebar1/Processes/Review%20working%20processes.md) to ensure consistency in their effort. The ones who should expect/hope for Allah's mercy are the ones who continuously strive in his path.
 
 ### 2. The Obedient Person
 

@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Engaging with the quran]]'
-- '[[Praying]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Engaging with the quran]]"
+  - "[[Praying]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Pray tahajud prayer
 ---
 

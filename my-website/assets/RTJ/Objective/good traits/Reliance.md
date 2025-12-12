@@ -4,6 +4,7 @@ dependency: ''
 start: ''
 status: designed
 objective: have good traits
+data: null
 sidebar_label: Reliance
 ---
 
@@ -84,6 +85,7 @@ Dua is essential for all actions, as it helps prevent arrogance and reliance on 
 * **Make your earnings pure**: Ensure your sources of income are lawful, and focus your heart on Allah while making dua.
 * **Persevere in your supplications**: Keep making dua even if the results are not immediate.
 * **Believe in the acceptance of your dua**: Have confidence that Allah will answer your dua.
+* Mention your past good deeds or make your intention to perform more good deeds after getting the outcome of the supplication.
 
 ### Proper Etiquette for Dua
 

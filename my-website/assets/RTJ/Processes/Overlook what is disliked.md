@@ -1,16 +1,15 @@
 ---
 type: process
 domain:
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Managing spouse]]"
+  - "[[Parenting]]"
+  - "[[Following the sunnah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Overlook what is disliked
 ---
 

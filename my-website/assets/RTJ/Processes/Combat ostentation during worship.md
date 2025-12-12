@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Love of status and ostentation]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Love of status and ostentation]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Combat ostentation during worship
 ---
 

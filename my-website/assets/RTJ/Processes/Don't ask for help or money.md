@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Asceticism]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Asceticism]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Don't ask for help or money
 ---
 

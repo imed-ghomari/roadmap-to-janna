@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Praying]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Praying]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Pray 12 daily nawafil prayers
 ---
 

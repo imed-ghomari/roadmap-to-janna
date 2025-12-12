@@ -1,17 +1,16 @@
 ---
 type: process
 domain:
-- '[[Fear and hope]]'
-- '[[Love of status and ostentation]]'
-- '[[Self scrutiny]]'
-- '[[strategy and execution]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Fear and hope]]"
+  - "[[Love of status and ostentation]]"
+  - "[[Self scrutiny]]"
+  - "[[strategy and execution]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Review working processes
 ---
 
@@ -25,25 +24,8 @@ sidebar_label: Review working processes
 > [!tip] summary
 > 
 > 
-> Use the "Review" tab on the homepage to review intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
+> Review the processes below to check intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
 > 
 
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - type == "process"
-        - status == "working"
-    order:
-      - status
-      - detail
-      - file.name
-    sort:
-      - property: detail
-        direction: ASC
-    columnSize:
-      note.status: 128
 
-```
+![review working processes](review%20working%20processes.base)

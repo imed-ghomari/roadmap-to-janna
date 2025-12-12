@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Engaging with the quran]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Engaging with the quran]]"
+  - "[[Remembering death]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Recite the quran
 ---
 

@@ -10,7 +10,6 @@ start: ''
 context: ''
 dependency: ''
 status: ''
-detail: null
 sidebar_label: Don't spy and protect privacy
 ---
 

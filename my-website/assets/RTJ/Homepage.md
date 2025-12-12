@@ -73,7 +73,7 @@ formulas:
   total_process_count: file.backlinks.filter(value.asFile().properties.type == "process" && value.asFile().properties.status != "waiting").length
   working_process_count: file.backlinks.filter(value.asFile().properties.type == "process" && value.asFile().properties.status == "working").length
   progress_fraction: if(formula.total_process_count > 0, formula.working_process_count / formula.total_process_count, 0)
-  Progress: '"■■■■■■■■■■".slice(0, (formula.progress_fraction * 10).floor()) + "□□□□□□□□□□".slice(0, 10 - (formula.progress_fraction * 10).floor())'
+  Progress: html("<progress class='metadata-progress' max='100' value='" + (if(formula.progress_fraction, number(formula.progress_fraction), 0) * 100).round() + "' aria-label='" + (if(formula.progress_fraction, number(formula.progress_fraction), 0) * 100).round() + " %' data-tooltip-position='top' data-tooltip-delay='500'>")
   initiative done: formula.total_process_count - formula.working_process_count
 properties:
   formula.relative due:
@@ -218,5 +218,13 @@ views:
     columnSize:
       formula.Progress: 147
       file.name: 299
+  - type: table
+    name: processes
+    filters:
+      and:
+        - type == "process"
+    order:
+      - file.name
+      - status
 
 ```

@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Gluttony and lust]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Gluttony and lust]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Reduce time spend eating
 ---
 

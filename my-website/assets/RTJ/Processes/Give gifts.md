@@ -1,15 +1,14 @@
 ---
 type: process
 domain:
-- '[[Zakat and charity and selflessness]]'
-- '[[Upholding the right of muslims]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Zakat and charity and selflessness]]"
+  - "[[Upholding the right of muslims]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Give gifts
 ---
 

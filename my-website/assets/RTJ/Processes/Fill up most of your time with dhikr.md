@@ -1,14 +1,13 @@
 ---
 type: process
 domain:
-- '[[Remembrance of allah]]'
-due: ''
-recurrence: ''
-start: ''
-context: ''
-dependency: ''
-status: ''
-detail: null
+  - "[[Remembrance of allah]]"
+due: ""
+recurrence: ""
+start: ""
+context: ""
+dependency: ""
+status:
 sidebar_label: Fill up most of your time with dhikr
 ---
 
