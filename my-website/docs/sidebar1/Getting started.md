@@ -110,7 +110,7 @@ I didn't include the sources next to each action in the processes because of the
 The system can be implemented using two methods. The first method is simpler to execute but requires a longer review process. The second method is more challenging to implement but benefits from a more streamlined review process.
 
 1. Conduct a [weekly review](docs/sidebar1/Resources/Weekly%20review.md) once you are familiar with the domains and their associated processes.
-2. Use the tool endorsed by the author and the associated file by following [this tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance and a gamification of the system to keep you motivated. You can see an example below:
+2. Use the tool endorsed by the author and the associated file by following [this tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance. You can see an example below:
 
 ![](../../assets/performance.png)
 
