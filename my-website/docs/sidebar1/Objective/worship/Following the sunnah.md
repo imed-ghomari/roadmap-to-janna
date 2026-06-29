@@ -1,14 +1,16 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Following the sunnah
+outcome: ''
+type: domain
+data: null
 ---
 
-:::note
+:::note 
+
 
 This initiative differs from the others, as most previously discussed processes can be linked to it. I've dedicated this initiative to processes that don't fit into any specific worship actions category. This ensures that if a new **worship** process cannot be placed in an existing initiative, it can be included here, resulting in a more complete worship actions category.
 
@@ -34,6 +36,7 @@ Here are some practical examples of the Prophet's habits to incorporate:
 
 * [Accept accusations or forgive transgressions](docs/sidebar1/Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) without bitterness.
 * [Accept invitations](docs/sidebar1/Processes/Accept%20invitations.md)
+* [Host guests generously](docs/sidebar1/Processes/Host%20guests%20generously.md)
 * [Visit the sick and provide care, including blood donations](docs/sidebar1/Processes/Call,%20visit%20and%20care%20for%20the%20sick.md)
 * [Speak purposefully and clearly, or maintain silence](docs/sidebar1/Processes/Speak%20purposefully%20or%20maintain%20silence.md).
 * [Practice cleanliness as he did](docs/sidebar1/Processes/Clean%20and%20beautify%20yourself.md)

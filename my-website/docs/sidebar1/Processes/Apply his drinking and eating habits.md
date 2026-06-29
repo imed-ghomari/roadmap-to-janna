@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Apply his drinking and eating habits
+domain:
+- '[[Following the sunnah|Following the sunnah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Following the sunnah](docs/sidebar1/Objective/worship/Following%20the%20sunnah.md):

@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Stinginess]]'
-- '[[Managing spouse]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: spend generously
+domain:
+- '[[Stinginess|Stinginess]]'
+- '[[Managing spouse|Managing spouse]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Stinginess](Objective/bad%20traits/Stinginess.md): Spend as needed for yourself (necessity), others (charity, hospitality, protecting honor, services), and building good things.

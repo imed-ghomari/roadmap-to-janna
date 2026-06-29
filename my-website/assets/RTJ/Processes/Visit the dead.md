@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Visit the dead
+domain:
+- '[[Remembering death|Remembering death]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Remembering death](Objective/good%20traits/Remembering%20death.md)

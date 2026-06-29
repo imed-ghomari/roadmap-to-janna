@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-- '[[Loquaciousness]]'
-- '[[Anger]]'
-- '[[Following the sunnah]]'
-- '[[Managing spouse]]'
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Managing difference of opinion
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+- '[[Anger|Anger]]'
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[Managing spouse|Managing spouse]]'
+- '[[Pride and self admiration and humility]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Loquaciousness](docs/sidebar1/Objective/bad%20traits/Loquaciousness.md): Avoid arguing, even if you are right. Apply moderation in advising, as only Allah can change hearts. When dealing with disputes over wealth or property, use kind and gentle words instead of harsh ones.
@@ -29,6 +29,7 @@ sidebar_label: Managing difference of opinion
 | Beneficial / Important (religious or significant matters) | **Collaborating** (preferred) or **Compromising** conflict resolution | [Accept accusations](docs/sidebar1/Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) | [Advice and admonishment](docs/sidebar1/Processes/Advice%20and%20admonishment.md)             | debate gently                                                                      |
 
 :::tip Summary
+
 
 Categorize discussions to determine the appropriate communication method. And during the conversation, remember to:
 

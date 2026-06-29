@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Engaging with the quran]]"
-  - "[[Remembering death]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Learn and review the quran
+domain:
+- '[[Engaging with the quran|Engaging with the quran]]'
+- '[[Remembering death|Remembering death]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Reciting the Quran](Objective/worship/Engaging%20with%20the%20quran.md):

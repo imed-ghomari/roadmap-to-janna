@@ -1,16 +1,17 @@
 ---
-type: process
-domain:
-  - "[[Seeking the lawful]]"
-  - "[[Love and contentment]]"
-  - "[[Asceticism]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Avoid indulging on the lawful
+domain:
+- '[[Seeking the lawful|Seeking the lawful]]'
+- '[[Love and contentment|Love and contentment]]'
+- '[[Asceticism|Asceticism]]'
+- '[[Seeking the lawful]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Seeking the lawful](Objective/worship/Seeking%20the%20lawful.md): To avoid sin, relinquish lawful actions (like excessive indulgence) that could lead to unlawful ones. This protective measure keeps you distant from sin by reducing the possibility of falling into it.

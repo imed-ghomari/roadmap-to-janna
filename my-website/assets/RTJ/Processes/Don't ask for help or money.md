@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Asceticism]]"
-  - "[[Remembering death]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Don't ask for help or money
+domain:
+- '[[Asceticism|Asceticism]]'
+- '[[Remembering death|Remembering death]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Asceticism](Objective/good%20traits/Asceticism.md): Ask Allah for all your needs, and view seeking help as a means to an end, only when truly necessary. Strive for independence whenever possible. Exceptions include the destitute, the person in debt, and those who have suffered a financial calamity and lost all their wealth.

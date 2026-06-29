@@ -1,17 +1,17 @@
 ---
-type: process
-domain:
-  - "[[Envy]]"
-  - "[[Love and contentment]]"
-  - "[[Self scrutiny]]"
-  - "[[Fear and hope]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Choose your mentors and remember them
+domain:
+- '[[Envy|Envy]]'
+- '[[Love and contentment|Love and contentment]]'
+- '[[Self scrutiny|Self scrutiny]]'
+- '[[Fear and hope|Fear and hope]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Envy](Objective/bad%20traits/Envy.md): Encourage healthy envy by emulating the positive qualities of others, such as virtues exhibited by prophets, pious predecessors, and contemporary role models.

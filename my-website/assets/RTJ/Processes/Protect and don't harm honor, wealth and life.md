@@ -1,16 +1,16 @@
 ---
-type: process
-domain:
-  - "[[Upholding the right of muslims]]"
-  - "[[Managing spouse]]"
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Protect and don't harm honor, wealth and life
+domain:
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Managing spouse|Managing spouse]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Upholding the right of muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md): As a guardian, it is your responsibility to ensure the well-being of your family and the Muslims in your care. This includes denouncing backbiting, actively addressing their concerns, and supporting those in need.

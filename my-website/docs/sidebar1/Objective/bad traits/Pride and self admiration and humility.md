@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: remove bad traits
-data: null
+dependency: ''
 sidebar_label: Pride and self admiration and humility
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Pride
@@ -60,7 +61,8 @@ Self-admiration stems from ignorance, and its treatment lies in knowledge. If so
 
 [Certain situations demand confidence](docs/sidebar1/Processes/Don't%20be%20shy%20when%20seeking%20knowledge,%20presenting%20yourself%20or%20forbidding%20evil.md) rather than shyness, such as seeking knowledge, applying for suitable roles, or enjoining good and forbidding wrong.
 
-:::info
+:::info 
+
 
 It's important to keep in mind that Haya is nuanced and complex, encompassing shyness, shame, and modesty simultaneously, so it cannot be condensed to just one concept. However, humility is its most common interpretation and the opposite of this trait's excess, so it has been introduced here.
 

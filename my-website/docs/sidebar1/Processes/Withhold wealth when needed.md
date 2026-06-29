@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Stinginess]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Withhold wealth when needed
+domain:
+- '[[Stinginess|Stinginess]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Stinginess](docs/sidebar1/Objective/bad%20traits/Stinginess.md)

@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Pray 12 daily nawafil prayers
+domain:
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Praying](docs/sidebar1/Objective/worship/Praying.md)

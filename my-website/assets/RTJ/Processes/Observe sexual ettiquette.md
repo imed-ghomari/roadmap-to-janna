@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-  - "[[Managing spouse]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Observe sexual ettiquette
+domain:
+- '[[Managing spouse|Managing spouse]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Managing spouse](Objective/worship/Managing%20spouse.md)

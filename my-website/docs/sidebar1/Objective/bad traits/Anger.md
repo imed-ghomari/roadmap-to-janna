@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: remove bad traits
-data: null
+dependency: ''
 sidebar_label: Anger
+outcome: ''
+type: domain
+data: null
 ---
 
 ## The Nature of Anger

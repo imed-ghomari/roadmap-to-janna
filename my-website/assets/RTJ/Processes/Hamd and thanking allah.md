@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-  - "[[Gratitude]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Hamd and thanking allah
+domain:
+- '[[Gratitude|Gratitude]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Gratitude](Objective/good%20traits/Gratitude.md)

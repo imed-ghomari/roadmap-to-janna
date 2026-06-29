@@ -1,22 +1,23 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Praying
+outcome: ''
+type: domain
+data: null
 ---
 
-# Obligatory Prayer Requirements
+## Obligatory Prayer Requirements
 
-* **The first matter** is being vigilant about ritual purification by [performing ablution](Processes/Make%20ablution%20with%20both%20intentions.md) before the prayer. The objective of purifying clothes and the body is to purify the heart. Remember to consider each body member and its connection to the acts you are washing out.
+* **The first matter** is being vigilant about ritual purification by [performing ablution](Processes/Have%20multiple%20intentions%20in%20worship%20acts.md) before the prayer. The objective of purifying clothes and the body is to purify the heart. Remember to consider each body member and its connection to the acts you are washing out.
 * **The second matter** is to be vigilant about the prayer's recommended acts, outer practices, remembrances, and glorifications.
 	* [Pray obligatory prayers on time or make them up](Processes/Pray%20obligatory%20prayers%20on%20time%20or%20make%20them%20up.md).
 	* Pray by following the rules (roukn, sunna, mustahab).
 	* Follow the rules based on your madhab for completing your prayer when joining late in the congregation.
 	* Follow the rules based on your madhab regarding sujud tilawah (prostrating during the recitation of the Quran when praying).
-	* [Change suwar](Processes/Make%20ablution%20with%20both%20intentions.md) in each prayer following the sunnah.
+	* [Change suwar](Processes/Focus%20during%20prayer.md) in each prayer following the sunnah.
 	* Use most or all known supplications in each part of the salah. You can find them in the supplications applications.
 	* Pray Jumu'ah prayer, wash, [go to the mosque early](Processes/Make%20preparation%20for%20friday%20prayer.md), and read Surah Kahf.
 	* Pray in a congregation or [in the mosque](Processes/Pray%20in%20the%20mosque.md) whenever possible, strive to lead salah, and the one who leads should be the most knowledgeable of the Quran.
@@ -27,19 +28,19 @@ sidebar_label: Praying
 	* Cultivate hope (_raja_) and fear (_kawf_) during prayer.
 	* Feel shame, which arises out of service and knowledge of neglect.
 
-# Supplementary Prayers
+## Supplementary Prayers
 
-## Conditions Of Voluntary Prayers
+### Conditions Of Voluntary Prayers
 
 * You can pray seated in voluntary prayers but won't get the full reward.
 * Try to pray voluntary prayers in [seclusion](Processes/Hide%20your%20good%20deeds.md) to get the full reward (hide your good deeds like you hide your evil deeds).
 
-## Types Of Voluntary Prayers
+### Types Of Voluntary Prayers
 
 * [Pray 12 daily voluntary prayers](Processes/Pray%2012%20daily%20nawafil%20prayers.md).
 * [Pray the dua prayer](Processes/Pray%20the%20dua%20prayer.md) (2 rakat between sunrise and Duhr prayer).
 * Pray the qiyam lay or [tahajud prayer](Processes/Pray%20tahajud%20prayer.md) (night vigil prayer), which is considered the best prayer after the obligatory prayer.
 * When you feel grateful, [pray the shukr nafil prayer](Processes/Pray%20chukr%20nafil%20prayer.md).
-* When you want to repent, [pray the repentance nafil prayer](Processes/Regret%20and%20prevent%20after%20committing%20a%20sin.md).
+* When you want to repent, [pray the repentance nafil prayer](Processes/regret%20and%20prevent.md).
 * When you want to make a choice, [pray the istikhara nafil prayer](Processes/Make%20istikhara%20when%20choosing.md).
 * Other voluntary prayers are [rain, funeral, tasbih, eclipse, eid, taraweeh](Processes/Pray%20additional%20voluntary%20prayers.md), and 2 rakat when entering the mosque.

@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Remembering death
+outcome: ''
+type: domain
+data: null
 ---
 
 The Prophet said: "I have left two guides among you: one is silent, and one speaks. The silent one is death, and the one that speaks is the Qur'an." Once, a man asked, "O Messenger of Allah! Who is the smartest and noblest among people?" He replied, "The one who remembers death the most and prepares earnestly for it. These are the wisest; they achieve both worldly honor and eternal nobility."
@@ -19,6 +20,7 @@ The Prophet said: "I have left two guides among you: one is silent, and one spea
 	3. Mention death in your conversations and don't avoid it
 
 :::tip Mindset
+
 
 Don't hate death. If you fear it, let it be because of a desire for preparedness and repentance.
 
@@ -91,7 +93,7 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 * **Be from one of the seven categories** who receive shade under Allah's throne:
 	* [A heart attached to the mosque](docs/sidebar1/Processes/Pray%20in%20the%20mosque.md).
 	* [Love others for Allah's sake](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md).
-	* [Remembrance of Allah in solitude with tears](docs/sidebar1/Processes/Cry%20and%20fear%20misguidance.md).
+	* [Remembrance of Allah in solitude with tears](docs/sidebar1/Processes/regret%20and%20prevent.md).
 	* [Just and fair, even against oneself](docs/sidebar1/Processes/Be%20just%20and%20adapt%20to%20each%20person.md).
 	* Youth devoted to worship.
 	* Resisting temptation from the opposite gender.
@@ -111,6 +113,7 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 * **Have true reliance on Allah**
 
 :::tip Balance Between Worldly and Hereafter Affairs
+
 
 Engage in worldly work, but direct your intentions so that your efforts in this world do not detract from your focus on the hereafter.
 

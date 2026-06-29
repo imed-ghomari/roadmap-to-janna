@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Envy]]"
-  - "[[Managing spouse]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Give the spouse freedom but have healthy jealousy
+domain:
+- '[[Envy|Envy]]'
+- '[[Managing spouse|Managing spouse]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Envy](Objective/bad%20traits/Envy.md): Good envy or jealousy is to be jealous over your spouse

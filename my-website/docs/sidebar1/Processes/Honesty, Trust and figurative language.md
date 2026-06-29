@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-- '[[Loquaciousness]]'
-- '[[Sincerity and truthfulness]]'
-- '[[Upholding the right of muslims]]'
-- '[[Remembering death]]'
-- '[[Managing spouse]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Honesty, Trust and figurative language
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+- '[[Sincerity and truthfulness|Sincerity and truthfulness]]'
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Remembering death|Remembering death]]'
+- '[[Managing spouse|Managing spouse]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Loquaciousness](docs/sidebar1/Objective/bad%20traits/Loquaciousness.md): Avoid disclosing secrets, breaking promises, and lying (except for reconciliation, war, or protecting others). Avoid backbiting (with some exceptions), cheating, slander, and hypocrisy.
@@ -32,6 +32,7 @@ sidebar_label: Honesty, Trust and figurative language
 | Negative  | Confidential | Unshareable | Shareable |
 
 :::tip Summary
+
 
 Be honest, trustworthy, and keep secrets confidential. Remember your responsibilities and treat those close to you well.
 

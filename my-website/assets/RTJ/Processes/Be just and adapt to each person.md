@@ -1,16 +1,16 @@
 ---
-type: process
-domain:
-  - "[[Upholding the right of muslims]]"
-  - "[[Remembering death]]"
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Be just and adapt to each person
+domain:
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Remembering death|Remembering death]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Upholding the right of muslims](Objective/worship/Upholding%20the%20right%20of%20muslims.md):

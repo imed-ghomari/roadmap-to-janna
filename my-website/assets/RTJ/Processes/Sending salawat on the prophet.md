@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Gratitude]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Sending salawat on the prophet
+domain:
+- '[[Gratitude|Gratitude]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Gratitude](Objective/good%20traits/Gratitude.md)

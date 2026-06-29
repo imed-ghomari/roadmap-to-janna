@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Focus during prayer
+domain:
+- '[[Praying|Praying]]'
+- '[[Pride and self admiration and humility]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Pride and self admiration and humility](docs/sidebar1/Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die
@@ -22,6 +22,7 @@ sidebar_label: Focus during prayer
 	* Use the technique of one of the predecessors: Picture that the angel of death is above you, hell on the left, Janna on the right; you are on the bridge; you can see the ka3ba en face, and picture the greatness of the one you are praying to.
 
 :::tip summary
+
 
 Remember your humble origins and pray attentively, focusing on different supplications in each portion of your prayers and envisioning each prayer as if it were your last.
 

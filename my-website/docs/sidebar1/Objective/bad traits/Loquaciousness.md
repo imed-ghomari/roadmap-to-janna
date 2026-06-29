@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: remove bad traits
-data: null
+dependency: ''
 sidebar_label: Loquaciousness
+outcome: ''
+type: domain
+data: null
 ---
 
 The tongue has twenty ailments. We will address them all briefly, though remembering a guiding verse can be sufficient: "There is no good in much of their conversation, except for he who commands charity, good, or reconciliation between people" (Quran 4:114). This means we should avoid unnecessary speech and focus only on beneficial conversation. Avoid speaking about things that don't benefit you or fulfill any need. Instead, speak thoughtfully and account for each word. If you would rather remember Allah than speak, that remembrance becomes a source of happiness.

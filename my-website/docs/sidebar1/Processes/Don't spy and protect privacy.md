@@ -1,16 +1,16 @@
 ---
-type: process
-domain:
-- '[[Commanding good and forbidding evil]]'
-- '[[Upholding the right of muslims]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Don't spy and protect privacy
+domain:
+- '[[Commanding good and forbidding evil|Commanding good and forbidding evil]]'
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Commanding good and forbidding evil](docs/sidebar1/Objective/worship/Commanding%20good%20and%20forbidding%20evil.md): Avoid spying on others to identify and prevent wrongdoing.

@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Anger]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Stay silent and change position in anger
+domain:
+- '[[Anger|Anger]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Anger](docs/sidebar1/Objective/bad%20traits/Anger.md):

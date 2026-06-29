@@ -4,7 +4,6 @@
 > * The Tiny Habits Model heavily inspired the framework.
 > 
 
-
 ## What Are Processes and Why Bother?
 
 Processes are recurring tasks. They are important because they represent the smallest actionable components of our daily lives that, if targeted, can significantly advance us toward achieving our goals. Unlike one-off tasks, which may have a large scope but limited duration, even the smallest habits maintained over decades can have a profound impact.
@@ -27,7 +26,6 @@ A prompt reminds you to perform the process, and different prompts serve distinc
 > If you want to reduce reliance on context prompts but can't find an action to anchor the habit to, use an intermediary prompt type—a short-term reminder. Most task managers allow you to set repeating reminders based on days or frequency. Use these reminders temporarily to train yourself to remember the habit. After that period, the reminders can be turned off, and you'll have successfully created an anchor-based habit.
 > 
 
-
 There are different types of processes based on the prompt type:
 
 * **Context processes**
@@ -49,7 +47,6 @@ There are different types of processes based on the prompt type:
 > * The ease of the action changes over time as your brain adapts to the behavior.
 > 
 
-
 ### Celebration
 
 The final component of habit formation is the celebration phase, which signals your brain that the habit should be repeated. You can choose any celebratory phrase or action, but saying "Alhamdulillah" is particularly meaningful. This provides the dual benefit of thanking Allah while reinforcing the habit in your mind—a true "win-win."
@@ -70,7 +67,6 @@ In this context, "behavior change" refers to altering existing negative behavior
 > 
 > Try each method independently or combine them if that works better for you.
 > 
-
 
 ## Intersection with Obsidian
 

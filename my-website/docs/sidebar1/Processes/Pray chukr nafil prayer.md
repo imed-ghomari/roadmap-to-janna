@@ -1,20 +1,21 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-- '[[Gratitude]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Pray chukr nafil prayer
+domain:
+- '[[Praying|Praying]]'
+- '[[Gratitude|Gratitude]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](docs/sidebar1/Objective/worship/Praying.md) and [Gratitude](docs/sidebar1/Objective/good%20traits/Gratitude.md)
 
-:::tip
+:::tip 
+
 
 If you are already performing the 12 daily sunnah prayers, you can intend one or more of them to be a chukr prayer.
 

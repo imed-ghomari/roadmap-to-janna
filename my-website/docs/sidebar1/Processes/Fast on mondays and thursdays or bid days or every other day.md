@@ -1,0 +1,16 @@
+---
+status: ''
+start: ''
+context: ''
+sidebar_label: Fast on mondays and thursdays or bid days or every other day
+domain:
+- '[[Fasting|Fasting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
+---
+
+link to [Fasting](docs/sidebar1/Objective/worship/Fasting.md)
+
+Make sure to create a reminder the day before to make suhoor before the "imsak" time. You can do that easily with prayer apps.

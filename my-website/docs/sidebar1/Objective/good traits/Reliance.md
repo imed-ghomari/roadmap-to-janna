@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Reliance
+outcome: ''
+type: domain
+data: null
 ---
 
 The reality of reliance is a state that arises from affirming Divine Oneness (tawḥīd), and its effect is seen in deeds. It has three pillars: knowledge, state, and deeds.
@@ -68,6 +69,7 @@ Saving is praiseworthy for those with strong certainty and a firm heart. However
 Repelling harm is another form of action, such as avoiding danger or seeking medical treatment. The level of reliance here depends on the situation, but the principle is to take necessary precautions without overly focusing on the means. It has the same categories as "acquiring benefits".
 
 :::tip When taking action, focus on these principles:
+
 
 * **Be effort-driven**: Focus on doing your best without fixating on the outcome. [Rely on lawful means](docs/sidebar1/Processes/Disregard%20prohibited%20and%20doubtful%20matters.md) and avoid shortcuts, leaving the results to Allah, without worrying about the future.
 * **Excellence (Ihsan)**: Strive to perform actions in the best way possible. This mindset is a key aspect of Islam, which is built on faith (Iman), submission (Islam), and excellence (Ihsan).

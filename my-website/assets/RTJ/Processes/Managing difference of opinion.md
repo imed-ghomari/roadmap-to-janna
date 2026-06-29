@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-  - "[[Loquaciousness]]"
-  - "[[Anger]]"
-  - "[[Following the sunnah]]"
-  - "[[Managing spouse]]"
-  - "[[Pride and self admiration and humility]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Managing difference of opinion
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+- '[[Anger|Anger]]'
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[Managing spouse|Managing spouse]]'
+- '[[Pride and self admiration and humility]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Loquaciousness](Objective/bad%20traits/Loquaciousness.md): Avoid arguing, even if you are right. Apply moderation in advising, as only Allah can change hearts. When dealing with disputes over wealth or property, use kind and gentle words instead of harsh ones.

@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Zakat and charity and selflessness
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Degrees of Giving

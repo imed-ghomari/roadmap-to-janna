@@ -1,17 +1,17 @@
 ---
-type: process
-domain:
-- '[[Loquaciousness]]'
-- '[[Following the sunnah]]'
-- '[[Remembrance of allah]]'
-- '[[Love of status and ostentation]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Speak purposefully or maintain silence
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[Remembrance of allah|Remembrance of allah]]'
+- '[[Love of status and ostentation|Love of status and ostentation]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Loquaciousness](Objective/bad%20traits/Loquaciousness.md): Avoid unnecessary talk, speaking about what doesn't concern you, and excessive talking. Engage in dhikr (remembrance of Allah through recitation of tasbih, tahlil, and takbir). Maintain silence except when speaking to command good, give charity, or promote reconciliation.

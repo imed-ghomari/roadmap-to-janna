@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Self scrutiny
+outcome: ''
+type: domain
+data: null
 ---
 
 ## The Importance of Self-Awareness
@@ -15,7 +16,7 @@ sidebar_label: Self scrutiny
 
 ## Steps to Discover Personal Faults
 
-* **Learning About Spiritual Diseases**: Understanding spiritual diseases of the heart, such as pride, envy, and hypocrisy, helps one identify and address these traits within oneself. You can deepen this understanding by [reviewing processes that address these challenges](docs/sidebar1/Processes/Review%20working%20processes.md).
+* **Learning About Spiritual Diseases**: Understanding spiritual diseases of the heart, such as pride, envy, and hypocrisy, helps one identify and address these traits within oneself. You can deepen this understanding by [reviewing processes that address these challenges](docs/sidebar1/Processes/Review%20processes%20and%20outcomes.md).
 * **Reflecting on Others' Actions**: Observing others' behaviors can reveal similar tendencies in oneself. Noting negative traits in others serves as a mirror to examine one's conduct.
 * **Seeking Feedback from a Sincere Friend**: Feedback from a truthful friend provides an external perspective on one's character, helping identify areas for improvement that may be hard to see alone.
 * **Inspiration from Pious Lives**: Reading the [biographies of spiritually accomplished individuals](docs/sidebar1/Processes/Choose%20your%20mentors%20and%20remember%20them.md) can provide motivation and guidance. Their journeys reveal the paths they followed and the obstacles they overcame on their way to excellence.

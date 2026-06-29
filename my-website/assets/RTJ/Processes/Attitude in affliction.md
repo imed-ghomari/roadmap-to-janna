@@ -1,20 +1,20 @@
 ---
-type: process
-domain:
-  - "[[Patience]]"
-  - "[[Gratitude]]"
-  - "[[Anger]]"
-  - "[[Remembrance of allah]]"
-  - "[[Asceticism]]"
-  - "[[Repentance]]"
-  - "[[Love and contentment]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Attitude in affliction
+domain:
+- '[[Patience|Patience]]'
+- '[[Gratitude|Gratitude]]'
+- '[[Anger|Anger]]'
+- '[[Remembrance of allah|Remembrance of allah]]'
+- '[[Asceticism|Asceticism]]'
+- '[[Repentance|Repentance]]'
+- '[[Love and contentment|Love and contentment]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Patience](Objective/good%20traits/Patience.md): Be patient with adversities outside your control (e.g., death, injury, illness, or property loss). View afflictions as divine mercy, like a mother administering bitter medicine to save her child—Allah mandates trials to save us, though we may not perceive it fully. Whether it's punishment or a trial (bala'), we can cry and feel sadness, but we should remain silent or say, *"To Allah we belong, and to Him we shall return."* Avoid complaining to others about your adversities and ensure your first reaction to calamity aligns with faith and acceptance.

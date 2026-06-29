@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Remembrance of allah]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Fill up most of your time with dhikr
+domain:
+- '[[Remembrance of allah|Remembrance of allah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Remembrance of allah](docs/sidebar1/Objective/worship/Remembrance%20of%20allah.md)

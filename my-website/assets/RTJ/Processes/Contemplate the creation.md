@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Love and contentment]]"
-  - "[[Remembrance of allah]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Contemplate the creation
+domain:
+- '[[Love and contentment|Love and contentment]]'
+- '[[Remembrance of allah|Remembrance of allah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md): Reflect on the world and its attributes, and recognize that Allah possesses the qualities of the people y ou admire, but on a scale that surpasses humans. He is the source of all goodness and beauty.

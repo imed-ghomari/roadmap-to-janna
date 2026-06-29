@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Patience
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Patience is Unique to Humans

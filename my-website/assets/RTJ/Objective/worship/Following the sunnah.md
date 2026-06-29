@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Following the sunnah
+outcome: ''
+type: domain
+data: null
 ---
 
 > [!note]
@@ -14,10 +15,9 @@ sidebar_label: Following the sunnah
 > This initiative differs from the others, as most previously discussed processes can be linked to it. I've dedicated this initiative to processes that don't fit into any specific worship actions category. This ensures that if a new **worship** process cannot be placed in an existing initiative, it can be included here, resulting in a more complete worship actions category.
 > 
 
-
 The path to happiness lies in following the Sunnah, adopting the example of the Prophet Muhammad in all aspects of daily life—whether in worship, daily habits, or interpersonal actions. This includes how he ate, stood, slept, and spoke, among other everyday activities. Achieving a complete following requires attention to even simple acts, such as putting on trousers while sitting, using the right foot when wearing sandals, and eating with the right hand. Familiarity with the Prophet's life and guidance is essential, as well as frequent remembrance of him by sending blessings upon him through [Saying Salawat](Processes/Sending%20salawat%20on%20the%20prophet.md).
 
-# Reasons to Follow the Sunnah
+## Reasons to Follow the Sunnah
 
 The motivation to follow the Sunnah stems from three core insights:
 
@@ -25,16 +25,17 @@ The motivation to follow the Sunnah stems from three core insights:
 2. **Physical and Spiritual Harmony**: Actions affect both body and soul. Physical deeds influence one's preparedness for either happiness or distress in the afterlife through unique qualities that only prophetic insight can grasp. When the Prophet preferred one permissible action over another, it was often because he was aware of its unique benefit, revealed through spiritual insight.
 3. **Self-Control and Moderation**: True happiness involves resembling angels by restraining desires and rejecting impulsive behaviors that lead to heedlessness. Without restraint, people are driven by desires alone, mirroring animalistic tendencies. Discipline in every action helps one remember their servitude to God, aligning their behavior with Divine guidance rather than personal whims.
 
-# Avoiding Neglect of the Sunnah in Worship
+## Avoiding Neglect of the Sunnah in Worship
 
 Neglecting the Sunnah in worship stems from a lack of concern for one's afterlife. People often exercise extreme caution regarding worldly matters, even heeding improbable warnings or suggestions. Such attention to detail is even more necessary for actions with eternal consequences.
 
-# Examples of the Prophet's Daily Habits
+## Examples of the Prophet's Daily Habits
 
 Here are some practical examples of the Prophet's habits to incorporate:
 
 * [Accept accusations or forgive transgressions](Processes/Accept%20accusations%20or%20forgive%20transgressions%20against%20you.md) without bitterness.
 * [Accept invitations](Processes/Accept%20invitations.md)
+* [Host guests generously](Processes/Host%20guests%20generously.md)
 * [Visit the sick and provide care, including blood donations](Processes/Call,%20visit%20and%20care%20for%20the%20sick.md)
 * [Speak purposefully and clearly, or maintain silence](Processes/Speak%20purposefully%20or%20maintain%20silence.md).
 * [Practice cleanliness as he did](Processes/Clean%20and%20beautify%20yourself.md)

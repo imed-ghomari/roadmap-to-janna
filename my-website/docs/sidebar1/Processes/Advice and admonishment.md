@@ -1,17 +1,17 @@
 ---
-type: process
-domain:
-- '[[Loquaciousness]]'
-- '[[Commanding good and forbidding evil]]'
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Advice and admonishment
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+- '[[Commanding good and forbidding evil|Commanding good and forbidding evil]]'
+- '[[Managing spouse|Managing spouse]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Loquaciousness](docs/sidebar1/Objective/bad%20traits/Loquaciousness.md): Only speak for Allah's sake, following the principles of commanding good and forbidding evil.
@@ -25,6 +25,7 @@ sidebar_label: Advice and admonishment
 	* Only address clearly forbidden/obligatory acts that you are knowledgeable about.
 	* Stop at the second level for rulers and the fourth level for the spouse and family members.
 	* When it comes to commanding good, encourage good behavior through da'wah, even by sharing a single verse of the Quran.
+	* When admonishing, be merciful and patient because Allah is like that with you — He forbears despite knowing your faults.
 * Link to [Managing spouse](docs/sidebar1/Objective/worship/Managing%20spouse.md):
 	* For the wife specifically, discipline her if she's rebellious through the first four levels. Then don't bed her, then be rough (but not in the face and don't leave a mark), then diplomacy through another person, then divorce.
 	* Do not taunt or bring up the past when your spouse becomes obedient.
@@ -34,6 +35,7 @@ sidebar_label: Advice and admonishment
 	* If the misbehavior is religious in nature, encourage them to seek forgiveness from Allah.
 
 :::tip summary
+
 
 Instruct only for Allah's sake, using appropriate levels of persuasion and force, and discipline family members according to their rebellion level.
 

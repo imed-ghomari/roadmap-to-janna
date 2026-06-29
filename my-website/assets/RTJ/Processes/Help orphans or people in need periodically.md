@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Remembering death]]"
-  - "[[Upholding the right of muslims]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Help orphans or people in need periodically
+domain:
+- '[[Remembering death|Remembering death]]'
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Remembering death](Objective/good%20traits/Remembering%20death.md): Helping someone in need alongside good intentions and good character are the things that weigh the most.

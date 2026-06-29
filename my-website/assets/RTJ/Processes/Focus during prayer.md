@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Praying]]"
-  - "[[Pride and self admiration and humility]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Focus during prayer
+domain:
+- '[[Praying|Praying]]'
+- '[[Pride and self admiration and humility]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Pride and self admiration and humility](Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): When standing before god, remember your humble beginnings (sperm drop) and that you carry filth, you produce filth, and you'll become filth when you die

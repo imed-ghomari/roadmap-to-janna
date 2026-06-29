@@ -12,7 +12,9 @@ The system uses a **Reverse Goal Setting** method, which consists of three main 
 * **Objectives**: These are the major milestones or areas of focus required to realize the vision.
 * **Domains**: These are specific areas of responsibility or influence where actionable work happens.
 
-Each **Domain** includes documentation that links to multiple **processes** or habit files detailing the necessary actions. When all the processes related to a domain are implemented, the domain is considered well-managed.
+Each **Domain** includes documentation that links to multiple **processes** or habit files detailing the necessary actions.
+
+However, for domains involving character traits, tracking process compliance alone is not enough. You also need a **lagging indicator** — a measure of whether the domain is actually improving, not just whether you're doing the habits. For worship domains this is straightforward (you did the action or you didn't), but for bad traits it requires a dedicated outcome system explained in [Domain outcomes](docs/sidebar1/Resources/Domain%20outcomes.md) and the [Taqwa Framework](docs/sidebar1/Resources/Taqwa%20framework.md).
 
 The **processes or habits** are implemented, changed, improved, or swapped using a specific framework explained further in [Process handling](docs/sidebar1/Resources/Process%20handling.md). Due to the interconnected nature of the objectives, processes can be part of multiple domains simultaneously. Each process file includes a link to the relevant domains to facilitate navigation.
 
@@ -22,7 +24,8 @@ For a clearer understanding, here is an outline of the system:
 - Vision
 	- Objective 1
 		- Domain 1
-			- Process 1
+			- Lagging indicator → Domain outcomes (+ Taqwa Framework for bad traits)
+			- Leading indicator → Process 1
 				- Process handling
 			- Process 2
 			- ...
@@ -107,12 +110,11 @@ I didn't include the sources next to each action in the processes because of the
 
 ### How to Use
 
-The system can be implemented using two methods. The first method is simpler to execute but requires a longer review process. The second method is more challenging to implement but benefits from a more streamlined review process.
+Choose your approach:
 
-1. Conduct a [weekly review](docs/sidebar1/Resources/Weekly%20review.md) once you are familiar with the domains and their associated processes.
-2. Use the tool endorsed by the author and the associated file by following [this tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). As a bonus, you'll get a dynamic visual representation of your performance. You can see an example below:
+   * **Simplified**: Conduct a [weekly review](docs/sidebar1/Resources/Weekly%20review.md) once you are familiar with the domains and their associated processes. Answer the review questions manually — this covers behavior consistency only, without the outcome review layer.
 
-![](../../assets/performance.png)
+   * **Comprehensive**: Start by understanding [domain outcomes](docs/sidebar1/Resources/Domain%20outcomes.md) — define what progress looks like for each domain, especially the bad trait domains that need the [Taqwa Framework](docs/sidebar1/Resources/Taqwa%20framework.md). Then use the [Obsidian vault](../../../assets/RTJ.zip) and its full review system. The behavior review base checks your process consistency, and the outcome review base compares each domain's processes with its stated outcome. Follow the [Obsidian implementation tutorial](docs/sidebar1/Resources/Obsidian%20implementation.md). You'll get dynamic visual representations of your performance.
 
 ### Limits and Considerations
 

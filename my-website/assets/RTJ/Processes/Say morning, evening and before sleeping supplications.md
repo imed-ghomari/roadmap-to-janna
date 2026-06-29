@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-- '[[Repentance]]'
-- '[[Remembrance of allah]]'
-- '[[Remembering death]]'
-- '[[Gratitude]]'
-- '[[Love and contentment]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Say morning, evening and before sleeping supplications
+domain:
+- '[[Repentance|Repentance]]'
+- '[[Remembrance of allah|Remembrance of allah]]'
+- '[[Remembering death|Remembering death]]'
+- '[[Gratitude|Gratitude]]'
+- '[[Love and contentment|Love and contentment]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Repentance](Objective/good%20traits/Repentance.md): When saying *Astaghfirullah*, repent for outward sins, blameworthy inner traits, occasions of doubt, and heedlessness that leads to forgetting remembrance or delaying progress from one spiritual station to another.

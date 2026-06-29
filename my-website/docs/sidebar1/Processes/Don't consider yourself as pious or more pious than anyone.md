@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Pride and self admiration and humility]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Don't consider yourself as pious or more pious than anyone
+domain:
+- '[[Pride and self admiration and humility]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Pride and self admiration and humility](docs/sidebar1/Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md)

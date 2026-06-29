@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Remembrance of allah]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Say special sayings in special occasions
+domain:
+- '[[Remembrance of allah|Remembrance of allah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Remembrance of Allah](docs/sidebar1/Objective/worship/Remembrance%20of%20allah.md): There are many opportunities to make dua; here are some of them:

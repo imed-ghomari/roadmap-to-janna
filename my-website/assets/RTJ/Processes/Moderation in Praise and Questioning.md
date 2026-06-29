@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-  - "[[Loquaciousness]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Moderation in Praise and Questioning
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 - Link to [Loquaciousness](Objective/bad%20traits/Loquaciousness.md): Avoid carelessness in speaking about religion and excessive questioning about Allah's attributes out of doubt.

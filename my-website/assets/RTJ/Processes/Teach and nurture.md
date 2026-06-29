@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Parenting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Teach and nurture
+domain:
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Parenting](Objective/worship/Parenting.md)

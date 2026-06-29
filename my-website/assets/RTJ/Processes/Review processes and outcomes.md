@@ -1,17 +1,17 @@
 ---
-type: process
+status: ''
+start: ''
+context: ''
+sidebar_label: Review processes and outcomes
 domain:
-  - "[[Fear and hope]]"
-  - "[[Love of status and ostentation]]"
-  - "[[Self scrutiny]]"
-  - "[[strategy and execution]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
-sidebar_label: Review working processes
+- '[[Fear and hope|Fear and hope]]'
+- '[[Love of status and ostentation|Love of status and ostentation]]'
+- '[[Self scrutiny|Self scrutiny]]'
+- '[[strategy and execution]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Sincerity and truthfulness](Objective/good%20traits/Sincerity%20and%20truthfulness.md): Maintain even the smallest actions for each process because the intention is more important than the size of the deed. God can make it bigger, and we can't know which good deeds Allah likes, so we shouldn't belittle anything.
@@ -24,8 +24,5 @@ sidebar_label: Review working processes
 > [!tip] summary
 > 
 > 
-> Review the processes below to check intentions and consistency of good deeds and punish yourself for neglecting them with voluntary worship.
+> Review the processes and outcomes below to check intentions and consistency of good deeds, compare processes with their domain outcomes, and punish yourself for neglecting them with voluntary worship.
 > 
-
-
-![review working processes](review%20working%20processes.base)

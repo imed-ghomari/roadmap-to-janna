@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Following the sunnah]]'
-- '[[health management]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Stay fit
+domain:
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[health management]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Following the sunnah](docs/sidebar1/Objective/worship/Following%20the%20sunnah.md)

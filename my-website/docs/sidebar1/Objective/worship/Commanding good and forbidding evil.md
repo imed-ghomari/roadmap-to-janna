@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Commanding good and forbidding evil
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Guidelines for Responding to Evil

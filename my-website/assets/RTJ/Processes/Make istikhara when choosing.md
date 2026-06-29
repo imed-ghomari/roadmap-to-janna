@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Praying]]"
-  - "[[Reliance]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Make istikhara when choosing
+domain:
+- '[[Praying|Praying]]'
+- '[[Reliance|Reliance]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](Objective/worship/Praying.md) and [Reliance](Objective/good%20traits/Reliance.md)

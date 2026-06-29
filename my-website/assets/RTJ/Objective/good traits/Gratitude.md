@@ -1,18 +1,19 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Gratitude
+outcome: ''
+type: domain
+data: null
 ---
 
-# The Reality of Gratitude
+## The Reality of Gratitude
 
 We must thank Allah in every condition. To do that, we must understand three pillars: knowledge, state, and action.
 
-## 1. Knowledge
+### 1. Knowledge
 
 Knowledge is the foundation of gratitude, leading to a state of gratitude that inspires action. This includes:
 
@@ -20,14 +21,14 @@ Knowledge is the foundation of gratitude, leading to a state of gratitude that i
 * Realizing that belief in others as sources of blessings weakens one's gratitude.
 * For example, in a supplication, Musa asked, "My God! You created Adam with Your Hand. How did he thank you?" Allah replied, "He knew it was from Me, and that realization was gratitude."
 
-## 2. State
+### 2. State
 
 The second pillar is the state of gratitude arising from knowledge. This includes feeling happiness toward the Bestower (Allah) with reverence. For instance:
 
 * If a king gifts someone a horse, they might rejoice for its utility, for the king's favor, or because it enables them to serve the king.
 * Perfect gratitude arises not from the blessing itself, but from seeing it as a means to connect with Allah, enabling righteous deeds.
 
-## 3. Action
+### 3. Action
 
 Gratitude is expressed through action in three ways:
 
@@ -47,8 +48,7 @@ Gratitude is expressed through action in three ways:
 > * According to the prophet, health, youth, and free time are the most commonly wasted gifts.
 > 
 
-
-# The Limits of Gratitude
+## The Limits of Gratitude
 
 Perfect gratitude is possible only for one whose heart Allah has illuminated, enabling them to see wisdom and what is beloved to Allah in all things. For those who have not attained this, following the Sunnah and Sacred Law provides the secrets of gratitude. Complete gratitude belongs to those who are sincere in standing for Allah alone.
 

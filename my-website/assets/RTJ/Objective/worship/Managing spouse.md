@@ -1,14 +1,15 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Managing spouse
+outcome: ''
+type: domain
+data: null
 ---
 
-# Criteria for Choosing a Spouse
+## Criteria for Choosing a Spouse
 
 * **General Conditions** (from Umar ibn Abdul Aziz)
 	* Kindness
@@ -28,9 +29,9 @@ sidebar_label: Managing spouse
 		* Good lineage (from a pious Muslim family)
 		* Absence of close kinship
 
-# Obligations towards the Spouse
+## Obligations towards the Spouse
 
-## Obligations of the Man towards the Woman
+### Obligations of the Man towards the Woman
 
 * Fulfill her marriage conditions.
 * Allow her to have a job and pursue education if possible.
@@ -39,7 +40,7 @@ sidebar_label: Managing spouse
 * Take care of your hygiene and appearance for her.
 * If disobedient, follow this process: [advise](Processes/Advice%20and%20admonishment.md) her, then avoid sharing the bed, then be firm, and if necessary, seek diplomacy through another person before considering divorce.
 
-## Obligations of the Woman towards the Man
+### Obligations of the Woman towards the Man
 
 * Come to bed when called by her husband.
 * Not leave the house without permission.
@@ -48,7 +49,7 @@ sidebar_label: Managing spouse
 * Show respect and obedience in non-sinful matters.
 * Care for and nurture her husband and their children.
 
-# Additional Considerations for a Good Relationship
+## Additional Considerations for a Good Relationship
 
 * The Quran describes the spouse as a garment for the other, highlighting three qualities:
 	* **Beautification** by [avoiding baseless assumptions](Processes/Avoid%20baseless%20assumptions.md)
@@ -64,7 +65,7 @@ sidebar_label: Managing spouse
 * [Observe proper intimacy etiquette](Processes/Observe%20sexual%20ettiquette.md).
 * Maintain [trust](Processes/Honesty,%20Trust%20and%20figurative%20language.md) by respecting each other's privacy and not disclosing secrets.
 
-# Improvement Advice Specific to Women
+## Improvement Advice Specific to Women
 
 > [!note]
 > 
@@ -72,14 +73,13 @@ sidebar_label: Managing spouse
 > Because I created processes only for men's obligations—to balance things out—I'm dedicating this section to women only.
 > 
 
-
 1. Emotional stability: Maintain a balanced temperament to foster a supportive environment.
 2. Security: Develop reliance on Allah and a growth mindset.
 3. Intellectual growth: Learn to stay intellectually connected with your spouse.
 4. Avoiding problematic behaviors.
 5. Practicing gratitude: The Prophet (ﷺ) warned against ingratitude in wives; strive to appreciate good actions and the efforts of your husband.
 
-# Divorce Etiquette
+## Divorce Etiquette
 
 * Initiate divorce after menses and before intercourse to minimize the waiting period.
 * If uncertain, use a single pronouncement so you may take her back if desired.

@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Pray obligatory prayers on time or make them up
+domain:
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](docs/sidebar1/Objective/worship/Praying.md)

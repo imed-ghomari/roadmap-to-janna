@@ -1,16 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Anger]]"
-  - "[[Following the sunnah]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
-success:
+status: ''
+start: ''
+context: ''
 sidebar_label: Have mercy in business dealings
+domain:
+- '[[Anger|Anger]]'
+- '[[Following the sunnah|Following the sunnah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Anger](Objective/bad%20traits/Anger.md) and [Following the sunnah](Objective/worship/Following%20the%20sunnah.md)

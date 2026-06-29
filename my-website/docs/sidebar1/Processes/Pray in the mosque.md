@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Pray in the mosque
+domain:
+- '[[Praying|Praying]]'
+- '[[Remembering death|Remembering death]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](docs/sidebar1/Objective/worship/Praying.md) and [Remembering death](docs/sidebar1/Objective/good%20traits/Remembering%20death.md)

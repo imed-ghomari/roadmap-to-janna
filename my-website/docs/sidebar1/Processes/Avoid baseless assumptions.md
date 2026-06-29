@@ -1,16 +1,16 @@
 ---
-type: process
-domain:
-- '[[Upholding the right of muslims]]'
-- '[[Managing spouse]]'
-- '[[Sincerity and truthfulness]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Avoid baseless assumptions
+domain:
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Managing spouse|Managing spouse]]'
+- '[[Sincerity and truthfulness|Sincerity and truthfulness]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Upholding the right of muslims](docs/sidebar1/Objective/worship/Upholding%20the%20right%20of%20muslims.md): Unless you have clear proof that the other person is wrong, keep trying to find excuses for them.

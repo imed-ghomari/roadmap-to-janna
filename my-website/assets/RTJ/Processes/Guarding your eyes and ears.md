@@ -1,15 +1,15 @@
 ---
-type: process
-due: ""
-context: ""
-dependency: ""
-domain:
-  - "[[Gratitude]]"
-  - "[[Gluttony and lust]]"
-recurrence: ""
-start: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Guarding your eyes and ears
+domain:
+- '[[Gratitude]]'
+- '[[Gluttony and lust|Gluttony and lust]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 - Link to [Gratitude](Objective/good%20traits/Gratitude.md) : it constitutes the gratitude of the limbs by employing the blessing of the eyes and the ears for obedience, not disobedience.

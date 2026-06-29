@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-  - "[[Praying]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Make preparation for friday prayer
+domain:
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](Objective/worship/Praying.md)

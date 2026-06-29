@@ -197,34 +197,4 @@ views:
       note.due: 116
       formula.relative due: 87
       file.name: 446
-  - type: table
-    name: performance
-    filters:
-      and:
-        - type == "domain"
-        - '!file.path.contains("Admin")'
-    groupBy:
-      property: objective
-      direction: ASC
-    order:
-      - formula.Progress
-      - formula.initiative done
-      - file.name
-    sort:
-      - property: formula.progress_fraction
-        direction: ASC
-      - property: formula.initiative done
-        direction: ASC
-    columnSize:
-      formula.Progress: 147
-      file.name: 299
-  - type: table
-    name: processes
-    filters:
-      and:
-        - type == "process"
-    order:
-      - file.name
-      - status
-
 ```

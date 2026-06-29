@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Love and contentment
+outcome: ''
+type: domain
+data: null
 ---
 
 ## The Meaning of Love for Allah

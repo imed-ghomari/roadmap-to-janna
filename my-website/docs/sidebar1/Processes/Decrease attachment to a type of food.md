@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Gluttony and lust]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Decrease attachment to a type of food
+domain:
+- '[[Gluttony and lust|Gluttony and lust]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Gluttony and lust](docs/sidebar1/Objective/bad%20traits/Gluttony%20and%20lust.md)

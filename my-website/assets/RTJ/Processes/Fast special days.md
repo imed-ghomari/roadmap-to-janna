@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-  - "[[Fasting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Fast special days
+domain:
+- '[[Fasting|Fasting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Fasting](Objective/worship/Fasting.md)

@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Managing spouse]]"
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Love playfully and support
+domain:
+- '[[Managing spouse|Managing spouse]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Managing spouse](Objective/worship/Managing%20spouse.md):

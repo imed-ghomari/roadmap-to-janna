@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Remembrance of allah
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Layers of Remembrance
@@ -21,6 +22,7 @@ It is understood that remembrance (dhikr) is among the most valued deeds. It con
 The ultimate goal, or core, is for the focus to shift entirely from the act of remembrance to the One being remembered. In this state, the heart becomes fully absorbed in Allah, free from distractions. This inner immersion is the starting point on the path to Allah, beyond which guidance flows.
 
 :::info All actions that remind one of Allah can be considered remembrance:
+
 
 * [**Praying**](docs/sidebar1/Objective/worship/Praying.md)
 * [**Reading the Quran**](docs/sidebar1/Objective/worship/Engaging%20with%20the%20quran.md)

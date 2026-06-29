@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Praying]]"
-  - "[[Gratitude]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Pray chukr nafil prayer
+domain:
+- '[[Praying|Praying]]'
+- '[[Gratitude|Gratitude]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](Objective/worship/Praying.md) and [Gratitude](Objective/good%20traits/Gratitude.md)

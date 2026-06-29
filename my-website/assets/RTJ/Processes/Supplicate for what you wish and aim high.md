@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Reliance]]'
-- '[[Love and contentment]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Supplicate for what you wish and aim high
+domain:
+- '[[Reliance|Reliance]]'
+- '[[Love and contentment|Love and contentment]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Love and contentment](Objective/good%20traits/Love%20and%20contentment.md): You can supplicate for what you wish and set your own goals. It does not contradict being content. You can have wants and be content with whatever result you get.

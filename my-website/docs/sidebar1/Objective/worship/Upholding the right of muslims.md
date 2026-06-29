@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Upholding the right of muslims
+outcome: ''
+type: domain
+data: null
 ---
 
 There are three States of Companionship:
@@ -34,6 +35,7 @@ It is keeping good company with the generality of creation.
 
 * When you meet someone, start by [greeting them with salam](docs/sidebar1/Processes/Greet%20people%20first%20with%20salam.md); it is Sunnah to shake hands.
 * [Respond to invitations](docs/sidebar1/Processes/Accept%20invitations.md).
+* [Host guests generously](docs/sidebar1/Processes/Host%20guests%20generously.md) — honor your guest with food and a warm welcome.
 * [Respond to a Muslim who sneezes](docs/sidebar1/Processes/Respond%20to%20muslim%20sneeze.md).
 * Do not desert or boycott a Muslim for more than three days. Aim to [resolve disputes](docs/sidebar1/Processes/Resolve%20disputes%20and%20avoid%20boycotting.md) and, if needed, [give gifts](docs/sidebar1/Processes/Give%20gifts.md) to help with reconciliation.
 * It is a Muslim's right to receive help from others, [assist those in need](docs/sidebar1/Processes/Help%20orphans%20or%20people%20in%20need%20periodically.md), and offer advice when asked.

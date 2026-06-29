@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-  - "[[Seeking the lawful]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Accept gift if lawful and pure intentions
+domain:
+- '[[Seeking the lawful|Seeking the lawful]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Seeking the lawful](Objective/worship/Seeking%20the%20lawful.md)

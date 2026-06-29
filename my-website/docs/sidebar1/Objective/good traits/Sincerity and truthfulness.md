@@ -1,24 +1,25 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Sincerity and truthfulness
+outcome: ''
+type: domain
+data: null
 ---
 
 Sincerity consists of three essential elements: reality, foundation, and perfection.
 
 ## Foundation - Intention
 
-* [**Multiple Intentions in One Act**](docs/sidebar1/Processes/Have%20multiple%20intentions%20in%20voluntary%20worship%20acts.md): In voluntary worship, multiple intentions can be combined within a single act, maximizing its value.
+* [**Multiple Intentions in One Act**](docs/sidebar1/Processes/Have%20multiple%20intentions%20in%20worship%20acts.md): In voluntary worship, multiple intentions can be combined within a single act, maximizing its value.
 * **Intention as an Inner Motivation**: Intention isn't simply a verbal or mental declaration; it's the genuine drive behind actions, making the action itself conceivable.
-* [**Intention's Weight over Action**](docs/sidebar1/Processes/Review%20working%20processes.md): Actions done sincerely, even small ones, hold greater reward from Allah than seemingly larger insincere acts.
+* [**Intention's Weight over Action**](docs/sidebar1/Processes/Review%20processes%20and%20outcomes.md): Actions done sincerely, even small ones, hold greater reward from Allah than seemingly larger insincere acts.
 
 ## Sincerity of Intention
 
-* **Purity of Motivation**: True sincerity involves pure motivation without any personal or external influence. When actions mix with personal gains, sincerity is compromised. Achieving complete sincerity is challenging, yet a moment of true sincerity can bring eternal rewards.
+* **Purity of Motivation**: True sincerity involves pure motivation without any personal or external influence. When actions mix with personal gains, sincerity is compromised. Achieving complete sincerity is challenging, yet a moment of true sincerity can bring eternal rewards. The value of actions is determined by their beginnings (niya/sincerity) and their endings (consistency).
 * **Levels of Adulteration in Sincerity**: Adulteration of sincerity varies—it might overwhelm, subtly influence, or merely coexist with the intent for Allah's sake. Actions with minor, secondary motives may retain some reward if Allah's pleasure is sought, but major adulterations render worship insincere and, sometimes, invalid.
 
 ## Perfection - Truthfulness
@@ -37,5 +38,5 @@ This hadith highlights two realms where sincerity is required:
 
 1. **Sincerity toward people:** Being honest and genuine in your interactions.
 2. **Sincerity towards Allah:** Maintaining truthfulness in your relationship with Allah can often be more challenging. It can be divided into two parts.
-	1. **Intentional Hypocrisy**–When a person knowingly contradicts their commitments to Allah. This includes deliberately committing sins while fully aware that they violate divine commands, such as knowingly transgressing prohibitions or neglecting obligations despite understanding their importance.
-	2. **Heedless Hypocrisy**–When a person falls into hypocrisy out of negligence or lack of self-awareness. This happens when someone performs religious acts without reflection or understanding, such as making supplications without comprehending their meaning or reciting Qur'anic verses that their actions contradict.
+	1. **Intentional Hypocrisy** – When a person knowingly contradicts their commitments to Allah. This includes deliberately committing sins while fully aware that they violate divine commands, such as knowingly transgressing prohibitions or neglecting obligations despite understanding their importance.
+	2. **Heedless Hypocrisy** – When a person falls into hypocrisy out of negligence or lack of self-awareness. This happens when someone performs religious acts without reflection or understanding, such as making supplications without comprehending their meaning or reciting Qur’anic verses that their actions contradict.

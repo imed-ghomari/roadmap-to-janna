@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Love of status and ostentation]]"
-  - "[[Pride and self admiration and humility]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Don't be deluded by fame, wealth, lineage or beauty
+domain:
+- '[[Love of status and ostentation|Love of status and ostentation]]'
+- '[[Pride and self admiration and humility]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Pride and self admiration and humility](Objective/bad%20traits/Pride%20and%20self%20admiration%20and%20humility.md): Detach your self-worth from temporary worldly blessings, and don't compare yourself to others, thinking you deserve their blessings. This can be exemplified by not oversharing your good traits or accomplishments.

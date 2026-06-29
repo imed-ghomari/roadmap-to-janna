@@ -1,17 +1,18 @@
 ---
-type: process
-domain:
-  - "[[Gratitude]]"
-  - "[[Remembrance of allah]]"
-  - "[[Love and contentment]]"
-  - "[[Fasting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Build knowledge in free time
+domain:
+- '[[Gratitude|Gratitude]]'
+- '[[Remembrance of allah|Remembrance of allah]]'
+- '[[Love and contentment|Love and contentment]]'
+- '[[Fasting|Fasting]]'
+- '[[Gluttony and lust|Gluttony and lust]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Gratitude](Objective/good%20traits/Gratitude.md): Use free time to build knowledge, habits, and good deeds in preparation for future hardships.

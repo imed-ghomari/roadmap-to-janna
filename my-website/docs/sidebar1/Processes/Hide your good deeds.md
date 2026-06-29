@@ -1,17 +1,17 @@
 ---
-type: process
-domain:
-- '[[Patience]]'
-- '[[Love of status and ostentation]]'
-- '[[Asceticism]]'
-- '[[Praying]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Hide your good deeds
+domain:
+- '[[Patience|Patience]]'
+- '[[Love of status and ostentation|Love of status and ostentation]]'
+- '[[Asceticism|Asceticism]]'
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Patience](docs/sidebar1/Objective/good%20traits/Patience.md): This refers to practicing patience after worship.
@@ -22,6 +22,7 @@ sidebar_label: Hide your good deeds
 > You can show good deeds to inspire others.
 
 :::tip summary
+
 
 Keep your good deeds private to avoid becoming arrogant, and share them only to set an example, nothing else.
 

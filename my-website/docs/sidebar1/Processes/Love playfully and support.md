@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Managing spouse]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Love playfully and support
+domain:
+- '[[Managing spouse|Managing spouse]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Managing spouse](docs/sidebar1/Objective/worship/Managing%20spouse.md):
@@ -22,6 +22,7 @@ sidebar_label: Love playfully and support
 	* **Discipline:** Provide balanced discipline, balancing affection (80%) and strictness (20%).
 
 :::tip summary
+
 
 Nurture your family relationships by expressing love and kindness. Offer support and comfort to your spouse and children. Engage in activities and provide balanced discipline with your children.
 

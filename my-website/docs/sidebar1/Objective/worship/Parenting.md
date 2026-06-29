@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Parenting
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Etiquette When Child is Born

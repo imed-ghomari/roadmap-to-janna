@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-- '[[Upholding the right of muslims]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Pray additional voluntary prayers
+domain:
+- '[[Praying|Praying]]'
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Like to [Praying](docs/sidebar1/Objective/worship/Praying.md): Whenever the need arises (rain, eclipse, funeral), or the time is right (taraweeh, eid), try your best to go to these voluntary prayers.

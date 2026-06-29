@@ -173,7 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "virtual-footer:Open virtual content in sidebar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,19 +180,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "virtual-footer:Open virtual content in sidebar": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Processes/Review working processes.md",
     "Homepage.md",
+    "Resources/Domain outcomes.md",
+    "Resources/Taqwa framework.md",
+    "Processes/Make suhoor late and break fast early.md",
+    "Processes/Fast on mondays and thursdays or bid days or every other day.md",
+    "Processes/Have multiple intentions in worship acts.md",
+    "Processes/Avoid watching other people blessing and bless or help them.md",
+    "Processes/Host guests generously.md",
+    "Processes/regret and prevent.md",
+    "Processes/re-evaluate lust actions.md",
     "Admin/review working processes.base",
+    "Resources/Obsidian implementation.md",
+    "Getting started.md",
+    "Admin/outcome review.base",
+    "Processes/Review working processes.md",
     "Inbox/test.md",
     "Objective/good traits/something.md",
     "Processes/test.md",
     "Projects/test.md",
-    "Getting started.md",
     "Processes/Be just and adapt to each person.md",
     "Admin/apply recurrence.md",
     "Processes/Call, visit and care for the sick.md",
@@ -203,15 +214,6 @@
     "Processes/Attitude in affliction.md",
     "Processes/Avoid baseless assumptions.md",
     "Processes/Apply for hajj every year.md",
-    "Processes/Accept accusations or forgive transgressions against you.md",
-    "Objective/good traits/Fear and hope.md",
-    "Objective/good traits/Asceticism.md",
-    "Processes/Stay fit.md",
-    "Processes/Initiatives supplication.md",
-    "Processes/Clean and beautify yourself.md",
-    "Processes/Managing difference of opinion.md",
-    "Processes/Cry and fear misguidance.md",
-    "Processes/Supplicate with the right names.md",
     "Objective/bad traits",
     "Objective/worship",
     "Objective/good traits",
@@ -219,7 +221,6 @@
     "Initiatives/good traits",
     "Initiatives/bad traits",
     "Initiatives/worship",
-    "Initiatives",
-    "my-website/Initiatives/worship"
+    "Initiatives"
   ]
 }

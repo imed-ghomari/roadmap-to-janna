@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Parenting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Teach and nurture
+domain:
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Parenting](docs/sidebar1/Objective/worship/Parenting.md)
@@ -34,6 +34,7 @@ Link to [Parenting](docs/sidebar1/Objective/worship/Parenting.md)
 * Encourage decision-making through shared discussions or independent actions (adaptable to different situations).
 
 :::tip summary
+
 
 Teach children both religious knowledge (faith, worship, beliefs) and life skills (productivity, self-sufficiency, decision-making).
 

@@ -1,0 +1,24 @@
+formulas:
+  total_process_count: file.backlinks.filter(value.asFile().properties.type == "process").length
+  working_process_count: file.backlinks.filter(value.asFile().properties.type == "process" && value.asFile().properties.status == "working").length
+  progress_fraction: if(formula.total_process_count > 0, formula.working_process_count / formula.total_process_count, 0)
+  Progress: html("<progress max='100' value='" + (if(formula.progress_fraction, number(formula.progress_fraction), 0) * 100).round() + "' aria-label='" + (if(formula.progress_fraction, number(formula.progress_fraction), 0) * 100).round() + " %'>")
+  processes: file.backlinks.filter(value.asFile().properties.type == "process").map(value.asFile().name).join(", ")
+views:
+  - type: table
+    name: Outcome Review
+    filters:
+      and:
+        - type == "domain"
+        - file.path.contains("Objective")
+    groupBy:
+      property: objective
+      direction: ASC
+    order:
+      - sidebar_label
+      - outcome
+      - formula.Progress
+      - formula.processes
+    sort:
+      - property: objective
+        direction: ASC

@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-  - "[[Anger]]"
-  - "[[Love of status and ostentation]]"
-  - "[[Following the sunnah]]"
-  - "[[Remembering death]]"
-  - "[[Managing spouse]]"
-due: ""
-recurrence: ""
-start: ""
-context:
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Accept accusations or forgive transgressions against you
+domain:
+- '[[Anger|Anger]]'
+- '[[Love of status and ostentation|Love of status and ostentation]]'
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[Remembering death|Remembering death]]'
+- '[[Managing spouse|Managing spouse]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Anger](Objective/bad%20traits/Anger.md):

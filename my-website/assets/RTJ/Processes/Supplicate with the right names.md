@@ -1,19 +1,19 @@
 ---
-type: process
-domain:
-- '[[Reliance]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Supplicate with the right names
+domain:
+- '[[Reliance|Reliance]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Reliance](Objective/good%20traits/Reliance.md). This is an attempt to use some of the names of allah, in the most frequent use cases of dua. This process can be applied whenever there is an intersection between the needs described below and your own needs.
 
-# Seeking Guidance and Clarity
+## Seeking Guidance and Clarity
 
 - **Questions**:
 	- Am I making important life decisions?
@@ -27,7 +27,7 @@ Link to [Reliance](Objective/good%20traits/Reliance.md). This is an attempt to u
 
 ---
 
-# Need for Emotional Support and Forgiveness
+## Need for Emotional Support and Forgiveness
 
 - **Questions**:
 	- Am I dealing with feelings of guilt or shame?
@@ -51,7 +51,7 @@ Link to [Reliance](Objective/good%20traits/Reliance.md). This is an attempt to u
 
 ---
 
-# Facing Challenges and Seeking Strength
+## Facing Challenges and Seeking Strength
 
 - **Questions**:
 	- Am I encountering personal or professional obstacles?
@@ -71,7 +71,7 @@ Link to [Reliance](Objective/good%20traits/Reliance.md). This is an attempt to u
 
 ---
 
-# Desire for Well-being and Abundance
+## Desire for Well-being and Abundance
 
 - **Questions**:
 	- Am I struggling with financial issues?

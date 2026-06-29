@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Managing spouse
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Criteria for Choosing a Spouse
@@ -66,7 +67,8 @@ sidebar_label: Managing spouse
 
 ## Improvement Advice Specific to Women
 
-:::note
+:::note 
+
 
 Because I created processes only for men's obligations—to balance things out—I'm dedicating this section to women only.
 

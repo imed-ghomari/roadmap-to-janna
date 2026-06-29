@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-- '[[Gratitude]]'
-- '[[Following the sunnah]]'
-- '[[Envy]]'
-- '[[Remembering death]]'
-- '[[Parenting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Supplicate for other people alive or dead
+domain:
+- '[[Gratitude|Gratitude]]'
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[Envy|Envy]]'
+- '[[Remembering death|Remembering death]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Gratitude](Objective/good%20traits/Gratitude.md): This is the gratitude of the heart through wishing good to all people (close or far).

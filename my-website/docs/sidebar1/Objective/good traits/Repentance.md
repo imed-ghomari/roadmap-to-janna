@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Repentance
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Benefits of Repentance
@@ -44,8 +45,8 @@ Repentance varies according to the individual's level:
 Real repentance has three key aspects: knowledge, regret, and determination.
 
   * [**Knowledge**](docs/sidebar1/Processes/Stop%20yourself%20during%20sin.md): Understanding that sin harms the soul and distances one from Allah. Disobedience should be recognized as evil and should be left immediately.
-  * [**Regret**](docs/sidebar1/Processes/Cry%20and%20fear%20misguidance.md): Feeling sorrow for past sins often manifesting as grief and tears. Contemplating Hellfire's severity deepens this regret, as it is a consequence of disobedience. Also, perform good deeds to expiate them.
-  * [**Determination**](docs/sidebar1/Processes/Regret%20and%20prevent%20after%20committing%20a%20sin.md): Firmly resolve not to repeat the sin and avoid anything that could lead to it by creating a prevention plan.
+  * [**Regret**](docs/sidebar1/Processes/regret%20and%20prevent.md): Feeling sorrow for past sins often manifesting as grief and tears. Contemplating Hellfire's severity deepens this regret, as it is a consequence of disobedience. Also, perform good deeds to expiate them.
+  * [**Determination**](docs/sidebar1/Processes/regret%20and%20prevent.md): Firmly resolve not to repeat the sin and avoid anything that could lead to it by creating a prevention plan.
 
 ## Overcoming the Habit of Sin
 

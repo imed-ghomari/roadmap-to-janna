@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Loquaciousness]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Avoiding Harmful Speech
+domain:
+- '[[Loquaciousness|Loquaciousness]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Loquaciousness](docs/sidebar1/Objective/bad%20traits/Loquaciousness.md)

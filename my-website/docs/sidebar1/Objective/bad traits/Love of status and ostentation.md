@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: remove bad traits
-data: null
+dependency: ''
 sidebar_label: Love of status and ostentation
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Love of Status
@@ -88,4 +89,4 @@ Blatant ostentation voids the deed, while hidden ostentation may reduce its rewa
 * **Showing good deeds to inspire others** is allowed when you sincerely intend to encourage rather than seek praise. A sign of sincerity is being glad when others follow good examples, even if it's not you.
 * [**Hiding sins**](docs/sidebar1/Processes/Conceal%20your%20sins.md) is also permissible to avoid giving a bad example, as long as it's not to pretend to be pious. Feeling relieved by hiding sins is natural.
 * **Avoiding good deeds out of fear of ostentation** is not advised. Al-Fudayl said that skipping good deeds due to this fear can be a form of showing off. Act sincerely unless the role (like a judge or preacher) might lead to vanity, in which case avoidance is better.
-* Don't skip prayer and charity unless your intent is entirely insincere. Regularly [review your intentions](docs/sidebar1/Processes/Review%20working%20processes.md) to keep your worship genuine.
+* Don't skip prayer and charity unless your intent is entirely insincere. Regularly [review your intentions](docs/sidebar1/Processes/Review%20processes%20and%20outcomes.md) to keep your worship genuine.

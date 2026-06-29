@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Zakat and charity and selflessness]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Pay zakat
+domain:
+- '[[Zakat and charity and selflessness|Zakat and charity and selflessness]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Zakat and charity and selflessness](docs/sidebar1/Objective/worship/Zakat%20and%20charity%20and%20selflessness.md)

@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Zakat and charity and selflessness]]'
-- '[[Upholding the right of muslims]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Give gifts
+domain:
+- '[[Zakat and charity and selflessness|Zakat and charity and selflessness]]'
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Zakat, Charity, and Selflessness](docs/sidebar1/Objective/worship/Zakat%20and%20charity%20and%20selflessness.md) and [Upholding the Rights of Muslims](docs/sidebar1/Objective/worship/Upholding%20the%20right%20of%20muslims.md).

@@ -1,16 +1,16 @@
 ---
-type: process
-domain:
-  - "[[Asceticism]]"
-  - "[[Following the sunnah]]"
-  - "[[health management]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Clean and beautify yourself
+domain:
+- '[[Asceticism|Asceticism]]'
+- '[[Following the sunnah|Following the sunnah]]'
+- '[[health management]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * [Asceticism](Objective/good%20traits/Asceticism.md): don't forget to take care of yourself even beyond the minimum to make yourself presentable and clean, for god is beautiful, and He loves beauty

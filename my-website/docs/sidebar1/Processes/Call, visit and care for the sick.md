@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Upholding the right of muslims]]'
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Call, visit and care for the sick
+domain:
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Following the sunnah|Following the sunnah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Upholding the right of muslims](docs/sidebar1/Objective/worship/Upholding%20the%20right%20of%20muslims.md) and [Following the sunnah](docs/sidebar1/Objective/worship/Following%20the%20sunnah.md)

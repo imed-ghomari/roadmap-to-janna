@@ -1,14 +1,14 @@
 ---
-type: process
+status: ''
+start: ''
+context: ''
+sidebar_label: Fast on mondays and thursdays or bid days or every other day
 domain:
-  - "[[Fasting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
-sidebar_label: Fast on mondays and thursdays
+- '[[Fasting|Fasting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Fasting](Objective/worship/Fasting.md)

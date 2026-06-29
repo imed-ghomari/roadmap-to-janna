@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: remove bad traits
-data: null
+dependency: ''
 sidebar_label: Stinginess
+outcome: ''
+type: domain
+data: null
 ---
 
 ## The Foundation of Stinginess and the Reality of Wealth
@@ -29,7 +30,7 @@ Wealth itself is not inherently negative. The Prophet Muhammad (peace be upon hi
 
 ## The Definition of Stinginess
 
-A stingy person finds spending hard, indicating a love of wealth beyond its true purpose. Wealth should serve clear benefits, such as preserving public respectability over personal indulgence. True stinginess arises from an inability to prioritize spending on what is most beneficial. To avoid this, spending should be directed toward necessary, rational, and legally appropriate purposes. Generosity begins when spending feels natural and unburdened by reluctance.
+A stingy person finds spending hard, indicating a love of wealth beyond its true purpose. Wealth should serve clear benefits, such as preserving public respectability over personal indulgence. True stinginess arises from an inability to prioritize spending on what is most beneficial. To avoid this, spending should be directed toward necessary, rational, and legally appropriate purposes. Generosity begins when spending feels natural and unburdened by reluctance. Israf (extravagance) is: spending what you do not have (credit) when you don't need to, spending on something haram, or spending money for riya (show).
 
 ## The Treatment of Stinginess
 

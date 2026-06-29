@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Upholding the right of muslims]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Complete neighboor's duties
+domain:
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Upholding the right of muslims](docs/sidebar1/Objective/worship/Upholding%20the%20right%20of%20muslims.md)
@@ -23,6 +23,7 @@ To uphold the rights of Muslim neighbors, it is essential to:
 * Respect their privacy by not disturbing shared walls, drains, or courtyards. Avoid prying into their affairs, eavesdropping on conversations, and lowering your gaze towards their women.
 
 :::tip summary
+
 
 To uphold the rights of Muslim neighbors, refrain from harm, be friendly, visit during times of need, and respect their privacy.
 

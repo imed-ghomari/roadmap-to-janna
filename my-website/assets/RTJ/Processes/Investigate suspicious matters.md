@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Seeking the lawful]]"
-  - "[[Parenting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Investigate suspicious matters
+domain:
+- '[[Seeking the lawful|Seeking the lawful]]'
+- '[[Parenting|Parenting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Seeking the lawful](Objective/worship/Seeking%20the%20lawful.md) and [Parenting](Objective/worship/Parenting.md) 

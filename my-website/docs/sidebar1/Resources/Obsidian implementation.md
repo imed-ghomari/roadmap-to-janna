@@ -23,7 +23,7 @@ First, you need to understand the key file type used in this vault to understand
 
 ### The Homepage
 
-![image](../../../assets/screenshot.png)
+![image](../../../assets/homepage-screenshot.png)
 
 1. **Buttons**: With them, you can create new files for each file type described above. Each file type has a specific template. When it comes to "processes" and "projects," you'll be prompted to choose their respective domain.
 2. **Open**: This is a dynamic view that updates itself and contains these files:
@@ -38,7 +38,6 @@ First, you need to understand the key file type used in this vault to understand
 	* Overdue projects and processes;
 	* Projects scheduled between today and next month;
 	* Processes due today.
-5. **Performance**: see the "checking progress" section below for more details.
 
 ### Properties and Task Management
 
@@ -58,14 +57,14 @@ Each file type has properties to support task management and progress tracking. 
 * `due`: Use this property when a task has an absolute deadline that cannot be changed. It helps gauge the task's urgency.
 * `duration`: Use this in conjunction with `due`. Enter the estimated number of days required to complete the project, ensuring it appears in time to meet the deadline.
 * `recurrence`: Use this to repeat processes in Obsidian. You can write the recurrence in natural language (e.g., in one month or next week), and use the toolbar button "repeat" to postpone the due date based on the recurrence. For more details, see [Process handling](docs/sidebar1/Resources/Process%20handling.md) in the last paragraph of the "Prompt" section.
+* `outcome`: Each domain has an outcome property describing its lagging indicator — the long-term result the processes under it aim to achieve. See [Domain outcomes](docs/sidebar1/Resources/Domain%20outcomes.md) to understand what to put in this property, then use the Outcome Review base (`Admin/outcome%20review.base` in the downloadable vault) to compare each domain’s processes with its stated outcome during your review.
 
 ### Checking Progress
 
-To gain an accurate view of your performance, [review the processes](docs/sidebar1/Processes/Review%20working%20processes.md) on a monthly basis. Make sure to check the full documentation of the processes that have the property `detail` checked, and set the status of the processes you are not applying to `not working`. Once the domains have been reviewed, you will be able to check the performance view, and based on each column, you can evaluate different aspects:
+To gain an accurate view of your performance, [review the processes](docs/sidebar1/Processes/Review%20processes%20and%20outcomes.md) on a monthly basis. The review is split into two parts:
 
-* First column: the progress of the domain's completion, which is the total number of processes excluding those that are "waiting," divided by the number of active processes.
-* Second column: the number of processes needed to complete the domain.
-* Third column: the number of completed domains within each "Objective."
+* **Behavior review** — check the `review working processes.base` table to see which processes you are consistently applying. Read the full documentation of processes with the `detail` property checked, and set the status of processes you are not applying to `not working`.
+* **Outcome review** — check the `outcome review.base` table to compare each domain’s outcome with the processes linked to it. This helps you evaluate whether your current actions are aligned with the lagging indicator you set for each domain.
 
 ### Updating the System
 
@@ -102,14 +101,10 @@ In the `open` view, set the status of the processes you are already applying to 
 
 ### Step 5: Review Regularly
 
-* **Review on Schedule**: Review your processes periodically, monthly, or whenever you've completed the current non-working processes.
+* **Behavior review**: Check the `review working processes.base` table to see which processes you are consistently applying. Read the full documentation of processes with the `detail` property checked, and set the status of processes you are not applying to `not working`.
+* **Outcome review**: Check the `outcome review.base` table to compare each domain's outcome with the processes linked to it. This helps you evaluate whether your current actions are aligned with the lagging indicator you set for each domain.
 * **Postpone if Needed**: If a review is completed before the scheduled time, update the next review date accordingly.
 
-### Step 6: Track Your Progress and Performance
+### Step 6: Repeat the Cycle
 
-* **Use Performance Metrics**: Check the performance sections, such as the level system or radar chart, to see your progress over time.
-* **Identify Gaps**: Look for areas needing improvement and adjust to fill any identified gaps.
-
-### Step 7: Repeat the Cycle
-
-After tracking your performance, go back to Step 3 and repeat the process continuously to maintain progress.
+After reviewing, go back to Step 3 and repeat the process continuously to maintain progress.

@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Love and contentment]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Level up worship
+domain:
+- '[[Love and contentment|Love and contentment]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Love and contentment](docs/sidebar1/Objective/good%20traits/Love%20and%20contentment.md)

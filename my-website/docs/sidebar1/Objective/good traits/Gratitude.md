@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: have good traits
-data: null
+dependency: ''
 sidebar_label: Gratitude
+outcome: ''
+type: domain
+data: null
 ---
 
 ## The Reality of Gratitude
@@ -36,11 +37,12 @@ Gratitude is expressed through action in three ways:
 	* Gratitude to Allah: one must always [strive to recognize the various types of blessings](docs/sidebar1/Processes/Hamd%20and%20thanking%20allah.md) and compare oneself to those who are lower in worldly status to foster gratitude. This gratitude should then be expressed through [Daily supplications](docs/sidebar1/Processes/Say%20morning,%20evening%20and%20before%20sleeping%20supplications.md), [Chukr prayer](docs/sidebar1/Processes/Pray%20chukr%20nafil%20prayer.md) and through having [Proper attitude in hardship](docs/sidebar1/Processes/Attitude%20in%20affliction.md)
 	* Gratitude to the Prophet: [Sending salawat on the prophet](docs/sidebar1/Processes/Sending%20salawat%20on%20the%20prophet.md)
 	* Gratitude to people: [Thank others](docs/sidebar1/Processes/Thank%20people.md)
-* **Gratitude of the Limbs**: Avoiding misuse of blessings by:
+* **Gratitude of the Limbs**: Avoiding misuse of blessings by :
 	* avoiding waste
 	* Using them for good, like being grateful for the blessing of the [time of ease](docs/sidebar1/Processes/Build%20knowledge%20in%20free%20time.md) by preparing for future tests. Another example would be [managing what your eyes and ears are exposed to](docs/sidebar1/Processes/Guarding%20your%20eyes%20and%20ears.md), purifying your heart, and using them for worship, such as reading His Book, reflecting on creation, and covering others' faults.
 
 :::info Greatest and Underrated gifts
+
 
 * Above all, the greatest blessing is closeness to Allah, a gift cherished because it's not subject to judgment on the Day of Judgment, contrary to other gifts.
 * According to the prophet, health, youth, and free time are the most commonly wasted gifts.
@@ -52,6 +54,7 @@ Gratitude is expressed through action in three ways:
 Perfect gratitude is possible only for one whose heart Allah has illuminated, enabling them to see wisdom and what is beloved to Allah in all things. For those who have not attained this, following the Sunnah and Sacred Law provides the secrets of gratitude. Complete gratitude belongs to those who are sincere in standing for Allah alone.
 
 :::info Chukr vs Hamd
+
 
 I've found two different interpretations of the difference:
 

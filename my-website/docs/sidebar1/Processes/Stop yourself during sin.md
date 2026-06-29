@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Repentance]]'
-- '[[Gluttony and lust]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Stop yourself during sin
+domain:
+- '[[Repentance|Repentance]]'
+- '[[Gluttony and lust|Gluttony and lust]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Linked to **[Repentance](docs/sidebar1/Objective/good%20traits/Repentance.md):**

@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Asceticism]]'
-- '[[Following the sunnah]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Take breaks to recharge
+domain:
+- '[[Asceticism|Asceticism]]'
+- '[[Following the sunnah|Following the sunnah]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Asceticism](Objective/good%20traits/Asceticism.md): allow yourself to have fun to recharge, as the nafs has a right over yourself

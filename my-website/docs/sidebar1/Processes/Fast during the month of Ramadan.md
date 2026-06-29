@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Fasting]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Fast during the month of Ramadan
+domain:
+- '[[Fasting|Fasting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 link to [Fasting](docs/sidebar1/Objective/worship/Fasting.md)

@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Upholding the right of muslims]]'
-- '[[Remembering death]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Keeping family ties
+domain:
+- '[[Upholding the right of muslims|Upholding the right of muslims]]'
+- '[[Remembering death|Remembering death]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Upholding the right of muslims](docs/sidebar1/Objective/worship/Upholding%20the%20right%20of%20muslims.md):

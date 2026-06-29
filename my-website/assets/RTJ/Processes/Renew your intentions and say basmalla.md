@@ -1,18 +1,18 @@
 ---
-type: process
-domain:
-  - "[[Sincerity and truthfulness]]"
-  - "[[Patience]]"
-  - "[[Reliance]]"
-  - "[[Gluttony and lust]]"
-  - "[[Fasting]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Renew your intentions and say basmalla
+domain:
+- '[[Sincerity and truthfulness|Sincerity and truthfulness]]'
+- '[[Patience|Patience]]'
+- '[[Reliance|Reliance]]'
+- '[[Gluttony and lust|Gluttony and lust]]'
+- '[[Fasting|Fasting]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Sincerity and Truthfulness](Objective/good%20traits/Sincerity%20and%20truthfulness.md):

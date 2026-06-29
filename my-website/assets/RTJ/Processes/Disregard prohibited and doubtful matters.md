@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Seeking the lawful]]"
-  - "[[Reliance]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Disregard prohibited and doubtful matters
+domain:
+- '[[Seeking the lawful|Seeking the lawful]]'
+- '[[Reliance|Reliance]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Seeking the lawful](Objective/worship/Seeking%20the%20lawful.md):

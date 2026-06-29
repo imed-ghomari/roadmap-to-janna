@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-- '[[Remembering death]]'
-- '[[Reliance]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Small hopes when planning and saving
+domain:
+- '[[Remembering death|Remembering death]]'
+- '[[Reliance|Reliance]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Remembering death](docs/sidebar1/Objective/good%20traits/Remembering%20death.md): Maintain short-term hopes by planning only the immediate morning or evening, and remember death twice a day on these occasions

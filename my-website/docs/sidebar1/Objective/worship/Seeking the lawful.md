@@ -1,11 +1,12 @@
 ---
-type: domain
-dependency: ''
-start: ''
 status: designed
+start: ''
 objective: worship well
-data: null
+dependency: ''
 sidebar_label: Seeking the lawful
+outcome: ''
+type: domain
+data: null
 ---
 
 ## Caution

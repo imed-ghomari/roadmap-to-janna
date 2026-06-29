@@ -1,17 +1,17 @@
 ---
-type: process
-domain:
-  - "[[Patience]]"
-  - "[[Love of status and ostentation]]"
-  - "[[Asceticism]]"
-  - "[[Praying]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Hide your good deeds
+domain:
+- '[[Patience|Patience]]'
+- '[[Love of status and ostentation|Love of status and ostentation]]'
+- '[[Asceticism|Asceticism]]'
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Patience](Objective/good%20traits/Patience.md): This refers to practicing patience after worship.

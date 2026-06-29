@@ -1,14 +1,14 @@
 ---
-type: process
-domain:
-- '[[Praying]]'
-due: ''
-recurrence: ''
+status: ''
 start: ''
 context: ''
-dependency: ''
-status: ''
 sidebar_label: Rotate between suwar in prayer
+domain:
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 Link to [Praying](docs/sidebar1/Objective/worship/Praying.md): Changing the surah you pray with during and between the prayers is recommended. For each prayer, there is a sunnah of what surah you should read:

@@ -1,15 +1,15 @@
 ---
-type: process
-domain:
-  - "[[Engaging with the quran]]"
-  - "[[Praying]]"
-due: ""
-recurrence: ""
-start: ""
-context: ""
-dependency: ""
-status:
+status: ''
+start: ''
+context: ''
 sidebar_label: Pray tahajud prayer
+domain:
+- '[[Engaging with the quran|Engaging with the quran]]'
+- '[[Praying|Praying]]'
+dependency: ''
+recurrence: ''
+due: ''
+type: process
 ---
 
 * Link to [Engaging with the quran](Objective/worship/Engaging%20with%20the%20quran.md): Read at least 10 ayat so you won't be written with the headless.
