@@ -33,7 +33,7 @@ If you wish to eat less, consider focusing on three factors: **amount, time, and
 
 * First, you should [lower the gaze](docs/sidebar1/Processes/Guarding%20your%20eyes%20and%20ears.md) (from looking at forbidden things and other women); this can be practiced by avoiding any content with a high probability of filth and by not fantasizing. Also, you should not talk to non-mahram (marriageable) women unless necessary (avoiding small talk), and you should steer clear of any step that could get you closer to Zina.
 * Second, you must marry as early as possible, provided you can be financially independent early in your life or your condition allows you to. If you cannot, make sure to [fast](docs/sidebar1/Objective/worship/Fasting.md) regularly and to perfect it. And if you cannot, reduce your food consumption as much as possible.
-* Third, you need to concentrate on what preoccupies the heart. The only way appetite can leave the heart is through unsettling [fear](docs/sidebar1/Processes/regret%20and%20prevent.md) or restless [yearning](docs/sidebar1/Objective/good%20traits/Love%20and%20contentment.md). As a result, you need to ensure you're applying their processes.
+* Third, you need to concentrate on what preoccupies the heart. The only way appetite can leave the heart is through unsettling [fear](docs/sidebar1/Processes/Regret%20and%20prevent.md) or restless [yearning](docs/sidebar1/Objective/good%20traits/Love%20and%20contentment.md). As a result, you need to ensure you're applying their processes.
 
 > If you persist on sin, refer to the section 'Overcoming the Habit of Sin' in the [Repentance](docs/sidebar1/Objective/good%20traits/Repentance.md) initiative.
 

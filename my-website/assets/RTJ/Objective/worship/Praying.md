@@ -41,6 +41,6 @@ data: null
 * [Pray the dua prayer](Processes/Pray%20the%20dua%20prayer.md) (2 rakat between sunrise and Duhr prayer).
 * Pray the qiyam lay or [tahajud prayer](Processes/Pray%20tahajud%20prayer.md) (night vigil prayer), which is considered the best prayer after the obligatory prayer.
 * When you feel grateful, [pray the shukr nafil prayer](Processes/Pray%20chukr%20nafil%20prayer.md).
-* When you want to repent, [pray the repentance nafil prayer](Processes/regret%20and%20prevent.md).
+* When you want to repent, [pray the repentance nafil prayer](Processes/Regret%20and%20prevent.md).
 * When you want to make a choice, [pray the istikhara nafil prayer](Processes/Make%20istikhara%20when%20choosing.md).
 * Other voluntary prayers are [rain, funeral, tasbih, eclipse, eid, taraweeh](Processes/Pray%20additional%20voluntary%20prayers.md), and 2 rakat when entering the mosque.

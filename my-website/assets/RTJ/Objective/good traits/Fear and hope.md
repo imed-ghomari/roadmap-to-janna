@@ -38,11 +38,11 @@ As for its benefits, fear helps to combat two detrimental states: complacency an
 
 ### 1. The Sinner
 
-For someone engaged in sin, [fear](Processes/regret%20and%20prevent.md) (_khawf_) should drive them to repent and turn away from disobedience. This fear should awaken the sinner to the gravity of their actions and bring awareness of the consequences of sin, such as divine punishment and separation from Allah. However, excessive fear leading to despair is harmful, as it extinguishes the desire for repentance and paralyzes spiritual growth.
+For someone engaged in sin, [fear](Processes/Regret%20and%20prevent.md) (_khawf_) should drive them to repent and turn away from disobedience. This fear should awaken the sinner to the gravity of their actions and bring awareness of the consequences of sin, such as divine punishment and separation from Allah. However, excessive fear leading to despair is harmful, as it extinguishes the desire for repentance and paralyzes spiritual growth.
 
 > True fear goes beyond an emotional reaction; it should inspire real change and encourage you to take precautions. Avoid superficial expressions of fear, like tears shed during Quranic recitations without any practical change.
 
-Once a sin has been committed, [hope](Processes/regret%20and%20prevent.md) (_raja_) becomes essential, encouraging the sinner to seek Allah's mercy sincerely. This shift reflects the vastness of Allah's forgiveness, allowing even severe sinners to find redemption through genuine repentance and change.
+Once a sin has been committed, [hope](Processes/Regret%20and%20prevent.md) (_raja_) becomes essential, encouraging the sinner to seek Allah's mercy sincerely. This shift reflects the vastness of Allah's forgiveness, allowing even severe sinners to find redemption through genuine repentance and change.
 
 > Hope differs from wishful thinking; true hope requires effort. Just as a farmer plants and cares for a seed, expecting a harvest, a hopeful person continually takes steps to improve, regularly [reviewing their actions](Processes/Review%20processes%20and%20outcomes.md) to ensure consistency in their effort. The ones who should expect/hope for Allah's mercy are the ones who continuously strive in his path.
 

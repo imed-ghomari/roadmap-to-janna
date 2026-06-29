@@ -45,8 +45,8 @@ Repentance varies according to the individual's level:
 Real repentance has three key aspects: knowledge, regret, and determination.
 
   * [**Knowledge**](Processes/Stop%20yourself%20during%20sin.md): Understanding that sin harms the soul and distances one from Allah. Disobedience should be recognized as evil and should be left immediately.
-  * [**Regret**](Processes/regret%20and%20prevent.md): Feeling sorrow for past sins often manifesting as grief and tears. Contemplating Hellfire's severity deepens this regret, as it is a consequence of disobedience. Also, perform good deeds to expiate them.
-  * [**Determination**](Processes/regret%20and%20prevent.md): Firmly resolve not to repeat the sin and avoid anything that could lead to it by creating a prevention plan.
+  * [**Regret**](Processes/Regret%20and%20prevent.md): Feeling sorrow for past sins often manifesting as grief and tears. Contemplating Hellfire's severity deepens this regret, as it is a consequence of disobedience. Also, perform good deeds to expiate them.
+  * [**Determination**](Processes/Regret%20and%20prevent.md): Firmly resolve not to repeat the sin and avoid anything that could lead to it by creating a prevention plan.
 
 ## Overcoming the Habit of Sin
 

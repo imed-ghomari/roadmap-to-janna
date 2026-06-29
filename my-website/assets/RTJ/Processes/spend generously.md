@@ -2,7 +2,7 @@
 status: ''
 start: ''
 context: ''
-sidebar_label: spend generously
+sidebar_label: Spend generously
 domain:
 - '[[Stinginess|Stinginess]]'
 - '[[Managing spouse|Managing spouse]]'

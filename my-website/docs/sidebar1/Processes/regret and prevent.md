@@ -2,7 +2,7 @@
 status: ''
 start: ''
 context: ''
-sidebar_label: regret and prevent
+sidebar_label: Regret and prevent
 domain:
 - '[[Fear and hope|Fear and hope]]'
 - '[[Remembering death|Remembering death]]'

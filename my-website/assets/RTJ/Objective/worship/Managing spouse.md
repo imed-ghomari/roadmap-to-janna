@@ -36,7 +36,7 @@ data: null
 * Fulfill her marriage conditions.
 * Allow her to have a job and pursue education if possible.
 * Permit her to use her money as she wishes.
-* Provide for her ([nafaqa](Processes/spend%20generously.md)) by supplying clothes, food, and shelter with excellence; she should have her own independent property (e.g., her own room if a separate house is unavailable).
+* Provide for her ([nafaqa](Processes/Spend%20generously.md)) by supplying clothes, food, and shelter with excellence; she should have her own independent property (e.g., her own room if a separate house is unavailable).
 * Take care of your hygiene and appearance for her.
 * If disobedient, follow this process: [advise](Processes/Advice%20and%20admonishment.md) her, then avoid sharing the bed, then be firm, and if necessary, seek diplomacy through another person before considering divorce.
 

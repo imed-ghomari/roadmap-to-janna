@@ -93,7 +93,7 @@ Abii Zakariya al-Taymi said: *"Once when Sulayman Ibn 'Abdu'lMalik was in the Sa
 * **Be from one of the seven categories** who receive shade under Allah's throne:
 	* [A heart attached to the mosque](docs/sidebar1/Processes/Pray%20in%20the%20mosque.md).
 	* [Love others for Allah's sake](docs/sidebar1/Processes/Meet%20special%20friend%20only%20for%20god's%20sake.md).
-	* [Remembrance of Allah in solitude with tears](docs/sidebar1/Processes/regret%20and%20prevent.md).
+	* [Remembrance of Allah in solitude with tears](docs/sidebar1/Processes/Regret%20and%20prevent.md).
 	* [Just and fair, even against oneself](docs/sidebar1/Processes/Be%20just%20and%20adapt%20to%20each%20person.md).
 	* Youth devoted to worship.
 	* Resisting temptation from the opposite gender.
