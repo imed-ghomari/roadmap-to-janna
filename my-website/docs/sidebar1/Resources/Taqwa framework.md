@@ -57,12 +57,6 @@ Driven by low-energy exhaustion, overwhelm, or shame. Resolve drops first. The p
 
 **Common traits**: Envy, self-admiration (in the form of "why not me?").
 
-### The Dual-Threat
-
-Some traits can take either route depending on your energy state at the moment.
-
-**Common traits**: Lust/gluttony (can arise from both boredom and exhaustion), stinginess (can come from both impulsive fear and depleted generosity).
-
 ## The 3-Level Outcome System
 
 Mapping your trait to its path enables you to define a precise 3-level outcome, which serves as the **lagging indicator** for that domain:

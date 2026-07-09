@@ -68,6 +68,5 @@ Not all bad traits behave the same way. Each trait follows one of two paths into
 
 - **Headlessness Path**: High-energy boredom, unstructured free time, or procrastination. Vigilance drops first, then action follows. Common for: anger, pride, ostentation, loquaciousness.
 - **Paralysis Path**: Low-energy exhaustion, overwhelm, or shame. Hope drops first, then action freezes. Common for: envy, self-admiration.
-- **Dual-Threat**: Can take either path depending on your energy state. Common for: lust, gluttony.
 
 The full framework for understanding and applying these paths is explained in the [Taqwa Framework](docs/sidebar1/Resources/Taqwa%20framework.md) article.
