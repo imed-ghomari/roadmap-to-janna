@@ -1,4 +1,4 @@
-## How to Use the [Obsidian Vault](../../../assets/RTJ.zip)
+## How to Use the [Obsidian Vault](../../RTJ.zip)
 
 > [!info]
 > 
@@ -9,7 +9,7 @@
 
 [**Obsidian**](https://obsidian.md/) is a versatile, offline, cross-platform note-taking software. You can use it to manage this specific goal or expand its use to manage all aspects of your life. Here, we'll focus only on using it to support the goal of this system.
 
-A **vault** is a folder of text files in markdown format that can be opened with obsidian. It contains all the necessary components to begin implementing the system in your life. Download it from [here](../../../assets/RTJ.zip).
+A **vault** is a folder of text files in markdown format that can be opened with obsidian. It contains all the necessary components to begin implementing the system in your life. Download it from [here](../../RTJ.zip).
 
 ### File Types
 
@@ -78,7 +78,7 @@ You can use [Syncthing](https://syncthing.net/) or [Resilio Sync](https://www.re
 
 ## What You Need to Do
 
-### Step 1: [Download and familiarize yourself with the Vault](../../../assets/RTJ.zip)
+### Step 1: [Download and familiarize yourself with the Vault](../../RTJ.zip)
 
 * **Unzip** the vault and **open** the folder with obsidian.
 * **Review the Documentation**: Read each domain's main points to understand its purpose and goals.

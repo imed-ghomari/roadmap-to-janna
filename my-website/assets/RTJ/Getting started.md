@@ -114,7 +114,7 @@ Choose your approach:
 
    * **Simplified**: Conduct a [weekly review](Resources/Weekly%20review.md) once you are familiar with the domains and their associated processes. Answer the review questions manually — this covers behavior consistency only, without the outcome review layer.
 
-   * **Comprehensive**: Start by understanding [domain outcomes](Resources/Domain%20outcomes.md) — define what progress looks like for each domain, especially the bad trait domains that need the [Taqwa Framework](Resources/Taqwa%20framework.md). Then use the [Obsidian vault](../../../assets/RTJ.zip) and its full review system. The behavior review base checks your process consistency, and the outcome review base compares each domain's processes with its stated outcome. Follow the [Obsidian implementation tutorial](Resources/Obsidian%20implementation.md). You'll get dynamic visual representations of your performance. You can see an example below:
+   * **Comprehensive**: Start by understanding [domain outcomes](Resources/Domain%20outcomes.md) — define what progress looks like for each domain, especially the bad trait domains that need the [Taqwa Framework](Resources/Taqwa%20framework.md). Then use the [Obsidian vault](../RTJ.zip) and its full review system. The behavior review base checks your process consistency, and the outcome review base compares each domain's processes with its stated outcome. Follow the [Obsidian implementation tutorial](Resources/Obsidian%20implementation.md). You'll get dynamic visual representations of your performance. You can see an example below:
 
 ![](../../assets/performance.png)
 
